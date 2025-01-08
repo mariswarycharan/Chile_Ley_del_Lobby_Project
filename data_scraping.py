@@ -179,10 +179,10 @@ for i in range(1, 3):  # Iterate through pages 1 and 2
 df = pd.DataFrame(entire_doctors_list)
 
 # save to csv
-df.to_excel('leylobby_doctors_data.xlsx', index=False)
+df.to_excel('output/leylobby_doctors_data.xlsx', index=False)
 
 # Structuring data
 df = structuring_data(df)
 
 # Save DataFrame to CSV file
-df.to_excel('leylobby_doctors_data_structured.xlsx', index=False)
+df.to_excel('output/leylobby_doctors_data_structured.xlsx', index=False)
