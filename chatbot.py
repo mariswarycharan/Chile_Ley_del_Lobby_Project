@@ -102,7 +102,7 @@ def user_input(user_question):
     
     # docs = new_db.similarity_search(user_question ,k=5,)
     
-    response = chain.invoke({"input": user_question, "context": "Your relevant context goes here"    , "chat_history": st.session_state.chat_history})
+    response = chain.invoke({"input": user_question, "context": "Your relevant context goes here" , "chat_history": st.session_state.chat_history})
     st.session_state.chat_history.extend(
     [
         HumanMessage(content=user_question),

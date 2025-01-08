@@ -1,10 +1,64 @@
 import pandas as pd
+from tqdm import tqdm
+
+def process_and_filter_data(input_file_path):
+
+    df = pd.read_excel(input_file_path)
+
+    columns_to_fill = ['full_name', 'Position', 'link', 'Identifier', 'date', 'Shape', 'Place',
+    'Duration', 'Subjects_covered', 'Specification']
+
+    # Fill missing values in specified columns
+    for column in columns_to_fill:
+        if column in df.columns:
+            df[column] = df[column].fillna(method='ffill')
+        else:
+            print(f"Column '{column}' not found in the DataFrame.")
+
+    
+    company_names = [
+    "ABBOTT LABORATORIES DE CHILE LTDA", "Abbott Laboratories of Chile",
+    "ABBOTT LABORATORIES OF CHILE LDTA", "Abbvie", "Abbvie Laboratory Ltda",
+    "Abbvie Ltda", "Abbvie Pharmaceutical Laboratory LTDA", "Abbvie Pharmaceuticals Ltd.",
+    "ARQUIMED LIMITED", "ARQUIMED LTDA", "ARQUIMED LTDA.", "Astellas Farma Chile SpA",
+    "Astellas Pharma Chile", "AstraZeneca Chile", "ASTRAZENECA S.A.", "Astrazeneca SA",
+    "Biogen", "Biogen Chile SPA", "Biogen Chule SPA", "Biogen SPA Chile",
+    "BIOTOSCANA FARMA SpA LABORATORY", "BMS", "Boehringer Ingelheim Ltd.",
+    "BOEHRINGER INGELHEIM LTDA", "Boehringer Ingelheim Ltda.", "Bristol Myers",
+    "Bristol Myers Squibb", "BRISTOL MYERS SQUIBB CHILE", "Bristol Myers Squibb Company",
+    "CARE Oncology Foundation", "GLAXOSMITHKLINE CHILE FARMACEUTICA LIMITADA",
+    "GlaxoSmithKline Chile Farmacéutica Ltda", "GlaxoSmithkline Chile Pharmaceuticals Limited",
+    "GlaxoSmithKline Farmaceutica LTDA.", "GSK", "INNOVATIVE MEDICINES SA AGENCY IN CHILE",
+    "IQMED CHILE SPA", "J&J SpA Marketing Company", "MEDICIP HEALTH SL",
+    "MEDICIP HEALTH, SL", "MEDIPLEX", "MEDIPLEX SA", "Merck Laboratory SA",
+    "MERCK SA Laboratory", "Merck Sharp & Dhome", "MERCK SHARP & DOHME",
+    "Merck Sharp & Dohme (ia) Llc, agency in Chile", "MERCK SHARP & DOHME (IA) LLC. Agency in Chile",
+    "National Cancer Corporation / CONAC", "National Center for Health Information Systems – CENS",
+    "Novartis Chile", "Novartis Chile S.A.", "NOVARTIS S.A.", "Novo Nordisk Pharmaceuticals",
+    "Pfizer", "Pfizer Chile S.A.", "Recemed", "Recemed SPA", "Roche Chile",
+    "Roche Chile Limited", "Roche Chile Ltda", "Roche Chile Ltda.", "Rochem Biocare Chile Spa",
+    "Sandoz Chile SPA", "Sanofi Aventis de Chile S.A.", "Sanofi Pasteur S.A.",
+    "Sinovac Biotech (Chile) SpA", "Takeda Chile spa", "Vertex Pharmaceuticals",
+    "Vertex Pharmaceuticals Inc.", "VITROSCIENCE SPA", "Biogen Chile SpA",
+    "Boehringer Ingelheim Ltda", "Bristo Myers Squibb", "Bristol Myeres Squibb",
+    "MERCK SA Laboratory", "Tecnofarma Chile S.A."
+    ]
+
+    # Filter the data for meetings involving specified companies
+    matching_meetings = df[df['Assistant_Represents'].isin(company_names)]
+    filtered_data = df[df['Identifier'].isin(matching_meetings['Identifier'])]
+
+    return filtered_data
+
 # Load the Excel file
-file_path = 'leylobby_doctors_data_filled.xlsx'
-df = pd.read_excel(file_path)
+file_path = 'output/leylobby_doctors_data_structured_translated_v2.xlsx'
+df = process_and_filter_data(file_path)
+
 # Group by Identifier to handle multi-entry meetings
 grouped = df.groupby(['Identifier', 'date'])
 # Function to generate formatted narrative story with summary and clear sections
+
+
 def create_story(group):
     row = group.iloc[0]
     # Date and Time Formatting with Time of Day
@@ -79,9 +133,11 @@ This meeting highlights the **dedication and collaborative efforts** of public o
     return story
 
 # Generate full narrative story for each meeting
-full_story = "".join(create_story(group) for _, group in grouped)
+full_story = "".join( create_story(group) for _, group in tqdm(grouped))
+
 # Save the output to a text file
 output_path = 'output/enhanced_meeting_details_story.txt'
 with open(output_path, 'w', encoding='utf-8') as file:
     file.write(full_story)
+    
 print(f"Narrative story saved to: {output_path}")
