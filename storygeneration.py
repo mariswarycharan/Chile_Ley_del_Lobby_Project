@@ -136,7 +136,7 @@ This meeting highlights the **dedication and collaborative efforts** of public o
 full_story = "".join( create_story(group) for _, group in tqdm(grouped))
 
 # Save the output to a text file
-output_path = 'output/enhanced_meeting_details_story.txt'
+output_path = 'output/meeting_details_story.txt'
 with open(output_path, 'w', encoding='utf-8') as file:
     file.write(full_story)
     
