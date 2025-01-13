@@ -29,6 +29,13 @@ def load_model():
 
 model,embeddings = load_model()
 
+def get_more_relevant_docs(query,top_k):
+    vector_store = FAISS.load_local("faiss_index", embeddings)
+    vector_store = vector_store.as_retriever(search_type="mmr", search_kwargs={"k": top_k})
+    docs = vector_store.invoke(query)
+    return docs
+    
+
 st.cache_resource(show_spinner=False)
 def get_conversational_chain():
     
@@ -84,7 +91,6 @@ Provide a detailed response, keeping prior exchanges in mind. Refer to past ques
     
     return rag_chain
 
-
 chain = get_conversational_chain()
 
 if "chat_history" not in st.session_state:
@@ -99,9 +105,7 @@ if "chat_history" not in st.session_state:
 def user_input(user_question):
     
     global new_db,chain
-    
-    # docs = new_db.similarity_search(user_question ,k=5,)
-    
+        
     response = chain.invoke({"input": user_question, "context": "Your relevant context goes here" , "chat_history": st.session_state.chat_history})
     st.session_state.chat_history.extend(
     [
@@ -130,17 +134,18 @@ def main():
         
         with st.spinner('Wait for it...........'):  
             response = user_input(prompt)
-            revalatent_docs = response['context']
-            chat_history_info = response['chat_history']
+            # revalatent_docs = response['context']
+            # chat_history_info = response['chat_history']
             response = response['answer']
             st.chat_message("ai").markdown(response)
             
-            # with st.expander("see relevant documents"):
-            #     for doc in revalatent_docs:
-            #         st.write(doc)
-            #         st.markdown("""
+            with st.expander("see relevant documents"):
+                revalatent_docs = get_more_relevant_docs(prompt,top_k=50)
+                for doc in revalatent_docs:
+                    st.write(doc)
+                    st.markdown("""
                                 
-            #                     """)
+                                """)
                     
             # with st.expander("see chat history"):
             #     st.write(chat_history_info)
