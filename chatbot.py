@@ -30,11 +30,10 @@ def load_model():
 model,embeddings = load_model()
 
 def get_more_relevant_docs(query,top_k):
-    vector_store = FAISS.load_local("faiss_index", embeddings)
+    vector_store = FAISS.load_local("faiss_index", embeddings,allow_dangerous_deserialization= True)
     vector_store = vector_store.as_retriever(search_type="mmr", search_kwargs={"k": top_k})
     docs = vector_store.invoke(query)
     return docs
-    
 
 st.cache_resource(show_spinner=False)
 def get_conversational_chain():
@@ -78,8 +77,8 @@ Provide a detailed response, keeping prior exchanges in mind. Refer to past ques
     # prompt  = hub.pull("langchain-ai/retrieval-qa-chat")
     # new_db = Chroma(persist_directory="chroma_db",embedding_function=embeddings)
 
-    new_db = FAISS.load_local("faiss_index", embeddings)
-    new_db = new_db.as_retriever(search_type="mmr", search_kwargs={"k": 6})
+    new_db = FAISS.load_local("faiss_index", embeddings,allow_dangerous_deserialization= True)
+    new_db = new_db.as_retriever(search_type="mmr", search_kwargs={"k": 10})
     
     history_aware_retriever = create_history_aware_retriever(
     model, new_db, prompt
