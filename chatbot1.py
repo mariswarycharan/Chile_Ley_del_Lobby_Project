@@ -20,7 +20,7 @@ options = [
     "Ministry of Health",
     "National Health Fund",
     "Superintendency of Health",
-    "Supply Center of the National Health Services system"
+    "Supply Center of the National Health Services System"
 ]
 choice = st.sidebar.selectbox("Choose a section:", options)
 
