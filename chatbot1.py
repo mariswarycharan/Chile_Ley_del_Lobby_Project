@@ -12,7 +12,6 @@ from langchain_core.prompts import MessagesPlaceholder
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 
-# Sidebar Navigation
 st.sidebar.title("Menu")
 options = [
     "Home",
@@ -24,14 +23,12 @@ options = [
 ]
 choice = st.sidebar.selectbox("Choose a section:", options)
 
-# Define the home page
 if choice == "Home":
-    st.title("Welcome to AI Chatbot")
+    st.title("Welcome to the AI Chatbot Application")
     st.write("""This application allows you to interact with an AI-powered chatbot.
-            Select a database from the sidebar to start querying.
+            Use the navigation menu to select a specific database or return to this homepage.
             """)
 
-# Load models and embeddings
 st.cache_resource(show_spinner=False)
 def load_model():
     load_dotenv()
@@ -46,10 +43,11 @@ def load_model():
 
 model, embeddings = load_model()
 
-# Load different databases based on user selection
 def load_database(db_name):
     try:
-        vector_store = FAISS.load_local(db_name, embeddings,allow_dangerous_deserialization=True)
+        vector_store = FAISS.load_local(
+            db_name, embeddings, allow_dangerous_deserialization=True
+        )
         return vector_store
     except Exception as e:
         st.error(f"Error loading database {db_name}: {e}")
@@ -57,7 +55,9 @@ def load_database(db_name):
 
 def get_more_relevant_docs(query, top_k):
     try:
-        vector_store = FAISS.load_local(db_name, embeddings,allow_dangerous_deserialization=True)  # Use the current database
+        vector_store = FAISS.load_local(
+            db_name, embeddings, allow_dangerous_deserialization=True
+        )
         retriever = vector_store.as_retriever(search_type="mmr", search_kwargs={"k": top_k})
         docs = retriever.invoke(query)
         return docs
@@ -102,7 +102,7 @@ Provide a detailed response, keeping prior exchanges in mind. Refer to past ques
         ]
     )
 
-    retriever = vector_store.as_retriever(search_type="mmr", search_kwargs={"k": 10})
+    retriever = vector_store.as_retriever(search_type="mmr", search_kwargs={"k": 6})
 
     history_aware_retriever = create_history_aware_retriever(
         model, retriever, prompt
@@ -114,9 +114,8 @@ Provide a detailed response, keeping prior exchanges in mind. Refer to past ques
 
     return rag_chain
 
-# Handle specific database pages
 if choice != "Home":
-    db_name = f"faiss_index_{choice.replace(' ', '_')}"  # e.g., faiss_index_Ministry_of_Health
+    db_name = f"faiss_index_{choice.replace(' ', '_')}"
     vector_store = load_database(db_name)
 
     if vector_store:
@@ -124,34 +123,34 @@ if choice != "Home":
 
         if "chat_history" not in st.session_state:
             st.session_state.chat_history = []
-            st.session_state.chat_history.extend([
-                HumanMessage(content="hi there"),
-                AIMessage(content="hi how can i help you?"),
-            ])
 
         def user_input(user_question):
-            response = chain.invoke({"input": user_question, "context": "Your relevant context goes here", "chat_history": st.session_state.chat_history})
-            st.session_state.chat_history.extend([
-                HumanMessage(content=user_question),
-                AIMessage(content=response["answer"]),
-            ])
+            response = chain.invoke(
+                {
+                    "input": user_question,
+                    "context": "Your relevant context goes here",
+                    "chat_history": st.session_state.chat_history,
+                }
+            )
+            st.session_state.chat_history.append(HumanMessage(content=user_question))
+            st.session_state.chat_history.append(AIMessage(content=response["answer"]))
             return response
 
-        # Chat interface
         st.title(f"AI Chatbot - {choice}")
 
-        if prompt := st.chat_input("What is up?"):
-            st.chat_message("user").markdown(prompt)
-            with st.spinner('Wait for it...........'):
-                response = user_input(prompt)
-                response = response['answer']
-                st.chat_message("ai").markdown(response)
+        for message in st.session_state.chat_history:
+            if isinstance(message, HumanMessage):
+                st.chat_message("user").markdown(message.content)
+            elif isinstance(message, AIMessage):
+                st.chat_message("assistant").markdown(message.content)
 
-                with st.expander("See relevant documents"):
-                    relevant_docs = get_more_relevant_docs(prompt, top_k=50)
-                    for doc in relevant_docs:
-                        st.write(doc)
-                        st.markdown("""
-                        """)
-    else:
-        st.error("Failed to load the database. Please try another option.")
+        if prompt := st.chat_input("Ask your question here..."):
+            st.chat_message("user").markdown(prompt)
+            with st.spinner("Generating response..."):
+                response = user_input(prompt)
+                st.chat_message("assistant").markdown(response["answer"])
+
+            with st.expander("See relevant documents"):
+                relevant_docs = get_more_relevant_docs(prompt, top_k=50)
+                for doc in relevant_docs:
+                    st.write(doc)
