@@ -58,7 +58,9 @@ def get_more_relevant_docs(query, top_k):
         vector_store = FAISS.load_local(
             db_name, embeddings, allow_dangerous_deserialization=True
         )
-        retriever = vector_store.as_retriever(search_type="mmr", search_kwargs={"k": top_k})
+        retriever = vector_store.as_retriever(search_type="similarity", search_kwargs={ "k": top_k}
+        )
+        # Retrieve documents based on similarity threshold and top_k
         docs = retriever.invoke(query)
         return docs
     except Exception as e:
@@ -67,31 +69,31 @@ def get_more_relevant_docs(query, top_k):
 
 def get_conversational_chain(vector_store):
     system_prompt = """
-You are AI ChatBot, an expert assistant specializing in providing detailed and accurate responses strictly based on retrieved information. Your goal is to deliver factual, concise, and helpful answers without introducing speculative or fabricated content.
+     Your name is AI Bot and you should also act like expert assistant and natural bot to answer all questions. 
+    You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. 
 
-*INSTRUCTIONS:*
-- Base all responses exclusively on the provided context. If the information is not available, clearly state that you do not have enough data to answer.
-- Avoid generating information that is not explicitly stated or implied by the retrieved documents.
-- Respond politely and informatively.
-- Use headings, bullet points, and concise paragraphs for clarity and readability.
-- Highlight key points, participants, and outcomes. Avoid over-explaining or speculating beyond the given data.
-- Emphasize important actions, follow-ups, and next steps from meetings or discussions.
+    IMPORTANT INSTRUCTIONS:
+    - you should be more interactive ai chatbot , Be an engaging and conversation must be engage with user, it should not be like boring
+    - Response should be professional and gentle, don't use offensive language.
+    - Response should be structured , professional , Point by point wise , bold , italic , bullet point wise.
+    - if the user query is an open-ended question and then you should act like a normal conversation chatbot.
+    - You want to generate "related questions" based on the context below, ensuring that each generated question is relevant and can be answered using the provided context and chat history.
+    - Remember all the context and chat history the user has provided and answer the question in natural language.
+    - you must want to answer the question. if user query is somewhat related it self to the below context. yuo want to answer.
+    - Provide thorough and detailed answers.
+    - Pre-trained knowledge can only be used to support or clarify responses, but the final response must strictly rely on the provided context and chat history. Any information beyond the given context and chat history should not be included.
+    - Responses must be more detailed, thorough, and comprehensive, ensuring they address all aspects of the user's query effectively.
+    - Use the retrieved context effectively to provide responses with the highest degree of accuracy, ensuring the answers are explanatory, interactive, and aligned with the user's needs.
+    
+    Given the following conversation and a follow-up question, rephrase the follow-up question to be a standalone question.
+    Use the following chat history and context to generate a helpful answer to the user’s question.
 
-*ONGOING CONVERSATION:*
-The following is a record of the conversation so far, including user queries and assistant responses. Use this to maintain context and provide answers in continuity with previous exchanges.
-
-{chat_history}
-
-*DOCUMENT CONTEXT (if available):*
-The following context is retrieved from relevant documents related to the query.
-
-{context}
-
-*USER QUERY:*
-{input}
-
-*ASSISTANT RESPONSE:*
-Provide a detailed response, keeping prior exchanges in mind. Refer to past questions and answers for continuity. Avoid repeating information unnecessarily but expand on new aspects related to the user's follow-up query.
+    Chat History:
+    {chat_history} \n
+    always you must want to give more detailed answer.
+    Context: {context} \n
+    Follow Up Input: {input} \n
+    Helpful Answer:
 """
 
     prompt = ChatPromptTemplate.from_messages(
@@ -102,7 +104,14 @@ Provide a detailed response, keeping prior exchanges in mind. Refer to past ques
         ]
     )
 
-    retriever = vector_store.as_retriever(search_type="mmr", search_kwargs={"k": 6})
+    faiss_index = vector_store.index  # Get the underlying FAISS index
+    faiss_index.nprobe = 10  # Adjust nprobe for faster or more accurate retrieval
+
+    # Create retriever
+    retriever = vector_store.as_retriever(
+        search_type="similarity",
+        search_kwargs={"k": 100}  # Only include 'k' here, no nprobe
+    )
 
     history_aware_retriever = create_history_aware_retriever(
         model, retriever, prompt
@@ -151,6 +160,6 @@ if choice != "Home":
                 st.chat_message("assistant").markdown(response["answer"])
 
             with st.expander("See relevant documents"):
-                relevant_docs = get_more_relevant_docs(prompt, top_k=50)
+                relevant_docs = get_more_relevant_docs(prompt, top_k=100)
                 for doc in relevant_docs:
                     st.write(doc)
