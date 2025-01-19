@@ -58,7 +58,12 @@ def get_more_relevant_docs(query, top_k):
         vector_store = FAISS.load_local(
             db_name, embeddings, allow_dangerous_deserialization=True
         )
-        retriever = vector_store.as_retriever(search_type="similarity", search_kwargs={ "k": top_k}
+        retriever = vector_store.as_retriever(
+            search_type="similarity_score_threshold",
+            search_kwargs={
+                "k": top_k,  # number of documents to retrieve
+                "score_threshold": 0.3  # only include docs that exceed this similarity
+            }
         )
         # Retrieve documents based on similarity threshold and top_k
         docs = retriever.invoke(query)
@@ -105,12 +110,12 @@ def get_conversational_chain(vector_store):
     )
 
     faiss_index = vector_store.index  # Get the underlying FAISS index
-    faiss_index.nprobe = 10  # Adjust nprobe for faster or more accurate retrieval
+    faiss_index.nprobe = 5  # Adjust nprobe for faster or more accurate retrieval
 
     # Create retriever
     retriever = vector_store.as_retriever(
         search_type="similarity",
-        search_kwargs={"k": 100}  # Only include 'k' here, no nprobe
+        search_kwargs={"k": 50}  # Only include 'k' here, no nprobe
     )
 
     history_aware_retriever = create_history_aware_retriever(
