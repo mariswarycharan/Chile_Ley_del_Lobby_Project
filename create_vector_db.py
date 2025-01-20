@@ -16,7 +16,7 @@ def get_pdf_text(file_path):
     return  text
 
 def get_text_chunks(text):
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=3000, chunk_overlap=1 , separators=["=============================================================================================================================="])
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=3000, chunk_overlap=1 , separators=["---"])
     chunks = text_splitter.split_text(text)
     return chunks
 
@@ -24,10 +24,10 @@ def get_vector_store(text_chunks):
     embeddings = GoogleGenerativeAIEmbeddings(model = "models/embedding-001")
     # vector_store = Chroma.from_texts(text_chunks, embedding = embeddings , persist_directory="chroma_db")
     vector_store = FAISS.from_texts(text_chunks, embedding=embeddings)
-    vector_store.save_local("faiss_index")
+    vector_store.save_local("faiss_index_Ministry_of_Health")
     
 if __name__ == "__main__":
-    text = get_pdf_text("meeting_details_narrative_story.txt")
+    text = get_pdf_text(r"formatted_meeting_stories (1).txt")
     print("Reading text from file completed successfully......................")
     chunks = get_text_chunks(text)
     print("Text chunks created successfully......................")
