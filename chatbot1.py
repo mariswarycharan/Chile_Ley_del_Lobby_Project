@@ -92,13 +92,13 @@ def get_conversational_chain(vector_store):
     Given the following conversation and a follow-up question, rephrase the follow-up question to be a standalone question.
     Use the following chat history and context to generate a helpful answer to the user’s question.
 
-    Chat History:
-    {chat_history} \n
-    always you must want to give more detailed answer.
-    Context: {context} \n
-    Follow Up Input: {input} \n
-    Helpful Answer:
-"""
+        Chat History:
+        {chat_history} \n
+        always you must want to give more detailed answer.
+        Context: {context} \n
+        Follow Up Input: {input} \n
+        Helpful Answer:
+    """
 
     prompt = ChatPromptTemplate.from_messages(
         [
