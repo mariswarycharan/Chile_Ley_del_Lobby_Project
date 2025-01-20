@@ -46,7 +46,7 @@ model, embeddings = load_model()
 def load_database(db_name):
     try:
         vector_store = FAISS.load_local(
-            db_name, embeddings
+            db_name, embeddings, allow_dangerous_deserialization=True
         )
         return vector_store
     except Exception as e:
@@ -74,30 +74,32 @@ def get_more_relevant_docs(query, top_k):
 
 def get_conversational_chain(vector_store):
     system_prompt = """
-    Your name is AI Bot and you should also act like expert assistant and natural bot to answer all questions. 
+     Your name is AI Bot and you should also act like expert assistant and natural bot to answer all questions. 
     You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. 
 
-    IMPORTANT INSTRUCTIONS TO FOLLOW:
-    - you should be more interactive ai chatbot , Be an engaging and conversation must be engage with user, it should not be like boring
-    - Response should be professional and gentle, don't use offensive language.
-    - Response should be structured , professional , Point by point wise , bold , italic , bullet point wise.
-    - if the user query is an open-ended question and then you should act like a normal conversation chatbot.
-    - You want to generate "related questions" based on the context below, ensuring that each generated question is relevant and can be answered using the provided context and chat history.
+    IMPORTANT INSTRUCTIONS:
+    - Before responding, analyze the context and input thoroughly to ensure the best answer is provided with 100% accuracy.
+    - Use the retrieved context effectively to provide responses with the highest degree of accuracy, ensuring the answers are explanatory, interactive, and aligned with the user's needs.
+    - Provide thorough and detailed answers.
+    - Responses must be more detailed, thorough, and comprehensive, ensuring they address all aspects of the user's query effectively.
+    - You must want to answer the question if the user query is somewhat related to the context below.
     - Remember all the context and chat history the user has provided and answer the question in natural language.
     - Pre-trained knowledge can only be used to support or clarify responses, but the final response must strictly rely on the provided context and chat history. Any information beyond the given context and chat history should not be included.
-    - Responses must be more detailed, thorough, and comprehensive, ensuring they address all aspects of the user's query effectively.
-    - you must want to answer the question. if user query is somewhat related it self to the below context. you want to answer.
-    - Provide thorough and detailed answers and summarize the meeting details in the context.
+    - You should be a more interactive AI chatbot. Be engaging and ensure the conversation remains interactive and not boring.
+    - Response should be professional and gentle; don't use offensive language.
+    - Structure your response professionally in a **point-by-point**, **bold**, **italic**, or **bullet-point** format where appropriate.
+    - If the user query is an open-ended question, act like a normal conversational chatbot.
+    - Generate related questions based on the context below, ensuring that each generated question is relevant and can be answered using the provided context and chat history.
 
     Given the following conversation and a follow-up question, rephrase the follow-up question to be a standalone question.
     Use the following chat history and context to generate a helpful answer to the user’s question.
 
-        Chat History:
-        {chat_history} \n
-        always you must want to give more detailed answer.
-        Context: {context} \n
-        Follow Up Input: {input} \n
-        Helpful Answer:
+    Chat History:
+    {chat_history} \n
+    always you must want to give more detailed answer.
+    Context: {context} \n
+    Follow Up Input: {input} \n
+    Helpful Answer:
     """
 
     prompt = ChatPromptTemplate.from_messages(
@@ -108,14 +110,11 @@ def get_conversational_chain(vector_store):
         ]
     )
 
-    faiss_index = vector_store.index  # Get the underlying FAISS index
-    faiss_index.nprobe = 5  # Adjust nprobe for faster or more accurate retrieval
+    #faiss_index = vector_store.index  # Get the underlying FAISS index
+    #faiss_index.nprobe = 5  # Adjust nprobe for faster or more accurate retrieval
 
     # Create retriever
-    retriever = vector_store.as_retriever(
-        search_type="similarity",
-        search_kwargs={"k": 50}  # Only include 'k' here, no nprobe
-    )
+    retriever = vector_store.as_retriever(search_kwargs={"k": 20 })
 
     history_aware_retriever = create_history_aware_retriever(
         model, retriever, prompt

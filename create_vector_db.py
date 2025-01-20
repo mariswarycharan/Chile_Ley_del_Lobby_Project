@@ -6,7 +6,6 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 import os  
 
-
 load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
@@ -27,7 +26,7 @@ def get_vector_store(text_chunks):
     vector_store.save_local("faiss_index_Ministry_of_Health")
     
 if __name__ == "__main__":
-    text = get_pdf_text(r"formatted_meeting_stories (1).txt")
+    text = get_pdf_text(r"enhanced_meeting_details_story(Ministry of Health Translated).txt")
     print("Reading text from file completed successfully......................")
     chunks = get_text_chunks(text)
     print("Text chunks created successfully......................")
