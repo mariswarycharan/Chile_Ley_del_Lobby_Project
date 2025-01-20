@@ -36,7 +36,7 @@ def load_model():
     genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
     model = ChatGoogleGenerativeAI(model="gemini-1.5-flash",
-                             temperature=1, convert_system_message_to_human=True)
+                             temperature=0.8, convert_system_message_to_human=True)
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
     return model, embeddings
