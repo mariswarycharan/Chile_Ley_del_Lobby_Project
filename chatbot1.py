@@ -23,9 +23,9 @@ hide_st_style = """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 
-st.sidebar.image("assets/final.png" , width=1000 , use_container_width=True)
-
+st.sidebar.image("assets/final_resized.png", use_container_width=True)
 st.sidebar.title("Menu")
+
 options = [
     "Home",
     "Institute of Public Health",
@@ -34,7 +34,7 @@ options = [
     "Superintendency of Health",
     "Supply Center of the National Health Services System"
 ]
-choice = st.sidebar.selectbox("Choose a department:", options)
+choice = st.sidebar.selectbox("Choose an institution: ", options)
 
 if choice == "Home":
     st.title("Welcome to the AI Chatbot Application")
@@ -141,6 +141,10 @@ def get_conversational_chain(vector_store):
 
 if choice != "Home":
     db_name = f"faiss_index_{choice.replace(' ', '_')}"
+    
+    if choice != st.session_state.institution:
+        st.session_state.chat_history = []
+    
     vector_store = load_database(db_name)
 
     if vector_store:
@@ -185,3 +189,5 @@ if choice != "Home":
                                 
                                 """)
                     
+# add the institution to the session state
+st.session_state.institution = choice
