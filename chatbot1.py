@@ -12,6 +12,19 @@ from langchain_core.prompts import MessagesPlaceholder
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 
+st.set_page_config(page_title="Chile-Chatbot",page_icon="assets/roche-logo.jpeg")
+hide_st_style = """
+            <style>
+            MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)
+
+
+st.sidebar.image("assets/final.png" , width=1000 , use_container_width=True)
+
 st.sidebar.title("Menu")
 options = [
     "Home",
@@ -21,7 +34,7 @@ options = [
     "Superintendency of Health",
     "Supply Center of the National Health Services System"
 ]
-choice = st.sidebar.selectbox("Choose a section:", options)
+choice = st.sidebar.selectbox("Choose a department:", options)
 
 if choice == "Home":
     st.title("Welcome to the AI Chatbot Application")
@@ -46,7 +59,7 @@ model, embeddings = load_model()
 def load_database(db_name):
     try:
         vector_store = FAISS.load_local(
-            db_name, embeddings, allow_dangerous_deserialization=True
+            db_name, embeddings , allow_dangerous_deserialization=True
         )
         return vector_store
     except Exception as e:
@@ -56,7 +69,7 @@ def load_database(db_name):
 def get_more_relevant_docs(query, top_k):
     try:
         vector_store = FAISS.load_local(
-            db_name, embeddings, allow_dangerous_deserialization=True
+            db_name, embeddings , allow_dangerous_deserialization=True
         )
         retriever = vector_store.as_retriever(
             search_type="similarity_score_threshold",
@@ -164,5 +177,11 @@ if choice != "Home":
 
             with st.expander("See relevant documents"):
                 relevant_docs = get_more_relevant_docs(prompt, top_k=100)
-                for doc in relevant_docs:
-                    st.write(doc)
+                container = st.container(border=True , height= 500)
+                for idx,doc in enumerate(relevant_docs):
+                    container.success(f"Meeting : {idx+1}")
+                    container.markdown(doc.page_content)
+                    container.markdown("""
+                                
+                                """)
+                    

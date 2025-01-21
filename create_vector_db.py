@@ -26,7 +26,7 @@ def get_vector_store(text_chunks):
     vector_store.save_local("faiss_index_Ministry_of_Health")
     
 if __name__ == "__main__":
-    text = get_pdf_text(r"enhanced_meeting_details_story(Ministry of Health Translated).txt")
+    text = get_pdf_text(r"D:\Downloads\enhanced_meeting_details_story(Ministry of Health Translated) (1).txt")
     print("Reading text from file completed successfully......................")
     chunks = get_text_chunks(text)
     print("Text chunks created successfully......................")
