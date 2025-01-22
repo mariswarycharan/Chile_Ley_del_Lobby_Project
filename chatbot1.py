@@ -28,11 +28,16 @@ st.sidebar.image("assets/final.png" , width=1000 , use_container_width=True)
 st.sidebar.title("Menu")
 options = [
     "Home",
-    "Institute of Public Health",
-    "Ministry of Health",
-    "National Health Fund",
-    "Superintendency of Health",
-    "Supply Center of the National Health Services System"
+    "Institute of Public Health 2023",
+    "Institute of Public Health 2024",
+    "Ministry of Health 2023",
+    "Ministry of Health 2024",
+    "National Health Fund 2023",
+    "National Health Fund 2024",
+    "Superintendency of Health 2023",
+    "Superintendency of Health 2024",
+    "Supply Center of the National Health Services System 2023",
+    "Supply Center of the National Health Services System 2024"
 ]
 choice = st.sidebar.selectbox("Choose a department:", options)
 

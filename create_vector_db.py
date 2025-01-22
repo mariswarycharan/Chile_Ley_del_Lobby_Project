@@ -23,7 +23,7 @@ def get_vector_store(text_chunks):
     embeddings = GoogleGenerativeAIEmbeddings(model = "models/embedding-001")
     # vector_store = Chroma.from_texts(text_chunks, embedding = embeddings , persist_directory="chroma_db")
     vector_store = FAISS.from_texts(text_chunks, embedding=embeddings)
-    vector_store.save_local("faiss_index_Ministry_of_Health")
+    vector_store.save_local("faiss_index_Ministry_of_Health_2024")
     
 if __name__ == "__main__":
     text = get_pdf_text(r"D:\Downloads\enhanced_meeting_details_story(Ministry of Health Translated) (1).txt")
