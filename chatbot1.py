@@ -37,10 +37,14 @@ institution_options = [
 ]
 selected_institution = st.sidebar.selectbox("Institution", institution_options)
 
-st.sidebar.subheader("Choose a Year:")
 if selected_institution != "Home":
+    
+    st.sidebar.subheader("Choose a Year:")
     year_options = ["2023", "2024"]
     selected_year = st.sidebar.selectbox("Year", year_options)
+    
+    st.session_state.year = selected_year
+    
     # Combine institution and year for the final choice
     choice = f"{selected_institution} {selected_year}"
 else:
@@ -69,7 +73,7 @@ model, embeddings = load_model()
 def load_database(db_name):
     try:
         vector_store = FAISS.load_local(
-            db_name, embeddings , allow_dangerous_deserialization=True
+            db_name, embeddings 
         )
         return vector_store
     except Exception as e:
@@ -79,7 +83,7 @@ def load_database(db_name):
 def get_more_relevant_docs(query, top_k):
     try:
         vector_store = FAISS.load_local(
-            db_name, embeddings , allow_dangerous_deserialization=True
+            db_name, embeddings ,
         )
         retriever = vector_store.as_retriever(
             search_type="similarity_score_threshold",
@@ -152,7 +156,7 @@ def get_conversational_chain(vector_store):
 if choice != "Home":
     db_name = f"faiss_index_{selected_institution.replace(' ', '_')}_{selected_year}"
     
-    if choice != st.session_state.institution:
+    if choice != st.session_state.institution or selected_year != st.session_state.year:
         st.session_state.chat_history = []
     
     vector_store = load_database(db_name)
