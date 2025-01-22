@@ -73,7 +73,7 @@ model, embeddings = load_model()
 def load_database(db_name):
     try:
         vector_store = FAISS.load_local(
-            db_name, embeddings 
+            db_name, embeddings , allow_dangerous_deserialization = True
         )
         return vector_store
     except Exception as e:
@@ -83,7 +83,7 @@ def load_database(db_name):
 def get_more_relevant_docs(query, top_k):
     try:
         vector_store = FAISS.load_local(
-            db_name, embeddings ,
+            db_name, embeddings , allow_dangerous_deserialization = True
         )
         retriever = vector_store.as_retriever(
             search_type="similarity_score_threshold",
