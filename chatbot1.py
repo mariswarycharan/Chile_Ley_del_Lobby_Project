@@ -26,20 +26,25 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 st.sidebar.image("assets/final_resized.png", use_container_width=True)
 st.sidebar.title("Menu")
 
-options = [
-    "Home",
-    "Institute of Public Health 2023",
-    "Institute of Public Health 2024",
-    "Ministry of Health 2023",
-    "Ministry of Health 2024",
-    "National Health Fund 2023",
-    "National Health Fund 2024",
-    "Superintendency of Health 2023",
-    "Superintendency of Health 2024",
-    "Supply Center of the National Health Services System 2023",
-    "Supply Center of the National Health Services System 2024"
+st.sidebar.subheader("Choose an Institution:")
+institution_options = [
+    "Home",  # Adding Home option
+    "Institute of Public Health",
+    "Ministry of Health",
+    "National Health Fund",
+    "Superintendency of Health",
+    "Supply Center of the National Health Services System"
 ]
-choice = st.sidebar.selectbox("Choose an institution: ", options)
+selected_institution = st.sidebar.selectbox("Institution", institution_options)
+
+st.sidebar.subheader("Choose a Year:")
+if selected_institution != "Home":
+    year_options = ["2023", "2024"]
+    selected_year = st.sidebar.selectbox("Year", year_options)
+    # Combine institution and year for the final choice
+    choice = f"{selected_institution} {selected_year}"
+else:
+    choice = "Home"
 
 if choice == "Home":
     st.title("Welcome to the AI Chatbot Application")
@@ -145,7 +150,7 @@ def get_conversational_chain(vector_store):
     return rag_chain
 
 if choice != "Home":
-    db_name = f"faiss_index_{choice.replace(' ', '_')}"
+    db_name = f"faiss_index_{selected_institution.replace(' ', '_')}_{selected_year}"
     
     if choice != st.session_state.institution:
         st.session_state.chat_history = []
