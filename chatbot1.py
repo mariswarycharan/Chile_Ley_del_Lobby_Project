@@ -12,7 +12,7 @@ from langchain_core.prompts import MessagesPlaceholder
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 
-st.set_page_config(page_title="Chile-Chatbot",page_icon="assets/roche-logo.jpeg")
+st.set_page_config(page_title="Chile-Chatbot", page_icon="assets/roche-logo.jpeg")
 hide_st_style = """
             <style>
             MainMenu {visibility: hidden;}
@@ -21,7 +21,6 @@ hide_st_style = """
             </style>
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
-
 
 st.sidebar.image("assets/final_resized.png", use_container_width=True)
 st.sidebar.title("Menu")
@@ -38,13 +37,13 @@ institution_options = [
 selected_institution = st.sidebar.selectbox("Institution", institution_options)
 
 if selected_institution != "Home":
-    
+
     st.sidebar.subheader("Choose a Year:")
     year_options = ["2023", "2024"]
     selected_year = st.sidebar.selectbox("Year", year_options)
-    
+
     st.session_state.year = selected_year
-    
+
     # Combine institution and year for the final choice
     choice = f"{selected_institution} {selected_year}"
 else:
@@ -57,13 +56,15 @@ if choice == "Home":
             """)
 
 st.cache_resource(show_spinner=False)
+
+
 def load_model():
     load_dotenv()
     os.getenv("GOOGLE_API_KEY")
     genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
     model = ChatGoogleGenerativeAI(model="gemini-1.5-flash",
-                             temperature=0.8, convert_system_message_to_human=True)
+                                   temperature=0.8, convert_system_message_to_human=True)
     embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
     return model, embeddings
@@ -73,17 +74,18 @@ model, embeddings = load_model()
 def load_database(db_name):
     try:
         vector_store = FAISS.load_local(
-            db_name, embeddings , allow_dangerous_deserialization = True
+            db_name, embeddings, allow_dangerous_deserialization=True
         )
         return vector_store
     except Exception as e:
         st.error(f"Error loading database {db_name}: {e}")
         return None
 
+
 def get_more_relevant_docs(query, top_k):
     try:
         vector_store = FAISS.load_local(
-            db_name, embeddings , allow_dangerous_deserialization = True
+            db_name, embeddings, allow_dangerous_deserialization=True
         )
         retriever = vector_store.as_retriever(
             search_type="similarity_score_threshold",
@@ -98,6 +100,7 @@ def get_more_relevant_docs(query, top_k):
     except Exception as e:
         st.error(f"Error retrieving relevant documents: {e}")
         return []
+
 
 def get_conversational_chain(vector_store):
     system_prompt = """
@@ -137,11 +140,11 @@ def get_conversational_chain(vector_store):
         ]
     )
 
-    #faiss_index = vector_store.index  # Get the underlying FAISS index
-    #faiss_index.nprobe = 5  # Adjust nprobe for faster or more accurate retrieval
+    # faiss_index = vector_store.index  # Get the underlying FAISS index
+    # faiss_index.nprobe = 5  # Adjust nprobe for faster or more accurate retrieval
 
     # Create retriever
-    retriever = vector_store.as_retriever(search_kwargs={"k": 20 })
+    retriever = vector_store.as_retriever(search_kwargs={"k": 20})
 
     history_aware_retriever = create_history_aware_retriever(
         model, retriever, prompt
@@ -153,12 +156,13 @@ def get_conversational_chain(vector_store):
 
     return rag_chain
 
+
 if choice != "Home":
     db_name = f"faiss_index_{selected_institution.replace(' ', '_')}_{selected_year}"
-    
+
     if choice != st.session_state.institution or selected_year != st.session_state.year:
         st.session_state.chat_history = []
-    
+
     vector_store = load_database(db_name)
 
     if vector_store:
@@ -166,6 +170,7 @@ if choice != "Home":
 
         if "chat_history" not in st.session_state:
             st.session_state.chat_history = []
+
 
         def user_input(user_question):
             response = chain.invoke(
@@ -178,6 +183,7 @@ if choice != "Home":
             st.session_state.chat_history.append(HumanMessage(content=user_question))
             st.session_state.chat_history.append(AIMessage(content=response["answer"]))
             return response
+
 
         st.title(f"AI Chatbot - {choice}")
 
@@ -195,13 +201,13 @@ if choice != "Home":
 
             with st.expander("See relevant documents"):
                 relevant_docs = get_more_relevant_docs(prompt, top_k=100)
-                container = st.container(border=True , height= 500)
-                for idx,doc in enumerate(relevant_docs):
-                    container.success(f"Meeting : {idx+1}")
+                container = st.container(border=True, height=500)
+                for idx, doc in enumerate(relevant_docs):
+                    container.success(f"Meeting : {idx + 1}")
                     container.markdown(doc.page_content)
                     container.markdown("""
-                                
+
                                 """)
-                    
+
 # add the institution to the session state
 st.session_state.institution = choice
