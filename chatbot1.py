@@ -269,7 +269,7 @@ def display_meetings_as_table(docs):
         container.warning("No meeting details found.")
 
 if choice != "Home":
-    db_name = f"faiss_index_{selected_institution.replace(' ', '_')}_{selected_year}"
+    db_name = f"FAISS_DB/faiss_index_{selected_institution.replace(' ', '_')}_{selected_year}"
 
     if choice != st.session_state.Department or selected_year != st.session_state.year:
         st.session_state.chat_history = []
