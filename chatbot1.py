@@ -309,10 +309,10 @@ if choice != "Home":
             with st.spinner("Generating response..."):
                 response = user_input(prompt)
                 output_generated_text = response["answer"]
-                
+
                 if user_prefered_language != "english":
                     output_generated_text = language_translation(output_generated_text,"english",user_prefered_language)
-                
+
                 st.chat_message("assistant").markdown(output_generated_text)
 
             with st.expander("See relevant documents"):
@@ -324,6 +324,7 @@ if choice != "Home":
                     container.markdown("""
 
                                         """)
+
             with st.expander("See relevant raw data"):
                 relevant_docs = get_more_relevant_docs(prompt, top_k=100)
                 display_meetings_as_table(relevant_docs)
