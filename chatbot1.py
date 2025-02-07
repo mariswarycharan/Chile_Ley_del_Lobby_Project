@@ -11,8 +11,36 @@ from langchain.chains import create_history_aware_retriever
 from langchain_core.prompts import MessagesPlaceholder
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
+import re
+import pandas as pd
 
 st.set_page_config(page_title="Chile-Chatbot", page_icon="assets/roche-logo.jpeg")
+
+st.markdown(
+        """
+        <style>
+        section[data-testid="stSidebar"] {
+            background-color: #1482FA; 
+            color: white;
+        }
+
+        section[data-testid="stSidebar"] select {
+            color: black !important; 
+            background-color: white !important; 
+            border: 1px solid #ddd !important;
+            border-radius: 4px !important;
+            padding: 5px !important;
+        }
+
+        section[data-testid="stSidebar"] label {
+            color: white !important;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+# Hide Streamlit's default header and footer
 hide_st_style = """
             <style>
             MainMenu {visibility: hidden;}
@@ -22,10 +50,12 @@ hide_st_style = """
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
-st.sidebar.image("assets/final_resized.png", use_container_width=True)
+# Add logo and styling
+st.image("assets/final.png", width=500)
+
 st.sidebar.title("Menu")
 
-st.sidebar.subheader("Choose an Institution:")
+st.sidebar.subheader("Choose an Department:")
 institution_options = [
     "Home",  # Adding Home option
     "Institute of Public Health",
@@ -34,7 +64,7 @@ institution_options = [
     "Superintendency of Health",
     "Supply Center of the National Health Services System"
 ]
-selected_institution = st.sidebar.selectbox("Institution", institution_options)
+selected_institution = st.sidebar.selectbox("Department", institution_options)
 
 if selected_institution != "Home":
 
@@ -49,6 +79,9 @@ if selected_institution != "Home":
 else:
     choice = "Home"
 
+st.sidebar.markdown("<br><br><br><br><br><br><br><br>", unsafe_allow_html=True)
+st.sidebar.image("assets/yaali_animal.png", width=200)
+
 if choice == "Home":
     st.title("Welcome to the AI Chatbot Application")
     st.write("""This application allows you to interact with an AI-powered chatbot.
@@ -56,7 +89,6 @@ if choice == "Home":
             """)
 
 st.cache_resource(show_spinner=False)
-
 
 def load_model():
     load_dotenv()
@@ -156,11 +188,82 @@ def get_conversational_chain(vector_store):
 
     return rag_chain
 
+def extract_meeting_details(text):
+    meetings = []
+
+    # Split the text by occurrences of 'On' to handle multiple meetings
+    meeting_texts = re.split(r'(?=On \d{4}-\d{2}-\d{2} at)', text)
+
+    for meeting_text in meeting_texts:
+        details = {}
+
+        # Extract date and time
+        date_time_match = re.search(r'On (.*?) at (.*?),', meeting_text)
+        if date_time_match:
+            details['Date & Time'] = f"{date_time_match.group(1)} {date_time_match.group(2)}"
+
+        # Extract official name and position
+        official_match = re.search(r'at \d{1,2}:\d{2} [AP]M, (.*?) the (.*?), attended', meeting_text)
+        if official_match:
+            details['Official Name'] = official_match.group(1).rstrip(',')  # Remove trailing comma
+
+        # Extract meeting platform
+        platform_match = re.search(r'attended a (.*?)\. The', meeting_text, re.DOTALL)
+        if platform_match:
+            details['Platform'] = platform_match.group(1).strip()
+
+        # Extract duration
+        duration_match = re.search(r'The meeting lasted (.*?) and', meeting_text)
+        if duration_match:
+            details['Duration'] = duration_match.group(1)
+
+        # Extract subjects discussed
+        subjects_match = re.search(r'focused on the (.*?)\.', meeting_text)
+        if subjects_match:
+            details['Subjects Discussed'] = subjects_match.group(1)
+
+        # Extract purpose
+        purpose_match = re.search(r'\*\*Purpose:\*\*\n(.*?)\.', meeting_text)
+        if purpose_match:
+            details['Purpose'] = purpose_match.group(1)
+
+        # Extract participants
+        participants_match = re.search(r'\*\*Participants:\*\*\nThe meeting included:\n(.*?)\n\n', meeting_text, re.DOTALL)
+        if participants_match:
+            details['Participants'] = participants_match.group(1).replace('\n', ', ')
+
+        # Extract key details
+        identifier_match = re.search(r'Meeting Identifier: (.*?)\n', meeting_text)
+        if identifier_match:
+            details['Meeting Identifier'] = identifier_match.group(1)
+
+        if details:
+            meetings.append(details)
+
+    return meetings
+
+# Function to convert retrieved documents to DataFrame and display it in Streamlit
+def display_meetings_as_table(docs):
+    meetings_data = []
+
+    for doc in docs:
+        meetings = extract_meeting_details(doc.page_content)
+        meetings_data.extend(meetings)
+
+    # Create DataFrame
+    df = pd.DataFrame(meetings_data)
+
+    # Display DataFrame in a container with a height of 500
+    container = st.container(border=True, height=500)
+    if not df.empty:
+        container.dataframe(df)
+    else:
+        container.warning("No meeting details found.")
 
 if choice != "Home":
     db_name = f"faiss_index_{selected_institution.replace(' ', '_')}_{selected_year}"
 
-    if choice != st.session_state.institution or selected_year != st.session_state.year:
+    if choice != st.session_state.Department or selected_year != st.session_state.year:
         st.session_state.chat_history = []
 
     vector_store = load_database(db_name)
@@ -207,7 +310,10 @@ if choice != "Home":
                     container.markdown(doc.page_content)
                     container.markdown("""
 
-                                """)
+                                        """)
+            with st.expander("See relevant raw data"):
+                relevant_docs = get_more_relevant_docs(prompt, top_k=100)
+                display_meetings_as_table(relevant_docs)
 
 # add the institution to the session state
-st.session_state.institution = choice
+st.session_state.Department = choice
