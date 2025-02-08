@@ -353,5 +353,4 @@ if choice != "Home":
                 relevant_docs = get_more_relevant_docs(prompt, top_k=100)
                 display_meetings_as_table(relevant_docs)
 
-# add the institution to the session state
 st.session_state.Department = choice
