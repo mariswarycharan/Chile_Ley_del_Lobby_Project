@@ -226,8 +226,6 @@ def get_conversational_chain(vector_store):
 
 def extract_meeting_details(text):
     meetings = []
-
-    # Split the text by occurrences of 'On' to handle multiple meetings
     meeting_texts = re.split(r'(?=On \d{4}-\d{2}-\d{2} at)', text)
 
     for meeting_text in meeting_texts:
@@ -241,7 +239,7 @@ def extract_meeting_details(text):
         # Extract official name and position
         official_match = re.search(r'at \d{1,2}:\d{2} [AP]M, (.*?) the (.*?), attended', meeting_text)
         if official_match:
-            details['Official Name'] = official_match.group(1).rstrip(',')  # Remove trailing comma
+            details['Official Name'] = official_match.group(1).rstrip(',')
 
         # Extract meeting platform
         platform_match = re.search(r'attended a (.*?)\. The', meeting_text, re.DOTALL)
@@ -258,10 +256,9 @@ def extract_meeting_details(text):
         if subjects_match:
             details['Subjects Discussed'] = subjects_match.group(1)
 
-        # Extract purpose
-        purpose_match = re.search(r'\*\*Purpose:\*\*\n(.*?)\.', meeting_text)
+        purpose_match = re.search(r'\*\*Purpose:\*\*\n(.*?)(?=\*\*Participants:\*\*)', meeting_text, re.DOTALL)
         if purpose_match:
-            details['Purpose'] = purpose_match.group(1)
+            details['Purpose'] = purpose_match.group(1).strip()
 
         # Extract participants
         participants_match = re.search(r'\*\*Participants:\*\*\nThe meeting included:\n(.*?)\n\n', meeting_text, re.DOTALL)
