@@ -159,7 +159,7 @@ def get_more_relevant_docs(query, top_k):
             search_type="similarity_score_threshold",
             search_kwargs={
                 "k": top_k,  # number of documents to retrieve
-                "score_threshold": 0.49  # only include docs that exceed this similarity
+                "score_threshold": 0.4  # only include docs that exceed this similarity
             }
         )
         # Retrieve documents based on similarity threshold and top_k
