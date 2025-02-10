@@ -159,7 +159,7 @@ def get_more_relevant_docs(query, top_k):
             search_type="similarity_score_threshold",
             search_kwargs={
                 "k": top_k,  # number of documents to retrieve
-                "score_threshold": 0.3  # only include docs that exceed this similarity
+                "score_threshold": 0.49  # only include docs that exceed this similarity
             }
         )
         # Retrieve documents based on similarity threshold and top_k
@@ -286,12 +286,17 @@ def display_meetings_as_table(docs):
     # Create DataFrame
     df = pd.DataFrame(meetings_data)
 
-    # Display DataFrame in a container with a height of 500
+    # Display DataFrame in a container with padding at the top
     container = st.container(border=True, height=500)
-    if not df.empty:
-        container.dataframe(df)
-    else:
-        container.warning("No meeting details found.")
+
+    with container:
+        # Add vertical space inside the container (top padding)
+        st.markdown("<br>", unsafe_allow_html=True)  # Adds vertical space inside the container
+
+        if not df.empty:
+            st.dataframe(df, use_container_width=True)
+        else:
+            st.warning("No meeting details found.")
 
 if choice != "Home":
     db_name = f"FAISS_DB/faiss_index_{selected_institution.replace(' ', '_')}_{selected_year}"
