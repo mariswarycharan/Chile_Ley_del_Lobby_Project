@@ -152,19 +152,10 @@ def load_database(db_name):
 
 def get_more_relevant_docs(query, top_k):
     try:
-        vector_store = FAISS.load_local(
-            db_name, embeddings, allow_dangerous_deserialization=True
-        )
-        retriever = vector_store.as_retriever(
-            search_type="similarity_score_threshold",
-            search_kwargs={
-                "k": top_k,  # number of documents to retrieve
-                "score_threshold": 0.4  # only include docs that exceed this similarity
-            }
-        )
-        # Retrieve documents based on similarity threshold and top_k
-        docs = retriever.invoke(query)
-        return docs
+        vector_store = FAISS.load_local(db_name, embeddings, allow_dangerous_deserialization=True)
+        results = vector_store.similarity_search_with_score(query, k=top_k)
+        retrieved_docs = [{"content": res.page_content, "score": score, "metadata": res.metadata} for res, score in results]
+        return retrieved_docs
     except Exception as e:
         st.error(f"Error retrieving relevant documents: {e}")
         return []
@@ -275,15 +266,15 @@ def extract_meeting_details(text):
 
     return meetings
 
-# Function to convert retrieved documents to DataFrame and display it in Streamlit
 def display_meetings_as_table(docs):
     meetings_data = []
 
     for doc in docs:
-        meetings = extract_meeting_details(doc.page_content)
+        meetings = extract_meeting_details(doc["content"])
+        for meeting in meetings:
+            meeting["Similarity Score"] = f"{doc['score']:.3f}"
         meetings_data.extend(meetings)
 
-    # Create DataFrame
     df = pd.DataFrame(meetings_data)
 
     # Display DataFrame in a container with padding at the top
@@ -350,7 +341,8 @@ if choice != "Home":
                 container = st.container(border=True, height=500)
                 for idx, doc in enumerate(relevant_docs):
                     container.success(f"Meeting : {idx + 1}")
-                    container.markdown(doc.page_content)
+                    container.markdown(f"**Similarity Score:** {doc['score']:.3f}")
+                    container.markdown(doc["content"])
                     container.markdown("""
 
                                         """)
