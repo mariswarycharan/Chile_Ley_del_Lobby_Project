@@ -1,110 +1,171 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 from tqdm import tqdm
+import pandas as pd
+import numpy as np
 import time
+import os
 import random
+import datetime
 
-# Base URL
-base_url = "https://www.news-medical.net/condition/Multiple-Sclerosis"
+# Define a helper function to handle requests with retries
+def safe_get(url, retries=3, delay=3):
+    for i in range(retries):
+        try:
+            response = requests.get(url.strip())
+            response.raise_for_status()  # Raise an error for bad HTTP status codes
+            return response
+        except requests.exceptions.RequestException as e:
+            time.sleep(delay * (i + 1))  # Exponential backoff
+    return None  # Return None if retries are exhausted
 
-# User-Agent Header to Mimic Browser
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-}
+# Function to extract data from the first link
+def first_link_data(link):
+    doctor_info = {}
+    response = safe_get(link)
+    if not response:
+        return doctor_info  # Return empty data if the request fails
+    soup = BeautifulSoup(response.text, 'html.parser')
+    table_data = soup.find('div', class_='col-xs-6')
+    if table_data:
+        first_table_data = table_data.find('table')
+        if first_table_data:
+            rows = first_table_data.find_all('tr')
+            doctor_info['Identifier'] = rows[0].find_all('td')[1].get_text(strip=True) if len(rows) > 0 else ''
+            doctor_info['date'] = rows[1].find_all('td')[1].get_text(strip=True) if len(rows) > 1 else ''
+            doctor_info['Shape'] = rows[2].find_all('td')[1].get_text(strip=True) if len(rows) > 2 else ''
+            doctor_info['Place'] = rows[3].find_all('td')[1].get_text(strip=True) if len(rows) > 3 else ''
+            doctor_info['Duration'] = rows[4].find_all('td')[1].get_text(strip=True) if len(rows) > 4 else ''
+    table = soup.find_all('tbody')
+    if table:
+        list_for_table1 = []
+        table1_rows = table[0].find_all('tr')
+        for row in table1_rows:
+            columns = row.find_all('td')
+            if len(columns) == 4:
+                list_for_table1.append({
+                    'Full_name': columns[0].get_text(strip=True),
+                    'Quality': columns[1].get_text(strip=True),
+                    'Works_for': columns[2].get_text(strip=True),
+                    'Represents': columns[3].get_text(strip=True)
+                })
+        doctor_info['Assistants'] = list_for_table1
+        doctor_info['Subjects_covered'] = ", \n".join([i.find('td').get_text(strip=True) for i in table[1].find_all('tr')]) if len(table) > 1 else ''
+        doctor_info['Specification'] = table[2].find('tr').find('td').get_text(strip=True) if len(table) > 2 else ''
+    return doctor_info
 
-# List to Store Articles Data
-articles_data = []
+# Function to structure data (expand assistant info into separate rows)
+def structuring_data(df):
+    assistants_column = 'Assistants'
+    expanded_rows = []
+    if assistants_column in df.columns:
+        for _, row in df.iterrows():
+            assistants_data = row[assistants_column]
+            assistants_list = assistants_data
+            is_first_row = True
+            for assistant in assistants_list:
+                new_row = row.copy()
+                new_row['Assistant_Full_name'] = assistant.get('Full_name', None)
+                new_row['Assistant_Quality'] = assistant.get('Quality', None)
+                new_row['Assistant_Works_for'] = assistant.get('Works_for', None)
+                new_row['Assistant_Represents'] = assistant.get('Represents', None)
+                if not is_first_row:
+                    for col in row.index:
+                        if col not in ['Assistant_Full_name', 'Assistant_Quality', 'Assistant_Works_for', 'Assistant_Represents']:
+                            new_row[col] = None
+                else:
+                    is_first_row = False
+                expanded_rows.append(new_row)
+            if not assistants_list:
+                new_row = row.copy()
+                new_row['Assistant_Full_name'] = None
+                new_row['Assistant_Quality'] = None
+                new_row['Assistant_Works_for'] = None
+                new_row['Assistant_Represents'] = None
+                expanded_rows.append(new_row)
+    expanded_df = pd.DataFrame(expanded_rows)
+    expanded_df = expanded_df[df.columns.tolist() + ['Assistant_Full_name', 'Assistant_Quality', 'Assistant_Works_for', 'Assistant_Represents']]
+    expanded_df.drop(columns=[assistants_column], inplace=True)
+    return expanded_df
 
-# Fetch the Main Page
-response = requests.get(base_url, headers=headers)
-if response.status_code == 200:
-    soup = BeautifulSoup(response.text, "html.parser")
+def scrape_data():
+    current_year = datetime.datetime.now().year  # Use current year dynamically
+    institutions = {
+        'AO001': 'Ministry of Health',
+        'AO003': 'Supply Center of the National Health Services System',
+        'AO004': 'National Health Fund',
+        'AO005': 'Institute of Public Health',
+        'AO006': 'Superintendency of Health'
+    }
+    years = [current_year]  # Only scrape for the current year
+    entire_doctors_list = []
+    # List to collect file names of saved Excel files.
+    saved_excel_files = []
 
-    # Locate all "Read More" links (Overview, Featured Articles, Latest News)
-    sections = soup.find_all("div", class_="hub-page-content")
-    article_links = []
+    for institution, institution_name in institutions.items():
+        for year in years:
+            for i in range(1, 3):  # Iterate through pages 1 and 2
+                page_url = f'https://www.leylobby.gob.cl/instituciones/{institution}/audiencias/{year}?page={i}'
+                response = safe_get(page_url)
+                if not response:
+                    continue
 
-    # Collect all article links
-    for section in sections:
-        for article_link in section.find_all("a", href=True, string="Read More"):
-            article_url = f"https://www.news-medical.net{article_link['href']}"
-            article_links.append(article_url)
+                soup = BeautifulSoup(response.text, 'html.parser')
+                tbody = soup.find('tbody')
+                rows = tbody.find_all('tr') if tbody else []
 
-    # Use tqdm for progress tracking while scraping each article
-    for article_url in tqdm(article_links, desc="Scraping Articles", unit="article"):
-        # Fetch the article page
-        article_response = requests.get(article_url, headers=headers)
-        if article_response.status_code == 200:
-            article_soup = BeautifulSoup(article_response.text, "html.parser")
+                for row in tqdm(rows, desc=f"Processing {institution} {year}, page {i}"):
+                    columns = row.find_all('td')
+                    if columns:
+                        full_name = columns[0].get_text(strip=True)
+                        Position = columns[1].get_text(strip=True)
+                        link = columns[2].find('a')['href']
+                        response = safe_get(link)
+                        if not response:
+                            continue
+                        soup = BeautifulSoup(response.text, 'html.parser')
+                        tbody = soup.find('tbody')
+                        sub_rows = tbody.find_all('tr') if tbody else []
+                        for sub_row in tqdm(sub_rows, desc="Processing subrows"):
+                            columns = sub_row.find_all('td')
+                            if len(columns) == 7:
+                                link_data = columns[6].find('a')['href']
+                                time.sleep(random.uniform(1, 2))
+                                first_link_data_dist = first_link_data(link_data)
+                                entire_doctors_list.append({
+                                    'full_name': full_name,
+                                    'Position': Position,
+                                    'link': link_data,
+                                    'Identifier': first_link_data_dist.get('Identifier', ''),
+                                    'date': first_link_data_dist.get('date', ''),
+                                    'Shape': first_link_data_dist.get('Shape', ''),
+                                    'Place': first_link_data_dist.get('Place', ''),
+                                    'Duration': first_link_data_dist.get('Duration', ''),
+                                    'Assistants': first_link_data_dist.get('Assistants', []),
+                                    'Subjects_covered': first_link_data_dist.get('Subjects_covered', ''),
+                                    'Specification': first_link_data_dist.get('Specification', '')
+                                })
 
-            # Extract Details
-            title = article_soup.find("h1").get_text(strip=True) if article_soup.find("h1") else "No Title"
+            df = pd.DataFrame(entire_doctors_list)
+            
+            if not os.path.exists(f'output/{str(year)}'):
+                os.makedirs(f'output/{str(year)}')
+                
+            if not os.path.exists(f'output/{str(year)}/scraped_data'):
+                os.makedirs(f'output/{str(year)}/scraped_data')
+            
+            # file_name = f'output/{year}/{institution_name} {year}.xlsx'
+            # df.to_excel(file_name, index=False)
+            
+            df = structuring_data(df)
+            file_name_structured = f'output/{str(year)}/scraped_data/{institution_name} {year} structured.xlsx'
+            df.to_excel(file_name_structured, index=False)
+            
+            # fill_missing_values(file_name_structured, f'output/{institution_name} {year}.xlsx')
 
-            # Extract Author Name and Description
-            author_section = article_soup.find("div", class_="author")
-            if author_section:
-                # Extract Author Name
-                author = author_section.find("a").get_text(strip=True) if author_section.find("a") else "No Author"
-
-                # Extract Author Description
-                author_description = author_section.get_text(strip=True).replace(f"Written by {author}", "").strip()
-                author_description = author_description.split("Reviewed by")[
-                    0].strip()  # Remove "Reviewed by" if present
-            else:
-                author = "No Author"
-                author_description = "No Author Description"
-
-            # Extract Reviewer
-            reviewer_section = article_soup.find("span", string="Reviewed by")
-            reviewer = (
-                reviewer_section.parent.get_text(strip=True)
-                if reviewer_section
-                else "No Reviewer"
-            )
-
-            # Extract Description
-            description = article_soup.find("meta", attrs={"name": "description"})["content"] if article_soup.find(
-                "meta", attrs={"name": "description"}) else "No Description"
-
-            # Extract Full Content
-            content = " ".join([p.get_text(strip=True) for p in article_soup.find_all("p")])
-
-            # Extract Sources
-            sources = [source.get("href") for source in article_soup.find_all("a", href=True) if
-                       "http" in source.get("href")]
-
-            # Extract Further Reading
-            further_reading = [reading.get_text(strip=True) for reading in
-                               article_soup.find_all("a", class_="further-reading-link")]
-
-            # Citation (Optional: Expand dropdown via additional scraping logic if dynamic)
-            citation = "No Citation Available"
-            citation_section = article_soup.find("div", class_="citation")
-            if citation_section:
-                citation = citation_section.get_text(strip=True)
-
-            # Store the Article Data
-            articles_data.append({
-                "Title": title,
-                "Author": author,
-                "Author Description": author_description,
-                "Reviewed By": reviewer,
-                "Description": description,
-                "Content": content,
-                "Sources": sources,
-                "Further Reading": further_reading,
-                "Citation": citation
-            })
-
-            # Add a Random Delay to Avoid Getting Blocked
-            time.sleep(random.uniform(1, 3))
-
-else:
-    print(f"Failed to fetch the main page. Status code: {response.status_code}")
-
-# Save the Data to Excel
-df = pd.DataFrame(articles_data)
-df.to_excel("multiple_sclerosis_articles.xlsx", index=False)
-
-print("Scraping complete. Data saved to 'multiple_sclerosis_articles.xlsx'.")
+    # # Save the list of generated Excel file names to a text file for narrative.py usage.
+    # with open('output/excel_filenames.txt', 'w') as f:
+    #     for file in saved_excel_files:
+    #         f.write(file + "\n")
+    
+    
