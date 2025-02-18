@@ -97,7 +97,7 @@ def generate_narratives():
     output_dir = "output/{current_year}/story_files"
     
     if not os.path.exists(f'output/{current_year}'):
-                os.makedirs(f'output/{current_year}')
+            os.makedirs(f'output/{current_year}')
                 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -111,6 +111,7 @@ def generate_narratives():
     for file_name in excel_files:
         try:
             file_path = os.path.join(output_dir, file_name)
+            
             df = pd.read_excel(file_path)
             
             df = fill_missing_values(df)

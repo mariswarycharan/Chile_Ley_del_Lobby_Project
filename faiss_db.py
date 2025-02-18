@@ -34,7 +34,7 @@ def create_vector_store():
 
     for file in text_files:
         meeting_chunks = get_meeting_chunks(get_text_from_file(f"output/{current_year}/story_files/" + file))
-        index_name = f"FAISS_DB/{file.replace('.txt', '').replace(' ', '_')}_{current_year}"
+        index_name = f"FAISS_DB/{"faiss_index_" + file.replace('.txt', '').replace(' ', '_')}_{current_year}"
         get_vector_store(meeting_chunks, index_name)
         
         
