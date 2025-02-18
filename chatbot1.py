@@ -14,6 +14,8 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 import re
 from deep_translator import GoogleTranslator
 import pandas as pd
+import numpy as np
+from datetime import datetime
 
 st.set_page_config(page_title="Chile-Chatbot", page_icon="assets/roche-logo.jpeg")
 
@@ -215,80 +217,101 @@ def get_conversational_chain(vector_store):
 
     return rag_chain
 
-def extract_meeting_details(text):
-    meetings = []
-    meeting_texts = re.split(r'(?=On \d{4}-\d{2}-\d{2} at)', text)
+def extract_meeting_details(text: str) -> pd.DataFrame:
+    meeting_pattern = re.compile(
+        r"On\s+(.+?)\s+at\s+(.+?),\s+(.+?),\s+the\s+(.+?),\s+attended\s+a\s+(.+?)\s+meeting\s+via\s+(.+?)\.\s*"
+        r"The meeting lasted\s+(.+?)\s+and\s+focused\s+on\s+the\s+(.+?)\.\s*"
+        r"\*\*Purpose:\*\*\s*(.+?)\.\s*"
+        r"\*\*Participants:\*\*\s*The meeting included:\s*(.+?)\s*"
+        r"\*\*Key Details:\*\*\s*Meeting Identifier:\s*(.+?)\s*Platform:\s*(.+?)\s*Duration:\s*(.+?)\s*Subjects Discussed:\s*(.+?)\s*",
+        re.DOTALL
+    )
 
-    for meeting_text in meeting_texts:
-        details = {}
+    meetings = meeting_pattern.findall(text)
+    data = []
 
-        # Extract date and time
-        date_time_match = re.search(r'On (.*?) at (.*?),', meeting_text)
-        if date_time_match:
-            details['Date & Time'] = f"{date_time_match.group(1)} {date_time_match.group(2)}"
+    for meeting in meetings:
+        (
+            date_str, time_str,
+            official_name, position,
+            meeting_type, place,
+            duration, subjects,
+            purpose, participants,
+            identifier, platform,
+            duration_detail, subjects_detail
+        ) = meeting
 
-        # Extract official name and position
-        official_match = re.search(r'at \d{1,2}:\d{2} [AP]M, (.*?) the (.*?), attended', meeting_text)
-        if official_match:
-            details['Official Name'] = official_match.group(1).rstrip(',')
+        try:
+            dt_str = f"{date_str} {time_str}"
+            date_obj = datetime.strptime(dt_str, "%B %d, %Y %I:%M %p")
+            formatted_date = date_obj.strftime("%Y-%m-%d %H:%M:%S")
+        except ValueError:
+            formatted_date = f"{date_str} {time_str}"
 
-        # Extract meeting platform
-        platform_match = re.search(r'attended a (.*?)\. The', meeting_text, re.DOTALL)
-        if platform_match:
-            details['Platform'] = platform_match.group(1).strip()
+        meeting_link = f"https://www.leylobby.gob.cl/instituciones/{identifier}"
 
-        # Extract duration
-        duration_match = re.search(r'The meeting lasted (.*?) and', meeting_text)
-        if duration_match:
-            details['Duration'] = duration_match.group(1)
+        meeting_type = meeting_type.capitalize()
 
-        # Extract subjects discussed
-        subjects_match = re.search(r'focused on the (.*?)\.', meeting_text)
-        if subjects_match:
-            details['Subjects Discussed'] = subjects_match.group(1)
+        participant_list = participants.strip().split("\n")
 
-        purpose_match = re.search(r'\*\*Purpose:\*\*\n(.*?)(?=\*\*Participants:\*\*)', meeting_text, re.DOTALL)
-        if purpose_match:
-            details['Purpose'] = purpose_match.group(1).strip()
+        first_participant = True
+        for participant in participant_list:
+            participant_details = participant.strip().split(" (")
+            if len(participant_details) == 2:
+                full_name = participant_details[0].strip()
+                other_details = participant_details[1].replace(")", "").split(", ")
+                quality, works_for, represents = (other_details + ["", "", ""])[:3]
 
-        # Extract participants
-        participants_match = re.search(r'\*\*Participants:\*\*\nThe meeting included:\n(.*?)\n\n', meeting_text, re.DOTALL)
-        if participants_match:
-            details['Participants'] = participants_match.group(1).replace('\n', ', ')
+                works_for = works_for.replace("working for ", "").strip() if works_for else ""
+                represents = represents.replace("representing ", "").strip() if represents else ""
+            else:
+                full_name, quality, works_for, represents = participant, "", "", ""
 
-        # Extract key details
-        identifier_match = re.search(r'Meeting Identifier: (.*?)\n', meeting_text)
-        if identifier_match:
-            details['Meeting Identifier'] = identifier_match.group(1)
+            row = [
+                official_name if first_participant else "",
+                position if first_participant else "",
+                meeting_link if first_participant else "",
+                identifier if first_participant else "",
+                formatted_date if first_participant else "",
+                meeting_type if first_participant else "",
+                place if first_participant else "",
+                duration if first_participant else "",
+                subjects if first_participant else "",
+                purpose if first_participant else "",
+                full_name,
+                quality if quality != "nan" else "",
+                works_for if works_for != "nan" else "",
+                represents if represents != "nan" else "",
+            ]
+            data.append(row)
+            first_participant = False
 
-        if details:
-            meetings.append(details)
+    columns = [
+        "full_name", "Position", "link", "Identifier", "date", "Shape", "Place",
+        "Duration", "Subjects_covered", "Specification", "Assistant_Full_name",
+        "Assistant_Quality", "Assistant_Works_for", "Assistant_Represents"
+    ]
+    df = pd.DataFrame(data, columns=columns)
+    df.replace({np.nan: "", "nan": ""}, inplace=True)
+    return df
 
-    return meetings
-
-def display_meetings_as_table(docs):
-    meetings_data = []
-
+def display_meetings_as_table(docs: list):
+    all_dataframes = []
     for doc in docs:
-        meetings = extract_meeting_details(doc["content"])
-        for meeting in meetings:
-            meeting["Similarity Score"] = f"{doc['score']:.3f}"
-        meetings_data.extend(meetings)
+        extracted_df = extract_meeting_details(doc["content"])
+        if not extracted_df.empty:
+            extracted_df["Distance Score"] = f"{doc['score']:.3f}"
+            all_dataframes.append(extracted_df)
 
-    df = pd.DataFrame(meetings_data)
+    final_df = pd.concat(all_dataframes, ignore_index=True) if all_dataframes else pd.DataFrame()
 
-    # Display DataFrame in a container with padding at the top
     container = st.container(border=True, height=500)
-
     with container:
-        # Add vertical space inside the container (top padding)
-        st.markdown("<br>", unsafe_allow_html=True)  # Adds vertical space inside the container
-
-        if not df.empty:
-            st.dataframe(df, use_container_width=True)
+        st.markdown("<br>", unsafe_allow_html=True)
+        if not final_df.empty:
+            st.dataframe(final_df, use_container_width=True)
         else:
             st.warning("No meeting details found.")
-
 if choice != "Home":
     db_name = f"FAISS_DB/faiss_index_{selected_institution.replace(' ', '_')}_{selected_year}"
 
@@ -341,7 +364,7 @@ if choice != "Home":
                 container = st.container(border=True, height=500)
                 for idx, doc in enumerate(relevant_docs):
                     container.success(f"Meeting : {idx + 1}")
-                    container.markdown(f"**Similarity Score:** {doc['score']:.3f}")
+                    container.markdown(f"**Distance Score:** {doc['score']:.3f}")
                     container.markdown(doc["content"])
                     container.markdown("""
 
