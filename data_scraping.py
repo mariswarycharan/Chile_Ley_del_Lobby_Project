@@ -158,7 +158,7 @@ def scrape_data():
             # df.to_excel(file_name, index=False)
             
             df = structuring_data(df)
-            file_name_structured = f'output/{str(year)}/scraped_data/{institution_name} {year} structured.xlsx'
+            file_name_structured = f'output/{str(year)}/scraped_data/{institution_name} {year}.xlsx'
             df.to_excel(file_name_structured, index=False)
             
             # fill_missing_values(file_name_structured, f'output/{institution_name} {year}.xlsx')

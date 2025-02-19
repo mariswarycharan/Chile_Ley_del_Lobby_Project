@@ -90,37 +90,39 @@ def generate_formatted_story(group):
     )
     return story
 
-def generate_narratives():
 
+def generate_narratives():
     current_year = str(datetime.datetime.now().year)
 
-    output_dir = "output/{current_year}/story_files"
-    
+    # Use f-string for proper interpolation
+    output_dir = f"output/{current_year}/story_files"
+
     if not os.path.exists(f'output/{current_year}'):
-            os.makedirs(f'output/{current_year}')
-                
+        os.makedirs(f'output/{current_year}')
+
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    excel_files = [f for f in os.listdir(f'output/{current_year}/scraped_data') if
-                   f.endswith(".xlsx") and "structured" not in f and current_year in f]
+    excel_files = [f for f in os.listdir(f'output/{current_year}/scraped_data')
+                   if f.endswith(".xlsx") and current_year in f]
 
     if not excel_files:
         print("No Excel files for the current year found in the output directory.")
         return
+
     for file_name in excel_files:
         try:
-            file_path = os.path.join(output_dir, file_name)
-            
+            # Adjust this if necessary: ensure you're reading from the correct directory
+            file_path = os.path.join("output", current_year, "scraped_data", file_name)
             df = pd.read_excel(file_path)
-            
+
             df = fill_missing_values(df)
-            
+
             grouped = df.groupby('Identifier', group_keys=False)
             formatted_stories = grouped.apply(generate_formatted_story)
             base_name = os.path.splitext(file_name)[0]
             output_file = os.path.join(output_dir, f"{base_name}.txt")
-            
+
             with open(output_file, "w", encoding="utf-8") as f_out:
                 for story in formatted_stories:
                     f_out.write(story + "\n\n---\n\n")
