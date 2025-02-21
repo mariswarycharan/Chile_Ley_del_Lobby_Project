@@ -302,6 +302,9 @@ def display_meetings_as_table(docs: list):
 
     final_df = pd.concat(all_dataframes, ignore_index=True) if all_dataframes else pd.DataFrame()
 
+    final_df.index = range(1 , len(final_df) + 1)
+    final_df = final_df.rename_axis("S.No.")
+    
     container = st.container(border=True, height=500)
     with container:
         st.markdown("<br>", unsafe_allow_html=True)
