@@ -90,7 +90,6 @@ def generate_formatted_story(group):
     )
     return story
 
-
 def generate_narratives():
     current_year = str(datetime.datetime.now().year)
 
