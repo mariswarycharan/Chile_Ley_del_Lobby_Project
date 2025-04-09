@@ -64,6 +64,7 @@ def generate_formatted_story(group):
     duration = group['Duration'].iloc[0]
     subjects_covered = group['Subjects_covered'].iloc[0]
     specification = group['Specification'].iloc[0]
+    link = group['link'].iloc[0]
 
     # Extract assistants' details with all attributes
     assistants = group[['Assistant_Full_name', 'Assistant_Quality', 'Assistant_Works_for', 'Assistant_Represents']]
@@ -86,7 +87,8 @@ def generate_formatted_story(group):
         f"Meeting Identifier: {group['Identifier'].iloc[0]}\n"
         f"Platform: {place}\n"
         f"Duration: {duration}\n"
-        f"Subjects Discussed: {subjects_covered}\n"
+        f"Subjects Discussed: {subjects_covered}\n\n"
+        f"Source Link: {link}\n"
     )
     return story
 

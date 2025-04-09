@@ -93,15 +93,17 @@ st.image("assets/final.png", width=500)
 st.sidebar.title("Menu")
 
 st.sidebar.subheader("Choose an Department:")
-institution_options = [
-    "Home",  # Adding Home option
-    "Institute of Public Health",
-    "Ministry of Health",
-    "National Health Fund",
-    "Superintendency of Health",
-    "Supply Center of the National Health Services System"
-]
-selected_institution = st.sidebar.selectbox("Department", institution_options)
+institutions = {
+    "Home": "Home",
+    "Instituto de Salud Pública": "Institute of Public Health",
+    "Ministerio de Salud": "Ministry of Health",
+    "Fondo Nacional de Salud": "National Health Fund",
+    "Superintendencia de Salud": "Superintendency of Health",
+    "Central de Abastecimiento del Sistema Nacional de Servicios de Salud": "Supply Center of the National Health Services System"
+}
+
+display_options = list(institutions.keys())
+selected_institution = st.sidebar.selectbox("Department", display_options)
 
 if selected_institution != "Home":
     st.sidebar.subheader("Choose a Year:")
@@ -110,6 +112,7 @@ if selected_institution != "Home":
     selected_year = st.sidebar.selectbox("Year", year_options)
     user_prefered_language = st.sidebar.radio("Select Language", ["english", "spanish"])
     st.session_state.year = selected_year
+    selected_institution_db = institutions[selected_institution]
     choice = f"{selected_institution} {selected_year}"
 else:
     choice = "Home"
@@ -214,13 +217,18 @@ def get_conversational_chain(vector_store):
 
     return rag_chain
 
+
 def extract_meeting_details(text: str) -> pd.DataFrame:
     meeting_pattern = re.compile(
         r"On\s+(.+?)\s+at\s+(.+?),\s+(.+?),\s+the\s+(.+?),\s+attended\s+a\s+(.+?)\s+meeting\s+via\s+(.+?)\.\s*"
         r"The meeting lasted\s+(.+?)\s+and\s+focused\s+on\s+the\s+(.+?)\.\s*"
         r"\*\*Purpose:\*\*\s*(.+?)\.\s*"
         r"\*\*Participants:\*\*\s*The meeting included:\s*(.+?)\s*"
-        r"\*\*Key Details:\*\*\s*Meeting Identifier:\s*(.+?)\s*Platform:\s*(.+?)\s*Duration:\s*(.+?)\s*Subjects Discussed:\s*(.+?)\s*",
+        r"\*\*Key Details:\*\*\s*Meeting Identifier:\s*(.+?)\s*"
+        r"Platform:\s*(.+?)\s*"
+        r"Duration:\s*(.+?)\s*"
+        r"Subjects Discussed:\s*(.+?)\s*"
+        r"Source Link:\s*(.+)\s*",
         re.DOTALL
     )
 
@@ -235,7 +243,8 @@ def extract_meeting_details(text: str) -> pd.DataFrame:
             duration, subjects,
             purpose, participants,
             identifier, platform,
-            duration_detail, subjects_detail
+            duration_detail, subjects_detail,
+            link
         ) = meeting
 
         try:
@@ -244,8 +253,6 @@ def extract_meeting_details(text: str) -> pd.DataFrame:
             formatted_date = date_obj.strftime("%Y-%m-%d %H:%M:%S")
         except ValueError:
             formatted_date = f"{date_str} {time_str}"
-
-        meeting_link = f"https://www.leylobby.gob.cl/instituciones/{identifier}"
 
         meeting_type = meeting_type.capitalize()
 
@@ -267,7 +274,7 @@ def extract_meeting_details(text: str) -> pd.DataFrame:
             row = [
                 official_name if first_participant else "",
                 position if first_participant else "",
-                meeting_link if first_participant else "",
+                link if first_participant else "",
                 identifier if first_participant else "",
                 formatted_date if first_participant else "",
                 meeting_type if first_participant else "",
@@ -292,6 +299,7 @@ def extract_meeting_details(text: str) -> pd.DataFrame:
     df.replace({np.nan: "", "nan": ""}, inplace=True)
     return df
 
+
 def display_meetings_as_table(docs: list):
     all_dataframes = []
     for doc in docs:
@@ -302,9 +310,9 @@ def display_meetings_as_table(docs: list):
 
     final_df = pd.concat(all_dataframes, ignore_index=True) if all_dataframes else pd.DataFrame()
 
-    final_df.index = range(1 , len(final_df) + 1)
+    final_df.index = range(1, len(final_df) + 1)
     final_df = final_df.rename_axis("S.No.")
-    
+
     container = st.container(border=True, height=500)
     with container:
         st.markdown("<br>", unsafe_allow_html=True)
@@ -313,7 +321,7 @@ def display_meetings_as_table(docs: list):
         else:
             st.warning("No meeting details found.")
 if choice != "Home":
-    db_name = f"FAISS_DB/faiss_index_{selected_institution.replace(' ', '_')}_{selected_year}"
+    db_name = f"FAISS_DB/faiss_index_{selected_institution_db.replace(' ', '_')}_{selected_year}"
 
     if choice != st.session_state.Department or selected_year != st.session_state.year:
         st.session_state.chat_history = []
