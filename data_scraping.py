@@ -42,14 +42,23 @@ def first_link_data(link):
     soup = BeautifulSoup(response.text, 'html.parser')
     table_data = soup.find('div', class_='col-xs-6')
     if table_data:
-        first_table_data = table_data.find('table')
-        if first_table_data:
-            rows = first_table_data.find_all('tr')
-            doctor_info['Identifier'] = rows[0].find_all('td')[1].get_text(strip=True) if len(rows) > 0 else ''
-            doctor_info['date'] = rows[1].find_all('td')[1].get_text(strip=True) if len(rows) > 1 else ''
-            doctor_info['Shape'] = rows[2].find_all('td')[1].get_text(strip=True) if len(rows) > 2 else ''
-            doctor_info['Place'] = rows[3].find_all('td')[1].get_text(strip=True) if len(rows) > 3 else ''
-            doctor_info['Duration'] = rows[4].find_all('td')[1].get_text(strip=True) if len(rows) > 4 else ''
+        first_table = table_data.find('table')
+        if first_table:
+            label_map = {
+                "Identifier": "Identifier",
+                "Date": "date",
+                "Form": "Shape",
+                "Place": "Place",
+                "Duration": "Duration",
+            }
+            for tr in first_table.find_all("tr"):
+                tds = tr.find_all("td")
+                if len(tds) < 2:
+                    continue
+                label = tds[0].get_text(strip=True)
+                value = tds[1].get_text(strip=True)
+                if label in label_map:
+                    doctor_info[label_map[label]] = value
     table = soup.find_all('tbody')
     if table:
         list_for_table1 = []
