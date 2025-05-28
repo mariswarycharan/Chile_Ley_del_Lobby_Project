@@ -3,8 +3,7 @@ from storygeneration import generate_narratives
 from faiss_db import create_vector_store
 import datetime
 import subprocess
-import openpyxl
-from openpyxl import Workbook
+import pandas as pd
 
 def commit_and_push_all_changes(commit_message):
     try:
@@ -37,21 +36,13 @@ def commit_and_push_all_changes(commit_message):
 
 def update_excel_with_last_updated(timestamp, excel_file="update_log.xlsx", sheet_name="Log"):
     try:
-        wb = openpyxl.load_workbook(excel_file)
-    except FileNotFoundError:
-        wb = Workbook()
-
-    if sheet_name in wb.sheetnames:
-        ws = wb[sheet_name]
-    else:
-        ws = wb.create_sheet(sheet_name)
-
-    # Write header and timestamp
-    ws["A1"] = "Last Updated"
-    ws["B1"] = timestamp.strftime("%Y-%m-%d %H:%M:%S")
-
-    wb.save(excel_file)
-    print(f"Updated Excel log: {excel_file} [{sheet_name}!B1] = {ws['B1'].value}")
+        df = pd.read_excel(excel_file, sheet_name=sheet_name)
+    except Exception:
+        df = pd.DataFrame(columns=["Last Updated"])
+    df = pd.concat([df,pd.DataFrame([{"Last Updated": timestamp.strftime("%Y-%m-%d %H:%M:%S")}])], ignore_index=True)
+    with pd.ExcelWriter(excel_file, engine="openpyxl") as writer:
+        df.to_excel(writer, sheet_name=sheet_name, index=False)
+    print(f"Appended new timestamp to {excel_file} → {timestamp}")
 
 # Function to execute the script
 def run_script():
@@ -59,17 +50,17 @@ def run_script():
     
     # Step 1 : Scrape data from the website
     print("Scraping data from the website...")
-    scrape_data()
+    #scrape_data()
     print("Scraping completed.")
     
     # Step 2 : Generate narratives from the scraped data
     print("Generating narratives from the scraped data...")
-    generate_narratives()
+    #generate_narratives()
     print("Generating narratives completed.")
     
     # Step 3 : Create vector store
     print("Creating vector store...")
-    create_vector_store()
+    #create_vector_store()
     print("Vector store creation completed.")
     
     # Step 4 : push chnages to repository
