@@ -16,17 +16,17 @@ from deep_translator import GoogleTranslator
 import pandas as pd
 import numpy as np
 from datetime import datetime
-import openpyxl
 
 st.set_page_config(page_title="Chile-Chatbot", page_icon="assets/roche-logo.jpeg")
 
-def get_last_updated(excel_file: str = "update_log.xlsx",sheet_name: str = "Log", cell: str = "B1"):
+def get_last_updated(excel_file="update_log.xlsx", sheet_name = "Log"):
     try:
-        wb = openpyxl.load_workbook(excel_file, read_only=True)
-        ws = wb[sheet_name]
-        return ws[cell].value
+        df = pd.read_excel(excel_file, sheet_name=sheet_name)
+        if "Last Updated" in df.columns and not df.empty:
+            return str(df["Last Updated"].iloc[-1])
     except Exception:
-        return None
+        pass
+    return None
 
 last_updated = get_last_updated()
 if last_updated:
