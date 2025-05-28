@@ -76,11 +76,9 @@ def run_script():
     print("Pushing changes to repository...")
     now = datetime.datetime.now()
     message = "data updated on " + str(datetime.datetime.now())
+    update_excel_with_last_updated(now)
     commit_and_push_all_changes(message)
     print("Changes pushed to repository.")
-
-    # Step 5: Log last-updated timestamp into Excel
-    update_excel_with_last_updated(now)
 
     print("Script execution completed.")
 
