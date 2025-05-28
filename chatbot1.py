@@ -30,7 +30,7 @@ def get_last_updated(excel_file: str = "update_log.xlsx",sheet_name: str = "Log"
 
 last_updated = get_last_updated()
 if last_updated:
-    st.sidebar.markdown(f"**Last Updated:**  {last_updated}")
+    st.sidebar.header(f"Last Updated: {last_updated}")
 
 st.markdown(
         """
