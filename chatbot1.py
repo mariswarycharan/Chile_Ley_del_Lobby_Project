@@ -194,6 +194,7 @@ def get_conversational_chain(vector_store):
     - Structure your response professionally in a **point-by-point**, **bold**, **italic**, or **bullet-point** format where appropriate.
     - If the user query is an open-ended question, act like a normal conversational chatbot.
     - Generate related questions based on the context below, ensuring that each generated question is relevant and can be answered using the provided context and chat history.
+    - You need give response in Spanish to answer the question.
 
     Given the following conversation and a follow-up question, rephrase the follow-up question to be a standalone question.
     Use the following chat history and context to generate a helpful answer to the user’s question.
