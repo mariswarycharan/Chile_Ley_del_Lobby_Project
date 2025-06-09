@@ -65,10 +65,10 @@ def run_script():
     
     # Step 4 : push chnages to repository
     print("Pushing changes to repository...")
-    #now = datetime.datetime.now()
-    #message = "data updated on " + str(datetime.datetime.now())
-    #update_excel_with_last_updated(now)
-    #commit_and_push_all_changes(message)
+    now = datetime.datetime.now()
+    message = "data updated on " + str(datetime.datetime.now())
+    update_excel_with_last_updated(now)
+    commit_and_push_all_changes(message)
     print("Changes pushed to repository.")
 
     print("Script execution completed.")
