@@ -148,7 +148,7 @@ def load_model():
 
     model = ChatGoogleGenerativeAI(model="gemini-1.5-flash",
                                    temperature=0.8, convert_system_message_to_human=True)
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
 
     return model, embeddings
 

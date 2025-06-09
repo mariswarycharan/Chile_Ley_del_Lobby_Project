@@ -19,7 +19,7 @@ def get_meeting_chunks(text):
     return [meeting.strip() for meeting in meetings if meeting.strip()]
 
 def get_vector_store(meeting_chunks, index_name):
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
     vector_store = FAISS.from_texts(meeting_chunks, embedding=embeddings)
     vector_store.save_local(index_name)
     

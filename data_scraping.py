@@ -23,14 +23,14 @@ def safe_get(url, retries=3, delay=3):
 
 
 # Function to translate text using deep translator
-def translate_text(text, target_language='en'):
-    if not text or pd.isna(text):
-        return text
-    try:
-        return GoogleTranslator(source='auto', target=target_language).translate(text)
-    except Exception as e:
-        # In case of any translation issues, return the original text
-        return text
+#def translate_text(text, target_language='en'):
+#    if not text or pd.isna(text):
+#        return text
+#    try:
+#        return GoogleTranslator(source='auto', target=target_language).translate(text)
+#    except Exception as e:
+#        # In case of any translation issues, return the original text
+#        return text
 
 
 # Function to extract data from the first link
@@ -168,38 +168,38 @@ def scrape_data():
             df = pd.DataFrame(entire_doctors_list)
 
             # Translate specified columns before further processing
-            translation_columns = ['Position', 'Shape', 'Place', 'Subjects_covered', 'Specification']
-            for col in translation_columns:
-                if col in df.columns:
-                    df[col] = df[col].apply(lambda x: translate_text(x, target_language='en') if x else x)
+#            translation_columns = ['Position', 'Shape', 'Place', 'Subjects_covered', 'Specification']
+#            for col in translation_columns:
+#                if col in df.columns:
+#                    df[col] = df[col].apply(lambda x: translate_text(x, target_language='en') if x else x)
 
             # For the Assistants column, translate each inner field
-            if 'Assistants' in df.columns:
-                def translate_assistants(assistants_list):
-                    if not assistants_list:
-                        return assistants_list
-                    for assistant in assistants_list:
-                        assistant['Full_name'] = translate_text(assistant.get('Full_name', ''), target_language='en')
-                        assistant['Quality'] = translate_text(assistant.get('Quality', ''), target_language='en')
-                        assistant['Works_for'] = translate_text(assistant.get('Works_for', ''), target_language='en')
-                        assistant['Represents'] = translate_text(assistant.get('Represents', ''), target_language='en')
-                    return assistants_list
+#            if 'Assistants' in df.columns:
+#                def translate_assistants(assistants_list):
+#                    if not assistants_list:
+#                        return assistants_list
+#                    for assistant in assistants_list:
+#                       assistant['Full_name'] = translate_text(assistant.get('Full_name', ''), target_language='en')
+#                        assistant['Quality'] = translate_text(assistant.get('Quality', ''), target_language='en')
+#                        assistant['Works_for'] = translate_text(assistant.get('Works_for', ''), target_language='en')
+#                        assistant['Represents'] = translate_text(assistant.get('Represents', ''), target_language='en')
+#                    return assistants_list
 
-                df['Assistants'] = df['Assistants'].apply(translate_assistants)
+#                df['Assistants'] = df['Assistants'].apply(translate_assistants)
 
             # Structure the data so that each assistant gets its own row
             df = structuring_data(df)
 
             # Optionally, translate the assistant columns in the structured dataframe as well
-            assistant_columns = ['Assistant_Full_name', 'Assistant_Quality', 'Assistant_Works_for',
-                                 'Assistant_Represents']
-            for col in assistant_columns:
-                if col in df.columns:
-                    df[col] = df[col].apply(lambda x: translate_text(x, target_language='en') if x else x)
+ #           assistant_columns = ['Assistant_Full_name', 'Assistant_Quality', 'Assistant_Works_for',
+  #                               'Assistant_Represents']
+ #           for col in assistant_columns:
+ #               if col in df.columns:
+ #                   df[col] = df[col].apply(lambda x: translate_text(x, target_language='en') if x else x)
 
-            if not os.path.exists(f'output/{str(year)}'):
-                os.makedirs(f'output/{str(year)}')
-
+#            if not os.path.exists(f'output/{str(year)}'):
+#                os.makedirs(f'output/{str(year)}')
+#
             if not os.path.exists(f'output/{str(year)}/scraped_data'):
                 os.makedirs(f'output/{str(year)}/scraped_data')
 
