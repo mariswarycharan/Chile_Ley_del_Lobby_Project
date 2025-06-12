@@ -67,38 +67,38 @@ hide_st_style = """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 
-def language_translation(input_string, source_lan, target_lag):
-    language = {
-        'afrikaans': 'af', 'albanian': 'sq', 'amharic': 'am', 'arabic': 'ar', 'armenian': 'hy',
-        'azerbaijani': 'az', 'basque': 'eu', 'belarusian': 'be', 'bengali': 'bn', 'bosnian': 'bs',
-        'bulgarian': 'bg', 'catalan': 'ca', 'cebuano': 'ceb', 'chichewa': 'ny',
-        'chinese (simplified)': 'zh-cn', 'chinese (traditional)': 'zh-tw', 'corsican': 'co',
-        'croatian': 'hr', 'czech': 'cs', 'danish': 'da', 'dutch': 'nl', 'english': 'en',
-        'esperanto': 'eo', 'estonian': 'et', 'filipino': 'tl', 'finnish': 'fi', 'french': 'fr',
-        'frisian': 'fy', 'galician': 'gl', 'georgian': 'ka', 'german': 'de', 'greek': 'el',
-        'gujarati': 'gu', 'haitian creole': 'ht', 'hausa': 'ha', 'hawaiian': 'haw', 'hebrew': 'he',
-        'hindi': 'hi', 'hmong': 'hmn', 'hungarian': 'hu', 'icelandic': 'is', 'igbo': 'ig',
-        'indonesian': 'id', 'irish': 'ga', 'italian': 'it', 'japanese': 'ja', 'javanese': 'jw',
-        'kannada': 'kn', 'kazakh': 'kk', 'khmer': 'km', 'korean': 'ko', 'kurdish (kurmanji)': 'ku',
-        'kyrgyz': 'ky', 'lao': 'lo', 'latin': 'la', 'latvian': 'lv', 'lithuanian': 'lt',
-        'luxembourgish': 'lb', 'macedonian': 'mk', 'malagasy': 'mg', 'malay': 'ms', 'malayalam': 'ml',
-        'maltese': 'mt', 'maori': 'mi', 'marathi': 'mr', 'mongolian': 'mn', 'myanmar (burmese)': 'my',
-        'nepali': 'ne', 'norwegian': 'no', 'odia': 'or', 'pashto': 'ps', 'persian': 'fa',
-        'polish': 'pl', 'portuguese': 'pt', 'punjabi': 'pa', 'romanian': 'ro', 'russian': 'ru',
-        'samoan': 'sm', 'scots gaelic': 'gd', 'serbian': 'sr', 'sesotho': 'st', 'shona': 'sn',
-        'sindhi': 'sd', 'sinhala': 'si', 'slovak': 'sk', 'slovenian': 'sl', 'somali': 'so',
-        'spanish': 'es', 'sundanese': 'su', 'swahili': 'sw', 'swedish': 'sv', 'tajik': 'tg',
-        'tamil': 'ta', 'telugu': 'te', 'thai': 'th', 'turkish': 'tr', 'ukrainian': 'uk',
-        'urdu': 'ur', 'uyghur': 'ug', 'uzbek': 'uz', 'vietnamese': 'vi', 'welsh': 'cy',
-        'xhosa': 'xh', 'yiddish': 'yi', 'yoruba': 'yo', 'zulu': 'zu'
-    }
+#def language_translation(input_string, source_lan, target_lag):
+#    language = {
+#        'afrikaans': 'af', 'albanian': 'sq', 'amharic': 'am', 'arabic': 'ar', 'armenian': 'hy',
+#        'azerbaijani': 'az', 'basque': 'eu', 'belarusian': 'be', 'bengali': 'bn', 'bosnian': 'bs',
+#        'bulgarian': 'bg', 'catalan': 'ca', 'cebuano': 'ceb', 'chichewa': 'ny',
+#        'chinese (simplified)': 'zh-cn', 'chinese (traditional)': 'zh-tw', 'corsican': 'co',
+#        'croatian': 'hr', 'czech': 'cs', 'danish': 'da', 'dutch': 'nl', 'english': 'en',
+#        'esperanto': 'eo', 'estonian': 'et', 'filipino': 'tl', 'finnish': 'fi', 'french': 'fr',
+#        'frisian': 'fy', 'galician': 'gl', 'georgian': 'ka', 'german': 'de', 'greek': 'el',
+#        'gujarati': 'gu', 'haitian creole': 'ht', 'hausa': 'ha', 'hawaiian': 'haw', 'hebrew': 'he',
+#        'hindi': 'hi', 'hmong': 'hmn', 'hungarian': 'hu', 'icelandic': 'is', 'igbo': 'ig',
+#        'indonesian': 'id', 'irish': 'ga', 'italian': 'it', 'japanese': 'ja', 'javanese': 'jw',
+#        'kannada': 'kn', 'kazakh': 'kk', 'khmer': 'km', 'korean': 'ko', 'kurdish (kurmanji)': 'ku',
+#        'kyrgyz': 'ky', 'lao': 'lo', 'latin': 'la', 'latvian': 'lv', 'lithuanian': 'lt',
+#        'luxembourgish': 'lb', 'macedonian': 'mk', 'malagasy': 'mg', 'malay': 'ms', 'malayalam': 'ml',
+#        'maltese': 'mt', 'maori': 'mi', 'marathi': 'mr', 'mongolian': 'mn', 'myanmar (burmese)': 'my',
+#        'nepali': 'ne', 'norwegian': 'no', 'odia': 'or', 'pashto': 'ps', 'persian': 'fa',
+#        'polish': 'pl', 'portuguese': 'pt', 'punjabi': 'pa', 'romanian': 'ro', 'russian': 'ru',
+#        'samoan': 'sm', 'scots gaelic': 'gd', 'serbian': 'sr', 'sesotho': 'st', 'shona': 'sn',
+#        'sindhi': 'sd', 'sinhala': 'si', 'slovak': 'sk', 'slovenian': 'sl', 'somali': 'so',
+#        'spanish': 'es', 'sundanese': 'su', 'swahili': 'sw', 'swedish': 'sv', 'tajik': 'tg',
+#        'tamil': 'ta', 'telugu': 'te', 'thai': 'th', 'turkish': 'tr', 'ukrainian': 'uk',
+#        'urdu': 'ur', 'uyghur': 'ug', 'uzbek': 'uz', 'vietnamese': 'vi', 'welsh': 'cy',
+#        'xhosa': 'xh', 'yiddish': 'yi', 'yoruba': 'yo', 'zulu': 'zu'
+#    }
 
-    translated_text = GoogleTranslator(
-        source=language.get(source_lan, 'auto'),
-        target=language.get(target_lag, 'en')
-    ).translate(input_string)
+#    translated_text = GoogleTranslator(
+#        source=language.get(source_lan, 'auto'),
+#        target=language.get(target_lag, 'en')
+#    ).translate(input_string)
 
-    return translated_text
+#    return translated_text
 
 # Add logo and styling
 st.image("assets/final.png", width=500)
@@ -121,9 +121,9 @@ selected_institution = st.sidebar.selectbox("Department", display_options)
 if selected_institution != "Home":
     st.sidebar.subheader("Choose a Year:")
     current_year_val = datetime.now().year
-    year_options = [str(y) for y in range(2023, current_year_val + 1)]
+    year_options = [str(y) for y in range(2025,current_year_val + 1)]
     selected_year = st.sidebar.selectbox("Year", year_options)
-    user_prefered_language = st.sidebar.radio("Select Language", ["english", "spanish"])
+    #user_prefered_language = st.sidebar.radio("Select Language", ["english", "spanish"])
     st.session_state.year = selected_year
     selected_institution_db = institutions[selected_institution]
     choice = f"{selected_institution} {selected_year}"
@@ -146,7 +146,7 @@ def load_model():
     os.getenv("GOOGLE_API_KEY")
     genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
-    model = ChatGoogleGenerativeAI(model="gemini-1.5-flash",
+    model = ChatGoogleGenerativeAI(model="gemini-2.0-flash",
                                    temperature=0.8, convert_system_message_to_human=True)
     embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
 
@@ -194,6 +194,7 @@ def get_conversational_chain(vector_store):
     - Structure your response professionally in a **point-by-point**, **bold**, **italic**, or **bullet-point** format where appropriate.
     - If the user query is an open-ended question, act like a normal conversational chatbot.
     - Generate related questions based on the context below, ensuring that each generated question is relevant and can be answered using the provided context and chat history.
+    - Las respuestas deben estar en español.
 
     Given the following conversation and a follow-up question, rephrase the follow-up question to be a standalone question.
     Use the following chat history and context to generate a helpful answer to the user’s question.
@@ -375,8 +376,8 @@ if choice != "Home":
                 response = user_input(prompt)
                 output_generated_text = response["answer"]
 
-                if user_prefered_language != "english":
-                    output_generated_text = language_translation(output_generated_text,"english",user_prefered_language)
+                #if user_prefered_language != "english":
+                    #output_generated_text = language_translation(output_generated_text,"english",user_prefered_language)
 
                 st.chat_message("assistant").markdown(output_generated_text)
 
