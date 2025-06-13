@@ -121,7 +121,7 @@ selected_institution = st.sidebar.selectbox("Department", display_options)
 if selected_institution != "Home":
     st.sidebar.subheader("Choose a Year:")
     current_year_val = datetime.now().year
-    year_options = [str(y) for y in range(2025,current_year_val + 1)]
+    year_options = [str(y) for y in range(2023,current_year_val + 1)]
     selected_year = st.sidebar.selectbox("Year", year_options)
     #user_prefered_language = st.sidebar.radio("Select Language", ["english", "spanish"])
     st.session_state.year = selected_year
