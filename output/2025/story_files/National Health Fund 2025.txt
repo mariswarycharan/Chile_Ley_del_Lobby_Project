@@ -824,9 +824,9 @@ Se informa de manera general de algunos ajustes menores al proyecto normativo, r
 
 **Participants:**
 The meeting included:
-Jorge Corral (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
+Jorge Corral (Lobista, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Esteban Padilla Farías (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
+Andrea Reinoso (Lobista, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Andrés Vergara Laso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 
 **Key Details:**
@@ -855,9 +855,9 @@ Se informa de manera general de algunos ajustes menores al proyecto normativo, r
 
 **Participants:**
 The meeting included:
-Jorge Corral (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
+Jorge Corral (Lobista, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Esteban Padilla Farías (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
+Andrea Reinoso (Lobista, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Andrés Vergara Laso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 
 **Key Details:**
@@ -996,7 +996,7 @@ Presentan propuesta de servicios que ofrecen tanto tecnología para traspasos de
 
 **Participants:**
 The meeting included:
-Carolina Rubio (Lobbista, working for Edenred Chile S.A, representing EDENRED CHILE S.A.)
+Carolina Rubio (Gestor de intereses, working for Edenred Chile S.A, representing EDENRED CHILE S.A.)
 Ricardo Henríquez (Gestor de intereses, working for Edenred Chile S.A, representing EDENRED CHILE S.A.)
 
 **Key Details:**
@@ -1128,7 +1128,7 @@ Se esperó hasta las 15:20 hrs. sin que se presentaran los gestores de interés.
 
 **Participants:**
 The meeting included:
-Claudio Ramírez (Lobbista, working for Consiglieri Asesorias Limitada, representing TECNOFARMA S.A.)
+Claudio Ramírez (Lobista, working for Consiglieri Asesorias Limitada, representing TECNOFARMA S.A.)
 Carlos Dufeu (Gestor de intereses, working for Merck Sharp and Dohme IA LLC, representing TECNOFARMA S.A.)
 Reinaldo Cornejo (Gestor de intereses, working for Tencofarma Industria Farmacéutica, representing TECNOFARMA S.A.)
 
@@ -1411,7 +1411,7 @@ Tema:  El funcionario solicita traslado a la Seremi de la RM, se indica que, aun
 
 **Participants:**
 The meeting included:
-Mauro Leonardo Arce Soto (Lobbista, working for nan, representing Seremi De Salud Los Lagos)
+Mauro Leonardo Arce Soto (Lobista, working for nan, representing Seremi De Salud Los Lagos)
 Tomás Godoy (Gestor de intereses, working for nan, representing Tomas Godoy Gotschlich)
 
 **Key Details:**
@@ -1439,7 +1439,7 @@ NO SE PRESENTA A LA CONEXIÓN DE LA REUNIÓN..
 
 **Participants:**
 The meeting included:
-Denise Devillaine (Lobbista, working for nan, representing Pet ct Concepción SA)
+Denise Devillaine (Lobista, working for nan, representing Pet ct Concepción SA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1725968
@@ -1672,7 +1672,7 @@ No asiste el Sr. Carlos Dufeu de Laboratorio Tecnofarma..
 
 **Participants:**
 The meeting included:
-Claudio Ramírez (Lobbista, working for Consiglieri Asesorias Limitada, representing TECNOFARMA S.A.)
+Claudio Ramírez (Lobista, working for Consiglieri Asesorias Limitada, representing TECNOFARMA S.A.)
 Carlos Dufeu (Gestor de intereses, working for Merck Sharp and Dohme IA LLC, representing TECNOFARMA S.A.)
 Reinaldo Cornejo (Gestor de intereses, working for Tencofarma Industria Farmacéutica, representing TECNOFARMA S.A.)
 
@@ -1700,7 +1700,7 @@ Señalan dudas por los indicadores que tienen mas de una alternativa terapéutic
 
 **Participants:**
 The meeting included:
-Claudio Ramírez (Lobbista, working for Consiglieri Asesorias Limitada, representing TECNOFARMA S.A.)
+Claudio Ramírez (Lobista, working for Consiglieri Asesorias Limitada, representing TECNOFARMA S.A.)
 Carlos Dufeu (Gestor de intereses, working for Merck Sharp and Dohme IA LLC, representing TECNOFARMA S.A.)
 Reinaldo Cornejo (Gestor de intereses, working for Tencofarma Industria Farmacéutica, representing TECNOFARMA S.A.)
 
@@ -2231,7 +2231,7 @@ Análisis y búsqueda de mecanismos disponibles en la actual regulación para la
 
 **Participants:**
 The meeting included:
-Juan Olea (Gestor de intereses, working for CGM Nuclear, representing EXAGEN)
+Juan Olea (Lobista, working for CGM Nuclear, representing EXAGEN)
 Mauricio Cifuentes (Gestor de intereses, working for nan, representing exagen)
 
 **Key Details:**
@@ -2364,7 +2364,7 @@ Bárbara Cabrera Leyton.
 
 **Participants:**
 The meeting included:
-Bárbara Cabrera (Lobbista, working for Fresenius Kabi S.A. (Recetario Magistral S.A.), representing Recetario Magistral Endovenoso SA)
+Bárbara Cabrera (Lobista, working for Fresenius Kabi S.A. (Recetario Magistral S.A.), representing Recetario Magistral Endovenoso SA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1737318
@@ -2814,7 +2814,7 @@ Los temas que abordáremos en esta reunión serian, aquellos proyectos de ley qu
 
 **Participants:**
 The meeting included:
-Stephanie Soto (Lobbista, working for CORPORACION MARTIN ALTO A LA NEGLIGENCIA MEDICA, representing corpracion Martin alto a las nagligencia medicas)
+Stephanie Soto (Lobista, working for CORPORACION MARTIN ALTO A LA NEGLIGENCIA MEDICA, representing corpracion Martin alto a las nagligencia medicas)
 Margarita Lineros (Gestor de intereses, working for nan, representing Margarita  Lineros)
 
 **Key Details:**
@@ -3270,7 +3270,7 @@ ACOMPAÑAMIENTO PARA LOS​ EQUIPOS DE ATENCIÓN DOMICILIARIA ​ EN EL NIVEL DE
 **Participants:**
 The meeting included:
 María TORRES (Gestor de intereses, working for BOSTOM MEDICAL DIVICE, representing Convatec Chile S.A)
-Daisy Jabre (Lobbista, working for BOSTOM MEDICAL DIVICE, representing Convatec Chile S.A)
+Daisy Jabre (Gestor de intereses, working for BOSTOM MEDICAL DIVICE, representing Convatec Chile S.A)
 Karla Escalona (nan, working for nan, representing nan)
 Juan Ilabaca (nan, working for nan, representing nan)
 
@@ -3909,7 +3909,7 @@ Puesta al día de propuesta y orientación de trabajo..
 
 **Participants:**
 The meeting included:
-Carolina Jofré (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
+Carolina Jofré (Lobista, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
 
 **Key Details:**
 Meeting Identifier: AO001AW1760106
@@ -4005,6 +4005,27 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/628861/782030
+
+
+---
+
+On March 10, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via Reunión recibida por D. Luis Echavarria. The meeting lasted 1 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Hola buenas tardes. Soy Rodrigo Ormeño, de Xlearning Space. Nos queremos reunir con ustedes para presentarles nuestra plataforma para creación de simuladores virtuales enfocados en la educación. En esta herramienta permitimos la creación de contenido educativo elarning de última generación basado en programas que permiten aprender haciendo a los profesionales de la salud, colaboradores y alumnos, aumentando la retención de contenidos, baja de costo y deserción académica..
+
+**Participants:**
+The meeting included:
+Rodrigo Ormeño (Gestor de intereses, working for nan, representing Rodrigo Ormeño Chavez)
+Rodrigo Ormeño (Gestor de intereses, working for nan, representing Rodrigo Ormeño Chavez)
+
+**Key Details:**
+Meeting Identifier: AO001AW1763716
+Platform: Reunión recibida por D. Luis Echavarria
+Duration: 1 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/471785/817128
 
 
 ---
@@ -4934,7 +4955,7 @@ Existe una brecha respecto al análisis de los datos que entregue el sistema de 
 **Participants:**
 The meeting included:
 Ana María Arriagada (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
-Adelio Emilio Misseroni Raddatz (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Adelio Emilio Misseroni Raddatz (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
 Iván  Mendoza González (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
 
 **Key Details:**
@@ -5095,7 +5116,7 @@ TEMA: Maria José Cumplido directora ejecutiva de Fundación Iguales, con el fin
 
 **Participants:**
 The meeting included:
-Maria Cumplido (Lobbista, working for Fundación Iguales, representing Fundación Iguales)
+Maria Cumplido (Lobista, working for Fundación Iguales, representing Fundación Iguales)
 
 **Key Details:**
 Meeting Identifier: AO001AW1782870
@@ -5471,6 +5492,41 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/698
 
 ---
 
+On March 20, 2025 at 09:00 AM, Daniela Vielma, the Profesional COMPIN, attended a videoconferencia meeting via Teams. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Queremos solicitar una reunión para poder aclarar el proceso de acreditación como institución certificadora para la gestión de la credencial de discapacidad.<br />
+ <br />
+Asistentes:<br />
+Victoria Celis, Inclusión Sostenible y Sustentable SPA.<br />
+Lorena Martínez, Inclusión Sostenible y Sustentable SPA.<br />
+Roberto Cortés, DCN. <br />
+Daniela Vielma, DCN. <br />
+<br />
+Desarrollo reunión:<br />
+<br />
+El equipo Inclusión Sostenible y Sustentable SPA. solicitó una reunión con el Departamento COMPIN Nacional para conocer los requisitos del proceso de reconocimiento como Entidad Calificadora de Discapacidad. Asimismo, se menciona el requerimiento de gestionar una nueva capacitación para sus profesionales. <br />
+Equipo DCN informo respecto al proceso de Reconocimiento de Entidades Calificadoras de Discapacidad y la estrategia de implementación para abordar los tiempos de espera del trámite.  <br />
+Resumen de acuerdos:<br />
+1.	DCN enviará los anexos con requisitos y planilla de inscripción para capacitación en IVADEC.<br />
+2.	El equipo de Inclusión Sostenible y Sustentable SPA, remitirá listado de solicitudes pendientes para efectuar seguimiento por parte de DCN..
+
+**Participants:**
+The meeting included:
+Lorena Martínez (Gestor de intereses, working for nan, representing Inclusión Sostenible y Sustentable SPA.)
+Victoria Celis (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO001AW1789123
+Platform: Teams
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/666328/817360
+
+
+---
+
 On March 24, 2025 at 09:30 AM, Fabiola Rosso, the Profesional Departamento de Coordinación de Garantías y Prestaciones en Salud., attended a videoconferencia meeting via Se enviará por correo electrónico link de audiencia. The meeting lasted 1 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
@@ -5781,7 +5837,7 @@ Minsal explica el contextos en general de desaqrrollo de la regulación y mencio
 
 **Participants:**
 The meeting included:
-Felipe Simonsohn (Gestor de intereses, working for WOM, representing Diageo Chile Ltda)
+Felipe Simonsohn (Gestor de intereses, working for UNHOLSTER S.A., representing Diageo Chile Ltda)
 Larissa Yllada (Gestor de intereses, working for nan, representing Diageo Chile Ltda)
 Esteban Murphy (Gestor de intereses, working for nan, representing Diageo Chile Ltda)
 
@@ -7104,7 +7160,7 @@ Presentar el desarrollo de nuestra plataforma que adapta y pone a disposición a
 
 **Participants:**
 The meeting included:
-Claudia Miralles Abarca (Gestor de intereses, working for Consultores en Comunicación Estratégica S.A. / Imaginaccion, representing Intelimed)
+Claudia Miralles Abarca (Lobista, working for Consultores en Comunicación Estratégica S.A. / Imaginaccion, representing Intelimed)
 Alan Nudman (Gestor de intereses, working for nan, representing Intelimed)
 Renato Leyton (Gestor de intereses, working for Consultores en Comunicación Estratégica S.A. / Imaginaccion, representing Intelimed)
 Felipe Frías (Gestor de intereses, working for nan, representing Intelimed)
@@ -7518,7 +7574,7 @@ Relaciones con COANIQUEM, Convenios de trabajo y desafíos futuros..
 **Participants:**
 The meeting included:
 JORGE FRANCISCO ROJAS ZEGERS (Gestor de intereses, working for FUNDACION COANIQUEM, representing COANIQUEM)
-Jorge Rojas Foldack (Lobbista, working for FUNDACION COANIQUEM, representing COANIQUEM)
+Jorge Rojas Foldack (Lobista, working for FUNDACION COANIQUEM, representing COANIQUEM)
 Pilar  Troncoso Rey (Gestor de intereses, working for nan, representing COANIQUEM)
 
 **Key Details:**
@@ -8164,7 +8220,7 @@ Datamedica Spa..
 
 **Participants:**
 The meeting included:
-Miguel Arteaga (Lobbista, working for DATAMEDICA S.A, representing DATAMEDICA SPA)
+Miguel Arteaga (Lobista, working for DATAMEDICA S.A, representing DATAMEDICA SPA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1822390
@@ -8972,7 +9028,7 @@ Miguel Arteaga La Rosa.
 
 **Participants:**
 The meeting included:
-Miguel Arteaga (Lobbista, working for DATAMEDICA S.A, representing DATAMEDICA SPA)
+Miguel Arteaga (Lobista, working for DATAMEDICA S.A, representing DATAMEDICA SPA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1828876
@@ -9494,7 +9550,6 @@ Próxima reunión martes 13 a las 11hrs en Monjitas 689, oficina 48..
 The meeting included:
 CARLOS MAURICIO REINOSO ROJAS (Gestor de intereses, working for nan, representing TECNOIMAGEN S.A.)
 Fernando Oyanedel Obligado (nan, working for nan, representing nan)
-FERNANDO MOLINA (nan, working for nan, representing nan)
 JUAN CARLOS VALENZUELA (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -11824,9 +11879,9 @@ Se informa que la materia esta evaluación, estudiando aspectos asociados al aba
 
 **Participants:**
 The meeting included:
-Jorge Corral (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
+Jorge Corral (Lobista, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Daniel Pérez (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
+Andrea Reinoso (Lobista, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 
 **Key Details:**
 Meeting Identifier: AO001AW1854050
@@ -12877,7 +12932,7 @@ Rodrigo Peralta - ALTIUS.
 
 **Participants:**
 The meeting included:
-Eilyn Varas (Lobbista, working for ALTIUS LOGISTICA CHILE SPA, representing ALTIUS LOGISTICA CHILE SPA)
+Eilyn Varas (Lobista, working for ALTIUS LOGISTICA CHILE SPA, representing ALTIUS LOGISTICA CHILE SPA)
 
 **Key Details:**
 Meeting Identifier: AO003AW1692802
@@ -13023,7 +13078,7 @@ CENABAST:    Patricio Sarabia<br />
 
 **Participants:**
 The meeting included:
-Claudio Ramírez (Lobbista, working for Consiglieri Asesorias Limitada, representing TECNOFARMA S.A.)
+Claudio Ramírez (Lobista, working for Consiglieri Asesorias Limitada, representing TECNOFARMA S.A.)
 Carlos Dufeu (Gestor de intereses, working for Merck Sharp and Dohme IA LLC, representing TECNOFARMA S.A.)
 Reinaldo Cornejo (Gestor de intereses, working for Tencofarma Industria Farmacéutica, representing TECNOFARMA S.A.)
 
@@ -13539,7 +13594,7 @@ Se coordina trabajo de contratos de implantes cocleares para la Ley Ricarte Soto
 
 **Participants:**
 The meeting included:
-Esteban Duffour (Lobbista, working for Azimuth Medical Devices, representing Azimuth Medical Devices Spa)
+Esteban Duffour (Lobista, working for Azimuth Medical Devices, representing Azimuth Medical Devices Spa)
 
 **Key Details:**
 Meeting Identifier: AO003AW1739663
@@ -13663,7 +13718,7 @@ Seguimiento reunión del 27Nov, en relación a la intermediación de Brentuximab
 
 **Participants:**
 The meeting included:
-Eugenia Hovsepian (Lobbista, working for Shire Chile SpA, representing Takeda SPA)
+Eugenia Hovsepian (Lobista, working for Shire Chile SpA, representing Takeda SPA)
 Barbara Vrech Null (Gestor de intereses, working for Shire Chile SpA, representing Takeda SPA)
 
 **Key Details:**
@@ -14317,7 +14372,7 @@ No se tiene registro de haber llevado a cabo esta reunión..
 
 **Participants:**
 The meeting included:
-Cristian Retamal (Lobbista, working for Importadora y Comercializadora Medtrade E.I.R.L., representing Importadora y Comercializadora Medtrade E.I.R.L.)
+Cristian Retamal (Lobista, working for Importadora y Comercializadora Medtrade E.I.R.L., representing Importadora y Comercializadora Medtrade E.I.R.L.)
 
 **Key Details:**
 Meeting Identifier: AO003AW1761360
@@ -18532,10 +18587,10 @@ Seguimiento Proceso MPP.
 
 **Participants:**
 The meeting included:
-Juan Guíñez (Lobbista, working for nan, representing CLINICA UNIVERSIDAD DE LOS ANDES)
-MIGUEL CANTILLANA MORALES (Lobbista, working for nan, representing Hospital Clínico Universidad de Los Andes)
-Juan Guíñez (Lobbista, working for nan, representing CLINICA UNIVERSIDAD DE LOS ANDES)
-MIGUEL CANTILLANA MORALES (Lobbista, working for nan, representing Hospital Clínico Universidad de Los Andes)
+Juan Guíñez (Lobista, working for nan, representing CLINICA UNIVERSIDAD DE LOS ANDES)
+MIGUEL CANTILLANA MORALES (Lobista, working for nan, representing Hospital Clínico Universidad de Los Andes)
+Juan Guíñez (Lobista, working for nan, representing CLINICA UNIVERSIDAD DE LOS ANDES)
+MIGUEL CANTILLANA MORALES (Lobista, working for nan, representing Hospital Clínico Universidad de Los Andes)
 
 **Key Details:**
 Meeting Identifier: AO004AW1715579
@@ -18906,7 +18961,7 @@ Se analiza la NT, se solicita modificar para que se pueda trabajar de forma inte
 
 **Participants:**
 The meeting included:
-Mario López (Lobbista, working for Sociedad de Trastornos Temporomandibulares y Dolor Orofacial, representing Sociedad de Trastornos Temporomandibulares y Dolor Orofacial)
+Mario López (Lobista, working for Sociedad de Trastornos Temporomandibulares y Dolor Orofacial, representing Sociedad de Trastornos Temporomandibulares y Dolor Orofacial)
 María Fariña (Gestor de intereses, working for nan, representing Sociedad de Trastornos Temporomandibulares y Dolor Orofacial)
 Josefina Saldivia (Gestor de intereses, working for nan, representing Sociedad de Trastornos Temporomandibulares y Dolor Orofacial)
 
@@ -19417,7 +19472,7 @@ Convenio COANIQUEM 2025..
 
 **Participants:**
 The meeting included:
-Jorge Rojas Foldack (Lobbista, working for FUNDACION COANIQUEM, representing COANIQUEM)
+Jorge Rojas Foldack (Lobista, working for FUNDACION COANIQUEM, representing COANIQUEM)
 ROLANDO SAAVEDRA OPAZO (Gestor de intereses, working for nan, representing COANIQUEM)
 Pilar  Troncoso Rey (Gestor de intereses, working for nan, representing COANIQUEM)
 
@@ -20661,6 +20716,44 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/140501/778801
+
+
+---
+
+On February 19, 2025 at 11:00 AM, Boris Parra, the Jefe Departamento Gestión de Cotizaciones y PFin, attended a presencial meeting via Monjitas 665, 4° piso. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Junto con saludar, quisiera solicitar condonación de multas e intereses cobrados por el pago atrasado de imposiciones periodo diciembre 2024.<br />
+Lamentablemente ese dia tuvimos problemas con el sistema bancario y luego con previred, lo que consta en los pantallazos que se adjuntan.<br />
+ <br />
+Las planillas fueron canceladas al dia siguiente a primera hora. El monto de las multas asciende a $2.698.635.- y, al ser una Corporación sin fines de lucro que trabaja para MINSAL, esto nos perjudica de sobremanera.<br />
+ <br />
+TOTAL ORIGINAL	            3.263.565 <br />
+TOTAL CON MULTA	             5.962.200 <br />
+MULTAS	             2.698.635 <br />
+ <br />
+Esperamos una respuesta satisfactoria respecto a esta consideración<br />
+ <br />
+Se adjuntan pantallazos de la falla de los sistemas.<br />
+<br />
+FONASA: Al revisar la bitácora del empleador en Previred, para el mes de diciembre 2024 se puede observar que el empleador no hizo la Declaración de Cotizaciones en forma oportuna como señala, sino que sólo generó las planillas de pago. El empleador comenzó recién a Comprometer las planillas para Pago (paso intermedio) a las 13:39 del día 13, es decir, casi al límite del cierre (13:45). <br />
+Dado lo anterior, el tiempo en que se Comprometen las planillas para Pago y el tiempo que realizó el pago efectivo, el sistema se cerró y quedó fuera de plazo.<br />
+<br />
+De acuerdo con la normativa vigente (Compendio de Normas Administrativas en Materia de Procedimientos de la Superintendencia de Salud o similar) la sola Generación de planillas no implica una Declaración de Cotizaciones.<br />
+Tal como señala la normativa relacionada a la Recaudación Electrónica de Cotizaciones: “En caso de que el plazo legal hubiere vencido, el cumplimiento de la obligación deberá efectuarse a través de los procedimientos tradicionales vigentes para el pago de cotizaciones atrasadas, sin que pueda homologarse la operación electrónica fallida a una declaración y no pago de las cotizaciones de salud”.<br />
+Producto de lo presentado, no se acoge solicitud de CONIN..
+
+**Participants:**
+The meeting included:
+Ignacio Rojas (Gestor de intereses, working for CONIN, representing Corporación Para La Nutrición Infantil)
+
+**Key Details:**
+Meeting Identifier: AO004AW1771628
+Platform: Monjitas 665, 4° piso
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704182/817166
 
 
 ---
@@ -23759,7 +23852,7 @@ Convenio de Trabajo Conjunto COANIQUEM-FONASA..
 
 **Participants:**
 The meeting included:
-Jorge Rojas Foldack (Lobbista, working for FUNDACION COANIQUEM, representing COANIQUEM)
+Jorge Rojas Foldack (Lobista, working for FUNDACION COANIQUEM, representing COANIQUEM)
 Rodrigo Tagle (Gestor de intereses, working for Inversiones Esmeralda Ltda, representing COANIQUEM)
 Francisco Alcalde (Gestor de intereses, working for nan, representing COANIQUEM)
 Pilar  Troncoso Rey (Gestor de intereses, working for nan, representing COANIQUEM)
@@ -24077,7 +24170,6 @@ Nicole Cádiz (nan, working for nan, representing nan)
 Milton Corral (nan, working for nan, representing nan)
 Catalina Benavente (nan, working for nan, representing nan)
 Solange Moller (nan, working for nan, representing nan)
-Daniela García (nan, working for nan, representing nan)
 
 **Key Details:**
 Meeting Identifier: AO004AW1831351
@@ -24205,8 +24297,8 @@ mesa de arancel.
 
 **Participants:**
 The meeting included:
-Carlos Becerra (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
-Marcos Santis (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Carlos Becerra (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Marcos Santis (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
 BARBARA PALMA GARAY (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
 Maria Paz Soto Ortega (Gestor de intereses, working for nan, representing Colegio Médico)
 
@@ -24259,7 +24351,6 @@ The meeting included:
 Cristian Etchegaray (Gestor de intereses, working for Servicios Medicos Tabancura spa, representing Cristián Etchegaray)
 Nicole Cádiz (nan, working for nan, representing nan)
 Milton Corral (nan, working for nan, representing nan)
-Daniela García (nan, working for nan, representing nan)
 
 **Key Details:**
 Meeting Identifier: AO004AW1834014
@@ -24300,7 +24391,6 @@ Agilizar la asignación de Folios GRD TPH.
 **Participants:**
 The meeting included:
 Nicole Cádiz (Gestor de intereses, working for nan, representing Nicole Cádiz)
-Daniela García (nan, working for nan, representing nan)
 Loreto Aguero (nan, working for nan, representing nan)
 María José Alvarado (nan, working for nan, representing nan)
 
@@ -24324,7 +24414,6 @@ Análisis Técnico RedSalud sobre la Modalidad de Cobertura Complementaria.
 The meeting included:
 Oscar Matus (Gestor de intereses, working for nan, representing Empresas RedSalud)
 Sebastián Reyes Gloffka (nan, working for nan, representing nan)
-Jose Antonio Sotomayor (nan, working for nan, representing nan)
 Vicky Escobar Farfan (nan, working for nan, representing nan)
 Rodrigo Santos (nan, working for nan, representing nan)
 Victoria Fierro (nan, working for nan, representing nan)
@@ -24380,6 +24469,30 @@ Subjects Discussed: Celebración, modificación o terminación a cualquier títu
 Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704335/800525
+
+
+---
+
+On June 26, 2025 at 11:00 AM, María Chacaltana, the Jefa (S) División de Administración, attended a videoconferencia meeting via Teams. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Solicitamos esta audiencia como representantes de una organización comunitaria constituida bajo PJ356368  que intenta desarrollar actividades en la Plaza de Bolsillo Santo Domingo, ubicada en Santo Domingo 1298 esquina Teatinos, espacio cuya propiedad pertenece a Fonasa. Nuestra organización, junto a otras tres entidades comunitarias —Huerto Urbano, Feria Libre y Foodtrucks— realiza acciones sociales, recreativas y de fomento local en dicho lugar, en la medida que es posible ya que no se encuentra 100% habilitada.<br />
+<br />
+El objetivo de la audiencia es poder revisar en conjunto la situación actual de la plaza, considerando los múltiples cierres sufridos debido a robos y la evidente falta de una administración permanente en terreno, lo cual ha generado incertidumbre en torno al uso del espacio. Entendemos que actualmente existe (o existió) un comodato entre Fonasa y la Ilustre Municipalidad de Santiago, por lo que nos gustaría abordar de manera respetuosa y colaborativa los antecedentes de dicho instrumento, ya que su vigencia —o eventual vencimiento— podría estar afectando la continuidad de este espacio comunitario..
+
+**Participants:**
+The meeting included:
+carmen carrasco Fernandez (Gestor de intereses, working for nan, representing Comunidad Canina Santo Domingo)
+
+**Key Details:**
+Meeting Identifier: AO004AW1837532
+Platform: Teams
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702441/817228
 
 
 ---
@@ -24459,7 +24572,7 @@ SE SOLICITA CONOCER ESTADO DE SEGUNDO AUMENTO DE CONTRATO DE RESOLUCIÓN DE PATO
 
 **Participants:**
 The meeting included:
-María Ossa (Lobbista, working for nan, representing CLINICA COLONIAL S.A.)
+María Ossa (Lobista, working for nan, representing CLINICA COLONIAL S.A.)
 Katia Freire (Gestor de intereses, working for Clinica Colonial SA, representing CLÍNICA COLONIAL)
 
 **Key Details:**
@@ -24583,7 +24696,7 @@ Para su correcta operación se requiere revisar nuevo convenio de trato directo 
 
 **Participants:**
 The meeting included:
-Edgardo Fuenzalida (Lobbista, working for FUNDACIÓN LAS ROSAS DE AYUDA FRATERNA, representing Fundación las Rosas)
+Edgardo Fuenzalida (Lobista, working for FUNDACIÓN LAS ROSAS DE AYUDA FRATERNA, representing Fundación las Rosas)
 Juan Saldivia (Gestor de intereses, working for nan, representing Fundación las Rosas)
 
 **Key Details:**
@@ -24702,6 +24815,39 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/809930
+
+
+---
+
+On June 18, 2025 at 11:00 AM, María Chacaltana, the Jefa (S) División de Administración, attended a videoconferencia meeting via Zoom. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Estimado Camilo<br />
+<br />
+Por la presente, junto con saludarle vía este medio, felicitarle por tan importante logro suyo; me presento, me llamo Juan Carlos Cepeda I., con Rut Nro. 10.816.184-1, <br />
+<br />
+Vengo en exponer factibilidad de solicitud de Ocupar el local Ubicado en la Comuna de Puente Ato, provincia cordillera La oficina está ubicada en Calle Diagonal Norte #780, de la comuna en comento, Villa Canaempu, de Puente Alto. <br />
+<br />
+Resido en la actualidad y por las de 58 años he sido vecino adjunto del mencionado local e incluso en su última inauguración de la cual también estuve presente el año 2022, pues bien, con el correr del tiempo se habilito para el uso de la atención de público a lo cual tiempo atrás hubo varios intentos de robo 2023 a la fecha, a lo cual alerte a las policías correspondientes y actualmente está en desuso, pues bien, de hace   un año a la fecha, de oficinas centrales área Mantención han venido a ver las instalaciones y personalmente me he acercado a vuestros funcionarios para preguntar, exponer y ver las condiciones del local ,razón por la cual expongo en un breve resumen EN REFERENCIA:<br />
+<br />
+<br />
+1.- Factibilidad de usar este local en modalidad en comodato, entendiendo que no se puede, pero en reemplazo de la misma, poner un canon de arriendo, haciéndome   cargo de Luz, Agua, mantención y otros de la misma, seguridad las 24 hrs. tanto para el local como para la comunidad de la Villa Canaempu la cual comprende 72 casas, además de velar por el buen uso del mismo, también prevención de posibles “okupas” que frecuentemente pretenden entrar de forma ilegítima y por la fuerza, de la cuales ya he evitado varios intentos de las mismas, poniendo en riesgo mi propia vida, con los vecinos alertados por mi persona.<br />
+<br />
+2.- finalidad del uso de la misma, hacer clases de capacitación, para la comunidad de la nuestra Villa. alrededores y Comuna de Puente Alto en 1era. instancia ya que además la villa cuenta con un local comunitario frente al local comentado, este comprende 1er y 2do.
+
+**Participants:**
+The meeting included:
+mario cepeda (Gestor de intereses, working for nan, representing juan carlos cepeda isla)
+
+**Key Details:**
+Meeting Identifier: AO004AW1843624
+Platform: Zoom
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702441/817227
 
 
 ---
@@ -25335,7 +25481,6 @@ On May 30, 2025 at 12:00 PM, Jessica Martínez, the Jefa Subdepartamento Gestió
 **Participants:**
 The meeting included:
 Paola Marchant (Gestor de intereses, working for hospital clinico viña del mar, representing Hospital Clinico Viña del Mar)
-Verónica Bravo (nan, working for nan, representing nan)
 
 **Key Details:**
 Meeting Identifier: AO004AW1854390
@@ -25424,8 +25569,8 @@ Se efectua la audiencia en la cual se presenta la oferta de programas de la Facu
 
 **Participants:**
 The meeting included:
-ALICIA ALEJANDRA BARNACHEA ORTIZ (Lobbista, working for COMPUTACIÓN GRAFICA APLICADA Y CIA LTDA, representing Pontificia Universidad Católica de Chile)
-Daniel Bartlett (Lobbista, working for nan, representing Pontificia Universidad Católica de Chile)
+ALICIA ALEJANDRA BARNACHEA ORTIZ (Lobista, working for COMPUTACIÓN GRAFICA APLICADA Y CIA LTDA, representing Pontificia Universidad Católica de Chile)
+Daniel Bartlett (Lobista, working for nan, representing Pontificia Universidad Católica de Chile)
 
 **Key Details:**
 Meeting Identifier: AO004AW1856385
@@ -25491,7 +25636,7 @@ Se realiza presentación de solución de Gestión de Personas, con módulos de a
 
 **Participants:**
 The meeting included:
-Andrea Tejos (Lobbista, working for Soluciones en Seguridad Limitada, representing Soluciones en Seguridad Ltda)
+Andrea Tejos (Lobista, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
 Tamara Gutiérrez (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -26029,7 +26174,6 @@ The meeting included:
 Cristian Etchegaray (Gestor de intereses, working for Servicios Medicos Tabancura spa, representing Cristián Etchegaray)
 Nicole Cádiz (nan, working for nan, representing nan)
 Milton Corral (nan, working for nan, representing nan)
-Daniela García (nan, working for nan, representing nan)
 
 **Key Details:**
 Meeting Identifier: AO004AW1869330
