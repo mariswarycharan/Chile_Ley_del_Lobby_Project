@@ -3694,7 +3694,7 @@ Campaña de concientización del Ataque Cerebro Vascular para la comunidad de es
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing Boehringer Ingelheim Ltda)
 MARIA SOL PLAMENATZ (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
 
 **Key Details:**
@@ -6090,8 +6090,8 @@ Actualización contexto GES-iSLGT2.
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
-Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
+Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1791571
@@ -6700,8 +6700,8 @@ Reunión seguimiento iSLGT2 en GES.
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
-Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
+Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1802668
@@ -8983,8 +8983,8 @@ Proceso GES 2025-2028 Diabetes Mellitus 2.
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
-Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
+Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1824147
@@ -11651,7 +11651,7 @@ Se realiza presentación relacionadas a la presentaciones de tenecteplase de 25 
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing Boehringer Ingelheim Ltda)
 Claudia Mejías (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
 Sol Plamenatz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
 
@@ -13498,8 +13498,8 @@ Solicitamos reunión con el fin de hacer seguimiento al nuevo GES 2025 e inclusi
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
-Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
+Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1859600
@@ -13905,8 +13905,8 @@ Se incorporan a la reunión por parte del Ministerio de Salud:<br />
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
-Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing Boehringer Ingelheim Ltda)
+Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing Boehringer Ingelheim Ltda)
 
 **Key Details:**
 Meeting Identifier: AO001AW1862381
@@ -14070,6 +14070,34 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/278283/821791
+
+
+---
+
+On July 11, 2025 at 08:00 AM, María Letelier, the Jefa Departamento Salud Digital, attended a videoconferencia meeting via Únase a la reunión de Zoom
+https://us02web.zoom.us/j/81317228311?pwd=2sVqojSj71zcAzJh21shxDPe9C5mh9.1
+
+ID de reunión: 813 1722 8311
+Código de acceso: 936561. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Retomar iniciativa de Servicio Telemedicina con servicio satelital y otros servicios Satelitales.
+
+**Participants:**
+The meeting included:
+Víctor Chávez (Gestor de intereses, working for nan, representing Axess Networks Solutions Chile S.A.)
+
+**Key Details:**
+Meeting Identifier: AO001AW1863921
+Platform: Únase a la reunión de Zoom
+https://us02web.zoom.us/j/81317228311?pwd=2sVqojSj71zcAzJh21shxDPe9C5mh9.1
+
+ID de reunión: 813 1722 8311
+Código de acceso: 936561
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305882/833351
 
 
 ---
@@ -15257,6 +15285,32 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/792
 
 ---
 
+On August 26, 2025 at 10:00 AM, Cristian Cofré, the Jefe  Departamento de Nutrición y Alimentos y Unidad de Programas Alimentarios DIPOL., attended a videoconferencia meeting via REUNIÓN VIRTUAL 
+serán recibidos por los jefes del Departamento de Alimentos y Nutrición, y del Departamento de Políticas y Regulaciones Farmacéuticas. 225740474. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+FLUJO DE ATENCION CDA Y UYD, TIEMPOS DE ATENCION, IMPORTANCIA E IMPACTO EN EL COMEX..
+
+**Participants:**
+The meeting included:
+SEBASTIÁN VIO ZAHR (Gestor de intereses, working for nan, representing CAMARA ADUANERA DE CHILE)
+Sergio Cabezas (Gestor de intereses, working for nan, representing CAMARA ADUANERA DE CHILE)
+Gustavo Oliva (Gestor de intereses, working for nan, representing CAMARA ADUANERA DE CHILE)
+
+**Key Details:**
+Meeting Identifier: AO001AW1878227
+Platform: REUNIÓN VIRTUAL 
+serán recibidos por los jefes del Departamento de Alimentos y Nutrición, y del Departamento de Políticas y Regulaciones Farmacéuticas. 225740474
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/684820/833587
+
+
+---
+
 On August 08, 2025 at 10:30 AM, Juan COLLAO, the Jefe del Departamento de Políticas y Regulaciones Farmacéuticas, attended a videoconferencia meeting via Sera atendido de manera telemática por el Sr. Collao. The meeting lasted 0 horas, 10 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
 
 **Purpose:**
@@ -15599,7 +15653,7 @@ https://minsal-cl-epi.zoom.us/j/83420207055?pwd=tbgrY67jXGzuEkXJYQG15LKRzpPRtr.1
 
 **Participants:**
 The meeting included:
-Willy Alcantar (Gestor de intereses, working for BeiGene Chile Limitada, representing Willy Herman Alcantar Quinteros)
+Willy Alcantar (Lobista, working for BeiGene Chile Limitada, representing Willy Herman Alcantar Quinteros)
 Mora Seiler (nan, working for nan, representing nan)
 Fernando Warley (nan, working for nan, representing nan)
 
@@ -15672,8 +15726,8 @@ Seguimiento al proceso iSLGT2 en GES.
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
-Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
+Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1883861
@@ -15816,6 +15870,34 @@ Subjects Discussed: Elaboración, tramitación, aprobación, modificación, dero
 Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/684820/829273
+
+
+---
+
+On July 18, 2025 at 08:00 AM, María Letelier, the Jefa Departamento Salud Digital, attended a videoconferencia meeting via Únase a la reunión de Zoom
+https://us02web.zoom.us/j/83687637492?pwd=cWnUlECklqT0ljUbtG4qDrA9J8NSVP.1
+
+ID de reunión: 836 8763 7492
+Código de acceso: 224326. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Uso de Inteligencia Artificial en Salud.
+
+**Participants:**
+The meeting included:
+Leandro Mario Cino (Gestor de intereses, working for nan, representing Leandro Mario Cino)
+
+**Key Details:**
+Meeting Identifier: AO001AW1886792
+Platform: Únase a la reunión de Zoom
+https://us02web.zoom.us/j/83687637492?pwd=cWnUlECklqT0ljUbtG4qDrA9J8NSVP.1
+
+ID de reunión: 836 8763 7492
+Código de acceso: 224326
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305882/833348
 
 
 ---
@@ -15967,7 +16049,7 @@ Presentación del Excellence Stroke Training Center (ESTC) en Chile, para profes
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing Boehringer Ingelheim Ltda)
 MARIA SOL PLAMENATZ (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
 Sandra Pino (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing Boehringer Ingelheim Ltda)
 
@@ -16154,6 +16236,36 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/109889/825008
+
+
+---
+
+On August 01, 2025 at 08:30 AM, María Letelier, the Jefa Departamento Salud Digital, attended a videoconferencia meeting via Únase a la reunión de Zoom
+https://us02web.zoom.us/j/89095256784?pwd=p5wq1QtsLEbuEPY2bstmwsyaev8Ff6.1
+
+ID de reunión: 890 9525 6784
+Código de acceso: 922780. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Presentación de un prototipo demostrativo que actúa como extensión visual del sistema Rayén, con el objetivo de facilitar el acceso de los pacientes a su información clínica de manera directa, intuitiva y digital. Esta propuesta fue entregada a la Corporación de Educación y Salud de Las Condes pareciéndoles interesante la propuesta, por lo que fue enviada una presentación para ser discutida. La audiencia tiene como propósito presentar esta idea a nivel ministerial, explicar su funcionamiento desde la perspectiva del paciente, y explorar su posible compatibilidad con la estrategia nacional de ficha única a través del sistema Rayén..
+
+**Participants:**
+The meeting included:
+Martín Beltrán (Gestor de intereses, working for nan, representing Martin Beltran)
+
+**Key Details:**
+Meeting Identifier: AO001AW1893451
+Platform: Únase a la reunión de Zoom
+https://us02web.zoom.us/j/89095256784?pwd=p5wq1QtsLEbuEPY2bstmwsyaev8Ff6.1
+
+ID de reunión: 890 9525 6784
+Código de acceso: 922780
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305882/833286
 
 
 ---
@@ -16537,8 +16649,8 @@ Plazos en proceso de compra del abastecimiento de nueva prestación iSLGT2 del G
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
-Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
+Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
 Freddy Quinchia (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
 
 **Key Details:**
@@ -16838,6 +16950,26 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/174
 
 ---
 
+On August 28, 2025 at 11:00 AM, Manuel Najera, the Jefe de Departamento Asesoría  Ministerial, attended a presencial meeting via ministerio de salud, mac iver 541 3er piso. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Se solicita audiencia para presentar trabajo y proyectos realizados en torno a medicamentos biosimilares en Sandoz, junto con abordar el escenario nacional en la materia..
+
+**Participants:**
+The meeting included:
+Cristobal Bravo Fuenzalida (Gestor de intereses, working for Sandoz Chile S.p.A, representing Sandoz Chile)
+
+**Key Details:**
+Meeting Identifier: AO001AW1912052
+Platform: ministerio de salud, mac iver 541 3er piso
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/517173/833580
+
+
+---
+
 On August 29, 2025 at 12:30 PM, Carlos Manzi, the Jefe División Inversiones - SRA, attended a presencial meeting via monjitas 689 of. 34 piso 3
 Carlos Manzi, Jefe División de Inversiones. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
@@ -17030,6 +17162,30 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/739
 
 ---
 
+On August 28, 2025 at 04:00 AM, Manuel Najera, the Jefe de Departamento Asesoría  Ministerial, attended a videoconferencia meeting via vc. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+- Reunión con Bruno Solari, encargado del equipo de humanización de la Salud, para conocer en mayor detalle el Plan Nacional de Humanización de la Salud, incluyendo sus objetivos, componentes y proyección.<br />
+- Dar a conocer la labor de Fundación Inspira.<br />
+- Explorar posibles formas de colaboración..
+
+**Participants:**
+The meeting included:
+Catalina Fernández (Gestor de intereses, working for nan, representing Fundación Inspira)
+Manuel Ramírez (Gestor de intereses, working for nan, representing Fundación Inspira)
+Jacinta González (Gestor de intereses, working for nan, representing Fundación Inspira)
+
+**Key Details:**
+Meeting Identifier: AO001AW1917714
+Platform: vc
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/517173/833568
+
+
+---
+
 On August 27, 2025 at 09:00 AM, Juan COLLAO, the Jefe del Departamento de Políticas y Regulaciones Farmacéuticas, attended a videoconferencia meeting via Sera atendida de manera telemática por el Sr. Collao. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
@@ -17081,6 +17237,28 @@ Subjects Discussed: Elaboración, dictación, modificación, denegación o recha
 Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/815687/833064
+
+
+---
+
+On August 29, 2025 at 03:00 PM, Manuel Najera, the Jefe de Departamento Asesoría  Ministerial, attended a presencial meeting via ministerio de salud. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Tratar materias relativas al proyecto de Ley que Moderniza el Sistema Nacional de Servicios de la Salud; fortalece al Fondo Nacional de Salud; crea el Servicio Nacional de Salud Digital; otorga facultades al Instituto de Salud Pública de Chile y a la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, y modifica normas que indica..
+
+**Participants:**
+The meeting included:
+Cristóbal Cuadra (Gestor de intereses, working for ASOCIACION CHILENA DE SEGURIDAD, representing Asociacion Chilena de Seguridad)
+Angel Vargas (Gestor de intereses, working for nan, representing Asociación Chilena de Seguridad)
+Alejandro Behnke (Gestor de intereses, working for nan, representing Asociacion Chilena de Seguridad)
+
+**Key Details:**
+Meeting Identifier: AO001AW1921360
+Platform: ministerio de salud
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/517173/833569
 
 
 ---
@@ -22456,8 +22634,8 @@ En la reunión se conversó acerca de la continuidad del abastecimiento de Tenec
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
-Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
+Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
 Isabel Silva (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -24202,6 +24380,49 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO003/audiencias/2025/662
 
 ---
 
+On August 18, 2025 at 03:00 PM, Tania González, the Jefa de Departamento  Técnica Farmacéutica, attended a videoconferencia meeting via Videoconferencia. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Cresciendo SpA solicita audiencia virtual para presentar tecnologías médicas de vanguardia que pueden revolucionar la atención sanitaria pública en Chile, generando ahorros significativos y mejorando drásticamente los resultados clínicos para millones de chilenos.<br />
+<br />
+Materias a abordar:<br />
+<br />
+1. Soluciones Avanzadas para Helicobacter Pylori<br />
+<br />
+Presentaremos tecnología Headway que permite diagnóstico y tratamiento más eficaz de H. pylori, reduciendo costos hospitalarios y mejorando tasas de curación en un 40%, impactando directamente la alta prevalencia de esta bacteria en la población chilena.<br />
+<br />
+2. Tomografía Dental de Última Generación<br />
+<br />
+Demostraremos cómo los tomógrafos dentales Largev pueden transformar la odontología pública, permitiendo diagnósticos precisos que previenen tratamientos costosos y mejoran la salud bucal poblacional, especialmente crítica en sectores vulnerables.<br />
+<br />
+3. Estrategia de Implementación en Red Pública<br />
+<br />
+Propondremos un modelo de implementación escalable que maximice el impacto en hospitales y consultorios públicos, con análisis de costo-beneficio que demuestra retorno de inversión en 18 meses.<br />
+<br />
+4. Alianzas Público-Privadas Innovadoras<br />
+<br />
+Presentaremos esquemas de financiamiento y transferencia tecnológica que permitan adopción inmediata sin impacto presupuestario inicial, incluyendo capacitación y soporte técnico integral.<br />
+<br />
+Estas soluciones, ya validadas internacionalmente, representan una oportunidad única para posicionar a Chile como líder regional en innovación sanitaria, mejorando indicadores de salud pública mientras se optimizan recursos estatales.<br />
+<br />
+Impacto esperado: Beneficiar directamente a más de 500.000 pacientes anuales con tecnología de punta, reduciendo listas de espera y costos operacionales del sistema público..
+
+**Participants:**
+The meeting included:
+Jorge Romo (Gestor de intereses, working for nan, representing Cresciendo SPA)
+Andres Quevedo (Gestor de intereses, working for nan, representing Cresciendo SPA)
+
+**Key Details:**
+Meeting Identifier: AO003AW1910488
+Platform: Videoconferencia
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO003/audiencias/2025/367735/833797
+
+
+---
+
 On August 18, 2025 at 11:30 AM, David Opazo, the Jefe Subdepartamento Gestión Técnica y calidad, attended a videoconferencia meeting via ID de la reunión
 meet.google.com/qyh-uiud-sem. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
@@ -24346,8 +24567,8 @@ Se solicita reunión para revisar situación de abastecimiento de medicamento Te
 
 **Participants:**
 The meeting included:
-Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
-Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA., representing BOEHRINGER INGELHEIM LTDA)
+Claudia Torrealba Díaz (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
+Renán Fuentealba (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing BOEHRINGER INGELHEIM LTDA)
 Rodrigo Pozo (nan, working for nan, representing nan)
 Joaquin Lopez (nan, working for nan, representing nan)
 
@@ -24731,9 +24952,9 @@ Seguimiento Proceso MPP.
 
 **Participants:**
 The meeting included:
-Juan Guíñez (Lobista, working for nan, representing CLINICA UNIVERSIDAD DE LOS ANDES)
+Juan Guíñez (Gestor de intereses, working for nan, representing CLINICA UNIVERSIDAD DE LOS ANDES)
 MIGUEL CANTILLANA MORALES (Lobista, working for nan, representing Hospital Clínico Universidad de Los Andes)
-Juan Guíñez (Lobista, working for nan, representing CLINICA UNIVERSIDAD DE LOS ANDES)
+Juan Guíñez (Gestor de intereses, working for nan, representing CLINICA UNIVERSIDAD DE LOS ANDES)
 MIGUEL CANTILLANA MORALES (Lobista, working for nan, representing Hospital Clínico Universidad de Los Andes)
 
 **Key Details:**
