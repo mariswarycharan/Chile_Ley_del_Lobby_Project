@@ -467,7 +467,7 @@ Presentación de propuesta de programa de Prevención de LPP en cuidados paliati
 **Participants:**
 The meeting included:
 María TORRES (Gestor de intereses, working for Convatec Chile S.A, representing Convatec Chile S.A)
-Daisy Jabre (Lobista, working for Boston Medical Care de Chile, representing Convatec Chile S.A)
+Daisy Jabre (Gestor de intereses, working for Boston Medical Care de Chile, representing Convatec Chile S.A)
 
 **Key Details:**
 Meeting Identifier: AO001AW1703408
@@ -976,7 +976,7 @@ Se informa de manera general de algunos ajustes menores al proyecto normativo, r
 The meeting included:
 Jorge Corral (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Esteban Padilla Farías (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
 Andrés Vergara Laso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 
 **Key Details:**
@@ -1007,7 +1007,7 @@ Se informa de manera general de algunos ajustes menores al proyecto normativo, r
 The meeting included:
 Jorge Corral (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Esteban Padilla Farías (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
 Andrés Vergara Laso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 
 **Key Details:**
@@ -2954,7 +2954,7 @@ Plantear la necesidad de contar con una Estrategia Nacional contra la Ceguera co
 
 **Participants:**
 The meeting included:
-Gustavo Serrano (Gestor de intereses, working for Fundalurp, representing Fundación Lucha Contra la Retinitis Pigmentosa - Fundalurp)
+Gustavo Serrano (Gestor de intereses, working for FUNDALURP, representing Fundación Lucha Contra la Retinitis Pigmentosa - Fundalurp)
 
 **Key Details:**
 Meeting Identifier: AO001AW1741834
@@ -3518,7 +3518,7 @@ ACOMPAÑAMIENTO PARA LOS​ EQUIPOS DE ATENCIÓN DOMICILIARIA ​ EN EL NIVEL DE
 **Participants:**
 The meeting included:
 María TORRES (Gestor de intereses, working for Convatec Chile S.A, representing Convatec Chile S.A)
-Daisy Jabre (Lobista, working for Boston Medical Care de Chile, representing Convatec Chile S.A)
+Daisy Jabre (Gestor de intereses, working for Boston Medical Care de Chile, representing Convatec Chile S.A)
 Karla Escalona (nan, working for nan, representing nan)
 Juan Ilabaca (nan, working for nan, representing nan)
 
@@ -5008,7 +5008,7 @@ Plantear las inquietudes de Fundalurp, fundación oftalmológica, sobre la incor
 
 **Participants:**
 The meeting included:
-Gustavo Serrano (Gestor de intereses, working for Fundalurp, representing Fundación Lucha Contra la Retinitis Pigmentosa - Fundalurp)
+Gustavo Serrano (Gestor de intereses, working for FUNDALURP, representing Fundación Lucha Contra la Retinitis Pigmentosa - Fundalurp)
 
 **Key Details:**
 Meeting Identifier: AO001AW1775264
@@ -8068,7 +8068,7 @@ Presentar a Fundalurp, fundación oftalmológica chilena que aboga por la preven
 
 **Participants:**
 The meeting included:
-Gustavo Serrano (Gestor de intereses, working for Fundalurp, representing Fundación Lucha Contra la Retinitis Pigmentosa - Fundalurp)
+Gustavo Serrano (Gestor de intereses, working for FUNDALURP, representing Fundación Lucha Contra la Retinitis Pigmentosa - Fundalurp)
 
 **Key Details:**
 Meeting Identifier: AO001AW1815952
@@ -9359,7 +9359,7 @@ NO SE CONECTAN A LA REUNION POR ZOOM.
 
 **Participants:**
 The meeting included:
-Yeimy Castro (Lobista, working for Alta tecnologia Medica, representing alta tecnología medica spa)
+Yeimy Castro (Gestor de intereses, working for Alta tecnologia Medica, representing alta tecnología medica spa)
 
 **Key Details:**
 Meeting Identifier: AO001AW1827745
@@ -11094,7 +11094,7 @@ Estado de deuda Minsal - Entel.
 **Participants:**
 The meeting included:
 Antonio Buchi Buc (Gestor de intereses, working for Entel S.A., representing Entel S.A.)
-Claudio Anabalón (Gestor de intereses, working for Entel S.A., representing Entel S.A.)
+Claudio Anabalón (Lobista, working for Entel S.A., representing Entel S.A.)
 
 **Key Details:**
 Meeting Identifier: AO001AW1838318
@@ -11896,7 +11896,7 @@ Reunión Lobby sobre cáncer colorrectal:<br />
 **Participants:**
 The meeting included:
 Juan AMBAR (Gestor de intereses, working for CSL Behring SpA, representing Infinity Pharma SpA)
-Amaru Peraldi (Lobista, working for Martones SpA, representing Infinity Pharma SpA)
+Amaru Peraldi (Gestor de intereses, working for Martones SpA, representing Infinity Pharma SpA)
 Osvaldo Alejandro Pontiggia (Gestor de intereses, working for nan, representing Infinity Pharma SpA)
 
 **Key Details:**
@@ -12336,7 +12336,7 @@ Platform: Sera atendido de manera telemática por el Sr. Collao
 Duration: 0 horas, 30 minutos
 Subjects Discussed: Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones.
 
-Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622861/814841
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622861/814840
 
 
 ---
@@ -12819,7 +12819,7 @@ Se informa que la materia esta evaluación, estudiando aspectos asociados al aba
 The meeting included:
 Jorge Corral (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Daniel Pérez (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
 
 **Key Details:**
 Meeting Identifier: AO001AW1854050
@@ -13134,7 +13134,7 @@ Minsal describe en general el funcionamiento y gestión de compras del subprogra
 
 **Participants:**
 The meeting included:
-Amaru Peraldi (Lobista, working for Martones SpA, representing Infinity Pharma SpA)
+Amaru Peraldi (Gestor de intereses, working for Martones SpA, representing Infinity Pharma SpA)
 julieta melgarejo (Lobista, working for nan, representing Infinity Pharma SpA)
 Constanza Mahuzier (Lobista, working for nan, representing Infinity Pharma SpA)
 
@@ -13440,6 +13440,30 @@ Duration: 0 horas, 47 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/747159/816569
+
+
+---
+
+On July 11, 2025 at 10:30 AM, Juan COLLAO, the Jefe del Departamento de Políticas y Regulaciones Farmacéuticas, attended a videoconferencia meeting via Sera atendido de manera telemática por el Sr. Collao. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Buenos días,<br />
+Con respecto al rechazo de la audiencia AO001AW1855681, solicitamos nuevamente pueda concederla.<br />
+Desde ISP nos indican que hay una guía para registro de radiofármacos en revisión en MINSAL y queriamos discutir particularidades que debamos saber antes de que esta sea publicada.<br />
+Es posible que en reunión este presente Lorena Abarca quién especialista en Medicina Nuclear, Radioterapia y Radiofármacos, ella nos podría orientar acerca de que se debe tener en consideración para cumplir las disposiciones regulatorias y legales en el país..
+
+**Participants:**
+The meeting included:
+Carmen Cordero (Gestor de intereses, working for Novartis Chile S.A, representing Carmen Cordero)
+Bernardita Garín (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO001AW1858121
+Platform: Sera atendido de manera telemática por el Sr. Collao
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622861/834338
 
 
 ---
@@ -15653,7 +15677,7 @@ https://minsal-cl-epi.zoom.us/j/83420207055?pwd=tbgrY67jXGzuEkXJYQG15LKRzpPRtr.1
 
 **Participants:**
 The meeting included:
-Willy Alcantar (Lobista, working for BeiGene Chile Limitada, representing Willy Herman Alcantar Quinteros)
+Willy Alcantar (Gestor de intereses, working for BeiGene Chile Limitada, representing Willy Herman Alcantar Quinteros)
 Mora Seiler (nan, working for nan, representing nan)
 Fernando Warley (nan, working for nan, representing nan)
 
@@ -15803,7 +15827,7 @@ Estatus de Priorización de Tysabri Suncutaneo en relación con la Res. Exenta N
 
 **Participants:**
 The meeting included:
-José Feliú (Gestor de intereses, working for Scienza SPA, representing BIOGEN CHILE SPA)
+Rodrigo Feliú (Gestor de intereses, working for Biogen Chile SpA, representing BIOGEN CHILE SPA)
 Claudio Covini (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -15898,6 +15922,28 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305882/833348
+
+
+---
+
+On August 22, 2025 at 09:30 AM, Juan COLLAO, the Jefe del Departamento de Políticas y Regulaciones Farmacéuticas, attended a videoconferencia meeting via Sera atendido de manera telemática por el Sr. Collao. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Deseamos abordar las implicancias derivadas de la nueva definición de producto radiofarmacéutico incorporada en decreto exento Nº65/2020, que incluye productos no contemplados previamente por el DS N°3/2010. Esta modificación genera serias dificultades de cumplimiento normativo, especialmente para productos que por sus características intrínsecas no se ajustan a regulaciones pensadas para medicamentos tradicionales, como lo referente a CDA, UyD, control de calidad local y contramuestras. Esta situación representa un riesgo significativo de desabastecimiento para la medicina nuclear del país y limita el avance en el registro sanitario de productos radiofarmacéuticos, como generadores de radioisótopos, que no se encuentran claramente regulados en la normativa vigente. En este contexto, buscamos discutir propuestas para una reglamentación diferenciada, proporcional y técnicamente viable, que permita dar continuidad a tratamientos y diagnósticos nucleares, resguardando la seguridad de los pacientes y alineándose con los objetivos del Plan Nacional del Cáncer..
+
+**Participants:**
+The meeting included:
+Juan Olea (Gestor de intereses, working for CGM Nuclear, representing EXAGEN SpA)
+Sebastián Andrés Trejo Rebolledo (Gestor de intereses, working for nan, representing EXAGEN SpA)
+Mauricio Cifuentes (Gestor de intereses, working for nan, representing EXAGEN SpA)
+
+**Key Details:**
+Meeting Identifier: AO001AW1886973
+Platform: Sera atendido de manera telemática por el Sr. Collao
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622861/834335
 
 
 ---
@@ -16164,6 +16210,32 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/739415/829710
+
+
+---
+
+On July 24, 2025 at 11:00 AM, Matías Tobar, the Jefe  Departamento de Proyectos de Atención Primaria-Div. Inversiones, attended a videoconferencia meeting via Audiencia atendida por Marlene Echeverría y Raúl Oyarzún, profesionales DPAPS y DMO, respectivamente.
+Se ha creado la siguiente sala de reunión Zoom:
+Enlace: https://us02web.zoom.us/j/86412421682
+Contraseña: 020925. The meeting lasted 0 horas, 50 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Plataforma IA, con respaldo de Corfo y ProChile. Permite realizar planes, proyectos y programas de salud basados en datos del Ministerio y metodología de marco lógico considerando un 95% más de Eficiencia y rapidez.  Facilitará la planificación, proyectos e inversión en salud a gran escala..
+
+**Participants:**
+The meeting included:
+Sergio Reyes (Gestor de intereses, working for nan, representing Smartpaper)
+
+**Key Details:**
+Meeting Identifier: AO001AW1891366
+Platform: Audiencia atendida por Marlene Echeverría y Raúl Oyarzún, profesionales DPAPS y DMO, respectivamente.
+Se ha creado la siguiente sala de reunión Zoom:
+Enlace: https://us02web.zoom.us/j/86412421682
+Contraseña: 020925
+Duration: 0 horas, 50 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/728911/836638
 
 
 ---
@@ -17042,6 +17114,27 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/508615/829923
+
+
+---
+
+On August 29, 2025 at 09:00 AM, Juan COLLAO, the Jefe del Departamento de Políticas y Regulaciones Farmacéuticas, attended a videoconferencia meeting via Sera atendido de manera telemática por el Sr. Collao. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+1. Propuesta de plan de difusión de Sistema RE (webinars)<br />
+2. Interoperabilidad Sistema RE con proveedores privados.
+
+**Participants:**
+The meeting included:
+Jean Duhart (Gestor de intereses, working for PRO SALUD CHILE A.G., representing Pro Salud Chile A.G.)
+
+**Key Details:**
+Meeting Identifier: AO001AW1914048
+Platform: Sera atendido de manera telemática por el Sr. Collao
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622861/834333
 
 
 ---
@@ -19238,7 +19331,7 @@ Conciliación de deuda.
 
 **Participants:**
 The meeting included:
-José Feliú (Gestor de intereses, working for Scienza SPA, representing Patricio Jaurreguiberry)
+Rodrigo Feliú (Gestor de intereses, working for Biogen Chile SpA, representing Patricio Jaurreguiberry)
 
 **Key Details:**
 Meeting Identifier: AO003AW1778298
@@ -20793,6 +20886,35 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO003/audiencias/2025/781
 
 ---
 
+On May 13, 2025 at 04:00 PM, Héctor Hernández, the Jefe Unidad Inteligencia de Negocios, attended a videoconferencia meeting via AO003AW1830571 lobby Johnson & Johnson
+Martes, 13 mayo · 16:00 – 16:30
+Zona horaria: America/Santiago
+Información para unirse a la reunión de Google Meet
+Vínculo a la videollamada: https://meet.google.com/yzu-cfed-nwb. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Solicitamos reunión por seguimiento proceso licitación Darzalex y Risperdal Consta, en base al Programa de Intermediacion.
+
+**Participants:**
+The meeting included:
+Hugo Aedo (Gestor de intereses, working for Johnson & Johnson, representing Johnson & Johnson de Chile S.A.)
+Gonzalo Dehays (Gestor de intereses, working for Johnson & Johnson, representing Johnson & Johnson de Chile S.A.)
+
+**Key Details:**
+Meeting Identifier: AO003AW1830571
+Platform: AO003AW1830571 lobby Johnson & Johnson
+Martes, 13 mayo · 16:00 – 16:30
+Zona horaria: America/Santiago
+Información para unirse a la reunión de Google Meet
+Vínculo a la videollamada: https://meet.google.com/yzu-cfed-nwb
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO003/audiencias/2025/662552/836569
+
+
+---
+
 On May 06, 2025 at 12:00 PM, Gisela Castro, the Jefa Subdepartamento Gestión Contratos, attended a videoconferencia meeting via Meet Google. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
 Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
@@ -22231,6 +22353,34 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO003/audiencias/2025/779
 
 ---
 
+On June 16, 2025 at 12:15 PM, Héctor Hernández, the Jefe Unidad Inteligencia de Negocios, attended a videoconferencia meeting via AO003AW1857731 Laboratorios Pint-Pharma Chile Spa
+Lunes, 16 junio · 12:15 – 12:45
+Zona horaria: America/Santiago
+Información para unirse a la reunión de Google Meet
+Vínculo a la videollamada: https://meet.google.com/drd-mgoi-fgt. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Mecanismos de compra para medicamentos de alto costo.
+
+**Participants:**
+The meeting included:
+Marisel Cepeda (Gestor de intereses, working for Laboratorios Pint Pharma Chile, representing Laboratorios Pint-Pharma Chile Spa)
+
+**Key Details:**
+Meeting Identifier: AO003AW1857731
+Platform: AO003AW1857731 Laboratorios Pint-Pharma Chile Spa
+Lunes, 16 junio · 12:15 – 12:45
+Zona horaria: America/Santiago
+Información para unirse a la reunión de Google Meet
+Vínculo a la videollamada: https://meet.google.com/drd-mgoi-fgt
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO003/audiencias/2025/662552/836560
+
+
+---
+
 On June 05, 2025 at 03:45 PM, Gisela Castro, the Jefa Subdepartamento Gestión Contratos, attended a videoconferencia meeting via Google Met. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
 Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
@@ -22361,6 +22511,44 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO003/audiencias/2025/779830/808466
+
+
+---
+
+On June 16, 2025 at 11:15 AM, Héctor Hernández, the Jefe Unidad Inteligencia de Negocios, attended a videoconferencia meeting via AO003AW1862942 demanda 100002805 a 100004026
+Lunes, 16 junio · 11:15 – 11:45
+Zona horaria: America/Santiago
+Información para unirse a la reunión de Google Meet
+Vínculo a la videollamada: https://meet.google.com/mqc-heqx-txf. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Estimados, junto con saludar, en esta ocasión solicitamos audiencia en continuación de reuniones con el equipo técnico,  abastecimiento Y subdepartamento de usuarios de CENABAST para realizar seguimiento y conocer detalles respecto a las cantidades requeridas del nuevo código 100002805 ingresado en su canasta, el que hará reemplazo del actual Código CENABAST 100004026.<br />
+<br />
+Se nos sugirió de las diferentes áreas contactar con ustedes para verificar la correcta captación de demanda en consideración de la nueva conversión de unidades con este nuevo código.<br />
+<br />
+Nos gustaría poder tener claridad de que las conversiones de unidades, para poder evaluar de la mejor manera futuras demandas..
+
+**Participants:**
+The meeting included:
+Felipe Ignacio De la Cerda Hausdorf (Gestor de intereses, working for BSN MEDICAL SpA, representing BSN MEDICAL SPA)
+Angelica Kart (Gestor de intereses, working for Laboratorio Astrazeneca, representing BSN MEDICAL SPA)
+Ingrid Olivares (Gestor de intereses, working for nan, representing BSN MEDICAL SPA)
+Joaquín Aguilera Hernández (Gestor de intereses, working for nan, representing BSN MEDICAL SPA)
+Nicole Pérez (Gestor de intereses, working for nan, representing BSN MEDICAL SPA)
+
+**Key Details:**
+Meeting Identifier: AO003AW1862942
+Platform: AO003AW1862942 demanda 100002805 a 100004026
+Lunes, 16 junio · 11:15 – 11:45
+Zona horaria: America/Santiago
+Información para unirse a la reunión de Google Meet
+Vínculo a la videollamada: https://meet.google.com/mqc-heqx-txf
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO003/audiencias/2025/662552/836566
 
 
 ---
@@ -23454,6 +23642,35 @@ Duration: 0 horas, 15 minutos
 Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO003/audiencias/2025/779830/819068
+
+
+---
+
+On August 05, 2025 at 10:00 AM, Héctor Hernández, the Jefe Unidad Inteligencia de Negocios, attended a videoconferencia meeting via AO003AW1890263 CIF anexo patentes
+Martes, 5 agosto · 10:00 – 10:30
+Zona horaria: America/Santiago
+Información para unirse a la reunión de Google Meet
+Vínculo a la videollamada: https://meet.google.com/hsj-uwgh-ewd. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Seguimiento a la implementación del Formulario Anexo de Patentes para proveedores.
+
+**Participants:**
+The meeting included:
+Carlos Portales (Gestor de intereses, working for nan, representing Cámara de la Innovación Farmacéutica de Chile)
+Ignacio Escobar (Gestor de intereses, working for nan, representing Cámara de la Innovación Farmacéutica de Chile)
+
+**Key Details:**
+Meeting Identifier: AO003AW1890263
+Platform: AO003AW1890263 CIF anexo patentes
+Martes, 5 agosto · 10:00 – 10:30
+Zona horaria: America/Santiago
+Información para unirse a la reunión de Google Meet
+Vínculo a la videollamada: https://meet.google.com/hsj-uwgh-ewd
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO003/audiencias/2025/662552/836575
 
 
 ---
@@ -26740,8 +26957,8 @@ Licitación 2do Prestador.
 
 **Participants:**
 The meeting included:
-Mauricio Verdejo (Gestor de intereses, working for SOCIEDAD ONCOVIDA S.A., representing Sociedad Oncovida S.A.)
-Verónica Arredondo (Gestor de intereses, working for SOCIEDAD ONCOVIDA S.A., representing Sociedad Oncovida S.A.)
+Mauricio Verdejo (Lobista, working for SOCIEDAD ONCOVIDA S.A., representing Sociedad Oncovida S.A.)
+Verónica Arredondo (Lobista, working for SOCIEDAD ONCOVIDA S.A., representing Sociedad Oncovida S.A.)
 
 **Key Details:**
 Meeting Identifier: AO004AW1760456
@@ -28557,7 +28774,7 @@ Deuda de Fonasa con Oncovida.
 
 **Participants:**
 The meeting included:
-Mauricio Verdejo (Gestor de intereses, working for SOCIEDAD ONCOVIDA S.A., representing Oncovida S.A.)
+Mauricio Verdejo (Lobista, working for SOCIEDAD ONCOVIDA S.A., representing Oncovida S.A.)
 Cristian Carrasco (Gestor de intereses, working for nan, representing Oncovida S.A.)
 
 **Key Details:**
@@ -29561,7 +29778,7 @@ INFORMACION DE LOS BENEFICIOS SOCIALES DE LA  CAJA DE COMPENSACION LA ARAUCANA.
 
 **Participants:**
 The meeting included:
-Juan Manuel Ibarguren Cavalca (Lobista, working for CAJA COMPESACION LA ARAUCANA, representing CCAF LA ARAUCANA)
+Juan Manuel Ibarguren Cavalca (Gestor de intereses, working for CAJA COMPESACION LA ARAUCANA, representing CCAF LA ARAUCANA)
 María Araya (Gestor de intereses, working for CAJA COMPESACION LA ARAUCANA, representing CCAF. LA ARAUCANA)
 CLAUDIO SALINAS (Gestor de intereses, working for CAJA COMPESACION LA ARAUCANA, representing CCAF LA ARAUCANA)
 
@@ -32181,7 +32398,7 @@ Se realiza presentación de solución de Gestión de Personas, con módulos de a
 
 **Participants:**
 The meeting included:
-Andrea Tejos (Gestor de intereses, working for Soluciones en Seguridad Limitada, representing Soluciones en Seguridad Ltda)
+Andrea Tejos (Gestor de intereses, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
 Tamara Gutiérrez (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -32827,7 +33044,7 @@ Se realiza reunion con Angelica Morales, quien presenta los servicios de la empr
 
 **Participants:**
 The meeting included:
-Jaime Astudillo (Lobista, working for ATCOM OUTSOURCING S.A., representing Atcom Outsourcing, SA)
+Jaime Astudillo (Gestor de intereses, working for ATCOM OUTSOURCING S.A., representing Atcom Outsourcing, SA)
 
 **Key Details:**
 Meeting Identifier: AO004AW1865315
@@ -34757,6 +34974,28 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702001/830613
+
+
+---
+
+On August 26, 2025 at 10:00 AM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via Zoom. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Incorporación de la Hemodiafiltración postdilucional en línea como una prestación codificada e independiente dentro del arancel FONASA, dadas sus ventajas clínicas comprobadas, su creciente adopción a nivel internacional y su potencial impacto en la reducción de costos asociados a complicaciones y hospitalizaciones en pacientes con enfermedad renal crónica terminal (ERCT)..
+
+**Participants:**
+The meeting included:
+Cristian Pedreros (Gestor de intereses, working for nan, representing Fresenius Medical Care Chile - Pentafarma S.A.)
+Rodrigo Perez Cifuentes (nan, working for nan, representing nan)
+Carlos Gamez (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO004AW1902112
+Platform: Zoom
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/835927
 
 
 ---
@@ -37728,7 +37967,7 @@ Motivo: Factibilidad técnica análisis actividad de agua y solventes residuales
 **Participants:**
 The meeting included:
 Teresa Del Canto (Gestor de intereses, working for Sandoz Chile S.p.A, representing Sandoz Chile SpA)
-Guei Pin Sun (Lobista, working for Sandoz Chile S.p.A, representing Sandoz Chile SpA)
+Guei Pin Sun (Gestor de intereses, working for Sandoz Chile S.p.A, representing Sandoz Chile SpA)
 
 **Key Details:**
 Meeting Identifier: AO005AW1741788
@@ -37820,7 +38059,7 @@ Contacto ISP: vvenegas@ispch.cl
 Duration: 0 horas, 30 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
-Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/740910/777475
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/740910/777476
 
 
 ---
@@ -39495,7 +39734,7 @@ Presentación de Ejecutivo Comercial.
 
 **Participants:**
 The meeting included:
-Carlos Fernández (Lobista, working for GTD TELEDUCTOS, representing Grupo GTD)
+Carlos Fernández (Gestor de intereses, working for GTD TELEDUCTOS, representing Grupo GTD)
 
 **Key Details:**
 Meeting Identifier: AO005AW1755411
@@ -39909,7 +40148,7 @@ Somos ATCOM, una empresa con más de 32 años en el mercado de Reclutamiento y O
 
 **Participants:**
 The meeting included:
-Jaime Astudillo (Lobista, working for ATCOM OUTSOURCING S.A., representing ATCOM OUTSOURCING)
+Jaime Astudillo (Gestor de intereses, working for ATCOM OUTSOURCING S.A., representing ATCOM OUTSOURCING)
 
 **Key Details:**
 Meeting Identifier: AO005AW1758111
@@ -39972,10 +40211,10 @@ Además se conversó acerca del procedimiento general de registro sanitario y su
 **Participants:**
 The meeting included:
 Juan AMBAR (Gestor de intereses, working for CSL Behring SpA, representing Infinity Pharma SpA)
-Amaru Peraldi (Lobista, working for Martones SpA, representing Infinity Pharma SpA)
+Amaru Peraldi (Gestor de intereses, working for Martones SpA, representing Infinity Pharma SpA)
 Daniela Vásquez (nan, working for nan, representing nan)
 Juan AMBAR (Gestor de intereses, working for CSL Behring SpA, representing Infinity Pharma SpA)
-Amaru Peraldi (Lobista, working for Martones SpA, representing Infinity Pharma SpA)
+Amaru Peraldi (Gestor de intereses, working for Martones SpA, representing Infinity Pharma SpA)
 Daniela Vásquez (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -39985,7 +40224,7 @@ Contacto: vvenegas@ispch.cl
 Duration: 0 horas, 30 minutos
 Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
-Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/740910/777496
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/740910/777498
 
 
 ---
@@ -42009,7 +42248,7 @@ Saludos cordiales.
 **Participants:**
 The meeting included:
 Teresa Del Canto (Gestor de intereses, working for Sandoz Chile S.p.A, representing Sandoz Chile SpA)
-Guei Pin Sun (Lobista, working for Sandoz Chile S.p.A, representing Sandoz Chile SpA)
+Guei Pin Sun (Gestor de intereses, working for Sandoz Chile S.p.A, representing Sandoz Chile SpA)
 JOSE MIGUEL CRISOSTOMO LANDEROS (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -42115,7 +42354,7 @@ Al respecto se aclara a usuaria el marco normativo y se indica que los certifica
 
 **Participants:**
 The meeting included:
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval SA)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Laboratorios Saval SA)
 
 **Key Details:**
 Meeting Identifier: AO005AW1776905
@@ -42815,7 +43054,7 @@ En relación a la implementación de lo solicitado en la Resol E2854-24, desde S
 The meeting included:
 EDGARDO BASCUR (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Esteban Padilla Farías (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval SA)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Laboratorios Saval SA)
 Andrés Vergara Laso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 
 **Key Details:**
@@ -44670,7 +44909,7 @@ El tema a tratar es de competencia de Registro, productos de sintesis quimica.  
 **Participants:**
 The meeting included:
 Teresa Del Canto (Gestor de intereses, working for Sandoz Chile S.p.A, representing Sandoz Chile SpA)
-Guei Pin Sun (Lobista, working for Sandoz Chile S.p.A, representing Sandoz Chile SpA)
+Guei Pin Sun (Gestor de intereses, working for Sandoz Chile S.p.A, representing Sandoz Chile SpA)
 
 **Key Details:**
 Meeting Identifier: AO005AW1804173
@@ -44969,7 +45208,7 @@ Desde el ISP se respondió que, deberán hacer el ingreso de las solicitudes que
 **Participants:**
 The meeting included:
 ANDREA REYES (Gestor de intereses, working for Laboratorios Saval, representing LABORATORIOS SAVAL S.A.)
-DANIELA OPAZO (Lobista, working for Laboratorios Saval, representing LABORATORIOS SAVAL S.A.)
+DANIELA OPAZO (Lobista, working for Laboratorios Saval S.A., representing LABORATORIOS SAVAL S.A.)
 
 **Key Details:**
 Meeting Identifier: AO005AW1807188
@@ -48015,7 +48254,7 @@ Saludos Cordiales.
 **Participants:**
 The meeting included:
 María Victoria Díaz Meza (Gestor de intereses, working for Eurolabs Chile SpA, representing Eurolabs Chile SpA)
-Eduard De Luca López (Gestor de intereses, working for nan, representing Eurolabs Chile SpA)
+Eduard De Luca López (Lobista, working for Eurolabs Chile SpA, representing Eurolabs Chile SpA)
 
 **Key Details:**
 Meeting Identifier: AO005AW1827873
@@ -49509,7 +49748,7 @@ Desde el ISP se respondió que, hay restricciones institucionales para la acepta
 **Participants:**
 The meeting included:
 edita torres (Gestor de intereses, working for Sandoz Chile S.p.A, representing Sandoz Chile SpA)
-Guei Pin Sun (Lobista, working for Sandoz Chile S.p.A, representing SANDOZ CHILE S.p.A.)
+Guei Pin Sun (Gestor de intereses, working for Sandoz Chile S.p.A, representing SANDOZ CHILE S.p.A.)
 
 **Key Details:**
 Meeting Identifier: AO005AW1838225
@@ -49694,7 +49933,7 @@ CARLOS PARDO (Gestor de intereses, working for Instituto Sanitas S.A., represent
 Patricio Huenchuñir (Gestor de intereses, working for Asociación Industrial de laboratorios farmaceuticos, representing Asociación Industrial de Laboratorios Farmacéuticos A.G.)
 Roberto Leiva Leiva (Gestor de intereses, working for GADOR LTDA, representing Asociación Industrial de Laboratorios Farmacéuticos A.G.)
 Enrique Salinas (Gestor de intereses, working for Tencofarma Industria Farmacéutica, representing Asociación Industrial de Laboratorios Farmacéuticos A.G.)
-Claudio Javier Castro Villavicencio (Gestor de intereses, working for nan, representing Asociación Industrial de Laboratorios Farmacéuticos A.G.)
+Claudio Javier Castro Villavicencio (Gestor de intereses, working for Itf Labomed Farmaceutica ltda., representing Asociación Industrial de Laboratorios Farmacéuticos A.G.)
 
 **Key Details:**
 Meeting Identifier: AO005AW1839117
@@ -49879,7 +50118,7 @@ Platform: ----
 Duration: 0 horas, 25 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
-Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/740910/817004
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/740910/817003
 
 
 ---
@@ -50248,8 +50487,8 @@ Respecto de las rectificaciones, se indicó que, ya que se trata de modificacion
 **Participants:**
 The meeting included:
 EDGARDO BASCUR (Gestor de intereses, working for Laboratorios Saval, representing LABORATORIO SAVAL S.A.)
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing LABORATORIO SAVAL S.A.)
-DANIELA OPAZO (Lobista, working for Laboratorios Saval, representing LABORATORIO SAVAL S.A.)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing LABORATORIO SAVAL S.A.)
+DANIELA OPAZO (Lobista, working for Laboratorios Saval S.A., representing LABORATORIO SAVAL S.A.)
 
 **Key Details:**
 Meeting Identifier: AO005AW1843854
@@ -50368,7 +50607,7 @@ Consultan respecto al estado de la solicitud de evaluación del informe técnico
 The meeting included:
 EDGARDO BASCUR (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Esteban Padilla Farías (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
 Andrés Vergara Laso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Cecilia  Pérez Aspe (nan, working for nan, representing nan)
 Silvia Isabel Alarcón Bustos (nan, working for nan, representing nan)
@@ -51320,6 +51559,45 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/720
 
 ---
 
+On July 03, 2025 at 10:30 AM, Jorge Canales, the Jefatura Depto. Agencia Nacional de Medicamentos, attended a presencial meeting via sala reuniones 6to piso del edificio ANAMED
+----------------------------------------------------------
+Id. de reunión: 215 220 346 489 5
+Código de acceso: AQ6Ku34L. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Como parte del compromiso de Natura con la sostenibilidad, la innovación y el respeto a la normativa sanitaria, solicitamos esta audiencia para presentar una propuesta concreta relacionada con el modelo de fraccionamiento de productos cosméticos y la reutilización de envases, en el marco de nuestra Visión de Sostenibilidad 2030 y los objetivos globales de Natura &Co.<br />
+<br />
+Nos interesa abordar la Consulta Pública sobre la modificación del Decreto Supremo 239/02, que incorpora una propuesta normativa para el fraccionamiento de coproductos víveres (artículos 18A a 18H). Creemos que esta modificación puede constituir una base regulatoria importante para explorar experiencias piloto en otras categorías, como la cosmética, bajo ambientes controlados.<br />
+<br />
+Nuestra iniciativa contempla implementar un piloto de fraccionamiento de productos en tienda, en condiciones seguras, sin exposición al viento ni agentes contaminantes. Para ello, se importará desde Brasil una máquina fraccionadora ya presentada ante autoridades de ANVISA, con el propósito de operarla bajo estándares que se alineen con la consulta pública chilena.<br />
+<br />
+Proponemos que estas pruebas se realicen en un sandbox regulatorio, es decir, en un entorno seguro y supervisado, que permita evaluar con evidencia técnica la factibilidad del modelo, sin comprometer la salud pública ni los estándares de calidad. Todos los datos generados serán compartidos con el ISP para su análisis.<br />
+<br />
+Buscamos avanzar hacia una convergencia regulatoria que fomente la innovación, aumente la competitividad del país en el ámbito internacional y permita incorporar nuevas prácticas sostenibles y modelos de economía circular que respondan a las demandas de los consumidores y los desafíos medioambientales actuales..
+
+**Participants:**
+The meeting included:
+Natalia Ramos (Gestor de intereses, working for nan, representing Natura)
+José Antonio González Flores (Gestor de intereses, working for nan, representing Natura)
+CAMILA PEREZ (Gestor de intereses, working for nan, representing Natura)
+Claudia Contreras Troncoso (Gestor de intereses, working for nan, representing Natura)
+Raúl González (nan, working for nan, representing nan)
+Ines Carreño Zamora (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO005AW1848100
+Platform: sala reuniones 6to piso del edificio ANAMED
+----------------------------------------------------------
+Id. de reunión: 215 220 346 489 5
+Código de acceso: AQ6Ku34L
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/799948/836741
+
+
+---
+
 On July 10, 2025 at 09:30 AM, Jorge Canales, the Jefatura Depto. Agencia Nacional de Medicamentos, attended a presencial meeting via Sala reuniones 6to Piso - Edificio ANAMED, Av. Marathon N°1000.. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
 
 **Purpose:**
@@ -51776,8 +52054,8 @@ Con respecto a los registros de exportación, se indica que, en cuanto a los ant
 
 **Participants:**
 The meeting included:
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-DANIELA OPAZO (Lobista, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
+DANIELA OPAZO (Lobista, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
 Tatiana Isabel Contreras Martinez (nan, working for nan, representing nan)
 Lorena Fernanda Santibañez Bustos (nan, working for nan, representing nan)
 
@@ -51880,7 +52158,7 @@ Saludos.
 
 **Participants:**
 The meeting included:
-Gonzalo Farías (Lobista, working for IMPORTADORA E INVERSIONES PROLAB LIMITADA, representing Sur Austral SpA)
+Gonzalo Farías (Gestor de intereses, working for IMPORTADORA E INVERSIONES PROLAB LIMITADA, representing Sur Austral SpA)
 Paula Farías (Gestor de intereses, working for nan, representing SUR AUSTRAL SPA)
 
 **Key Details:**
@@ -52896,8 +53174,8 @@ Presentación de solución de Gestión de Personas, con módulos de asistencia d
 
 **Participants:**
 The meeting included:
-Jorge Valenzuela (Lobista, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
-Andrea Tejos (Gestor de intereses, working for Soluciones en Seguridad Limitada, representing Soluciones en Seguridad Ltda)
+Jorge Valenzuela (Gestor de intereses, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
+Andrea Tejos (Gestor de intereses, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
 
 **Key Details:**
 Meeting Identifier: AO005AW1858732
@@ -54029,6 +54307,35 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/717
 
 ---
 
+On June 27, 2025 at 09:00 AM, Susana Catalán, the Jefa Subdepartamento Abastecimiento, attended a videoconferencia meeting via Unirse a la reunión ahora
+Id. de reunión: 258 861 080 823 7
+Código de acceso: Jt3WS9i4. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Presentación de la Solución Datasense Chile: Detallar las características y funcionalidades de nuestro sistema de monitoreo y trazabilidad de parámetros críticos (temperatura, humedad, presión, etc.).<br />
+Beneficios del Sistema para Laboratorios Clínicos: Explicar cómo el monitoreo en tiempo real, las alertas proactivas , la conectividad 4G , la trazabilidad histórica y la generación de reportes personalizables contribuyen a la integridad de las muestras, la exactitud de resultados y el cumplimiento normativo.<br />
+Experiencia de Datasense Chile en el Sector Salud: Compartir nuestra trayectoria y colaboraciones exitosas con instituciones de alto estándar como clínicas de fertilidad, laboratorios y vacunatorios.<br />
+Consulta sobre Normativa Vigente y Mejores Prácticas: Discutir y comprender la regulación actual y las directrices aplicables al monitoreo de temperatura y trazabilidad en laboratorios clínicos y cadena de frío en Chile.<br />
+Potencial de Implementación y Cooperación: Explorar cómo la solución SIMT-4G puede adaptarse a las necesidades específicas de la institución y sus equipos críticos (refrigeradores, freezers, etc.) y discutir posibles vías de colaboración.
+
+**Participants:**
+The meeting included:
+Victoria Grillo (Gestor de intereses, working for nan, representing Datasense Chile SPA)
+Carlos Caballero (Gestor de intereses, working for nan, representing Datasense Chile SPA)
+
+**Key Details:**
+Meeting Identifier: AO005AW1868311
+Platform: Unirse a la reunión ahora
+Id. de reunión: 258 861 080 823 7
+Código de acceso: Jt3WS9i4
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/720625/834357
+
+
+---
+
 On July 10, 2025 at 11:00 AM, José Espinosa, the Jefe de Subdepartamento de Seguridad y Tecnologías en el Trabajo. Departamento Salud Ocupacional, attended a videoconferencia meeting via Plataforma Teams. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
 
 **Purpose:**
@@ -54832,7 +55139,7 @@ Desde el ISP se respondió que, se debe pedir un adelanto del 20%, no se puede a
 **Participants:**
 The meeting included:
 edita torres (Gestor de intereses, working for Sandoz Chile S.p.A, representing Sandoz Chile SpA)
-Guei Pin Sun (Lobista, working for Sandoz Chile S.p.A, representing sandoz Chile SpA)
+Guei Pin Sun (Gestor de intereses, working for Sandoz Chile S.p.A, representing sandoz Chile SpA)
 
 **Key Details:**
 Meeting Identifier: AO005AW1876788
@@ -55803,6 +56110,26 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/709
 
 ---
 
+On August 28, 2025 at 10:00 AM, José Espinosa, the Jefe de Subdepartamento de Seguridad y Tecnologías en el Trabajo. Departamento Salud Ocupacional, attended a videoconferencia meeting via Plataforma Teams. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Documentación relacionada a la validación de EPP en el ISP.
+
+**Participants:**
+The meeting included:
+Daniel Lepe (Gestor de intereses, working for nan, representing E.P.A.S. LTDA.)
+
+**Key Details:**
+Meeting Identifier: AO005AW1892342
+Platform: Plataforma Teams
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/709735/835128
+
+
+---
+
 On August 07, 2025 at 12:00 PM, MARÍA CECILIA LÓPEZ GUTIÉRREZ, the Jefatura Subdepto. Registro y Autorizaciones, attended a videoconferencia meeting via Plataforma Microsoft Teams. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
@@ -56455,6 +56782,30 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/777
 
 ---
 
+On August 19, 2025 at 09:30 AM, Jorge Canales, the Jefatura Depto. Agencia Nacional de Medicamentos, attended a videoconferencia meeting via Id. de reunión: 254 873 337 142 1
+Código de acceso: UV68hD3q. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Según un estudio realizado por la Facultad de Ingeniería y Ciencias Aplicadas de la Universidad de los Andes, un 73% de los chilenos bota los medicamentos que ya no usa y que están vencidos, un 21% los guarda y un 5% los regala. Del 73% de los remedios que se botan, un 15% se deja en el reciclaje, un 7% los desecha en el baño, un 1% en el alcantarillado y un 4% son eliminados en otro lugar. De esta manera con el objetivo de reducir el desperdicio de medicamentos en buen estado necesitamos contar con su apoyo normativo para la creación del Primer Banco de Medicamentos en Chile..
+
+**Participants:**
+The meeting included:
+Mauro Tamayo (Gestor de intereses, working for ILUSTRE MUNICIPALIDAD DE CERRO NAVIA, representing Municipalidad de Cerro Navia)
+Jorge Canales (nan, working for nan, representing nan)
+SERGIO MUÑOZ (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO005AW1904096
+Platform: Id. de reunión: 254 873 337 142 1
+Código de acceso: UV68hD3q
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/799948/834800
+
+
+---
+
 On August 14, 2025 at 11:00 AM, Boris Benavides, the Jefe de Departamento Salud de Salud Ocupacional, attended a videoconferencia meeting via PLATAFORMA TEAMS. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
 
 **Purpose:**
@@ -56526,6 +56877,31 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/706899/826804
+
+
+---
+
+On August 26, 2025 at 12:00 PM, MARÍA CECILIA LÓPEZ GUTIÉRREZ, the Jefatura Subdepto. Registro y Autorizaciones, attended a videoconferencia meeting via Plataforma MicrosoftTeams. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Para producto Dispositivo Médico Cavilon Crema de Protección Duradera, referencia al trámite N° 11520/24. <br />
+INDICO:<br />
+Habiendo realizado el máximo esfuerzo en la consecución del certificado de libre venta En donde está autorizada su comercialización o por el fabricante directo, Esto no ha sido posible. Y nos vemos enfrentados a una problemática corporativa muy fuerte por lo que respetuosamente solicitamos una reunión para exponer la casuística y poder visualizar una solución alcanzable.<br />
+SE AGRADECE<br />
+atentos y cordiales saludos.
+
+**Participants:**
+The meeting included:
+Fernando Baroni (Gestor de intereses, working for nan, representing SOLVENTUM)
+ROMINA FRANCISCA INFANTE RIQUELME (Gestor de intereses, working for nan, representing SOLVENTUM)
+
+**Key Details:**
+Meeting Identifier: AO005AW1905790
+Platform: Plataforma MicrosoftTeams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/799958/834401
 
 
 ---
@@ -56616,7 +56992,7 @@ Se les indica a los asistentes que, para almacenar productos farmacéuticos refr
 
 **Participants:**
 The meeting included:
-Williams Echeverría (Lobista, working for nan, representing Distribuidora Y Droguería Suiza SPA)
+Williams Echeverría (Gestor de intereses, working for nan, representing Distribuidora Y Droguería Suiza SPA)
 Hernán Opazo (Gestor de intereses, working for Aspen Chile S.A., representing Hernan Opazo Bernal)
 Maysie Vallejos (nan, working for nan, representing nan)
 
@@ -56772,6 +57148,30 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/823
 
 ---
 
+On August 28, 2025 at 01:00 PM, Jorge Canales, the Jefatura Depto. Agencia Nacional de Medicamentos, attended a videoconferencia meeting via Id. de reunión: 289 230 302 035 1
+Código de acceso: ZN6cq7j9. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Necesidad urgente de abastecimiento de anticonceptivo ( único en el mercado) para Cenabast / Resolución Exenta N°887 de 2022 exigencia control de serie para productos hormonales.
+
+**Participants:**
+The meeting included:
+Manuel Lucero (Gestor de intereses, working for Laboratorio Andromaco, representing Grunenthal Chile)
+Daniela Hirsch (Gestor de intereses, working for nan, representing Grunenthal Chile)
+Jorge Canales (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO005AW1910002
+Platform: Id. de reunión: 289 230 302 035 1
+Código de acceso: ZN6cq7j9
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/799948/836557
+
+
+---
+
 On August 12, 2025 at 10:00 AM, Sergio Muñoz, the Jefe de Sección de Control de Comercio Nacional. Departamento Agencia Nacional de Medicamentos, attended a videoconferencia meeting via se enviara link de conexión. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
 
 **Purpose:**
@@ -56807,7 +57207,7 @@ Indican que ambos productos llevan largo tiempo en el mercado, sin inconveniente
 The meeting included:
 Jorge Corral (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval SA)
 Esteban Padilla Farías (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval SA)
-Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval SA)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Laboratorios Saval SA)
 Maysie Vallejos (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -56848,6 +57248,26 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/777
 
 ---
 
+On August 22, 2025 at 10:00 AM, Sergio Muñoz, the Jefe de Sección de Control de Comercio Nacional. Departamento Agencia Nacional de Medicamentos, attended a videoconferencia meeting via se enviará link de conexión. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+En marzo de este año presentamos una solicitud para agregar el despachador Pedidos Ya al medio electronico farmex.cl y la aplicacion Farmex. El número de referencia es el 2293/25. Han transcurrido aprox 5 meses y todavia no hemos recibido comentarios ni tampoco la resolución con el permiso..
+
+**Participants:**
+The meeting included:
+Alejandro Pérez (Gestor de intereses, working for Farmex SpA, representing Farmex SpA)
+
+**Key Details:**
+Meeting Identifier: AO005AW1912028
+Platform: se enviará link de conexión
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/706899/834110
+
+
+---
+
 On August 14, 2025 at 04:00 PM, Lidia Calderon, the Jefa (S) Subdepto. Inspecciones, attended a videoconferencia meeting via Teams
 Id. de reunión: 211 339 641 916 5
 Código de acceso: wk3Dz7e6. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
@@ -56870,6 +57290,30 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/801027/827304
+
+
+---
+
+On August 27, 2025 at 09:00 AM, Patricio Reyes, the Jefatura (S)  Subdepto. Autorizaciones y Registros de Productos Farmacéuticos Nuevos y Biológicos., attended a videoconferencia meeting via ----. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Como representantes de SEVEN PHARMA Chile S.p.A., se desea solicitar una reunión de lobby con el fin de discutir la inclusión en el registro de LACTULOSA SOLUCIÓN ORAL 66,7%, número de registro F-28573/24 y LASRAZ SOLUCIÓN ORAL 66,7% (LACTULOSA), número de registro F-28832/25, la vía de administración de la vía rectal, debido a que, al momento de registrar ambos productos, no fue incluida la vía de administración rectal. Es por esto que se desea incluir la autorización de la vía de administración rectal, con el fin de alinearse al resto de los productos que cuentan con esta autorización, sin la provisión de estudios clínicos propios, dado que, para este cambio regulatorio, no aplicaría la demostración de esta información..
+
+**Participants:**
+The meeting included:
+Maria Elena Prieto Molina (Gestor de intereses, working for LABORATORIOS BAMBERG LTDA, representing Maria Elena Prieto Molina)
+Carlos Alberto Muñoz Orellana (Gestor de intereses, working for Opko Chile S.A, representing Carlos Alberto Muñoz Orellana)
+Juan Suárez (Gestor de intereses, working for SEVEN PHARMA CHILE, representing Juan Eduardo Suárez Carrasco)
+Paulina Jimenez (Gestor de intereses, working for nan, representing Paulina Estefanía Jiménez Pérez)
+Tatiana Contreras (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO005AW1912335
+Platform: ----
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/740910/836570
 
 
 ---
@@ -56916,6 +57360,27 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/823906/829745
+
+
+---
+
+On August 22, 2025 at 10:30 AM, Sergio Muñoz, the Jefe de Sección de Control de Comercio Nacional. Departamento Agencia Nacional de Medicamentos, attended a videoconferencia meeting via se enviará link de conexión. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Aclarar alcance de los requisitos para autorizar una farmacia alopática.
+
+**Participants:**
+The meeting included:
+Ana Mendoza (Gestor de intereses, working for Difem laboratorios S.A, representing ALMEDIS SPA)
+Fernando Villegas Pedreros (Gestor de intereses, working for REUTTER S.A., representing ALMEDIS SpA)
+
+**Key Details:**
+Meeting Identifier: AO005AW1913974
+Platform: se enviará link de conexión
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/706899/834111
 
 
 ---
@@ -56983,6 +57448,29 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/799
 
 ---
 
+On August 27, 2025 at 10:30 AM, Patricio Reyes, the Jefatura (S)  Subdepto. Autorizaciones y Registros de Productos Farmacéuticos Nuevos y Biológicos., attended a videoconferencia meeting via ----. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+- Recibir orientación respecto de las condiciones y requisitos exigidos por parte del ISP, para la importación de un producto que no está registrado a la fecha y que representa un alto beneficio para mejorar la calidad de vida de los pacientes con patologías de rodilla (artrosis).<br />
+- Evaluar la alternativa para la importación a través del Art. 99 sobre Autorización excepcional sin registro sanitario, del producto Cingal..
+
+**Participants:**
+The meeting included:
+Isabel Sánchez (Gestor de intereses, working for ORTHOPEDIC INNOVATION SPA, representing ORTHOPEDIC INNOVATION SPA)
+Fernando Téllez (Gestor de intereses, working for nan, representing ORTHOPEDIC INNOVATION SPA)
+José Crisóstomo (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO005AW1914847
+Platform: ----
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/740910/836565
+
+
+---
+
 On August 27, 2025 at 09:30 AM, Lidia Calderon, the Jefa (S) Subdepto. Inspecciones, attended a videoconferencia meeting via Teams
 Id. de reunión: 211 687 264 565 6
 Código de acceso: vt3G6bC7. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
@@ -57006,6 +57494,59 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/801027/831081
+
+
+---
+
+On August 29, 2025 at 09:30 AM, Sergio Muñoz, the Jefe de Sección de Control de Comercio Nacional. Departamento Agencia Nacional de Medicamentos, attended a videoconferencia meeting via se enviara link. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Nuevos anexos de los auxiliares de farmacia en los que se incentiva la venta de medicamentos caros, ya que incluye metas mensual y grupal de venta total de la farmacia, lo que va en contra del espíritu de la ley de fármacos, con esto los auxiliares de farmacia se ven presionados a ofrecer medicamentos mas caros para lograr las metas y recibir una mejor remuneración.<br />
+<br />
+Auxiliares Trainee , que han llegado a varias farmacias para ser capacitados..
+
+**Participants:**
+The meeting included:
+Viviana Castañeda (Gestor de intereses, working for nan, representing Sindicato de Profesionales de Farmacias Ahumada SpA y Filiales)
+Sandra Ortiz Herrera (nan, working for nan, representing nan)
+Mónica Fernández Guajardo (nan, working for nan, representing nan)
+David Rojas (nan, working for nan, representing nan)
+Luis Diaz Vergara (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO005AW1915798
+Platform: se enviara link
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/706899/834112
+
+
+---
+
+On August 28, 2025 at 12:00 PM, Jorge Chávez, the Jefatura (S) Subdepto. Registro Sanitario de Productos Farmacéuticos Bioequivalentes, attended a videoconferencia meeting via Videoconferencia. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Buena Tardes, <br />
+A propósito de lo establecido en DS 03/10, Párrafo cuarto, 2°, Articulo 52° relacionado con el procedimiento simplificado de registro, donde se indica que aplica "Cuando se trate de productos farmacéuticos que contengan el mismo principio activo, en igual cantidad por forma farmacéutica y la misma vía de administración que otro producto... ", requerimos verificar nuestro entendimiento al respecto, cuando el producto innovador fue formulado con una molécula activa de síntesis biologica y el producto que se requiere registrar como simplificado, fue formulado con una molécula activa de síntesis química (Con estudio de bioequivalencia)..
+
+**Participants:**
+The meeting included:
+Nancy Araneda (Gestor de intereses, working for Laboratorio Chile S.A., representing Laboratorio Chile S.A.)
+José Cárdenas (Gestor de intereses, working for Laboratorio Chile S.A., representing José Luis Cárdenas)
+Marcela EYZAGUIRRE (Gestor de intereses, working for nan, representing Laboratorio Chile)
+Javier Osorio (Gestor de intereses, working for nan, representing Laboratorio Chile)
+Veronica Peralta (Gestor de intereses, working for nan, representing Laboratorio Chile)
+Eduardo Apitzer (Gestor de intereses, working for nan, representing Laboratorio Chile S.A.)
+Guillermo Maligne (Gestor de intereses, working for nan, representing Guillermo Maligne)
+
+**Key Details:**
+Meeting Identifier: AO005AW1916148
+Platform: Videoconferencia
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/777580/836684
 
 
 ---
@@ -57114,6 +57655,74 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/777580/830384
+
+
+---
+
+On August 29, 2025 at 10:00 AM, Sergio Muñoz, the Jefe de Sección de Control de Comercio Nacional. Departamento Agencia Nacional de Medicamentos, attended a videoconferencia meeting via se enviara link. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Farmacia Estrella está ubicada frente a la Plaza de Punte Alto. A menos de 200 metros hay una Farmacia Cruz Verde 24 horas. Solicito reconsiderción de turno ético..
+
+**Participants:**
+The meeting included:
+Paulina Mocarquer (Gestor de intereses, working for nan, representing Farmacia Estrella SPA)
+
+**Key Details:**
+Meeting Identifier: AO005AW1918360
+Platform: se enviara link
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/706899/834109
+
+
+---
+
+On August 28, 2025 at 11:00 AM, Jorge Chávez, the Jefatura (S) Subdepto. Registro Sanitario de Productos Farmacéuticos Bioequivalentes, attended a videoconferencia meeting via Videoconferencia. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Se solicita reunión de lobby para revisar el Acto administrativo que dio origen a la Resolución N° 1373/2025 de fecha 05/08/2025 que resolvió la exención de análisis de control de calidad parcial y observo los análisis de Esterilidad y Endotoxinas, para el producto TYSABRI solución inyectable para perfusión 300 mg/15 mL, registro B-2178/21, que se encuentra en el Programa Ministerial de la Ley Ricarte Soto..
+
+**Participants:**
+The meeting included:
+Perfecta Del Río (Gestor de intereses, working for Carey y Cia. Limitada, representing Alejandra Del rio)
+Raúl Castro (Gestor de intereses, working for nan, representing Raul Alberto Castro Trujillo)
+Carolina Aguilar (Gestor de intereses, working for nan, representing Carolina Aguilar)
+
+**Key Details:**
+Meeting Identifier: AO005AW1919107
+Platform: Videoconferencia
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/777580/836705
+
+
+---
+
+On August 27, 2025 at 11:00 AM, Patricio Reyes, the Jefatura (S)  Subdepto. Autorizaciones y Registros de Productos Farmacéuticos Nuevos y Biológicos., attended a videoconferencia meeting via -----. The meeting lasted 0 horas, 20 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Se solicita la reunión para revisar los actos administrativos de las Res. 6758/25 - Res. 7078-25 - Res.6759/25 - Res.7076/25 de Modificaciones para los productos TRIKAFTA registros E-35/23 y E-34/23 por:<br />
+ <br />
+1. Presentar las discrepancias aprobadas en los folletos de información al profesional y al paciente de los productos Trikafta.<br />
+ <br />
+2. Plantear solicitar el “agotamiento de stock” para las unidades de Trikafta que serán importadas a Chile luego del período de gracia de 6 meses..
+
+**Participants:**
+The meeting included:
+juan arellano (Gestor de intereses, working for nan, representing VERTEX PHARMACEUTICALS (CHILE) SPA)
+Alejandra Del Rio (Gestor de intereses, working for nan, representing VERTEX PHARMACEUTICALS (CHILE) SPA)
+Aline Orfao (Gestor de intereses, working for nan, representing VERTEX PHARMACEUTICALS (CHILE) SPA)
+
+**Key Details:**
+Meeting Identifier: AO005AW1920525
+Platform: -----
+Duration: 0 horas, 20 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO005/audiencias/2025/740910/836556
 
 
 ---
