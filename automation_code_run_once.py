@@ -50,12 +50,12 @@ def run_script():
     
     # Step 1 : Scrape data from the website
     print("Scraping data from the website...")
-    #scrape_data()
+    scrape_data()
     print("Scraping completed.")
     
     # Step 2 : Generate narratives from the scraped data
     print("Generating narratives from the scraped data...")
-    #generate_narratives()
+    generate_narratives()
     print("Generating narratives completed.")
     
     # Step 3 : Create vector store
