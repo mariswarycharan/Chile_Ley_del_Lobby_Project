@@ -8,6 +8,11 @@ import os
 import random
 import datetime
 from deep_translator import GoogleTranslator  # Import deep translator
+import webbrowser
+
+# Toggle this when you actually want to open links
+OPEN_DETAIL_LINKS = True   # opens each meeting detail link
+OPEN_LISTING_PAGES = True  # opens the paginated listing pages
 
 
 # Define a helper function to handle requests with retries
@@ -123,8 +128,11 @@ def scrape_data():
 
     for institution, institution_name in institutions.items():
         for year in years:
-            for i in range(1, 3):  # Iterate through pages 1 and 2
+            for i in range(1, 3):
+                # Iterate through pages 1 and 2
                 page_url = f'https://www.leylobby.gob.cl/instituciones/{institution}/audiencias/{year}?page={i}'
+                if OPEN_LISTING_PAGES:
+                    webbrowser.open_new_tab(page_url)
                 response = safe_get(page_url)
                 if not response:
                     continue
@@ -149,6 +157,8 @@ def scrape_data():
                             columns = sub_row.find_all('td')
                             if len(columns) == 7:
                                 link_data = columns[6].find('a')['href']
+                                if OPEN_DETAIL_LINKS:
+                                    webbrowser.open_new_tab(link_data)
                                 time.sleep(random.uniform(1, 2))
                                 first_link_data_dist = first_link_data(link_data)
                                 entire_doctors_list.append({
