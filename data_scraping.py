@@ -11,7 +11,7 @@ from deep_translator import GoogleTranslator  # Import deep translator
 import webbrowser
 
 # Toggle this when you actually want to open links
-OPEN_DETAIL_LINKS = True   # opens each meeting detail link
+OPEN_DETAIL_LINKS = False   # opens each meeting detail link
 OPEN_LISTING_PAGES = True  # opens the paginated listing pages
 
 
