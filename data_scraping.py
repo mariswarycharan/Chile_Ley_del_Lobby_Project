@@ -128,6 +128,7 @@ def scrape_data():
 
     for institution, institution_name in institutions.items():
         for year in years:
+            entire_doctors_list = []
             for i in range(1, 3):
                 # Iterate through pages 1 and 2
                 page_url = f'https://www.leylobby.gob.cl/instituciones/{institution}/audiencias/{year}?page={i}'
