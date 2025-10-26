@@ -3323,6 +3323,48 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668
 
 ---
 
+On August 21, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Estimada María,<br />
+ <br />
+Soy Oscar Franco, representante de Amazon Web Services (AWS) para el Sector Público en Latinoamérica, hago parte de su equipo de cuenta el cual lidera Fabian Luengo. <br />
+Me dirijo a ustedes con el propósito de coordinar una reunión virtual donde podamos explorar sus objetivos estratégicos y proyectos tecnológicos planificados para 2025. En este encuentro, nos gustaría presentarles cómo AWS puede ser un aliado clave en su modernización digital y mejora de servicios para los beneficiarios.<br />
+<br />
+AWS ofrece servicios especialmente diseñados para instituciones de salud pública como FONASA. Quisiera destacar tres de ellos:<br />
+<br />
+Amazon HealthLake: Permite almacenar y analizar grandes volúmenes de datos de salud de manera segura y cumpliendo normativas del sector. Por ejemplo, podría utilizarse para centralizar y analizar datos de atenciones médicas a nivel nacional. <br />
+<br />
+Amazon Connect: Plataforma de contact center en la nube que podría mejorar significativamente la atención a los beneficiarios, permitiendo una gestión más eficiente de consultas y reclamos. <br />
+<br />
+AWS Lambda: Servicio de computación sin servidor que puede automatizar procesos clave, como la validación de beneficios o la aprobación de prestaciones médicas en tiempo real. <br />
+<br />
+Como caso de uso relevante, el Servicio Nacional de Salud del Reino Unido implementó una plataforma basada en la nube de AWS para gestionar la distribución de vacunas COVID-19, logrando coordinar eficazmente la vacunación de millones de ciudadanos.<br />
+<br />
+¿Le parece conveniente agendar una reunión virtual la próximas semanas? Estoy disponible para adaptarme a su agenda.<br />
+Si de hecho, esta no es una materia de su interés, le agradecería inmensamente si me dirige con la persona correcta.<br />
+Quedo atento a su respuesta.<br />
+<br />
+Saludos cordiales,<br />
+<br />
+Oscar Franco<br />
+AWS Sector Público | Latinoamérica.
+
+**Participants:**
+The meeting included:
+Oscar Franco (Gestor de intereses, working for nan, representing Servicios Amazon Web Services Chile Limitada)
+
+**Key Details:**
+Meeting Identifier: AO004AW1783332
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848064
+
+
+---
+
 On March 07, 2025 at 10:30 AM, Carmen Meza, the Jefa Departamento Atención Virtual, attended a videoconferencia meeting via Se enviará por mail oscarff@amazon.com,  el link para ingresar a la reunión. 
 Se solicita confirmar la cita a través del mismo medio. 
 La solicitud no había sido respondida por intermitencias del sistema.. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
@@ -5029,6 +5071,28 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/604
 
 ---
 
+On April 29, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Audiencia por Teams
+Esta cita es una actualización de la audiencia ya realizada, se ingresa información extemporáneamente debido a la caída de la plataforma.. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+El interes es difundir un modelo de gestión informático enfocado en innovar la administración y dar seguridad a la operación del SECTOR SALUD  a través de la obtención, sistematización, y generación de información de operación de los distintos procesos que tiene FONASA, con el fin de diagnosticar la eficacia de operación,  proyectar tendencias, diagnosticar brechas y problemas que existan, y ayuden a la toma decisión para mejorar la calidad, eficiencia, oportunidad y economia de los productos entregados por FONASA..
+
+**Participants:**
+The meeting included:
+Carlos Vicencio (Gestor de intereses, working for CENTRO DE PROFESIONALES PARA EL DESARROLLO E INNOVACIO, representing SOCIEDAD DE PROFESIONALES EN GESTION LTDA, O , GRUPO PANAL)
+
+**Key Details:**
+Meeting Identifier: AO004AW1814249
+Platform: Audiencia por Teams
+Esta cita es una actualización de la audiencia ya realizada, se ingresa información extemporáneamente debido a la caída de la plataforma.
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848059
+
+
+---
+
 On April 16, 2025 at 10:00 AM, Carmen Meza, the Jefa Departamento Atención Virtual, attended a videoconferencia meeting via Zoom. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
@@ -5920,6 +5984,26 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/140
 
 ---
 
+On June 26, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Ofrecer servicios de consultoría avanzada en procesos de seguros de salud y tecnologías digitales asociadas.
+
+**Participants:**
+The meeting included:
+Erick Cortez (Gestor de intereses, working for nan, representing Indra Sistemas Chile S.A.)
+
+**Key Details:**
+Meeting Identifier: AO004AW1824197
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848034
+
+
+---
+
 On May 06, 2025 at 09:00 AM, Elba Victoria Varas Espinoza, the Directora Dirección Zonal  Norte, attended a videoconferencia meeting via Estimada, buen día:
 
 La reunión será realizada vía teams, el link de conexión le será enviado a la brevedad. The meeting lasted 3 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
@@ -6098,6 +6182,26 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703
 
 ---
 
+On July 10, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Abordar necesidades relacionadas con Gestor Documental.
+
+**Participants:**
+The meeting included:
+Juan Calvo (Gestor de intereses, working for nan, representing APIUX Tech)
+
+**Key Details:**
+Meeting Identifier: AO004AW1826388
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848036
+
+
+---
+
 On May 05, 2025 at 11:00 AM, Marianela Villa, the Jefa Subdepartamento Convenios MLE y Ley Ricarte Soto, attended a videoconferencia meeting via Plataforma teams. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
@@ -6167,7 +6271,7 @@ Abordar con el director las características técnicas del bono PAD Fonasa de ab
 
 **Participants:**
 The meeting included:
-María Sainz (Lobista, working for Con-Fluencia, representing Sociedad Chilena de Cirugía Plástica)
+María Sainz (Gestor de intereses, working for Con-Fluencia, representing Sociedad Chilena de Cirugía Plástica)
 Susana Benitez (Gestor de intereses, working for nan, representing Sociedad Chilena de Cirugía Plástica)
 Alvaro Cuadra (Gestor de intereses, working for nan, representing Sociedad Chilena de Cirugía Plástica)
 
@@ -6459,8 +6563,8 @@ mesa de arancel.
 
 **Participants:**
 The meeting included:
-Carlos Becerra (Gestor de intereses, working for AIDS HEALTHCARE FOUNDATION, representing COLEGIO MÉDICO DE CHILE)
-Marcos Santis (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Carlos Becerra (Gestor de intereses, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Marcos Santis (Gestor de intereses, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
 BARBARA PALMA GARAY (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
 maria paz soto ortega (Gestor de intereses, working for nan, representing Colegio Médico)
 
@@ -6620,6 +6724,44 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/734
 
 ---
 
+On July 17, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Estimado Marcelo,<br />
+<br />
+Espero que este correo te encuentre muy bien. Mi nombre es Oscar Franco, del equipo de Sector Público de AWS, y junto con Fabián Luengo, quien lidera tu equipo de cuenta, queremos extenderte una cordial invitación para una reunión donde podamos:<br />
+<br />
+• Reconectar y fortalecer nuestra relación estratégica<br />
+• Avanzar en la firma del acuerdo de confidencialidad (NDA)<br />
+• Explorar oportunidades para desarrollar casos de éxito en conjunto<br />
+<br />
+Creemos que esta reunión será valiosa para alinear objetivos y potenciar el trabajo que FONASA viene realizando con AWS.<br />
+<br />
+¿Te parece si agendamos una reunión para la próxima semana? Por favor, indícame tu disponibilidad y con gusto coordinaremos un espacio que se ajuste a tu agenda.<br />
+<br />
+Quedo atento a tus comentarios.<br />
+<br />
+Saludos cordiales,<br />
+<br />
+Oscar Franco<br />
+Sector Público<br />
+Amazon Web Services.
+
+**Participants:**
+The meeting included:
+Oscar Franco (Gestor de intereses, working for nan, representing Servicios Amazon Web Services Chile Limitada)
+
+**Key Details:**
+Meeting Identifier: AO004AW1834716
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848041
+
+
+---
+
 On May 16, 2025 at 12:00 PM, Camilo Cid, the Jefe(a) de Servicio Fondo Nacional de Salud, attended a presencial meeting via Monjitas 665, piso 6. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
@@ -6640,6 +6782,29 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/466386/796113
+
+
+---
+
+On July 24, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Las materias a tratar son las siguientes: (a) Presentar la propuesta de autenticación biométrica de Roble Labs; (b) Conocer los desafíos FONASA a este respecto; (c) Conocer el procedimiento para postular a licitaciones o realizar convenios de prestación de servicios..
+
+**Participants:**
+The meeting included:
+Cristian Sáez (Gestor de intereses, working for FUNDACION DE CAPACITACION BOMBEROS DE CHILE, representing Roblelabs Spa)
+Nelson Juárez (Gestor de intereses, working for nan, representing Roblelabs Spa)
+
+**Key Details:**
+Meeting Identifier: AO004AW1836425
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848043
 
 
 ---
@@ -6684,6 +6849,26 @@ Subjects Discussed: Celebración, modificación o terminación a cualquier títu
 Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704335/800525
+
+
+---
+
+On July 31, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones..
+
+**Purpose:**
+Se solicita reunión para la semana del 19 de mayo o posterior con el objeto de presentar nuestra Empresa con mas de 30 años en el mercado y dar a conocer nuestros servicios que concuerdan con el plan de compras de la institución para este año 2025.
+
+**Participants:**
+The meeting included:
+Claudio Escobar (Gestor de intereses, working for Espex ingeniería Limitada, representing Espex Ingenieria Ltda.)
+
+**Key Details:**
+Meeting Identifier: AO004AW1837361
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848038
 
 
 ---
@@ -6903,6 +7088,41 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668
 
 ---
 
+On August 07, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Estimado/a<br />
+Espero que este mensaje le encuentre muy bien.<br />
+<br />
+Le escribo desde Guadaltel Chile, donde valoramos mucho las relaciones construidas a lo largo del tiempo, especialmente con quienes comparten nuestra visión de impulsar una administración pública más eficiente, moderna y cercana a la ciudadanía.<br />
+<br />
+En este último período, hemos seguido avanzando con fuerza en el desarrollo de soluciones tecnológicas para el Sector Público chileno, consolidando proyectos relevantes junto a instituciones como JUNAEB, Alta Dirección Pública, la SUBDERE y el Consejo para la Transparencia.<br />
+<br />
+Nuestro enfoque sigue siendo claro: aportar tecnología de vanguardia, apostando por el software de fuentes abiertas, la analítica de datos y, especialmente, por una Inteligencia Artificial sin hipotecas. Entrenamos nuestros modelos en servidores propios, sin compartir datos, asegurando así la soberanía tecnológica y el alineamiento con las necesidades reales de nuestras instituciones.<br />
+<br />
+Sería un gusto poder reunirnos y conversar sobre posibles líneas de colaboración en futuros proyectos. Le adjunto un dossier con más información actualizada sobre nuestra actividad.<br />
+<br />
+¿Podríamos coordinar una reunión en los próximos días? Estamos atentos a su disponibilidad para agendar en el momento que le resulte más conveniente.<br />
+<br />
+Agradezco desde ya su atención y quedo a su disposición.<br />
+Un cordial saludo,.
+
+**Participants:**
+The meeting included:
+Pablo Villablanca (Gestor de intereses, working for Guadaltel Chile Servicios de Información Limitada, representing Guadaltel Chile Servicios de Información SpA)
+Sergio Cifuentes (Gestor de intereses, working for Guadaltel Chile Servicios de Información Limitada, representing Guadaltel Chile Servicios de Información SpA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1840246
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848054
+
+
+---
+
 On June 17, 2025 at 10:00 AM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via Zoom. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
@@ -6948,6 +7168,36 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/713169/795527
+
+
+---
+
+On August 14, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+La audiencia solicitada tiene por objetivo presentar al Fonasa  las soluciones tecnológicas desarrolladas por Finapsys, enfocadas en la mejora de los procesos de gestión de cuentas médicas hospitalarias. Durante la reunión, se abordarán las siguientes materias:<br />
+<br />
+1. Presentación institucional de Finapsys, destacando nuestra experiencia en el desarrollo de plataformas digitales especializadas en procesos financieros y administrativos del sector salud.<br />
+2. Exposición de productos y servicios, con énfasis en soluciones que permiten optimizar la gestión y comunicación con distintos prestadores a través del portal RightNow, la API y portal MLE. <br />
+<br />
+3. Casos de éxito y experiencias previas de implementación en instituciones del área de la salud, incluyendo resultados concretos en eficiencia operativa y satisfacción de usuarios. Actualmente trabajamos con más de 20 clínicas.<br />
+<br />
+4. Interés en explorar oportunidades de colaboración, como la implementación de pilotos o convenios, que permitan evaluar el impacto y adaptabilidad de nuestras herramientas en el contexto de Fonasa<br />
+<br />
+El objetivo principal de la reunión es poner a disposición a Fonasa una serie de soluciones que pueden apoyar la modernización y eficiencia en la gestión de cuentas médicas hospitalarias, contribuyendo a una atención más ágil y efectiva para los pacientes y equipos clínicos..
+
+**Participants:**
+The meeting included:
+Gaspar Mardones Heredia (Gestor de intereses, working for nan, representing REIMBURSEMENT TECHNOLOGIES CHILE SpA/Finapsys)
+Luis Fernando Allende (Gestor de intereses, working for nan, representing REIMBURSEMENT TECHNOLOGIES CHILE SpA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1840759
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848057
 
 
 ---
@@ -7105,6 +7355,27 @@ Subjects Discussed: Celebración, modificación o terminación a cualquier títu
 Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702441/817227
+
+
+---
+
+On September 04, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Presentar arquitectura de Data basado en Microsoft Azure.
+
+**Participants:**
+The meeting included:
+Héctor Muñoz (Gestor de intereses, working for nan, representing Govms)
+Paolo Caviedes (Gestor de intereses, working for nan, representing Govms)
+
+**Key Details:**
+Meeting Identifier: AO004AW1843886
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848048
 
 
 ---
@@ -7302,7 +7573,7 @@ Presentar tecnologías sanitarias para el manejo del dolor crónico no oncológi
 **Participants:**
 The meeting included:
 Felipe Ignacio Barrueto Ávalos (Gestor de intereses, working for Grupo Etcheberry, representing Grupo Etcheberry Estrategia SpA)
-Claudia Ramos (Gestor de intereses, working for nan, representing Grünenthal Chilena Ltda.)
+Claudia Ramos (Gestor de intereses, working for GRUNENTHAL CHILENA LIMITADA, representing Grünenthal Chilena Ltda.)
 Leonardo Lourtau (Gestor de intereses, working for nan, representing Grünenthal Chilena Ltda.)
 CLAUDIA CUELLAR VALLE (Gestor de intereses, working for nan, representing Grünenthal Chilena Ltda.)
 
@@ -7387,6 +7658,29 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668
 
 ---
 
+On June 04, 2025 at 11:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a presencial meeting via Miraflores 383 piso 7. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Presentación de modelo de detección de transacciones riesgosas.
+
+**Participants:**
+The meeting included:
+Michel Moya (Gestor de intereses, working for nan, representing BST Servicios Operacionales y Tecnológicos SpA)
+Luis Marcelo Martinez Guerra (Gestor de intereses, working for nan, representing TECH-ONE GROUP S.A.)
+Gabriel Aguilera (Gestor de intereses, working for nan, representing TECH-ONE GROUP S.A.)
+Eduardo Lizama Téllez (Gestor de intereses, working for nan, representing BST Servicios Operacionales y Tecnológicos SpA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1847016
+Platform: Miraflores 383 piso 7
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848053
+
+
+---
+
 On May 29, 2025 at 03:00 PM, Marcela Tapia, the Jefa Departamento Gestión Comercial Centro Sur, attended a presencial meeting via Dirección Zonal Centro Sur. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones..
 
 **Purpose:**
@@ -7431,6 +7725,26 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/807853
+
+
+---
+
+On September 11, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Presentación de solución de ciberseguridad BeforeAI. A diferencia de los servicios ofrecidos por otras empresas del rubro, con Before AI predecimos cualquier ciber ataque con semanas de anticipación, entregando al servicio la posibilidad de bloquear, interrumpir y cancelar el ataque antes de que se produzca. Utilizamos un motor de Inteligencia Artificial avanzada para identificar los ciberdelincuentes y atacarlos antes de que inicien el acto delictual..
+
+**Participants:**
+The meeting included:
+Pablo Guillermo Zelmanovits Alegria (Gestor de intereses, working for Consultora ITMap Solutions SPA, representing Consultora ITMap Solutions)
+
+**Key Details:**
+Meeting Identifier: AO004AW1849582
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848052
 
 
 ---
@@ -7506,6 +7820,35 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/172682/812064
+
+
+---
+
+On September 25, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Buenos días estimado Marcelo, la idea de esta reunión, es poderle presentar el caso de éxito de implementación del Oracle ERP Cloud y EPM Cloud (planificación financiera) en ADRES Colombia por parte de Entelgy (Partner de Oracle). ADRES es la  Administradora de los Recursos del Sistema General de Seguridad Social en Salud en Colombia, es decir, el símil de FONASA.<br />
+<br />
+Fue un proyecto muy interesante y me gustaría que lo conociera, la información además le puede servir como insumo a la hora de iniciar una evaluación de actualización tecnológica del ERP en FONASA.<br />
+<br />
+Quedo atento a su disponibilidad.<br />
+<br />
+Muchas gracias y feliz día.<br />
+<br />
+Jose A. Duque<br />
+Gerente Negocios Oracle en Entelgy.
+
+**Participants:**
+The meeting included:
+Jose Duque (Gestor de intereses, working for nan, representing Entelgy Chile Consultores Limitada)
+
+**Key Details:**
+Meeting Identifier: AO004AW1851043
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848051
 
 
 ---
@@ -7893,7 +8236,7 @@ Se realiza presentación de solución de Gestión de Personas, con módulos de a
 
 **Participants:**
 The meeting included:
-Andrea Tejos (Gestor de intereses, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
+Andrea Tejos (Lobista, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
 Tamara Gutiérrez (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -8539,7 +8882,7 @@ Se realiza reunion con Angelica Morales, quien presenta los servicios de la empr
 
 **Participants:**
 The meeting included:
-Jaime Astudillo (Gestor de intereses, working for ATCOM OUTSOURCING S.A., representing Atcom Outsourcing, SA)
+Jaime Astudillo (Lobista, working for ATCOM OUTSOURCING S.A., representing Atcom Outsourcing, SA)
 
 **Key Details:**
 Meeting Identifier: AO004AW1865315
@@ -9316,6 +9659,26 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/822864
+
+
+---
+
+On July 22, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via Via Teams. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Servicios que se requiere agregar en API FONASA para aumentar prestaciones remotas y domiciliarias.
+
+**Participants:**
+The meeting included:
+José Barraza (Gestor de intereses, working for Anticipa S.A, representing SALUD DIGITAL SB SA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1878335
+Platform: Via Teams
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/848050
 
 
 ---

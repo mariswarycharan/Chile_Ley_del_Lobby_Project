@@ -12,7 +12,7 @@ import webbrowser
 
 # Toggle this when you actually want to open links
 OPEN_DETAIL_LINKS = False   # opens each meeting detail link
-OPEN_LISTING_PAGES = True  # opens the paginated listing pages
+OPEN_LISTING_PAGES = False # opens the paginated listing pages
 
 
 # Define a helper function to handle requests with retries

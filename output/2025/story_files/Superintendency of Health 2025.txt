@@ -49,7 +49,7 @@ PPI Esencial.
 
 **Participants:**
 The meeting included:
-Carolina Hidalgo Guajardo (Gestor de intereses, working for asociacion de isapres de chile, representing Esencial S.A.)
+Carolina Hidalgo Guajardo (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
 Marcela Palma (Gestor de intereses, working for Esencial S.A., representing Esencial S.A.)
 javiera hartmann (Gestor de intereses, working for asociacion de isapres de chile, representing Esencial S.A.)
 Carolina Marín Lopez (Gestor de intereses, working for nan, representing Esencial S.A.)
@@ -441,8 +441,8 @@ Verificación ICSA 2025..
 
 **Participants:**
 The meeting included:
-Carolina Hidalgo Guajardo (Gestor de intereses, working for asociacion de isapres de chile, representing Esencial S.A)
-Roberto Ibáñez (Gestor de intereses, working for Esencial S.A., representing Esencial S.A.)
+Carolina Hidalgo Guajardo (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A)
+Roberto Ibáñez (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
 
 **Key Details:**
 Meeting Identifier: AO006AW1769830
@@ -464,7 +464,7 @@ Verificación ICSA 2025..
 
 **Participants:**
 The meeting included:
-Francisco Astudillo (Gestor de intereses, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
 Cristian Eduardo Urrutia Gutiérrez (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
 
 **Key Details:**
@@ -872,7 +872,7 @@ Revisión al Manual de Cumplimiento Exámenes de Medicina Preventiva 2025..
 
 **Participants:**
 The meeting included:
-Francisco Astudillo (Gestor de intereses, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
 Cristian Eduardo Urrutia Gutiérrez (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
 Nicole Bravo (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
 
@@ -1208,7 +1208,7 @@ Mesas Técnicas del Examen de Medicina Preventiva 2025..
 
 **Participants:**
 The meeting included:
-Francisco Astudillo (Gestor de intereses, working for Isapre Consalud S.A., representing ISAPRE CONSALUD)
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD)
 Cristian Eduardo Urrutia Gutiérrez (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
 
 **Key Details:**
@@ -1424,7 +1424,7 @@ Mesas Técnicas del Examen de Medicina Preventiva 2025..
 
 **Participants:**
 The meeting included:
-Francisco Astudillo (Gestor de intereses, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
 Cristian Eduardo Urrutia Gutiérrez (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
 
 **Key Details:**
@@ -1541,7 +1541,7 @@ Tratar materias relacionadas con la Circular IF/N° 499, de fecha 26 de marzo de
 **Participants:**
 The meeting included:
 Rodrigo Medel (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
-Francisco Astudillo (Gestor de intereses, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
 Francisco González (Gestor de intereses, working for Isapre Consalud S.A., representing Isapre Consalud S.A.)
 
 **Key Details:**
@@ -1703,7 +1703,7 @@ Indica sus principales desafíos en temas de ciberseguridad y protección de Dat
 **Participants:**
 The meeting included:
 Víctor Inostroza (Lobista, working for Indra Sistemas Chile SA, representing Indra Sistemas Chile S.A)
-Pedro Gallardo (Gestor de intereses, working for Indra Sistemas Chile SA, representing Indra Sistemas Chile S.A)
+Pedro Gallardo (Gestor de intereses, working for Indra Sistemas Chile S.A., representing Indra Sistemas Chile S.A)
 ROBERTO ESPINA MANCHÓN (Gestor de intereses, working for nan, representing INDRA SOLUCIONES TECNOLOGICAS DE LA INFORMACIÓN S.L.U)
 JAVIER MALLO VÁZQUEZ (Gestor de intereses, working for nan, representing INDRA SOLUCIONES TECNOLOGICAS DE LA INFORMACIÓN S.L.U)
 ALFONSO FERNÁNDEZ JIMÉNEZ (Gestor de intereses, working for nan, representing INDRA SOLUCIONES TECNOLOGICAS DE LA INFORMACIÓN S.L.U)
@@ -1726,7 +1726,7 @@ Solicitamos una reunión para revisar si habrá una segunda comunicación a los 
 
 **Participants:**
 The meeting included:
-Carolina Hidalgo Guajardo (Gestor de intereses, working for asociacion de isapres de chile, representing Esencial S.A.)
+Carolina Hidalgo Guajardo (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
 Marcela Palma (Gestor de intereses, working for Esencial S.A., representing Esencial S,A.)
 
 **Key Details:**
@@ -1748,7 +1748,7 @@ Reglas para el ajuste del precio a contratos a la cotización obligatoria, plane
 **Participants:**
 The meeting included:
 Francisco González (Gestor de intereses, working for isapre consalud, representing Isapre Consalud)
-Francisco Astudillo (Gestor de intereses, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
 Ignacio González (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
 
 **Key Details:**
@@ -2264,8 +2264,8 @@ Información Centralizada de las distintas dependencias y sucursales, con Admini
 
 **Participants:**
 The meeting included:
-Jorge Valenzuela (Gestor de intereses, working for Soluciones en Seguridad Limitada, representing Soluciones en Seguridad Ltda)
-Andrea Tejos (Gestor de intereses, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
+Jorge Valenzuela (Gestor de intereses, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
+Andrea Tejos (Lobista, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
 
 **Key Details:**
 Meeting Identifier: AO006AW1858740
@@ -2590,7 +2590,7 @@ Oficio Circular IF/N° 24. Solicita información sobre variables de las GES 87 a
 
 **Participants:**
 The meeting included:
-Francisco Astudillo (Gestor de intereses, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
 Ignacio González (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
 
 **Key Details:**
@@ -2656,8 +2656,8 @@ Solicitud formulada en Ord. Circular IFN°24-2025..
 
 **Participants:**
 The meeting included:
-Roberto Ibáñez (Gestor de intereses, working for Esencial S.A., representing Esencial S.A.)
-Carla Peña (Gestor de intereses, working for asociacion de isapres de chile, representing Esencial S.A.)
+Roberto Ibáñez (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
+Carla Peña (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
 
 **Key Details:**
 Meeting Identifier: AO006AW1872422
@@ -2744,7 +2744,7 @@ Reprocesamiento de archivo de prestaciones bonificadas por proceso GEs. Y otros 
 
 **Participants:**
 The meeting included:
-Carolina Hidalgo Guajardo (Gestor de intereses, working for asociacion de isapres de chile, representing Esencial s.A.)
+Carolina Hidalgo Guajardo (Gestor de intereses, working for ESENCIAL S.A., representing Esencial s.A.)
 Marcela Palma (Gestor de intereses, working for Esencial S.A., representing Esencial S.A.)
 
 **Key Details:**
@@ -2962,7 +2962,7 @@ Resolución Exenta IF N°7764 - Examen de Medicina Preventiva.
 
 **Participants:**
 The meeting included:
-Francisco Astudillo (Gestor de intereses, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
 Poulette Donoso (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
 
 **Key Details:**
@@ -3256,7 +3256,7 @@ Revisión Manual EMP 2025.
 
 **Participants:**
 The meeting included:
-Francisco Astudillo (Gestor de intereses, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
 Poulette Donoso (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
 
 **Key Details:**
@@ -3324,7 +3324,7 @@ Revisión Manual EMP 2025..
 
 **Participants:**
 The meeting included:
-Carolina Hidalgo Guajardo (Gestor de intereses, working for asociacion de isapres de chile, representing Esencial S.A.)
+Carolina Hidalgo Guajardo (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
 Carolina Marín Lopez (Gestor de intereses, working for asociacion de isapres de chile, representing Esencial S.A.)
 javiera hartmann (Gestor de intereses, working for asociacion de isapres de chile, representing Esencial S.A.)
 
@@ -3573,7 +3573,7 @@ Solicitud de reunión por medicamentos.
 
 **Participants:**
 The meeting included:
-Carolina Hidalgo Guajardo (Gestor de intereses, working for asociacion de isapres de chile, representing Esencial S.A.)
+Carolina Hidalgo Guajardo (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
 Claudia Paredes Peña (Gestor de intereses, working for Esencial S.A., representing Esencial S.A.)
 
 **Key Details:**
@@ -3812,7 +3812,7 @@ Revisión Procedimiento Verificación GES..
 **Participants:**
 The meeting included:
 Rodrigo Medel (Gestor de intereses, working for nan, representing isapre consalud)
-Francisco Astudillo (Gestor de intereses, working for Isapre Consalud S.A., representing Francisco Rodríguez)
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing Francisco Rodríguez)
 manuel hidalgo (Gestor de intereses, working for nan, representing ISAPRE CONSALUD SA)
 
 **Key Details:**
