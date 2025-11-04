@@ -496,7 +496,7 @@ Platform: Superintendencia. Auditorio. Piso 5
 Duration: 1 horas, 30 minutos
 Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
-Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/792075
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/792074
 
 
 ---
@@ -2265,7 +2265,7 @@ Información Centralizada de las distintas dependencias y sucursales, con Admini
 **Participants:**
 The meeting included:
 Jorge Valenzuela (Gestor de intereses, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
-Andrea Tejos (Lobista, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
+Andrea Tejos (Gestor de intereses, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
 
 **Key Details:**
 Meeting Identifier: AO006AW1858740
@@ -2454,7 +2454,7 @@ Confiamos en que esta propuesta les aportará valor estratégico tangible, mejor
 
 **Participants:**
 The meeting included:
-Ricardo Riquelme Diaz (Gestor de intereses, working for CLARO SERVICIOS S.A, representing Ricardo Riquelme Diaz)
+Ricardo Riquelme Diaz (Gestor de intereses, working for Zettabast, representing Ricardo Riquelme Diaz)
 
 **Key Details:**
 Meeting Identifier: AO006AW1869595
@@ -3997,6 +3997,49 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/466
 
 ---
 
+On October 01, 2025 at 03:00 PM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda 1449, torre 2 piso 5. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Desarrollo de nuevo concentrador de afiliación y desafiliación electrónica..
+
+**Participants:**
+The meeting included:
+Matías Avendaño (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1946294
+Platform: Alameda 1449, torre 2 piso 5
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/11141/841590
+
+
+---
+
+On October 07, 2025 at 03:30 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a presencial meeting via Alameda 1449, torre , piso 5. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Audiencia de lobby para abordar las particularidades de Esencial en el proceso de alza de precios GES<br />
+Nos interesa poder comprender, antes de la emisión de las Circulares.
+
+**Participants:**
+The meeting included:
+Carolina Hidalgo Guajardo (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
+Roberto Ibáñez (Gestor de intereses, working for ESENCIAL S.A., representing Esencial)
+Carla Patricia Peña Pinto (Gestor de intereses, working for nan, representing Esencial S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1950567
+Platform: Alameda 1449, torre , piso 5
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/842749
+
+
+---
+
 On September 29, 2025 at 03:30 PM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda N° 1149, Torre 2, Piso 5 (Salida Metro La Moneda). The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
@@ -4015,6 +4058,896 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/11141/839936
+
+
+---
+
+On October 14, 2025 at 10:30 AM, Tamara Andrea Núñez Andrewartha, the Jefa de la Unidad de Planificación, Innovación y Control de Gestión, attended a videoconferencia meeting via Reunión Teams. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+En la audiencia se presentará la solución tecnológica VoiceBot, orientada a mejorar los procesos de comunicación y atención en el sector salud. Las materias a abordar son las siguientes:<br />
+<br />
+-Exposición de las funcionalidades de VoiceBot como herramienta de automatización de llamadas y atención 24/7.<br />
+<br />
+-Presentación de los beneficios en la reducción de tiempos de espera para pacientes y usuarios.<br />
+<br />
+-Análisis del impacto en la mejora de la experiencia del paciente mediante información clara y oportuna.<br />
+<br />
+-Explicación sobre el uso de inteligencia artificial para el procesamiento de lenguaje natural y generación de respuestas personalizadas.<br />
+<br />
+-Revisión de cómo esta solución libera recursos humanos al disminuir tareas repetitivas y de bajo valor agregado.<br />
+<br />
+-Descripción de las posibilidades de integración con sistemas institucionales existentes (contact center, agenda médica, recordatorios).<br />
+<br />
+El objetivo es dar a conocer de qué manera VoiceBot puede contribuir al fortalecimiento de la gestión y la atención en salud, tanto en el ámbito público como en el privado..
+
+**Participants:**
+The meeting included:
+Lilian Miranda (Gestor de intereses, working for SERVICIOS DE COMUNICACION MEDICA S A, representing SERVICIOS DE COMUNICACION MEDICA S A)
+Christian Mansfeld (Gestor de intereses, working for SERVICIOS DE COMUNICACION MEDICA S A, representing SERVICIOS DE COMUNICACION MEDICA S A)
+Katherine Cancino Rubio (Gestor de intereses, working for nan, representing SERVICIOS DE COMUNICACION MEDICA S A)
+Franco Alarcón Hernández (Gestor de intereses, working for nan, representing SERVICIOS DE COMUNICACIÓN MÉDICA S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1959132
+Platform: Reunión Teams
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/259517/845148
+
+
+---
+
+On October 29, 2025 at 11:30 AM, Víctor Torres Jeldes, the Superintendente de Salud, attended a presencial meeting via Alameda 1449, torre 2, piso 5. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+El Directorio de la Sociedad Chilena de Cirugía Bariátrica y Metabólica solicita reunirse con el Sr. Víctor Torres, Superintendente de Salud.<br />
+1-Cobertura cirugía bariátrica Isapres.<br />
+2-Pacientes indican problemas para acceder a la cobertura de dicha cirugía.<br />
+3-Intención de la Sociedad para colaborar en una eventual modificación en la regulación de la IF relacionada a esos temas..
+
+**Participants:**
+The meeting included:
+Patricio Lamoza (Gestor de intereses, working for nan, representing SOCIEDAD CHILENA DE CIRUGÍA BARIÁTRICA Y METABÓLICA)
+Matías Sepúlveda Hales (Gestor de intereses, working for nan, representing SOCIEDAD CHILENA DE CIRUGÍA BARIÁTRICA Y METABÓLICA)
+
+**Key Details:**
+Meeting Identifier: AO006AW1964321
+Platform: Alameda 1449, torre 2, piso 5
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/466718/849377
+
+
+---
+
+On October 02, 2025 at 12:30 PM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda 1449, Torre 2, Piso 5 (Salida Metro La Moneda). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+PLAN DE PAGO Y AJUSTES (PPA).
+
+**Participants:**
+The meeting included:
+Francisco González (Gestor de intereses, working for isapre consalud, representing ISAPRE CONSALUD S,A)
+Rodrigo Medel (Gestor de intereses, working for nan, representing ISAPRE CONSALUD)
+
+**Key Details:**
+Meeting Identifier: AO006AW1967096
+Platform: Alameda 1449, Torre 2, Piso 5 (Salida Metro La Moneda)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/11141/841593
+
+
+---
+
+On October 02, 2025 at 03:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a presencial meeting via Alameda 1449, torre 2, piso 5to. Santiago. The meeting lasted 2 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Verificación Precio GES 90..
+
+**Participants:**
+The meeting included:
+Blas Duarte (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Sebastián Navarrete (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Cristóbal Uribe (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1968389
+Platform: Alameda 1449, torre 2, piso 5to. Santiago
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/841902
+
+
+---
+
+On October 02, 2025 at 03:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Verificación Precio GES 90..
+
+**Participants:**
+The meeting included:
+Juan Grasset (Gestor de intereses, working for Optima S.A., representing Nueva Masvida)
+Marcelo Vargas (Gestor de intereses, working for nan, representing Nueva Masvida)
+
+**Key Details:**
+Meeting Identifier: AO006AW1969006
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/841903
+
+
+---
+
+On October 02, 2025 at 03:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Verificación Precio GES 90..
+
+**Participants:**
+The meeting included:
+Carolina Hidalgo Guajardo (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1969407
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/841904
+
+
+---
+
+On October 02, 2025 at 03:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Verificación Precio GES 90..
+
+**Participants:**
+The meeting included:
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD SA.)
+CRISTIAN AROCA (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1969409
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/841906
+
+
+---
+
+On October 02, 2025 at 03:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Verificación Precio GES 90..
+
+**Participants:**
+The meeting included:
+Hans Möller (Gestor de intereses, working for COLMENA GOLDEN CROSS S.A., representing Colmena Golden Cross S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1969832
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/841908
+
+
+---
+
+On October 02, 2025 at 03:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Verificación Precio GES 90..
+
+**Participants:**
+The meeting included:
+Marcelo Barrios (Gestor de intereses, working for nan, representing Isapre Fundación BancoEstado)
+
+**Key Details:**
+Meeting Identifier: AO006AW1970465
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/841909
+
+
+---
+
+On October 02, 2025 at 03:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Verificación Precio GES 90..
+
+**Participants:**
+The meeting included:
+Matías Avendaño (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1971255
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/841907
+
+
+---
+
+On October 02, 2025 at 03:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Verificación Precio GES 90..
+
+**Participants:**
+The meeting included:
+José Tomás Arrieta (Gestor de intereses, working for nan, representing ISAPRE BANMEDICA)
+Gonzalo Pulido (Gestor de intereses, working for nan, representing ISAPRE BANMEDICA)
+
+**Key Details:**
+Meeting Identifier: AO006AW1971419
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/841911
+
+
+---
+
+On October 08, 2025 at 12:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a videoconferencia meeting via Teams. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Informe de Cumplimiento EMP enero a junio 2025.
+
+**Participants:**
+The meeting included:
+Sebastián Navarrete (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Valeria Vargas (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Cristóbal Uribe (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Alicia Alvarado (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1972579
+Platform: Teams
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/248901/843610
+
+
+---
+
+On October 10, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2 piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Juan Grasset (Gestor de intereses, working for Optima S.A., representing Nueva Masvida S.A.)
+Marcelo Vargas (Gestor de intereses, working for nan, representing Nueva Masvida S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1976943
+Platform: Alameda 1449, torre 2 piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/844468
+
+
+---
+
+On October 10, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2 piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+José Tomás Arrieta (Gestor de intereses, working for nan, representing ISAPRE BANMEDICA)
+Gonzalo Pulido (Gestor de intereses, working for nan, representing ISAPRE BANMEDICA)
+PABLO BOCAS (Gestor de intereses, working for nan, representing ISAPRE BANMEDICA)
+
+**Key Details:**
+Meeting Identifier: AO006AW1977037
+Platform: Alameda 1449, torre 2 piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/844469
+
+
+---
+
+On October 10, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2 piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP.
+
+**Participants:**
+The meeting included:
+Carolina Hidalgo Guajardo (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
+Roberto Ibáñez (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
+Carla Peña (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1977041
+Platform: Alameda 1449, torre 2 piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/844464
+
+
+---
+
+On October 10, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2 piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Tema: Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Marcelo Barrios (Gestor de intereses, working for nan, representing Isapre Fundación BancoEstado)
+CARLOS PÉREZ RIVAS (Gestor de intereses, working for nan, representing Isapre Fundación BancoEstado)
+
+**Key Details:**
+Meeting Identifier: AO006AW1977427
+Platform: Alameda 1449, torre 2 piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/844465
+
+
+---
+
+On October 10, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2 piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+OCTAVIO GONZALEZ (Lobista, working for nan, representing ISAPRE CONSSLUD S.A.|)
+
+**Key Details:**
+Meeting Identifier: AO006AW1977798
+Platform: Alameda 1449, torre 2 piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/844466
+
+
+---
+
+On October 10, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2 piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP.
+
+**Participants:**
+The meeting included:
+Cristóbal Torres (Gestor de intereses, working for nan, representing ISALUD ISAPRE DE CODELCO SpA)
+
+**Key Details:**
+Meeting Identifier: AO006AW1977937
+Platform: Alameda 1449, torre 2 piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/844461
+
+
+---
+
+On October 10, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2 piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Blas Duarte (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Sebastián Navarrete (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Cristóbal Uribe (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1978056
+Platform: Alameda 1449, torre 2 piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/844470
+
+
+---
+
+On October 10, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2 piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP.
+
+**Participants:**
+The meeting included:
+Hans Möller (Gestor de intereses, working for COLMENA GOLDEN CROSS S.A., representing Colmena Golden Cross)
+
+**Key Details:**
+Meeting Identifier: AO006AW1978449
+Platform: Alameda 1449, torre 2 piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/844467
+
+
+---
+
+On October 10, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2 piso 5to.. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Matías Avendaño (Gestor de intereses, working for nan, representing Isapre de Chile)
+
+**Key Details:**
+Meeting Identifier: AO006AW1979070
+Platform: Alameda 1449, torre 2 piso 5to.
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/844463
+
+
+---
+
+On October 17, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Gonzalo Pulido (Gestor de intereses, working for nan, representing ISAPRE BANMEDICA)
+
+**Key Details:**
+Meeting Identifier: AO006AW1985183
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/846889
+
+
+---
+
+On October 17, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Marcelo Barrios (Gestor de intereses, working for nan, representing Isapre Fundación BancoEstado)
+CARLOS PÉREZ RIVAS (Gestor de intereses, working for nan, representing Isapre Fundación BancoEstado)
+
+**Key Details:**
+Meeting Identifier: AO006AW1985299
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/846890
+
+
+---
+
+On October 22, 2025 at 12:00 PM, Tamara Andrea Núñez Andrewartha, the Jefa de la Unidad de Planificación, Innovación y Control de Gestión, attended a videoconferencia meeting via Videoconferencia. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Proyecto de automatización inteligente del proceso de reclamos.
+
+**Participants:**
+The meeting included:
+Florencia Decurgez (Gestor de intereses, working for nan, representing IBM DE CHILE S.A.C.)
+Andres Wagner (Gestor de intereses, working for nan, representing IBM de Chile S.A.C.)
+Florencia Onetto Perez (Gestor de intereses, working for nan, representing IBM de Chile SAC)
+
+**Key Details:**
+Meeting Identifier: AO006AW1985392
+Platform: Videoconferencia
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/259517/848165
+
+
+---
+
+On October 30, 2025 at 11:00 AM, Víctor Torres Jeldes, the Superintendente de Salud, attended a presencial meeting via Oficina del Superintendente de Salud, Alameda 1449 Torre 2 Piso 5, (Metro La Moneda). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Necesitamos una audiencia de Lobby con la finalidad de exponer los efectos que produce la Resolución 10768, (Circular 505).
+
+**Participants:**
+The meeting included:
+Marcela Palma (Gestor de intereses, working for Esencial S.A., representing Esencial S.A.)
+Luis González Castro (Gestor de intereses, working for nan, representing Esencial S.A.)
+Manuel Francisco Gana Mackenna (Gestor de intereses, working for nan, representing Esencial S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1985430
+Platform: Oficina del Superintendente de Salud, Alameda 1449 Torre 2 Piso 5, (Metro La Moneda)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/466718/849720
+
+
+---
+
+On October 17, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP.
+
+**Participants:**
+The meeting included:
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+OCTAVIO GONZALEZ (Lobista, working for nan, representing ISAPRE CONSALUD S.A.)
+Elizabeth Miranda (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1985581
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/846892
+
+
+---
+
+On October 17, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Cristóbal Torres (Gestor de intereses, working for nan, representing ISALUD ISAPRE DE CODELCO SpA)
+
+**Key Details:**
+Meeting Identifier: AO006AW1985696
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/846893
+
+
+---
+
+On October 17, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP.
+
+**Participants:**
+The meeting included:
+Blas Duarte (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Sebastián Navarrete (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Cristóbal Uribe (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1985724
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/846895
+
+
+---
+
+On October 17, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Hans Möller (Gestor de intereses, working for COLMENA GOLDEN CROSS S.A., representing Isapre Colmena)
+María Cortés (Gestor de intereses, working for COLMENA GOLDEN CROSS S.A., representing Isapre Colmena)
+
+**Key Details:**
+Meeting Identifier: AO006AW1985725
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/846888
+
+
+---
+
+On October 17, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP.
+
+**Participants:**
+The meeting included:
+Juan Grasset (Gestor de intereses, working for Optima S.A., representing Isapre Nueva Masvida S.A.)
+Marcelo Vargas (Gestor de intereses, working for nan, representing Isapre Nueva Masvida S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1985755
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/846896
+
+
+---
+
+On October 24, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, toprre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Carolina Hidalgo Guajardo (Gestor de intereses, working for ESENCIAL S.A., representing ESENCIAL S.A.)
+Roberto Ibáñez (Gestor de intereses, working for ESENCIAL S.A., representing ESENCIAL S.A.)
+Carla Peña (Gestor de intereses, working for ESENCIAL S.A., representing ESENCIAL S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1986239
+Platform: Alameda 1449, toprre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/848480
+
+
+---
+
+On October 29, 2025 at 03:30 PM, Víctor Torres Jeldes, the Superintendente de Salud, attended a presencial meeting via Oficina del Superintendente de Salud, Alameda 1449 Torre 2 Piso 5, (Metro La Moneda). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+“Circular 505”.
+
+**Participants:**
+The meeting included:
+Gonzalo Claudio Arriagada Lillo (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+Matías Avendaño (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1987304
+Platform: Oficina del Superintendente de Salud, Alameda 1449 Torre 2 Piso 5, (Metro La Moneda)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/466718/850665
+
+
+---
+
+On October 24, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP.
+
+**Participants:**
+The meeting included:
+Cristóbal Torres (Gestor de intereses, working for nan, representing ISALUD ISAPRE DE CODELCO SpA)
+
+**Key Details:**
+Meeting Identifier: AO006AW1992527
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/848481
+
+
+---
+
+On October 24, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP.
+
+**Participants:**
+The meeting included:
+José Tomás Arrieta (Gestor de intereses, working for nan, representing ISAPRE BANMEDICA)
+Gonzalo Pulido (Gestor de intereses, working for nan, representing ISAPRE BANMEDICA)
+PABLO BOCAS (Gestor de intereses, working for nan, representing ISAPRE BANMEDICA)
+
+**Key Details:**
+Meeting Identifier: AO006AW1992575
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/848483
+
+
+---
+
+On October 24, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Marcelo Barrios (Gestor de intereses, working for nan, representing Isapre Fundación BancoEstado)
+CARLOS PÉREZ RIVAS (Gestor de intereses, working for nan, representing Isapre Fundación BancoEstado)
+
+**Key Details:**
+Meeting Identifier: AO006AW1992774
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/848484
+
+
+---
+
+On October 24, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP..
+
+**Participants:**
+The meeting included:
+Carolina Hidalgo Guajardo (Gestor de intereses, working for nan, representing Esencial S.A)
+Roberto Ibáñez (Gestor de intereses, working for ESENCIAL S.A., representing Esencial S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1992973
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/848485
+
+
+---
+
+On October 24, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP.
+
+**Participants:**
+The meeting included:
+Francisco Astudillo (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+OCTAVIO GONZALEZ (Lobista, working for nan, representing ISAPRE CONSALUD S.A.)
+Elizabeth Miranda (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1993165
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/848486
+
+
+---
+
+On October 24, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP.
+
+**Participants:**
+The meeting included:
+Juan Grasset (Gestor de intereses, working for Optima S.A., representing Nueva Masvida)
+Marcelo Vargas (Gestor de intereses, working for nan, representing Nueva Masvida)
+
+**Key Details:**
+Meeting Identifier: AO006AW1993189
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/848487
+
+
+---
+
+On October 24, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Consultas Tablas y Guías GPP.
+
+**Participants:**
+The meeting included:
+Blas Duarte (Gestor de intereses, working for nan, representing Bupa Chile S.A.)
+Sebastián Navarrete (Gestor de intereses, working for nan, representing Bupa Chile S.A.)
+Cristóbal Uribe (Gestor de intereses, working for nan, representing Bupa Chile S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW1993472
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/848488
+
+
+---
+
+On October 24, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449. torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tabla y Guías GPP.
+
+**Participants:**
+The meeting included:
+Hans Möller (Gestor de intereses, working for COLMENA GOLDEN CROSS S.A., representing Isapre Colmena)
+María Cortés (Gestor de intereses, working for COLMENA GOLDEN CROSS S.A., representing Colmena)
+
+**Key Details:**
+Meeting Identifier: AO006AW1993650
+Platform: Alameda 1449. torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/848478
+
+
+---
+
+On October 24, 2025 at 11:00 AM, Raúl Poblete, the Jefe del Departamento de Estudios y Desarrollo (Primer orden de subrogancia), attended a presencial meeting via Alameda 1449, torre 2, piso 5to.. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Consultas Tabla y Guías GPP.
+
+**Participants:**
+The meeting included:
+Matías Avendaño (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile)
+Sebastian Valdebenito (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile)
+
+**Key Details:**
+Meeting Identifier: AO006AW1994391
+Platform: Alameda 1449, torre 2, piso 5to.
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2025/215720/848489
 
 
 ---
