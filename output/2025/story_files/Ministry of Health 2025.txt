@@ -772,7 +772,7 @@ Se solicita Audiencia de Lobby a sugerencia del departamento de coordinación de
 The meeting included:
 Francisco Pinto (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
 Ariel Blua (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 
 **Key Details:**
 Meeting Identifier: AO001AW1714824
@@ -976,7 +976,7 @@ Se informa de manera general de algunos ajustes menores al proyecto normativo, r
 The meeting included:
 Jorge Corral (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Esteban Padilla Farías (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-Andrea Reinoso (Lobista, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
 Andrés Vergara Laso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 
 **Key Details:**
@@ -1007,7 +1007,7 @@ Se informa de manera general de algunos ajustes menores al proyecto normativo, r
 The meeting included:
 Jorge Corral (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Esteban Padilla Farías (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-Andrea Reinoso (Lobista, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
 Andrés Vergara Laso (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 
 **Key Details:**
@@ -2374,7 +2374,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305
 
 ---
 
-On January 27, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via Minsal le está invitando a una reunión de Zoom programada.
+On January 27, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via Minsal le está invitando a una reunión de Zoom programada.
 
 Tema: Reunión Ley Lobby AO001AW1733488. Cambio de PAO
 Hora: 27 ene 2025 10:00 a. m. Santiago
@@ -2470,7 +2470,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/666
 
 ---
 
-On January 27, 2025 at 10:30 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via Minsal le está invitando a una reunión de Zoom programada.
+On January 27, 2025 at 10:30 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via Minsal le está invitando a una reunión de Zoom programada.
 
 Tema: Reunión Ley Lobby AO001AW1734160
 Hora: 27 ene 2025 10:30 a. m. Santiago
@@ -2552,7 +2552,7 @@ Bárbara Cabrera Leyton.
 
 **Participants:**
 The meeting included:
-Bárbara Cabrera (Lobista, working for Fresenius Kabi S.A. (Recetario Magistral S.A.), representing Recetario Magistral Endovenoso SA)
+Bárbara Cabrera (Gestor de intereses, working for Recetario Magistral Endovenoso S.A, representing Recetario Magistral Endovenoso SA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1737318
@@ -3148,7 +3148,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305
 
 ---
 
-On February 04, 2025 at 10:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a presencial meeting via Monjitas 689 oficina 56. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+On February 04, 2025 at 10:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a presencial meeting via Monjitas 689 oficina 56. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
 
 **Purpose:**
 Se solicita audiencia para reunión con la Sra Ministra Ximena Aguilera para abordar las múltiples denuncias presentadas en el Hospital El Carmen de Maipú, que han afectado gravemente el clima laboral y la salud física y mental de sus funcionarios..
@@ -3203,7 +3203,7 @@ Solicitamos una reunión para conocer las iniciativas de proyectos de inversión
 
 **Participants:**
 The meeting included:
-Pedro Matías Heber (Gestor de intereses, working for Philips Chilena S.A., representing Philips Chilena SA)
+Pedro Matías Heber (Lobista, working for Philips Chilena S.A., representing Philips Chilena SA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1744468
@@ -3307,7 +3307,7 @@ Francisco Pinto (Gestor de intereses, working for Laboratorio Astrazeneca, repre
 Daniela Tamayo (Gestor de intereses, working for Laboratorio Astrazeneca, representing Daniela Francisca Tamayo)
 Álvaro Sepúlveda (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 María Paula Collados (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 
 **Key Details:**
 Meeting Identifier: AO001AW1744903
@@ -3648,7 +3648,7 @@ The meeting included:
 Francisco Pinto (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca S.A.)
 Álvaro Sepúlveda (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca S.A.)
 María Paula Collados (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca S.A.)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca S.A.)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca S.A.)
 
 **Key Details:**
 Meeting Identifier: AO001AW1748668
@@ -4278,7 +4278,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/576
 
 ---
 
-On February 04, 2025 at 09:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via Estimado, lo atenderá la jefa de división D. Verónica Bustos y la jefa de Formación D. Maria Gabriela Hoffmann
+On February 04, 2025 at 09:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via Estimado, lo atenderá la jefa de división D. Verónica Bustos y la jefa de Formación D. Maria Gabriela Hoffmann
 Microsoft Teams 
 Unirse a la reunión ahora 
 Id. de reunión: 242 754 819 525 
@@ -4318,7 +4318,7 @@ Puesta al día de propuesta y orientación de trabajo..
 
 **Participants:**
 The meeting included:
-Carolina Jofré (Lobista, working for BOEHRINGER INGELHEIM LTDA, representing Boehringer Ingelheim Ltda)
+Carolina Jofré (Gestor de intereses, working for BOEHRINGER INGELHEIM LTDA, representing Boehringer Ingelheim Ltda)
 
 **Key Details:**
 Meeting Identifier: AO001AW1760106
@@ -4418,7 +4418,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/628
 
 ---
 
-On March 10, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via Reunión recibida por D. Luis Echavarria. The meeting lasted 1 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On March 10, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via Reunión recibida por D. Luis Echavarria. The meeting lasted 1 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Hola buenas tardes. Soy Rodrigo Ormeño, de Xlearning Space. Nos queremos reunir con ustedes para presentarles nuestra plataforma para creación de simuladores virtuales enfocados en la educación. En esta herramienta permitimos la creación de contenido educativo elarning de última generación basado en programas que permiten aprender haciendo a los profesionales de la salud, colaboradores y alumnos, aumentando la retención de contenidos, baja de costo y deserción académica..
@@ -4787,7 +4787,7 @@ Proveedor solicita realizar una reunión para presentar tecnología espectral.
 
 **Participants:**
 The meeting included:
-Pedro Matías Heber (Gestor de intereses, working for Philips Chilena S.A., representing Philips Chilena)
+Pedro Matías Heber (Lobista, working for Philips Chilena S.A., representing Philips Chilena)
 
 **Key Details:**
 Meeting Identifier: AO001AW1768807
@@ -4813,7 +4813,7 @@ TAMBIEN SE TRATARON TEMAS DE OLAPARIB.
 The meeting included:
 Francisco Pinto (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
 Álvaro Sepúlveda (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 Rodrigo Enríquez (Gestor de intereses, working for nan, representing Rodrigo Enriquez)
 
 **Key Details:**
@@ -4971,7 +4971,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/473
 
 ---
 
-On February 19, 2025 at 12:30 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a presencial meeting via Mac Iver N°541 Pisp 5 Oficina 56, Santiago Centro, (se realiza modificación de horario de la reunión). The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On February 19, 2025 at 12:30 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a presencial meeting via Mac Iver N°541 Pisp 5 Oficina 56, Santiago Centro, (se realiza modificación de horario de la reunión). The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Presentar la línea de Salud Femenina, dando a conocer algunas experiencias de educación para equipos de salud a través de medios virtuales que se han desarrollado con Municipios y/o Servicios de Salud, que pueden contribuir a la actualización de los equipos de salud en relación al curso de vida de la mujer y sus necesidades, potenciando el uso de los tratamientos disponibles en la red pública de salud..
@@ -5029,7 +5029,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/525
 
 ---
 
-On April 07, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via Se envió mail con link el día 28/03
+On April 07, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via Se envió mail con link el día 28/03
 Se recibió junto al equipo de Capacitación.. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
@@ -5121,7 +5121,7 @@ Solicita más plazo para comentarios sobre clasificación de alimentos.<br />
 
 **Participants:**
 The meeting included:
-Marisol Figueroa Barrientos (Gestor de intereses, working for ASOCIACION GREMIAL DE ALIMENTOS Y BEBIDAS  DE CHILE A.G., representing Asociación de Alimentos y Bebidas de Chile A.G.)
+Marisol Figueroa Barrientos (Gestor de intereses, working for Alimentos y Bebidas de Chile A.G., representing Asociación de Alimentos y Bebidas de Chile A.G.)
 Moisés Leiva (Gestor de intereses, working for nan, representing Asociación Gremial de Empresas de Alimentos de Chile Chilealimentos)
 
 **Key Details:**
@@ -5414,7 +5414,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/651
 
 ---
 
-On March 21, 2025 at 11:30 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a presencial meeting via Mac Iver N°541 Of N°56. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On March 21, 2025 at 11:30 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a presencial meeting via Mac Iver N°541 Of N°56. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Presentación de la empresa Rankmi. Plataforma para automatización de gestión de personas y del ciclo laboral completo del trabajador, apoyo metodológico y servicio..
@@ -5539,8 +5539,8 @@ Existe una brecha respecto al análisis de los datos que entregue el sistema de 
 
 **Participants:**
 The meeting included:
-Ana María Arriagada (Gestor de intereses, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
-Adelio Emilio Misseroni Raddatz (Gestor de intereses, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Ana María Arriagada (Lobista, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Adelio Emilio Misseroni Raddatz (Lobista, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
 Iván  Mendoza González (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
 
 **Key Details:**
@@ -6348,7 +6348,7 @@ Información cotización iSGLT-2.
 The meeting included:
 Francisco Pinto (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
 Álvaro Sepúlveda (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 
 **Key Details:**
 Meeting Identifier: AO001AW1792392
@@ -6455,7 +6455,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/728
 
 ---
 
-On May 09, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via Link https://us02web.zoom.us/j/88004530967
+On May 09, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via Link https://us02web.zoom.us/j/88004530967
 Contraseña 367169. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
@@ -6736,7 +6736,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/698
 
 ---
 
-On April 28, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via link enviado a correo el día 28/03/2025
+On April 28, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via link enviado a correo el día 28/03/2025
 
 El equipo se conectó en el horario informado y no hubo presentación del solicitante.. The meeting lasted 0 horas, 10 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
@@ -6931,6 +6931,26 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/698
 
 ---
 
+On June 10, 2025 at 03:00 PM, Constanza Piriz, the Jefa  Departamento de Rehabilitación y Discapacidad, attended a videoconferencia meeting via RW5sYWNlOiBodHRwczovL3VzMDJ3ZWIuem9vbS51cy9qLzg5NTQzNDkwMjg2CkNvbnRyYXNlw7FhOiA3MzI4OTA=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Información sobre la importancia de la institución en temáticas de discapacidad y neurorrehabilitación en la comuna de Melipilla..
+
+**Participants:**
+The meeting included:
+Juan ZÚÑIGA (Gestor de intereses, working for nan, representing FUNDACIÓN CERAD)
+
+**Key Details:**
+Meeting Identifier: AO001AW1803285
+Platform: RW5sYWNlOiBodHRwczovL3VzMDJ3ZWIuem9vbS51cy9qLzg5NTQzNDkwMjg2CkNvbnRyYXNlw7FhOiA3MzI4OTA=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/467738/852354
+
+
+---
+
 On April 22, 2025 at 03:00 PM, Sung Kim, the Jefe de Agencia Nacional de Prevención y Control del Cáncer ANACAN, attended a videoconferencia meeting via Zoom. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
@@ -6968,7 +6988,7 @@ Dar seguimiento y entregar información comprometida en  reunión sostenida el d
 The meeting included:
 Francisco Pinto (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
 Álvaro Sepúlveda (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 
 **Key Details:**
 Meeting Identifier: AO001AW1803532
@@ -7138,7 +7158,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/508
 
 ---
 
-On April 15, 2025 at 12:07 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via Se envío email con link el días 28/03/2025
+On April 15, 2025 at 12:07 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via Se envío email con link el días 28/03/2025
 Se recibió con equipo de Capacitación. The meeting lasted 0 horas, 43 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
@@ -7336,7 +7356,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/473
 
 ---
 
-On May 06, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via link enviado por mail el día 07/04. The meeting lasted 0 horas, 40 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On May 06, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via link enviado por mail el día 07/04. The meeting lasted 0 horas, 40 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Buen dia, junto con saludar quisiera reunirme para presentar nuestra empresa y los servicios que desarrollamos como empresa consultora en salud que puede resultar interesante para el área de educación continua a la cual representa la unidad.<br />
@@ -7418,7 +7438,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/581
 
 ---
 
-On April 25, 2025 at 02:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via Se actualiza en plataforma de Audiencia realizada con fecha. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+On April 25, 2025 at 02:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via Se actualiza en plataforma de Audiencia realizada con fecha. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
 GeoVictoria ofrece soluciones de alto impacto para modernizar y optimizar la gestión del sector público, apoyando la transparencia y la eficiencia administrativa.<br />
@@ -7549,7 +7569,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/720
 
 ---
 
-On April 07, 2025 at 03:00 PM, Matías Tobar, the Jefe  Departamento de Proyectos de Atención Primaria-Div. Inversiones, attended a videoconferencia meeting via Link https://us02web.zoom.us/j/81651446831
+On April 07, 2025 at 03:00 PM, Matías Tobar, the Jefe Departamento de Proyectos de Atención Primaria-Div. Inversiones - SRA, attended a videoconferencia meeting via Link https://us02web.zoom.us/j/81651446831
 Contraseña 711873
 Audiencia atendida por Romina Ahumada, profesional DARQ
 (Se regulariza publicación en plataforma, dado los problemas anteriores que presentó dicho medio). The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
@@ -7597,7 +7617,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/458
 
 ---
 
-On April 22, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via Se actualiza en el sistema Audiencia que ya fue realizada. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+On April 22, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via Se actualiza en el sistema Audiencia que ya fue realizada. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
 Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
 
 **Purpose:**
@@ -7734,7 +7754,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/600
 
 ---
 
-On May 19, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via Link enviado por mail el día 07/04/2025. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On May 19, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via Link enviado por mail el día 07/04/2025. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Se solicita reunión virtual para presentar sistema que permite postular, evaluar y dar seguimiento a postulaciones de becas de médicos o profesionales. Este sistema permite armar a la medida Formulario de postulación y evaluación, manteniendo en conocimiento a los postulantes de la etapa en que se encuentra su postulación..
@@ -7819,7 +7839,7 @@ Se integra a la reunión por arte del Ministerio de Salud Pamela Burdiles.
 **Participants:**
 The meeting included:
 Macarena Gutierrez (Gestor de intereses, working for GlaxoSmithKline Chile Farmacéutica Ltda, representing GSK)
-Milva CAPUTO (Gestor de intereses, working for nan, representing GSK)
+Milva CAPUTO (Gestor de intereses, working for GlaxoSmithKline Chile Farmacéutica Ltda, representing GSK)
 Felipe Moraes (Gestor de intereses, working for GlaxoSmithKline Chile Farmacéutica Ltda, representing GSK)
 
 **Key Details:**
@@ -7868,7 +7888,7 @@ Presentar el desarrollo de nuestra plataforma que adapta y pone a disposición a
 
 **Participants:**
 The meeting included:
-Claudia Miralles Abarca (Gestor de intereses, working for Consultores en Comunicación Estratégica S.A.  Imaginaccion, representing Intelimed)
+Claudia Miralles Abarca (Lobista, working for Consultores en Comunicación Estratégica S.A.  Imaginaccion, representing Intelimed)
 Alan Nudman (Gestor de intereses, working for nan, representing Intelimed)
 Renato Leyton (Gestor de intereses, working for Consultores en Comunicación Estratégica S.A. / Imaginaccion, representing Intelimed)
 Felipe Frías (Gestor de intereses, working for nan, representing Intelimed)
@@ -8444,7 +8464,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/174
 
 ---
 
-On April 25, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via Se actualiza en el sistema de  Audiencia ya realizada. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+On April 25, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via Se actualiza en el sistema de  Audiencia ya realizada. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
 Estimada Verónica: <br />
@@ -9947,7 +9967,7 @@ Se realiza reunión día 23/05/2025.
 **Participants:**
 The meeting included:
 Nancy Jiménez (Gestor de intereses, working for Exeltis Chile SPA, representing EXELTIS CHILE S.p.A.)
-Jocelyn Figueroa (Gestor de intereses, working for Exeltis Chile SPA, representing EXELTIS CHILE S.P.A.)
+Jocelyn Figueroa (Gestor de intereses, working for Exeltis Chile S.p.A., representing EXELTIS CHILE S.P.A.)
 María Ancán (Gestor de intereses, working for Exeltis Chile SPA, representing EXELTIS CHILE S.p.A.)
 BARBARA PEREIRA (Gestor de intereses, working for nan, representing EXELTIS CHILE S.P.A.)
 
@@ -10241,6 +10261,28 @@ Duration: 0 horas, 33 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/747159/801159
+
+
+---
+
+On May 30, 2025 at 12:00 PM, Constanza Piriz, the Jefa  Departamento de Rehabilitación y Discapacidad, attended a videoconferencia meeting via TWljcm9zb2Z0IFRlYW1zCklkLiBkZSByZXVuacOzbjogMjYwIDg0MSA1ODYgNDEwIDkgCkPDs2RpZ28gZGUgYWNjZXNvOiBGcjY4Q1U2dw==. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Solicitantes no se conectan a la reunión agendada de manera telemática..
+
+**Participants:**
+The meeting included:
+IVAN VALDES VALDIVIA (Gestor de intereses, working for nan, representing karen zamudio)
+Mauricio Rebolledo (Gestor de intereses, working for nan, representing karen zamudio)
+karen zamudia lira (Gestor de intereses, working for nan, representing karen zamudio)
+
+**Key Details:**
+Meeting Identifier: AO001AW1830889
+Platform: TWljcm9zb2Z0IFRlYW1zCklkLiBkZSByZXVuacOzbjogMjYwIDg0MSA1ODYgNDEwIDkgCkPDs2RpZ28gZGUgYWNjZXNvOiBGcjY4Q1U2dw==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/467738/852343
 
 
 ---
@@ -10597,7 +10639,7 @@ TEMAS TRATADOS:<br />
 
 **Participants:**
 The meeting included:
-Marisol Figueroa Barrientos (Gestor de intereses, working for ASOCIACION GREMIAL DE ALIMENTOS Y BEBIDAS  DE CHILE A.G., representing ASOCIACIÓN GREMIAL DE ALIMENTOS Y BEBIDAS DE CHILE A.G.)
+Marisol Figueroa Barrientos (Gestor de intereses, working for Alimentos y Bebidas de Chile A.G., representing ASOCIACIÓN GREMIAL DE ALIMENTOS Y BEBIDAS DE CHILE A.G.)
 
 **Key Details:**
 Meeting Identifier: AO001AW1834034
@@ -10941,7 +10983,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622
 
 ---
 
-On June 16, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via Se recibirá a través de la plataforma Zoom, cuyo enlace y contraseña son los siguientes:
+On June 16, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via Se recibirá a través de la plataforma Zoom, cuyo enlace y contraseña son los siguientes:
 Enlace: https://us02web.zoom.us/j/86549128382
 Contraseña: 926695. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
@@ -11006,9 +11048,9 @@ Sensor de Glucosa.
 
 **Participants:**
 The meeting included:
-José Luis Sarabia (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
-Verónica Guzmán (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda.)
-Miguel González (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott laboratories de Chile Ltda)
+José Luis Sarabia (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+Verónica Guzmán (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda.)
+Miguel González (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott laboratories de Chile Ltda)
 
 **Key Details:**
 Meeting Identifier: AO001AW1836492
@@ -11289,7 +11331,7 @@ Se solicita audiencia de lobby para mostrar seguimiento de oferta económica pre
 The meeting included:
 Francisco Pinto (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
 Álvaro Sepúlveda (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 
 **Key Details:**
 Meeting Identifier: AO001AW1837382
@@ -11431,7 +11473,7 @@ Estado de deuda Minsal - Entel.
 **Participants:**
 The meeting included:
 Antonio Buchi Buc (Gestor de intereses, working for Entel S.A., representing Entel S.A.)
-Claudio Anabalón (Gestor de intereses, working for Empresa Nacional de Telecomunicaciones S.A., representing Entel S.A.)
+Claudio Anabalón (Lobista, working for Empresa Nacional de Telecomunicaciones S.A., representing Entel S.A.)
 
 **Key Details:**
 Meeting Identifier: AO001AW1838318
@@ -12114,6 +12156,34 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622
 
 ---
 
+On June 06, 2025 at 12:00 PM, Constanza Piriz, the Jefa  Departamento de Rehabilitación y Discapacidad, attended a videoconferencia meeting via aHR0cHM6Ly91czAyd2ViLnpvb20udXMvai84MjcyNDc1NjIwNgpDb250cmFzZcOxYTogMzkzMDEx. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Solicitante realizan consultas respecto a sistema de cuidados y atención en salud a la población con dependencia..
+
+**Participants:**
+The meeting included:
+Camila Mauricio (Gestor de intereses, working for nan, representing Camila Alejandra Mauricio Rosales)
+Giuliana Ubeda (Gestor de intereses, working for nan, representing Giuliana Ubeda)
+Martín Parra Figueroa (Gestor de intereses, working for nan, representing Martín Parra Figueroa)
+
+**Key Details:**
+Meeting Identifier: AO001AW1843394
+Platform: aHR0cHM6Ly91czAyd2ViLnpvb20udXMvai84MjcyNDc1NjIwNgpDb250cmFzZcOxYTogMzkzMDEx
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/467738/852350
+
+
+---
+
 On June 27, 2025 at 09:30 AM, Juan COLLAO, the Jefe del Departamento de Políticas y Regulaciones Farmacéuticas, attended a videoconferencia meeting via Sera atendido de manera telemática por el Sr. Collao. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones..
 
 **Purpose:**
@@ -12565,7 +12635,7 @@ Nicolás Amenábar (Gestor de intereses, working for Grupo Etcheberry, represent
 Nicola Romanello (Gestor de intereses, working for Roche Chile Limitada, representing Roche Chile Limitada)
 Ximena Paredes (Gestor de intereses, working for Roche Chile Limitada, representing Roche Chile Limitada)
 Catherine Gejman (Gestor de intereses, working for Roche Chile Limitada, representing CatherineGejman)
-María Fernanda Rozas Villanueva (Gestor de intereses, working for nan, representing Roche Chile Limitada)
+María Fernanda Rozas Villanueva (Gestor de intereses, working for Roche Chile Ltda, representing Roche Chile Limitada)
 
 **Key Details:**
 Meeting Identifier: AO001AW1846931
@@ -12755,7 +12825,7 @@ Quisiéramos revisar el estado actual de las materias señaladas y potenciales e
 
 **Participants:**
 The meeting included:
-Dunja Roje (Gestor de intereses, working for Roche Chile Limitada, representing Roche Chile ltda)
+Dunja Roje (Gestor de intereses, working for Roche Chile Ltda, representing Roche Chile ltda)
 Juan Maripangue (Gestor de intereses, working for Roche Chile Limitada, representing Roche Chile ltda)
 
 **Key Details:**
@@ -13245,7 +13315,7 @@ Se informa que la materia esta evaluación, estudiando aspectos asociados al aba
 The meeting included:
 Jorge Corral (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
 Daniel Pérez (Gestor de intereses, working for Laboratorios Saval, representing Laboratorios Saval S.A.)
-Andrea Reinoso (Lobista, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Laboratorios Saval S.A.)
 
 **Key Details:**
 Meeting Identifier: AO001AW1854050
@@ -13258,7 +13328,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622
 
 ---
 
-On May 30, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via Enlace: https://us02web.zoom.us/j/89340230724
+On May 30, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via Enlace: https://us02web.zoom.us/j/89340230724
 Contraseña: 613898. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
@@ -13295,7 +13365,7 @@ Se menciona créditos a vencer de contrato..
 **Participants:**
 The meeting included:
 Luis Romero (Gestor de intereses, working for Oracle, representing Sistemas Oracle de Chile Limitada)
-Vittor Quintans (Gestor de intereses, working for Oracle, representing Sistemas Oracle de Chile Limitada)
+Vittor Quintans (Gestor de intereses, working for Sistemas Oracle de Chile Limitada, representing Sistemas Oracle de Chile Limitada)
 
 **Key Details:**
 Meeting Identifier: AO001AW1854360
@@ -13461,7 +13531,7 @@ Finalmente, se reiteró que toda eventual adquisición debe realizarse mediante 
 **Participants:**
 The meeting included:
 Luis Romero (Gestor de intereses, working for Oracle, representing Sistemas Oracle de Chile Limitada)
-Vittor Quintans (Gestor de intereses, working for Oracle, representing Sistemas Oracle de Chile Limitada)
+Vittor Quintans (Gestor de intereses, working for Sistemas Oracle de Chile Limitada, representing Sistemas Oracle de Chile Limitada)
 
 **Key Details:**
 Meeting Identifier: AO001AW1854955
@@ -13894,7 +13964,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622
 
 ---
 
-On June 26, 2025 at 11:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via Link https://us02web.zoom.us/j/89535835125
+On June 26, 2025 at 11:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via Link https://us02web.zoom.us/j/89535835125
 Contraseña 977747. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
 
 **Purpose:**
@@ -14025,9 +14095,9 @@ Actualización estatus GES Sensor de glucosa, aclaración de dudas acerca de eje
 
 **Participants:**
 The meeting included:
-José Luis Sarabia (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
-Verónica Guzmán (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
-Miguel González (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+José Luis Sarabia (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+Verónica Guzmán (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+Miguel González (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
 
 **Key Details:**
 Meeting Identifier: AO001AW1859929
@@ -14378,7 +14448,7 @@ Se solicita audiencia de lobby para conocer modelo de implementación para medic
 The meeting included:
 Francisco Pinto (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
 Álvaro Sepúlveda (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 
 **Key Details:**
 Meeting Identifier: AO001AW1862460
@@ -15111,7 +15181,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/698
 
 ---
 
-On June 25, 2025 at 04:00 PM, Matías Tobar, the Jefe  Departamento de Proyectos de Atención Primaria-Div. Inversiones, attended a videoconferencia meeting via Por razones de buen servicio, audiencia fue atendida por Romina Ahumada, profesional DIVIN.
+On June 25, 2025 at 04:00 PM, Matías Tobar, the Jefe Departamento de Proyectos de Atención Primaria-Div. Inversiones - SRA, attended a videoconferencia meeting via Por razones de buen servicio, audiencia fue atendida por Romina Ahumada, profesional DIVIN.
 Se ha creado la siguiente sala de reunión:
 Enlace: https://us02web.zoom.us/j/84441804655
 Contraseña: 524911. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
@@ -15458,7 +15528,7 @@ Se solicita audiencia de lobby para poder conocer información de la actualizaci
 **Participants:**
 The meeting included:
 Álvaro Sepúlveda (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 
 **Key Details:**
 Meeting Identifier: AO001AW1871067
@@ -15521,7 +15591,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/747
 
 ---
 
-On June 27, 2025 at 12:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via La reunión queda agendada para este viernes 27 de junio a las 10:00 horas a través de la plataforma Zoom, cuyo enlace y contraseña es el siguiente: 
+On June 27, 2025 at 12:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via La reunión queda agendada para este viernes 27 de junio a las 10:00 horas a través de la plataforma Zoom, cuyo enlace y contraseña es el siguiente: 
 Enlace: https://us02web.zoom.us/j/82769249943
 Contraseña: 805100. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
 Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
@@ -15533,9 +15603,9 @@ Situación de pago horas extras Medicos y medicas EDF.
 **Participants:**
 The meeting included:
 Ana María Arriagada (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
-Adelio Emilio Misseroni Raddatz (Gestor de intereses, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
-Mauricio Osorio Ulloa (Gestor de intereses, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
-BARBARA PALMA GARAY (Gestor de intereses, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
+Adelio Emilio Misseroni Raddatz (Lobista, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
+Mauricio Osorio Ulloa (Lobista, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
+BARBARA PALMA GARAY (Lobista, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
 
 **Key Details:**
 Meeting Identifier: AO001AW1872044
@@ -15600,7 +15670,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/791
 
 ---
 
-On July 14, 2025 at 11:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via Reunión realizada en conjunto con equipo de Capacitación.. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On July 14, 2025 at 11:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via Reunión realizada en conjunto con equipo de Capacitación.. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Solicitamos audiencia para presentar una propuesta de servicios de capacitación dirigida a fortalecer las competencias de los equipos del Ministerio de Salud, tanto a nivel central como regional. Nuestra propuesta abarca temáticas críticas para la función pública, tales como liderazgo institucional, trabajo en equipo, atención al usuario, normativa laboral, prevención de riesgos psicosociales y actualización administrativa.<br />
@@ -15726,7 +15796,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/557
 
 ---
 
-On July 15, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via UmV1bmnDs24gcmVhbGl6YWRhIGVuIGZlY2hhIHkgaG9yYXJpbyBwcm9ncmFtYWRv. The meeting lasted 1 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On July 15, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via UmV1bmnDs24gcmVhbGl6YWRhIGVuIGZlY2hhIHkgaG9yYXJpbyBwcm9ncmFtYWRv. The meeting lasted 1 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Especialidades médicas para Hospital Claudio Vicuña de San Antonio <br />
@@ -15983,7 +16053,7 @@ Conocer los motivos del lento avance en el Reglamento N°49 del Ministerio de Sa
 
 **Participants:**
 The meeting included:
-Helga Santibáñez (Gestor de intereses, working for nan, representing Fundación Convivir)
+Helga Santibáñez (Gestor de intereses, working for Convivir Fundación de intolerancia al gluten, representing Fundación Convivir)
 Laure Filhol (Gestor de intereses, working for nan, representing Fundación Convivir)
 Martina  Majlis Signorio (Gestor de intereses, working for nan, representing Fundación Convivir)
 Jorge Majlis S. (Gestor de intereses, working for nan, representing Fundación Convivir)
@@ -16259,7 +16329,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/109
 
 ---
 
-On July 14, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via Interesado no se presentó, equipo lo esperó conectado 15 minutos.. The meeting lasted 0 horas, 15 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On July 14, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via Interesado no se presentó, equipo lo esperó conectado 15 minutos.. The meeting lasted 0 horas, 15 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Solicitud de autorización y requisitos para diferir ingreso a programa de formación (subespecialidad médica) por 5 meses, sin perder cupo.
@@ -16338,7 +16408,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/525
 
 ---
 
-On July 15, 2025 at 04:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via UmV1bmnDs24gcmVhbGl6YWRh. The meeting lasted 0 horas, 15 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+On July 15, 2025 at 04:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via UmV1bmnDs24gcmVhbGl6YWRh. The meeting lasted 0 horas, 15 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
 
 **Purpose:**
 Soy médico ginecóloga del hospital de chillán y servicio de salud de ñuble, en donde contamos solo con un médico gineco oncólogo y lamentablemente cargamos con enormes listas de espera de resolución quirúrgica. <br />
@@ -16394,6 +16464,28 @@ Duration: 0 horas, 30 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/525076/824544
+
+
+---
+
+On August 05, 2025 at 03:30 PM, Constanza Piriz, the Jefa  Departamento de Rehabilitación y Discapacidad, attended a videoconferencia meeting via RW5sYWNlOiBodHRwczovL3VzMDJ3ZWIuem9vbS51cy9qLzgxMzIxODI4NzYxCkNvbnRyYXNlw7FhOiAxNzE0MDk=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Solicitante presenta tecnología BTL. Se reconoce la relevancia del uso de las tecnologías basada en evidencia científica en los procesos de rehabiltiación y se orienta respecto a los mecanismos de compra en el sistema público de salud..
+
+**Participants:**
+The meeting included:
+Gonzalo Iglesias (Gestor de intereses, working for nan, representing BTL Chile Comrecializacion SpA)
+
+**Key Details:**
+Meeting Identifier: AO001AW1881941
+Platform: RW5sYWNlOiBodHRwczovL3VzMDJ3ZWIuem9vbS51cy9qLzgxMzIxODI4NzYxCkNvbnRyYXNlw7FhOiAxNzE0MDk=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/467738/852348
 
 
 ---
@@ -16951,7 +17043,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/684
 
 ---
 
-On August 07, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via Se conecta equipo de capacitación. Solicitante no se presenta. Se esperó 15 minutos. The meeting lasted 0 horas, 15 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+On August 07, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via Se conecta equipo de capacitación. Solicitante no se presenta. Se esperó 15 minutos. The meeting lasted 0 horas, 15 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
 Desde Teleduc de la Pontificia Universidad Católica de Chile, nos gustaría abordar los siguientes temas en la audiencia solicitada:<br />
@@ -16978,7 +17070,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/471
 
 ---
 
-On August 26, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via UmV1bmnDs24gcmVhbGl6YWRhIGVuIGZlY2hhIHkgaG9yYSBwcm9ncmFtYWRh. The meeting lasted 0 horas, 40 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On August 26, 2025 at 03:00 PM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via UmV1bmnDs24gcmVhbGl6YWRhIGVuIGZlY2hhIHkgaG9yYSBwcm9ncmFtYWRh. The meeting lasted 0 horas, 40 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Mi nombre es Edinson López, dermatólogo actualmente en cumplimiento de mi Periodo Asistencial Obligatorio (PAO) en el Servicio de Salud Araucanía Sur, donde además me desempeño como referente técnico en dermatología. Me dirijo a usted con el fin de solicitar una reunión para exponer en forma directa y transparente la grave precariedad en la que se encuentra actualmente el abordaje dermatológico en la Región de La Araucanía, la más pobre del país, y donde he llegado con toda la disposición de ser un aporte significativo para la salud pública. Lamentablemente, la realidad con la que me he encontrado supera con creces lo imaginable.<br />
@@ -17185,7 +17277,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/651
 
 ---
 
-On July 24, 2025 at 11:00 AM, Matías Tobar, the Jefe  Departamento de Proyectos de Atención Primaria-Div. Inversiones, attended a videoconferencia meeting via Audiencia atendida por Marlene Echeverría y Raúl Oyarzún, profesionales DPAPS y DMO, respectivamente.
+On July 24, 2025 at 11:00 AM, Matías Tobar, the Jefe Departamento de Proyectos de Atención Primaria-Div. Inversiones - SRA, attended a videoconferencia meeting via Audiencia atendida por Marlene Echeverría y Raúl Oyarzún, profesionales DPAPS y DMO, respectivamente.
 Se ha creado la siguiente sala de reunión Zoom:
 Enlace: https://us02web.zoom.us/j/86412421682
 Contraseña: 020925. The meeting lasted 0 horas, 50 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
@@ -17277,10 +17369,10 @@ SITUACION ÑUBLE Y MAULE..
 
 **Participants:**
 The meeting included:
-Luz Román (Gestor de intereses, working for nan, representing COLMENA GOLDEN CROSS S.A.)
+Luz Román (Gestor de intereses, working for Colmena Golden Cross S. A., representing COLMENA GOLDEN CROSS S.A.)
 Carola Schwencke Reyes (Gestor de intereses, working for nan, representing COLMENA GOLDEN CROSS S.A.)
 Ramiro Sánchez Tuculet (Gestor de intereses, working for nan, representing COLMENA GOLDEN CROSS S.A.)
-María Cortés (Gestor de intereses, working for COLMENA GOLDEN CROSS S.A., representing COLMENA GOLDEN CROSS S.A.)
+María Cortés (Gestor de intereses, working for Colmena Golden Cross S. A., representing COLMENA GOLDEN CROSS S.A.)
 
 **Key Details:**
 Meeting Identifier: AO001AW1891604
@@ -17446,9 +17538,9 @@ Presentacion Obinutuzumab LLC.
 
 **Participants:**
 The meeting included:
-Ximena Paredes (Gestor de intereses, working for nan, representing Roche Chile Limitada)
-Ximena Paredes (Gestor de intereses, working for nan, representing Roche Chile Limitada)
-Ximena Paredes (Gestor de intereses, working for nan, representing Roche Chile Limitada)
+Ximena Paredes (Gestor de intereses, working for Roche Chile Ltda, representing Roche Chile Limitada)
+Ximena Paredes (Gestor de intereses, working for Roche Chile Ltda, representing Roche Chile Limitada)
+Ximena Paredes (Gestor de intereses, working for Roche Chile Ltda, representing Roche Chile Limitada)
 
 **Key Details:**
 Meeting Identifier: AO001AW1893899
@@ -17756,7 +17848,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305
 
 ---
 
-On August 06, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via De acuerdo a su solicitud, se pondrá en contacto con usted, un profesional de la División de Gestión de Personas.
+On August 06, 2025 at 03:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via De acuerdo a su solicitud, se pondrá en contacto con usted, un profesional de la División de Gestión de Personas.
 Contacto 225740345
 
 Enlace: https://us02web.zoom.us/j/87385604715
@@ -18110,7 +18202,7 @@ COMPIN MAULE.
 **Participants:**
 The meeting included:
 Aldo Andrés Corradossi Balboni (Gestor de intereses, working for nan, representing Nueva Masvida)
-Valentina Sanchez (Gestor de intereses, working for Optima S.A., representing Nueva Masvida)
+Valentina Sanchez (Gestor de intereses, working for Nueva MasVida S.A, representing Nueva Masvida)
 Macarena Bravo (Gestor de intereses, working for Optima S.A., representing Nueva Masvida)
 Javier Díaz Ramírez (Gestor de intereses, working for nan, representing Nueva Masvida)
 
@@ -18205,7 +18297,7 @@ Presentación de propuesta que genera ahorro directo e inmediato para GES.<br />
 
 **Participants:**
 The meeting included:
-Ximena Paredes (Gestor de intereses, working for nan, representing Roche Chile Ltda)
+Ximena Paredes (Gestor de intereses, working for Roche Chile Ltda, representing Roche Chile Ltda)
 Catherine Gejman (Gestor de intereses, working for Roche Chile Limitada, representing Roche Chile Ltda.)
 
 **Key Details:**
@@ -19187,7 +19279,7 @@ The meeting included:
 Francisco Pinto (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
 Álvaro Sepúlveda (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 María Paula Collados (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 
 **Key Details:**
 Meeting Identifier: AO001AW1915782
@@ -19409,6 +19501,32 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/651
 
 ---
 
+On September 16, 2025 at 10:00 AM, María Letelier, the Jefa Departamento Salud Digital- SRA, attended a presencial meeting via SHXDqXJmYW5vcyA2NzAgcGlzbyAxOA==. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Objetivo Central: Conocer el sistema de Philips con Inteligencia Artificial (IA) para mejorar la eficiencia en la atención y el diagnóstico del Holter de ritmo en hospitales de Chile.<br />
+Puntos Clave Discutidos:<br />
+1. Necesidad percibida desde el Ministerio de Salud (MINSAL): El MINSAL busca soluciones para apoyar a los hospitales en la elaboración de informes de Holter, dado que el proceso actual implica mucho tiempo para el filtrado de artefactos y el diagnóstico por parte del médico. La escasez de profesionales especializados en este filtrado a nivel nacional es un problema.<br />
+2. Solución Philips (Holter): Philips presentó su portafolio de monitoreo en Latam. La solución específica para Holter es el software Cardiologs (una adquisición reciente de Philips). Este sistema utiliza IA (Deep Learning) para revisar todos los latidos uno por uno y proveer un diagnóstico robusto, el cual el doctor debe revisar y confirmar. Se estima que esta herramienta puede reducir el tiempo de diagnóstico del Holter en un 40%.<br />
+3. Plataformas y Conectividad: La gestión de los datos de Holter, electrocardiógrafos y monitores se realiza a través de IntelliSpace ECG, una herramienta de gerenciamiento que es agnóstica a la marca del equipo y Cloud-Based (basada en la nube). Esto es vital para el modelo de servicio distribuido del MINSAL.<br />
+4. Disponibilidad y Plazos para Chile: La solución no está disponible en Chile actualmente. Si bien Philips está impulsando el requerimiento en Latam, la posibilidad de realizar un piloto este año es lejana, y se sugirió planificar para el próximo año.<br />
+5. Próximos Pasos: El MINSAL solicitó información sobre el algoritmo clínico del sistema y los requerimientos técnicos de conectividad para evaluar la factibilidad de implementación a nivel nacional. Philips se comprometió a enviar la información y planificar una demostración técnica cuando su especialista en interoperabilidad esté disponible.  En caso que sea factible de implementar y se cuente con los recursos necesarios, se deberá realizar una Licitación Pública para esto..
+
+**Participants:**
+The meeting included:
+Verónica Díaz (Gestor de intereses, working for Siemens Healthcare Equipos Médicos SpA., representing Philips Chilena)
+
+**Key Details:**
+Meeting Identifier: AO001AW1918503
+Platform: SHXDqXJmYW5vcyA2NzAgcGlzbyAxOA==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305882/852775
+
+
+---
+
 On September 02, 2025 at 03:00 PM, Leonardo CHANQUEO, the Jefe Departamento Prevención y Control de VIH e ITS, attended a videoconferencia meeting via Temas Tratados: 
 
 Don Tibor Gutierrez, presenta la situación por la que fue solicitada la reunión, señalando que la Seremi de Salud de RM, no incluyó para el año 2025, en sus licitaciones de proyectos focalizados, a los pueblos originarios en el contexto. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
@@ -19488,7 +19606,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622
 
 ---
 
-On August 29, 2025 at 10:30 AM, Eduardo Aragonés, the Departamento de Arquitectura, attended a videoconferencia meeting via Envío link para conectar a reunión
+On August 29, 2025 at 10:30 AM, Eduardo Aragonés, the Departamento de Arquitectura - SRA, attended a videoconferencia meeting via Envío link para conectar a reunión
 Enlace: https://us02web.zoom.us/j/88317647596
 Contraseña: 413086
 Contacto: Katherinne Salinas Ramos
@@ -19544,7 +19662,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/831
 
 ---
 
-On September 03, 2025 at 12:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a presencial meeting via Mac Iver 541 piso 5 oficina 56. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On September 03, 2025 at 12:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a presencial meeting via Mac Iver 541 piso 5 oficina 56. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Dar a conocer oferta de formación en subespecialidades oncológicas que FALP desarrolla junto a distintas universidades..
@@ -19654,6 +19772,37 @@ Celebración, modificación o terminación a cualquier título, de contratos que
 Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/666328/845183
+
+
+---
+
+On September 05, 2025 at 08:00 AM, María Letelier, the Jefa Departamento Salud Digital- SRA, attended a videoconferencia meeting via U2UgZW52aWFyYW4gZGF0b3MgZGVsIGxpbmsgZGUgem9vbSBwb3IgY29ycmVv. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+El propósito principal del proyecto es generar un modelo integral de atención y cuidado para pacientes que han sufrido un accidente cerebrovascular isquémico (ACV) una vez que son dados de alta hospitalaria. Se destacó que, si bien la atención intrahospitalaria ha mejorado, el cuidado post-alta no ha sido una prioridad, lo que lleva a los pacientes a sentirse abandonados.<br />
+Modelo Propuesto:<br />
+El modelo se centra en el uso de un Agente de Inteligencia Artificial (IA) basado en conocimiento que se nutre de información clínica del paciente y reglas clínicas para proponer intervenciones de salud funcional, física y mental.<br />
+La IA no toma decisiones de forma autónoma, sino que funciona como un soporte a la decisión clínica. El equipo clínico tratante (liderado por el médico) mantiene la responsabilidad médico-legal de definir el paquete final de intervenciones.<br />
+Un Navegador (profesional de la salud, como una enfermera) toma la propuesta del equipo clínico y gestiona la articulación de las intervenciones, brindando acompañamiento permanente durante los primeros 3 meses post-alta.<br />
+Aspectos Metodológicos y de Colaboración:<br />
+Para el entrenamiento de la IA, la Dra. Letelier (Minsal)  indicó que actualmente se cuenta con datos históricos de pacientes atendidos por Tele-ACV (aproximadamente 300-400 casos anuales). Se discutió la necesidad de un convenio específico entre la Universidad Católica y el Ministerio de Salud para la transferencia y resguardo de estos datos como datos anónimos..<br />
+Se proyectó que el primer año del proyecto se destinaría al desarrollo y entrenamiento del sistema, y el segundo año a un piloto prospectivo (probablemente solo en el Hospital Clínico UC, inicialmente). El objetivo final es probar la efectividad del sistema comparado con el cuidado habitual. <br />
+Esto se enmarca en los estudios y proyectos que está realizando la UC para avanzar en el uso de IA y el manejo de ACV..
+
+**Participants:**
+The meeting included:
+Paulo Olivera Berrios (Gestor de intereses, working for nan, representing Paulo Olivera Berríos)
+Claudia Huerta (Gestor de intereses, working for nan, representing Claudia Huerta Calderon)
+Diego Gutiérrez Vásquez (Gestor de intereses, working for nan, representing Diego Gutiérrez Vásquez)
+Andrea Millán Hernández (Gestor de intereses, working for nan, representing Andrea Millán Hernández)
+
+**Key Details:**
+Meeting Identifier: AO001AW1920822
+Platform: U2UgZW52aWFyYW4gZGF0b3MgZGVsIGxpbmsgZGUgem9vbSBwb3IgY29ycmVv
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305882/852770
 
 
 ---
@@ -19999,6 +20148,30 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/278
 
 ---
 
+On September 05, 2025 at 08:30 AM, María Letelier, the Jefa Departamento Salud Digital- SRA, attended a videoconferencia meeting via RW52aWFyZW1vcyBjb3JyZW8gY29uIGxpbmsgcGFyYSBsYSByZXVuaW9u. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Gloria Tirado expuso que el proyecto Pre Kekei ("Prevenir la clave") aborda el envejecimiento generalizado, el aumento de patologías crónicas y la baja adherencia al Examen de Medicina Preventiva (EMP), que más del 80% de la población no realiza por falta de difusión y cultura preventiva.<br />
+<br />
+La plataforma, apoyada por Corfo, opera de dos lados: el usuario accede gratuitamente y el cliente (empresas o entidades como el MINSAL) paga. Entre sus características, la plataforma identifica el EMP correspondiente al usuario, georreferencia centros de salud, e incorpora tests validados (Craft y TASIS) para evaluar el riesgo de adicción (tabaquismo y alcoholismo), un aspecto clave para los consultorios. Además, ofrece seguimiento a largo plazo y recordatorios para mejorar la adherencia, lo cual fue identificado como una debilidad en los pilotos realizados en Molina y Ñuñoa.<br />
+<br />
+La Dra. Letelier reconoció que la promoción y prevención son una deuda en el país, pero informó que el Ministerio de Salud no tiene recursos destinados para esto en el presupuesto actual. No obstante, sugirió que la iniciativa busque realizar pilotos más estandarizados en comunas pro-tecnología (como Renca). Esto permitiría obtener datos duros sobre la efectividad del proyecto para luego solicitar recursos para una expansión nacional o integrar la plataforma con la línea de Atención Primaria Universal (APS Universal)..
+
+**Participants:**
+The meeting included:
+Gloria Tirado (Gestor de intereses, working for nan, representing Gloria Tirado Diaz)
+
+**Key Details:**
+Meeting Identifier: AO001AW1927199
+Platform: RW52aWFyZW1vcyBjb3JyZW8gY29uIGxpbmsgcGFyYSBsYSByZXVuaW9u
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305882/852767
+
+
+---
+
 On September 16, 2025 at 09:00 AM, Fabiola Rosso, the Encargada de Oficina Secretaría Técnica GES., attended a videoconferencia meeting via Teams se enviara al correo. The meeting lasted 0 horas, 10 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
@@ -20006,7 +20179,7 @@ Actualización Inclusión de GES para sistema de monitoreo continuo de glucosa, 
 
 **Participants:**
 The meeting included:
-José Luis Sarabia (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+José Luis Sarabia (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
 Verónica Eugenia Guzmán Romero (Gestor de intereses, working for Abbott Laboratories de Chile Limitada, representing Abbott laboratories de Chile Ltda.)
 
 **Key Details:**
@@ -20066,6 +20239,33 @@ Duration: 0 horas, 35 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/109889/836958
+
+
+---
+
+On September 12, 2025 at 08:30 AM, María Letelier, the Jefa Departamento Salud Digital- SRA, attended a videoconferencia meeting via RW52aWFyZW1vcyBjb3JyZW8gY29uIGxpayBkZSB6b29t. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+La reunión fue una audiencia de lobby solicitada por Renato, consultor de Interesantes Comunicaciones Stakeholder, para presentar su consultora, especializada en comunicación para la sostenibilidad en su amplio espectro (ambiental, social y gobernanza). La consultora busca generar cambios de conducta y difundir iniciativas de sostenibilidad, destacándose por su enfoque en análisis sociológico para comprender la percepción de los mensajes. El consultor manifestó interés en la innovación del Hospital Digital.<br />
+María José destacó el valor de la propuesta, especialmente la aplicación de la sociología para entender el uso de tecnologías en salud. No obstante, señaló que el Ministerio de Salud no dispone de recursos este año y las contrataciones deben realizarse por licitación de Mercado Público.<br />
+Se identificaron cinco vías de acción y posibles contactos:<br />
+1. APS Universal: Sugirió contactar a este equipo, el cual podría tener convenios con el Banco Mundial que permiten formatos de contratación más simples.<br />
+2. CENS (Centro Nacional en Sistemas de Información en Salud): Recomendó explorarlo para buscar auspiciadores, ya que no tiene rol regulatorio.<br />
+3. Gestión de Personas: Sugirió contactar a Verónica Bustos (jefa de la división de gestión de las personas) para analizar estrategias que incentiven a los médicos especialistas a trabajar en zonas remotas.<br />
+4. One Health: Recomendó presentar este concepto de salud integral a la OPS (Organización Panamericana de la Salud), que podría actuar como patrocinador, facilitando su implementación..
+
+**Participants:**
+The meeting included:
+Renato Villegas (Gestor de intereses, working for nan, representing Del Campo Villegas Comunicaciones Limitada)
+Natalia Del Campo (Gestor de intereses, working for nan, representing Del Campo Villegas Comunicaciones Limitada)
+
+**Key Details:**
+Meeting Identifier: AO001AW1929614
+Platform: RW52aWFyZW1vcyBjb3JyZW8gY29uIGxpayBkZSB6b29t
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305882/852765
 
 
 ---
@@ -20338,7 +20538,7 @@ Presentación Biespecificos.
 
 **Participants:**
 The meeting included:
-Ximena Paredes (Gestor de intereses, working for nan, representing Roche Chile Limitada)
+Ximena Paredes (Gestor de intereses, working for Roche Chile Ltda, representing Roche Chile Limitada)
 
 **Key Details:**
 Meeting Identifier: AO001AW1935387
@@ -20726,7 +20926,7 @@ En el contexto de la incorporación de medicamentos biológicos al GES en el pro
 The meeting included:
 María Vallejos (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
 Nicolas Castiglioni (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 
 **Key Details:**
 Meeting Identifier: AO001AW1944505
@@ -20773,7 +20973,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/739
 
 ---
 
-On October 21, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via UmV1bmnDs24gcmVhbGl6YWRhIGVuIGZlY2hhIHkgaG9yYXJpbyBhZ2VuZGFkbw==. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On October 21, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via UmV1bmnDs24gcmVhbGl6YWRhIGVuIGZlY2hhIHkgaG9yYXJpbyBhZ2VuZGFkbw==. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Estimada Sra. María Hoffmann:<br />
@@ -20866,7 +21066,7 @@ Observaciones y comentarios sobre consulta pública materiales en contacto con a
 
 **Participants:**
 The meeting included:
-Marisol Figueroa Barrientos (Gestor de intereses, working for ASOCIACION GREMIAL DE ALIMENTOS Y BEBIDAS  DE CHILE A.G., representing ASOCIACIÓN GREMIAL DE ALIMENTOS Y BEBIDAS DE CHILE A.G.)
+Marisol Figueroa Barrientos (Gestor de intereses, working for Alimentos y Bebidas de Chile A.G., representing ASOCIACIÓN GREMIAL DE ALIMENTOS Y BEBIDAS DE CHILE A.G.)
 Carolina Pizarro (Gestor de intereses, working for nan, representing ASOCIACIÓN GREMIAL DE ALIMENTOS Y BEBIDAS DE CHILE A.G.)
 
 **Key Details:**
@@ -20988,7 +21188,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/739
 
 ---
 
-On October 02, 2025 at 09:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via De acuerdo a su solicitud será atendido por la Sra. Verónica Bustos, Jefa de la División de Gestión y Desarrollo de las Personas.
+On October 02, 2025 at 09:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via De acuerdo a su solicitud será atendido por la Sra. Verónica Bustos, Jefa de la División de Gestión y Desarrollo de las Personas.
 Se enviará link y clave de acceso
 Link https://us02web.zoom.us/j/85678078160 
 Contraseña 937262
@@ -21133,7 +21333,7 @@ Podemos entregar a ustedes los antecedentes y los detalles del caso. Gracias por
 
 **Participants:**
 The meeting included:
-Marisol Figueroa Barrientos (Gestor de intereses, working for ASOCIACION GREMIAL DE ALIMENTOS Y BEBIDAS  DE CHILE A.G., representing Asociación de Alimentos y Bebidas de Chile A.G.)
+Marisol Figueroa Barrientos (Gestor de intereses, working for Alimentos y Bebidas de Chile A.G., representing Asociación de Alimentos y Bebidas de Chile A.G.)
 Moisés Leiva (Gestor de intereses, working for nan, representing Asociación Gremial de Empresas de Alimentos de Chile Chilealimentos)
 Oscar Gallardo (Gestor de intereses, working for Asociación Nacional de Indsutriales de Cecinas A.G., representing Asoc Gremial De Industriales De Cecinas)
 
@@ -21344,6 +21544,30 @@ Duration: 1 horas, 30 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/831188/842693
+
+
+---
+
+On September 26, 2025 at 08:30 AM, María Letelier, the Jefa Departamento Salud Digital- SRA, attended a videoconferencia meeting via w5puYXNlIGEgbGEgcmV1bmnDs24gZGUgWm9vbQpodHRwczovL3VzMDJ3ZWIuem9vbS51cy9qLzg5Njc5NjczMDYyP3B3ZD11SGZkT1MyVVhiUkljOVNhaHQ3VllwN1RNQlFWOFEuMQoKSUQgZGUgcmV1bmnDs246IDg5NiA3OTY3IDMwNjIKQ8OzZGlnbyBkZSBhY2Nlc286IDc1MDk4OQo=. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+La reunión tuvo como objetivo explorar vías de colaboración en estrategias de salud digital entre un investigador de la Universidad de Sídney y el equipo del Departamento de Salud Digital de Chile.<br />
+El investigador presentó proyectos destacados, incluyendo "Foot Selfie", una aplicación que utiliza Inteligencia Artificial (IA) para la detección temprana de úlceras de pie diabético y la entrega de educación apropiada. También se mencionó un proyecto que apoya a los cuidadores de personas con demencia a través de un chatbot integrado.<br />
+El equipo chileno mostró gran interés en estos enfoques innovadores para reducir la carga de enfermedades crónicas, identificando áreas críticas como la atención del pie diabético, las nefropatías, la rehabilitación en zonas aisladas y el apoyo a familias con TEA (Trastorno del Espectro Autista).<br />
+Se discutieron los desafíos de trabajar bajo la regulación del Ministerio de Salud, lo cual requiere convenios y hace los procesos complejos. El equipo chileno subrayó que cualquier piloto debe ser sostenible y que ellos prefieren no "probar por probar". Priorizaron la necesidad de realizar estudios de costo-efectividad y costo-beneficio para evaluar el impacto de sus estrategias.<br />
+Como pasos a seguir, se acordó que el investigador enviará más material de sus proyectos (publicaciones/videos), y el equipo de Salud Digital lo revisará internamente para elaborar una propuesta de colaboración concreta y a la medida.
+
+**Participants:**
+The meeting included:
+José Michell (Gestor de intereses, working for nan, representing Antonio Michell)
+
+**Key Details:**
+Meeting Identifier: AO001AW1959093
+Platform: w5puYXNlIGEgbGEgcmV1bmnDs24gZGUgWm9vbQpodHRwczovL3VzMDJ3ZWIuem9vbS51cy9qLzg5Njc5NjczMDYyP3B3ZD11SGZkT1MyVVhiUkljOVNhaHQ3VllwN1RNQlFWOFEuMQoKSUQgZGUgcmV1bmnDs246IDg5NiA3OTY3IDMwNjIKQ8OzZGlnbyBkZSBhY2Nlc286IDc1MDk4OQo=
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305882/852763
 
 
 ---
@@ -21662,7 +21886,7 @@ The meeting included:
 Carolina Aravena (Gestor de intereses, working for Synthon Chile Ltda., representing Asociacion Industrial de Laboratorios Farmacéuticos A.G.)
 Patricio Huenchuñir (Gestor de intereses, working for Asociación Industrial de laboratorios farmaceuticos, representing Asociación Industrial de Laboratorios Farmacéuticos A.G.)
 Verónica Mendel (Gestor de intereses, working for Laboratorio Recalcine, representing Asociación Industrial de Laboratorios Farmacéuticos A.G.)
-Andrea Reinoso (Lobista, working for Laboratorios Saval S.A., representing Asociación Industrial de Laboratorios Farmacéuticos A.G.)
+Andrea Reinoso (Gestor de intereses, working for Laboratorios Saval S.A., representing Asociación Industrial de Laboratorios Farmacéuticos A.G.)
 
 **Key Details:**
 Meeting Identifier: AO001AW1961813
@@ -21675,7 +21899,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622
 
 ---
 
-On October 15, 2025 at 11:00 AM, Matías Tobar, the Jefe  Departamento de Proyectos de Atención Primaria-Div. Inversiones, attended a videoconferencia meeting via Audiencia atendida por Romina Ahumada, profesional DIVIN.
+On October 15, 2025 at 11:00 AM, Matías Tobar, the Jefe Departamento de Proyectos de Atención Primaria-Div. Inversiones - SRA, attended a videoconferencia meeting via Audiencia atendida por Romina Ahumada, profesional DIVIN.
 Por razones de buen servicio y coordinaciones internas, Audiencia debe ser en modalidad telemática
 Link Zoom:
 Enlace: https://us02web.zoom.us/j/83596034171
@@ -21746,7 +21970,7 @@ Se explica que para su evaluación para un próximo decreto debe tener evidencia
 **Participants:**
 The meeting included:
 Francisco Pinto (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
-Joan Cornejo (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
+Joan Cornejo (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca Chile)
 Maria de Los Angeles Juricic (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca Chile)
 
 **Key Details:**
@@ -22166,7 +22390,7 @@ Presentación del área de especificación de la compañía sobre alternativas d
 **Participants:**
 The meeting included:
 Felipe Lubbert (Lobista, working for COMERCIAL HISPANO CHILENA LIMITADA, representing COMERCIAL HISPANO CHILENA LIMITADA)
-Felipe Tagle (Lobista, working for COMERCIAL HISPANO CHILENA LIMITADA, representing COMERCIAL HISPANO CHILENA LIMITADA)
+Felipe Tagle (Gestor de intereses, working for COMERCIAL HISPANO CHILENA LIMITADA, representing COMERCIAL HISPANO CHILENA LIMITADA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1971026
@@ -22308,8 +22532,8 @@ Le deseo un feliz día..
 
 **Participants:**
 The meeting included:
-Ivan Batanero (Gestor de intereses, working for ADVANCE SCIENTIFIC DE CHILE, representing ADVANCE SCIENTIFIC CHILE SPA)
-GREICY CAROLINA PEREZ PEREZ (Gestor de intereses, working for ADVANCE SCIENTIFIC DE CHILE, representing ADVANCE SCIENTIFIC CHILE SPA)
+Ivan Batanero (Lobista, working for ADVANCE SCIENTIFIC DE CHILE, representing ADVANCE SCIENTIFIC CHILE SPA)
+GREICY CAROLINA PEREZ PEREZ (Lobista, working for ADVANCE SCIENTIFIC DE CHILE, representing ADVANCE SCIENTIFIC CHILE SPA)
 Nicolas Currea (Gestor de intereses, working for nan, representing Nicolas Currea)
 
 **Key Details:**
@@ -22323,7 +22547,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/837
 
 ---
 
-On October 23, 2025 at 09:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via ZOOM. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+On October 23, 2025 at 09:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via ZOOM. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
 Reiterar solicitud derivada desde Gabinete de la Presidencia a este Ministerio, respecto de mi situación personal y la necesidad de conciliación laboral dada la gravedad del estado de salud de mi hijo. Solicité traslado de mi cargo a la comuna de Temuco, donde cuento con red de apoyo y mejor oferta terapéutica, siendo negada por el Director de SS Atacama.<br />
@@ -22428,7 +22652,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/458
 
 ---
 
-On October 22, 2025 at 03:00 PM, Erick Marchant, the Departamento de Estudios de Preinversión, attended a videoconferencia meeting via Microsoft Teams ¿Necesita ayuda? 
+On October 22, 2025 at 03:00 PM, Erick Marchant, the Departamento de Estudios de Preinversión - SRA, attended a videoconferencia meeting via Microsoft Teams ¿Necesita ayuda? 
 Unirse a la reunión ahora 
 Id. de reunión: 275 965 789 545 2 
 Código de acceso: JV7VK9pV. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
@@ -22455,7 +22679,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/815
 
 ---
 
-On October 28, 2025 at 10:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via De acuerdo a su solicitud será atendida por la Sra. Verónica Bustos, Jefa de la División de Gestión y Desarrollo de las Personas.
+On October 28, 2025 at 10:00 AM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via De acuerdo a su solicitud será atendida por la Sra. Verónica Bustos, Jefa de la División de Gestión y Desarrollo de las Personas.
 Se enviará link y clave de acceso
 fono contacto: 225740345. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
 
@@ -22477,6 +22701,32 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/650558/849200
+
+
+---
+
+On October 24, 2025 at 08:30 AM, María Letelier, the Jefa Departamento Salud Digital- SRA, attended a videoconferencia meeting via w5puYXNlIGEgbGEgcmV1bmnDs24gZGUgWm9vbQpodHRwczovL21pbnNhbC1jbC56b29tLnVzL2ovODM0NzU2Nzk1NTI/cHdkPU5qUlNLWkRUY3ZvVEJ4TWlhemJLWUJWeVRvM2swVC4xCgpJRCBkZSByZXVuacOzbjogODM0IDc1NjcgOTU1MgpDw7NkaWdvIGRlIGFjY2VzbzogMTUwMDk1Cg==. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Objetivo de AHK Chile: La AHK Chile, la cámara binacional más grande del país, presentó la feria DMEA en Berlín (abril 21-23, 2026), centrada en dispositivos médicos y equipamiento de automatización para la salud digital. AHK busca movilizar a empresas chilenas, especialmente del rubro de salud digital (como Chiletech), para que sean los primeros expositores latinoamericanos en DMEA. El objetivo es dar a conocer la experiencia y el desarrollo de Chile a escala global.<br />
+Posición del MINSAL: María José explicó que su departamento se encarga tanto de la línea normativa y regulatoria (incluyendo la Ley de Telemedicina) como de la prestación de servicios a la población, como telemedicina e inteligencia artificial (IA).<br />
+Respecto a la participación en DMEA 2026, la posibilidad de una delegación ministerial es difícil. La feria coincide con el cambio de gobierno en Chile (11 de marzo), lo cual complica la planificación oportuna. Además, existe una restricción presupuestaria que dificulta el financiamiento ministerial, a menos que haya acuerdos de colaboración mutua entre países. María José recomendó enfocar la planificación para 2027, cuando el nuevo gobierno esté instalado.<br />
+Acuerdos y Próximos Pasos:<br />
+1. El MINSAL mostró interés en ser informado sobre las ofertas de tecnología alemana para futuras licitaciones públicas, buscando incorporar lo mejor del mercado global.<br />
+2. María José sugirió a AHK Chile contactar a otras agrupaciones de la industria, como ADIMED (Asociación de Dispositivos Médicos de Chile), para ampliar su mapeo de actores.<br />
+3. Ambas partes acordaron mantener el contacto para explorar oportunidades futuras, especialmente para delegaciones o proyectos financiados para 2027..
+
+**Participants:**
+The meeting included:
+Francisco Almeida (Gestor de intereses, working for AHK Business Center, representing AHK BUSINESS CENTER S.A.)
+
+**Key Details:**
+Meeting Identifier: AO001AW1977983
+Platform: w5puYXNlIGEgbGEgcmV1bmnDs24gZGUgWm9vbQpodHRwczovL21pbnNhbC1jbC56b29tLnVzL2ovODM0NzU2Nzk1NTI/cHdkPU5qUlNLWkRUY3ZvVEJ4TWlhemJLWUJWeVRvM2swVC4xCgpJRCBkZSByZXVuacOzbjogODM0IDc1NjcgOTU1MgpDw7NkaWdvIGRlIGFjY2VzbzogMTUwMDk1Cg==
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/305882/852761
 
 
 ---
@@ -22516,7 +22766,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/667
 
 ---
 
-On October 13, 2025 at 11:00 AM, Erick Marchant, the Departamento de Estudios de Preinversión, attended a presencial meeting via Moneda 1040. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+On October 13, 2025 at 11:00 AM, Erick Marchant, the Departamento de Estudios de Preinversión - SRA, attended a presencial meeting via Moneda 1040. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
 Junto con saludar, por medio de la presente Datamedica SpA tiene el agrado de invitarles a participar en una visita técnica, cuyo objetivo es dar a conocer la tecnología de la marca que representamos, con el fin de entregar información técnica y demostrativa que pueda ser de interés para futuras evaluaciones o procesos de adquisición, la visita ocurrira a las dependencias del cliente CDS Cruz del Sur, ubicado en Moneda 1040 y tiene como fin demostrar y que se conozca la marca representada. Se estima conveniente que la visita se realice el dia lunes 13 de octubre a las 11 hrs en el lugar ya indicado.
@@ -22536,7 +22786,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/815
 
 ---
 
-On October 20, 2025 at 02:30 PM, Matías Tobar, the Jefe  Departamento de Proyectos de Atención Primaria-Div. Inversiones, attended a videoconferencia meeting via Audiencia atendida por Srta. Marlene Echeverría, profesional DPAPS.
+On October 20, 2025 at 02:30 PM, Matías Tobar, the Jefe Departamento de Proyectos de Atención Primaria-Div. Inversiones - SRA, attended a videoconferencia meeting via Audiencia atendida por Srta. Marlene Echeverría, profesional DPAPS.
 Link Zoom:
 Se ha creado la siguiente sala de reunión:
 Enlace: https://minsal-cl.zoom.us/j/88245598498
@@ -22596,7 +22846,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/622
 
 ---
 
-On October 16, 2025 at 10:00 AM, Erick Marchant, the Departamento de Estudios de Preinversión, attended a videoconferencia meeting via Microsoft Teams ¿Necesita ayuda? 
+On October 16, 2025 at 10:00 AM, Erick Marchant, the Departamento de Estudios de Preinversión - SRA, attended a videoconferencia meeting via Microsoft Teams ¿Necesita ayuda? 
 Unirse a la reunión ahora 
 Id. de reunión: 254 812 894 588 3 
 Código de acceso: LM6pv7ML. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
@@ -22649,7 +22899,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/829
 
 ---
 
-On October 28, 2025 at 12:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP), attended a videoconferencia meeting via Se ha creado la siguiente sala de reunión:
+On October 28, 2025 at 12:00 PM, Verónica Bustos, the Jefa División de Gestión y Desarrollo de las Personas (DIGEDEP) - SRA, attended a videoconferencia meeting via Se ha creado la siguiente sala de reunión:
 
 Enlace: https://minsal-cl.zoom.us/j/86932863612
 Contraseña: 789250. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
@@ -22709,7 +22959,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/698
 
 ---
 
-On October 29, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua, attended a videoconferencia meeting via Se publica audiencia y se deja constancia que no se realizó la reunión ya que el interesado no se presentó. Profesionales del departamento se conectaron y esperaron por 15 minutos.. The meeting lasted 0 horas, 15 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+On October 29, 2025 at 10:00 AM, María Hoffmann, the Jefa Departamento de Formación, Capacitación y Educación Continua - SRA, attended a videoconferencia meeting via Se publica audiencia y se deja constancia que no se realizó la reunión ya que el interesado no se presentó. Profesionales del departamento se conectaron y esperaron por 15 minutos.. The meeting lasted 0 horas, 15 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
 Junto con saludar, nos dirigimos a usted para solicitar una audiencia virtual, con el objetivo de presentar nuestra propuesta de capacitación diseñada y orientada a fortalecer el trabajo en equipo y contribuir al desarrollo profesional de los equipos en instituciones públicas.<br />
@@ -22740,7 +22990,7 @@ Presentación Ocrelizumab LRS.
 **Participants:**
 The meeting included:
 Constanza Esquivel (Gestor de intereses, working for nan, representing Constanza Esquini)
-Ximena Paredes (Gestor de intereses, working for nan, representing Roche Chile Limitada)
+Ximena Paredes (Gestor de intereses, working for Roche Chile Ltda, representing Roche Chile Limitada)
 
 **Key Details:**
 Meeting Identifier: AO001AW1984982
@@ -22761,7 +23011,7 @@ El Lobby en mención es en el marco del ges 31.
 
 **Participants:**
 The meeting included:
-Ximena Paredes (Gestor de intereses, working for nan, representing Roche Chile Limitada)
+Ximena Paredes (Gestor de intereses, working for Roche Chile Ltda, representing Roche Chile Limitada)
 Catherine Gejman (Gestor de intereses, working for Roche Chile Limitada, representing Catherine Gejman)
 Maria Carolina Undaneta (Gestor de intereses, working for nan, representing Carolina Urdaneta)
 
@@ -22935,6 +23185,31 @@ Duration: 0 horas, 15 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/698401/850589
+
+
+---
+
+On October 29, 2025 at 09:00 AM, Matías Tobar, the Jefe Departamento de Proyectos de Atención Primaria-Div. Inversiones - SRA, attended a videoconferencia meeting via UG9yIHJhem9uZXMgZGUgYnVlbiBzZXJ2aWNpbywgQXVkaWVuY2lhIGZ1ZSBhdGVuZGlkYSBwb3IgUm9taW5hIEFodW1hZGEsIHByb2Zlc2lvbmFsIERJVklOCmxpbmsgem9vbToKRW5sYWNlOiBodHRwczovL21pbnNhbC1jbC56b29tLnVzL2ovODU4ODc5Mzc4MTIKQ29udHJhc2XDsWE6IDc0MTM2MAo=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+presentación de equipos de composición corporal con validaciones clínicas para el ambito de proyectos de atención primaria, favor considerar presentación martes 28 de octubre o miércoles 29 de octubre a las 15:00, favor considerar que no pude agregar a las siguientes personas extranjeras en la reunión<br />
+John Nicolas Zuleta Castillo<br />
+Pasaporte AT861510<br />
+Regional Sales Manager at seca<br />
+Gerente producto SECA - Arquimed<br />
+Daniela Alvarez Correa Pasaporte: AV121816 Latam Sales Manager Body Composition at seca.
+
+**Participants:**
+The meeting included:
+Esteban Suazo (Gestor de intereses, working for nan, representing arquimed)
+
+**Key Details:**
+Meeting Identifier: AO001AW1988163
+Platform: UG9yIHJhem9uZXMgZGUgYnVlbiBzZXJ2aWNpbywgQXVkaWVuY2lhIGZ1ZSBhdGVuZGlkYSBwb3IgUm9taW5hIEFodW1hZGEsIHByb2Zlc2lvbmFsIERJVklOCmxpbmsgem9vbToKRW5sYWNlOiBodHRwczovL21pbnNhbC1jbC56b29tLnVzL2ovODU4ODc5Mzc4MTIKQ29udHJhc2XDsWE6IDc0MTM2MAo=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/728911/851324
 
 
 ---
