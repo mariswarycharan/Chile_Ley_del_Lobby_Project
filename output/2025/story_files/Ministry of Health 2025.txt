@@ -822,7 +822,7 @@ saludos.
 
 **Participants:**
 The meeting included:
-Paula Espinoza (Gestor de intereses, working for Andover alianza médica SA, representing andover alianza medica sa)
+Paula Espinoza (Gestor de intereses, working for Andover Alianza Medica, representing andover alianza medica sa)
 María Urzúa (Gestor de intereses, working for Andover alianza médica SA, representing ANDOVER ALIANZA MEDICA SA)
 
 **Key Details:**
@@ -938,7 +938,7 @@ Minsal explica la normativa, plazos y procesos..
 
 **Participants:**
 The meeting included:
-MAXIMO PICALLO CERDA (Gestor de intereses, working for nan, representing Asociacion Chilena de Gastronomia)
+MAXIMO PICALLO CERDA (Gestor de intereses, working for Asociacion Chilena de Gastronomia, representing Asociacion Chilena de Gastronomia)
 Eduardo Regonesi (Gestor de intereses, working for nan, representing Asociacion Chilena de gastronomia)
 Maria Isabel Serrano (Gestor de intereses, working for nan, representing Asociacion Chilena de Gastronomia)
 
@@ -1185,7 +1185,7 @@ Presentan propuesta de servicios que ofrecen tanto tecnología para traspasos de
 **Participants:**
 The meeting included:
 Carolina Rubio (Gestor de intereses, working for Edenred Chile S.A, representing EDENRED CHILE S.A.)
-Ricardo Henríquez (Gestor de intereses, working for Edenred Chile S.A, representing EDENRED CHILE S.A.)
+Ricardo Henríquez (Lobista, working for EDENRED CHILE SOCIEDAD ANONIMA, representing EDENRED CHILE S.A.)
 
 **Key Details:**
 Meeting Identifier: AO001AW1719588
@@ -3203,7 +3203,7 @@ Solicitamos una reunión para conocer las iniciativas de proyectos de inversión
 
 **Participants:**
 The meeting included:
-Pedro Matías Heber (Lobista, working for Philips Chilena S.A., representing Philips Chilena SA)
+Pedro Matías Heber (Gestor de intereses, working for Philips Chilena S.A., representing Philips Chilena SA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1744468
@@ -4787,7 +4787,7 @@ Proveedor solicita realizar una reunión para presentar tecnología espectral.
 
 **Participants:**
 The meeting included:
-Pedro Matías Heber (Lobista, working for Philips Chilena S.A., representing Philips Chilena)
+Pedro Matías Heber (Gestor de intereses, working for Philips Chilena S.A., representing Philips Chilena)
 
 **Key Details:**
 Meeting Identifier: AO001AW1768807
@@ -7009,7 +7009,7 @@ Además mostrar modelo farmacoeconómico específico para el sector público.
 
 **Participants:**
 The meeting included:
-Beethoven Coronel Núñez (Lobista, working for Sanofi Aventis de Chile, representing Sanofi Aventis de Chile S.A.)
+Beethoven Coronel Núñez (Gestor de intereses, working for Sanofi Aventis de Chile, representing Sanofi Aventis de Chile S.A.)
 Maria Gonzalez (Gestor de intereses, working for Sanofi, representing Sanofi Aventis de Chile S.A.)
 
 **Key Details:**
@@ -7888,7 +7888,7 @@ Presentar el desarrollo de nuestra plataforma que adapta y pone a disposición a
 
 **Participants:**
 The meeting included:
-Claudia Miralles Abarca (Lobista, working for Consultores en Comunicación Estratégica S.A.  Imaginaccion, representing Intelimed)
+Claudia Miralles Abarca (Gestor de intereses, working for Consultores en Comunicación Estratégica S.A.  Imaginaccion, representing Intelimed)
 Alan Nudman (Gestor de intereses, working for nan, representing Intelimed)
 Renato Leyton (Gestor de intereses, working for Consultores en Comunicación Estratégica S.A. / Imaginaccion, representing Intelimed)
 Felipe Frías (Gestor de intereses, working for nan, representing Intelimed)
@@ -11048,9 +11048,9 @@ Sensor de Glucosa.
 
 **Participants:**
 The meeting included:
-José Luis Sarabia (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
-Verónica Guzmán (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda.)
-Miguel González (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott laboratories de Chile Ltda)
+José Luis Sarabia (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+Verónica Guzmán (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda.)
+Miguel González (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott laboratories de Chile Ltda)
 
 **Key Details:**
 Meeting Identifier: AO001AW1836492
@@ -11473,7 +11473,7 @@ Estado de deuda Minsal - Entel.
 **Participants:**
 The meeting included:
 Antonio Buchi Buc (Gestor de intereses, working for Entel S.A., representing Entel S.A.)
-Claudio Anabalón (Lobista, working for Empresa Nacional de Telecomunicaciones S.A., representing Entel S.A.)
+Claudio Anabalón (Gestor de intereses, working for Empresa Nacional de Telecomunicaciones S.A., representing Entel S.A.)
 
 **Key Details:**
 Meeting Identifier: AO001AW1838318
@@ -13773,7 +13773,7 @@ Resolución de Evaluación de Patologías / Tecnologías Sanitarias en Ley Ricar
 
 **Participants:**
 The meeting included:
-Beethoven Coronel Núñez (Lobista, working for Sanofi Aventis de Chile, representing Sanofi Aventis de Chile S.A.)
+Beethoven Coronel Núñez (Gestor de intereses, working for Sanofi Aventis de Chile, representing Sanofi Aventis de Chile S.A.)
 Maria Gonzalez (Gestor de intereses, working for Sanofi, representing Sanofi Aventis de Chile S.A.)
 Jimena Eliana Piastrella (Gestor de intereses, working for Sanofi, representing Sanofi Aventis de Chile)
 
@@ -14095,9 +14095,9 @@ Actualización estatus GES Sensor de glucosa, aclaración de dudas acerca de eje
 
 **Participants:**
 The meeting included:
-José Luis Sarabia (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
-Verónica Guzmán (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
-Miguel González (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+José Luis Sarabia (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+Verónica Guzmán (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+Miguel González (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
 
 **Key Details:**
 Meeting Identifier: AO001AW1859929
@@ -15605,7 +15605,7 @@ The meeting included:
 Ana María Arriagada (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
 Adelio Emilio Misseroni Raddatz (Lobista, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
 Mauricio Osorio Ulloa (Lobista, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
-BARBARA PALMA GARAY (Lobista, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
+BARBARA PALMA GARAY (Gestor de intereses, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MEDICO DE CHILE)
 
 **Key Details:**
 Meeting Identifier: AO001AW1872044
@@ -19005,7 +19005,7 @@ Permisología que regula la actividad de la depilación láser.
 
 **Participants:**
 The meeting included:
-Gerardo Segovia (Gestor de intereses, working for nan, representing Clínica Belenus SpA)
+Gerardo Segovia (Gestor de intereses, working for ABC Gestiona SpA, representing Clínica Belenus SpA)
 
 **Key Details:**
 Meeting Identifier: AO001AW1913069
@@ -20179,7 +20179,7 @@ Actualización Inclusión de GES para sistema de monitoreo continuo de glucosa, 
 
 **Participants:**
 The meeting included:
-José Luis Sarabia (Lobista, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+José Luis Sarabia (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
 Verónica Eugenia Guzmán Romero (Gestor de intereses, working for Abbott Laboratories de Chile Limitada, representing Abbott laboratories de Chile Ltda.)
 
 **Key Details:**
@@ -22408,6 +22408,32 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/815
 
 ---
 
+On October 28, 2025 at 12:30 PM, Cristian Cofré, the Jefe  Departamento de Nutrición y Alimentos y Unidad de Programas Alimentarios DIPOL., attended a videoconferencia meeting via TWljcm9zb2Z0IFRlYW1zIMK/TmVjZXNpdGEgYXl1ZGE/IApVbmlyc2UgYSBsYSByZXVuacOzbiBhaG9yYSAKSWQuIGRlIHJldW5pw7NuOiAyNTkgNjcxIDY2MiA3MTUgNiAKQ8OzZGlnbyBkZSBhY2Nlc286IHp2MlZrMmVtIAo=. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Temas a tratar: Junto con saludar, informo que el proyecto “Liofilización de leche materna”, adjudicado con financiamiento CORFO, se encuentra en etapa de validación normativa. Realizamos consultas a SEREMI de Salud, desde donde nos derivaron al ISP, y posteriormente al Departamento de Alimentos y Nutrición.<br />
+Nuestra solicitud fue ingresada al departamento de Nutrición con el N.° 2730918 el 12 de junio. A la fecha, han transcurrido más de tres meses sin respuesta. Hemos consultado telefónicamente en Oficina de Partes, donde se nos indica reiteradamente que el trámite aún no registra avances.<br />
+Dado que el proyecto forma parte de CORFO y debemos cumplir un cronograma comprometido.<br />
+Temas tratados:<br />
+-Preguntan sobre evaluación del tema Liofilización de leche materna<br />
+-Minsal explica sobre avance del documento, derivado a jurídica de MINSAL en agosto.<br />
+-Solicitarán Lobby con jurídica.
+
+**Participants:**
+The meeting included:
+Claudia Letelier (Gestor de intereses, working for nan, representing Karina Kitzing)
+
+**Key Details:**
+Meeting Identifier: AO001AW1972793
+Platform: TWljcm9zb2Z0IFRlYW1zIMK/TmVjZXNpdGEgYXl1ZGE/IApVbmlyc2UgYSBsYSByZXVuacOzbiBhaG9yYSAKSWQuIGRlIHJldW5pw7NuOiAyNTkgNjcxIDY2MiA3MTUgNiAKQ8OzZGlnbyBkZSBhY2Nlc286IHp2MlZrMmVtIAo=
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO001/audiencias/2025/684820/855024
+
+
+---
+
 On October 24, 2025 at 03:30 PM, María Jorquera, the Jefa Departamento de Reparación y Atención Integral en Salud- SRA, attended a presencial meeting via TWFjaSBpdmVyIDQ0MCwgcGlzbyA2LiBTYW50aWFnbyBDZW50cm8=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
@@ -22479,7 +22505,7 @@ Revisión del Decreto GES en relación con la inclusión de nuevas tecnologías 
 
 **Participants:**
 The meeting included:
-Maria Gonzalez (Lobista, working for Sanofi Aventis de Chile, representing Sanofi Aventis de Chile)
+Maria Gonzalez (Gestor de intereses, working for Sanofi Aventis de Chile, representing Sanofi Aventis de Chile)
 Beethoven Coronel (Gestor de intereses, working for Sanofi, representing Sanofi Aventis de Chile)
 
 **Key Details:**
