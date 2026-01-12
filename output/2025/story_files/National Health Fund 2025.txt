@@ -917,9 +917,9 @@ Necesitamos información del proceso de inscripción de Alta y Bajas de los prof
 **Participants:**
 The meeting included:
 Juan Saldivia (Gestor de intereses, working for nan, representing Fundación Las Rosas de Ayuda Fraterna)
-María Gómez (Gestor de intereses, working for nan, representing Fundación Las Rosas de Ayuda Fraterna)
+MARÍA PAULINA GÓMEZ FIGUEROA (Gestor de intereses, working for Asociación de Dializados y Trasplantados de Chile, representing Fundación Las Rosas de Ayuda Fraterna)
 Juan Saldivia (Gestor de intereses, working for nan, representing Fundación Las Rosas de Ayuda Fraterna)
-María Gómez (Gestor de intereses, working for nan, representing Fundación Las Rosas de Ayuda Fraterna)
+MARÍA PAULINA GÓMEZ FIGUEROA (Gestor de intereses, working for Asociación de Dializados y Trasplantados de Chile, representing Fundación Las Rosas de Ayuda Fraterna)
 
 **Key Details:**
 Meeting Identifier: AO004AW1733032
@@ -1661,9 +1661,9 @@ Aspectos operacionales de la MCC..
 
 **Participants:**
 The meeting included:
-Marcelo Mosso (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
+Marcelo Mosso (Gestor de intereses, working for ASOCIACIÓN DE ASEGURADORES DE CHILE A.G., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
 JAMES MURRAY T. (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing ASOCIACION DE ASEGURADORES DE CHILE A.G.)
-Felipe Casale (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
+Felipe Casale (Gestor de intereses, working for ASOCIACIÓN DE ASEGURADORES DE CHILE A.G., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
 
 **Key Details:**
 Meeting Identifier: AO004AW1750925
@@ -2256,8 +2256,8 @@ Se solicita reunión para abordar el siguiente tema:<br />
 
 **Participants:**
 The meeting included:
-Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES, representing Diaverum Servicios Renales Chile Ltda.)
-Pablo Iñones (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES, representing Diaverum Servicios Renales Chile Ltda.)
+Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES CHILE SPA, representing Diaverum Servicios Renales Chile Ltda.)
+Pablo Iñones (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES CHILE SPA, representing Diaverum Servicios Renales Chile Ltda.)
 
 **Key Details:**
 Meeting Identifier: AO004AW1763457
@@ -2642,7 +2642,7 @@ Con fecha 12 de febrero de 2025 ,  fiscalizadora de Seremi de Salud Región del 
 
 **Participants:**
 The meeting included:
-Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES, representing Servicios Médicos Cidial Limitada)
+Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES CHILE SPA, representing Servicios Médicos Cidial Limitada)
 Lorena Fuentes (Gestor de intereses, working for nan, representing Servicios Médicos Cidial Limitada)
 
 **Key Details:**
@@ -2683,7 +2683,7 @@ Intercambiar consultas sobre aspectos técnicos y operacionales de la implementa
 
 **Participants:**
 The meeting included:
-Marcelo Mosso (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
+Marcelo Mosso (Gestor de intereses, working for ASOCIACIÓN DE ASEGURADORES DE CHILE A.G., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
 JAMES MURRAY T. (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
 
 **Key Details:**
@@ -4718,7 +4718,7 @@ Saludos.
 
 **Participants:**
 The meeting included:
-Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES, representing Dialisis Colina S.A.)
+Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES CHILE SPA, representing Dialisis Colina S.A.)
 Lorenzo Juacida (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES, representing Dialisis Colina S.A.)
 
 **Key Details:**
@@ -4856,7 +4856,7 @@ The meeting included:
 Claudio Soto Angelo (Gestor de intereses, working for Clinica Los Coihues SpA, representing Clínica Los Coihues)
 Julio Covarrubias (Gestor de intereses, working for Clinica Los Coihues SpA, representing Clínica Los Coihues)
 Javiera Rojas (Gestor de intereses, working for Clinica Los Coihues SpA, representing Clínica Los Coihues)
-Felipe Cuevas (Lobista, working for Clinica Los Coihues SpA, representing Clínica Los Coihues)
+Felipe Cuevas (Gestor de intereses, working for Clinica Los Coihues SpA, representing Clínica Los Coihues)
 
 **Key Details:**
 Meeting Identifier: AO004AW1809061
@@ -5371,9 +5371,9 @@ lobby fue atendido por Rodrigo Reyes quine explicó el funcionamiento del proced
 
 **Participants:**
 The meeting included:
-Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES, representing sociedad medica vitta spa)
+Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES CHILE SPA, representing sociedad medica vitta spa)
 Andrea Collao (Gestor de intereses, working for nan, representing sociedad medica vitta spa)
-Pablo Iñones (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES, representing soc medica vitta spa)
+Pablo Iñones (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES CHILE SPA, representing soc medica vitta spa)
 
 **Key Details:**
 Meeting Identifier: AO004AW1818900
@@ -6189,7 +6189,7 @@ Abordar necesidades relacionadas con Gestor Documental.
 
 **Participants:**
 The meeting included:
-Juan Calvo (Gestor de intereses, working for nan, representing APIUX Tech)
+Juan Calvo (Gestor de intereses, working for Apiux Tecnología SpA, representing APIUX Tech)
 
 **Key Details:**
 Meeting Identifier: AO004AW1826388
@@ -6475,7 +6475,7 @@ Se solicita reunión para obtener respuesta en relación a la solicitud realizad
 
 **Participants:**
 The meeting included:
-Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES, representing Servicios Médicos Cidial Limitada)
+Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES CHILE SPA, representing Servicios Médicos Cidial Limitada)
 Lorena Fuentes (Gestor de intereses, working for nan, representing Servicios Médicos Cidial Limitada)
 
 **Key Details:**
@@ -6563,7 +6563,7 @@ mesa de arancel.
 
 **Participants:**
 The meeting included:
-Carlos Becerra (Lobista, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Carlos Becerra (Gestor de intereses, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
 Marcos Santis (Gestor de intereses, working for COLEGIO MÉDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
 BARBARA PALMA GARAY (Gestor de intereses, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
 maria paz soto ortega (Gestor de intereses, working for nan, representing Colegio Médico)
@@ -6972,7 +6972,7 @@ SE SOLICITA CONOCER ESTADO DE SEGUNDO AUMENTO DE CONTRATO DE RESOLUCIÓN DE PATO
 
 **Participants:**
 The meeting included:
-María Ossa (Gestor de intereses, working for nan, representing CLINICA COLONIAL S.A.)
+María Ossa (Lobista, working for Clinica Colonial S.A, representing CLINICA COLONIAL S.A.)
 Katia Freire (Gestor de intereses, working for Clinica Colonial SA, representing CLÍNICA COLONIAL)
 
 **Key Details:**
@@ -7345,7 +7345,7 @@ Resido en la actualidad y por las de 58 años he sido vecino adjunto del mencion
 
 **Participants:**
 The meeting included:
-mario cepeda (Gestor de intereses, working for nan, representing juan carlos cepeda isla)
+mario Cepeda Isla (Gestor de intereses, working for nan, representing juan carlos cepeda isla)
 
 **Key Details:**
 Meeting Identifier: AO004AW1843624
@@ -8264,7 +8264,7 @@ Se realiza presentación de solución de Gestión de Personas, con módulos de a
 
 **Participants:**
 The meeting included:
-Andrea Tejos (Lobista, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
+Andrea Tejos (Gestor de intereses, working for Soluciones en Seguridad Ltda, representing Soluciones en Seguridad Ltda)
 Tamara Gutiérrez (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -9908,7 +9908,7 @@ Platform: Via Teams
 Duration: 0 horas, 30 minutos
 Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
-Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/816147
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/816148
 
 
 ---
@@ -11756,7 +11756,7 @@ The meeting included:
 CRISTIAN MILLÁN (Gestor de intereses, working for ASOCIACIÓN DE ASEGURADORES DE CHILE A.G., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
 JAMES MURRAY T. (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
 Javier Irarrázaval (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
-Felipe Casale (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
+Felipe Casale (Gestor de intereses, working for ASOCIACIÓN DE ASEGURADORES DE CHILE A.G., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
 
 **Key Details:**
 Meeting Identifier: AO004AW1909470
@@ -11974,9 +11974,9 @@ En el contexto de la implementación de la MCC, FONASA está realizando reunione
 
 **Participants:**
 The meeting included:
-Rodrigo Pablo (Gestor de intereses, working for 4Life Seguros de Vida S.A., representing 4Life Seguros de Vida S.A.)
+Rodrigo Pablo (Lobista, working for 4 Life Seguros de Vida S.A., representing 4Life Seguros de Vida S.A.)
 Manuel Alvarez Latorre (Gestor de intereses, working for 4Life Seguros de Vida S.A., representing 4Life Seguros de Vida S.A.)
-Mauricio Balbontín (Gestor de intereses, working for 4Life Seguros de Vida S.A., representing 4Life Seguros de Vida S.A.)
+Mauricio Balbontín (Lobista, working for 4 Life Seguros de Vida S.A., representing 4Life Seguros de Vida S.A.)
 Camilo Cid (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -12325,9 +12325,9 @@ En el contexto de la implementación de la MCC, FONASA está realizando reunione
 **Participants:**
 The meeting included:
 Alejandro Alzérreca (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing Asociación de Aseguradoras de Chile A G)
-Marcelo Mosso (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing Asociación de Aseguradoras de Chile A G)
+Marcelo Mosso (Gestor de intereses, working for ASOCIACIÓN DE ASEGURADORES DE CHILE A.G., representing Asociación de Aseguradoras de Chile A G)
 Javier Irarrázaval (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing Asociación de Aseguradoras de Chile A G)
-Felipe Casale (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing Asociación de Aseguradoras de Chile A G)
+Felipe Casale (Gestor de intereses, working for ASOCIACIÓN DE ASEGURADORES DE CHILE A.G., representing Asociación de Aseguradoras de Chile A G)
 Camilo Cid (nan, working for nan, representing nan)
 
 **Key Details:**
@@ -12665,8 +12665,8 @@ Viabilidad Sistema de Transporte de pacientes en hemodialisis.
 
 **Participants:**
 The meeting included:
-Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES, representing DIAVERUM SERVICIOS RENALES CHILE SPA)
-Pablo Iñones (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES, representing DIAVERUM SERVICIOS RENALES CHILE SPA)
+Diego Mattar (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES CHILE SPA, representing DIAVERUM SERVICIOS RENALES CHILE SPA)
+Pablo Iñones (Gestor de intereses, working for DIAVERUM SERVICIOS RENALES CHILE SPA, representing DIAVERUM SERVICIOS RENALES CHILE SPA)
 
 **Key Details:**
 Meeting Identifier: AO004AW1918626
@@ -12889,6 +12889,26 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/718487/842989
+
+
+---
+
+On November 05, 2025 at 10:04 AM, Manuel Arce, the Jefe Departamento de Proyectos (TI), attended a videoconferencia meeting via VmlhIFRlYW1z. The meeting lasted 0 horas, 6 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+No se presento nadie a la reunión..
+
+**Participants:**
+The meeting included:
+Javier Pérez (Gestor de intereses, working for nan, representing javier perez)
+
+**Key Details:**
+Meeting Identifier: AO004AW1921097
+Platform: VmlhIFRlYW1z
+Duration: 0 horas, 6 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702898/851497
 
 
 ---
@@ -13250,6 +13270,28 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703
 
 ---
 
+On September 09, 2025 at 11:00 AM, David Araya, the Jefe Subdepartamento de Operaciones, attended a videoconferencia meeting via RW52aWFyIGNpdGEgcGFyYSBjb25lY2Npb24gcmVtb3RhLg==. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Deseamos presentar soluciones tecnológicas para la institución, de  manera muy especial estamos interesados en presentar nuestro servicio de GESTOR DE FILAS, de producción propia con Totem de autogestión y pantallas profesionales, tenemos una vasta experiencia en Chile y seria bueno dar a conocer el producto, así su institución tendría un abanico d posibilidades al momento de licitar<br />
+Gracias.
+
+**Participants:**
+The meeting included:
+Pamela Miranda (Gestor de intereses, working for TIC SERVICES SPA, representing TIC SERVICES SPA)
+Sebastián Pérez (Gestor de intereses, working for TIC SERVICES SPA, representing TIC SERVICES SPA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1934656
+Platform: RW52aWFyIGNpdGEgcGFyYSBjb25lY2Npb24gcmVtb3RhLg==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702889/861130
+
+
+---
+
 On September 25, 2025 at 03:00 PM, Astrid Yáñez, the Jefa Departamento Análisis y Validación de Prestaciones, attended a videoconferencia meeting via TEAMS. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
@@ -13290,6 +13332,29 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/466386/846974
+
+
+---
+
+On November 07, 2025 at 03:00 PM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a presencial meeting via bW9uaml0YXMgNjY1LCBwaXNv. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Incremento de deuda pública hacia prestadores privados..
+
+**Participants:**
+The meeting included:
+Claudia Copetta (Gestor de intereses, working for Clínicas de Chile AG, representing CLÍNICAS DE CHILE A.G.)
+Javier Fuenzalida Santander (Gestor de intereses, working for Clínicas de Chile AG, representing CLÍNICAS DE CHILE A.G.)
+Fernanda Molina (Gestor de intereses, working for Clínicas de Chile AG, representing CLÍNICAS DE CHILE A.G.)
+Paola Suazo (Gestor de intereses, working for Clínicas de Chile AG, representing CLÍNICAS DE CHILE A.G.)
+
+**Key Details:**
+Meeting Identifier: AO004AW1935619
+Platform: bW9uaml0YXMgNjY1LCBwaXNv
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861141
 
 
 ---
@@ -13456,6 +13521,28 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703757/849931
+
+
+---
+
+On October 28, 2025 at 10:00 AM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via Wm9vbQ==. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Se solicita reunión Lobby para abordar Deuda Pública de la Red Dávila dando en énfasis en las cuentas Ley de Urgencia.<br />
+<br />
+Muchas gracias!!.
+
+**Participants:**
+The meeting included:
+Cristian Garcia Torres (Gestor de intereses, working for CLINICA DAVILA Y SERVICIOS MEDICOS S.A., representing Cristián García)
+
+**Key Details:**
+Meeting Identifier: AO004AW1942988
+Platform: Wm9vbQ==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861140
 
 
 ---
@@ -14178,10 +14265,10 @@ Analizar aspectos de la MCC.
 
 **Participants:**
 The meeting included:
-Marcelo Mosso (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
+Marcelo Mosso (Gestor de intereses, working for ASOCIACIÓN DE ASEGURADORES DE CHILE A.G., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
 CRISTIAN MILLÁN (Gestor de intereses, working for ASOCIACIÓN DE ASEGURADORES DE CHILE A.G., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
 JAMES MURRAY T. (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
-Felipe Casale (Gestor de intereses, working for Asociación de Aseguradores de Chile A.G.., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
+Felipe Casale (Gestor de intereses, working for ASOCIACIÓN DE ASEGURADORES DE CHILE A.G., representing ASOCIACIÓN DE ASEGURADORES DE CHILE A.G.)
 
 **Key Details:**
 Meeting Identifier: AO004AW1962663
@@ -14235,6 +14322,66 @@ Subjects Discussed: Diseño, implementación y evaluación de políticas, planes
 Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703326/852071
+
+
+---
+
+On October 28, 2025 at 12:00 PM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via Wm9vbQ==. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+La contribución que hace la Clínica Puerto Varas a la atención de los beneficiarios del FONASA, específicamente a través del convenio DFL con el Servicio de Salud del Reloncaví y el riesgo que existe respecto a que el Servicio de Salud quede con una deuda con Clínica Puerto Varas por sobre los 2.000 millones de pesos..
+
+**Participants:**
+The meeting included:
+Francisco Saitúa (Gestor de intereses, working for nan, representing Clínica de Puerto Varas SpA)
+Hans Vidal (Gestor de intereses, working for nan, representing Clínica de Puerto Varas SpA)
+Manuel González (Gestor de intereses, working for nan, representing Clínica de Puerto Varas SpA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1964825
+Platform: Wm9vbQ==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861142
+
+
+---
+
+On October 22, 2025 at 11:00 AM, Matías Goyenechea, the Jefe (S) División Planificación y Desarrollo Esteratégico, attended a videoconferencia meeting via Wm9vbQ==. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+BONO PAD RECONSTRUCTIVO<br />
+<br />
+Desde el año 2018 como ong de obesidad y reconstrucción antes llamados plan guatita delantal hemos trabajado ingresado proyectos para agilizar los procesos operatorios y listas de espera en el área ya descrita.<br />
+Hemos colaborado en mesas de trabajo desde el año 2018 al 2025, ingresamos el año 2023 un proyecto de bono pad reconstructivos en varias etapas tales como:<br />
+•	Abdominoplastia<br />
+•	Mamario (diferentes causales)<br />
+•	Brazos<br />
+•	Piernas<br />
+•	Equipo multidisciplinario<br />
+<br />
+El año 2023 se apoyo en la cámara de diputados y senado llegando a trabajar con Fonasa en la realización del bono pad de abdominoplastia el cual en conjunto a los médicos que perteneces a nuestro equipo se logro la aprobación y ejecución este año 2025 y hemos sido pioneros con el equipo en esta área.<br />
+Nuestra preocupación es hoy el bono pad mamaria ya que el 2023 se comenzó a trabajar con este bono y lamentablemente las gestiones de parte de Fonasa no fueron las optimas y quedo sin avance.<br />
+Hoy necesitamos retomar esta mesa de trabajo en nuestro equipo somos profesionales de la salud y administración de proyectos y necesitamos seguir avanzando..
+
+**Participants:**
+The meeting included:
+Carolina Lillo (Gestor de intereses, working for nan, representing ong centro de obesidad y recontruccion PODES)
+
+**Key Details:**
+Meeting Identifier: AO004AW1965072
+Platform: Wm9vbQ==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/469407/861161
 
 
 ---
@@ -14318,6 +14465,26 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/172
 
 ---
 
+On November 04, 2025 at 09:00 AM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via Wm9vbQ==. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Problematica existente en el retraso exsecivo a la entrega de tratamiento medicos aprobados por la Corte Suprema a pacientes AME..
+
+**Participants:**
+The meeting included:
+Paulina González (Gestor de intereses, working for nan, representing Corporación Fame Chile)
+
+**Key Details:**
+Meeting Identifier: AO004AW1966063
+Platform: Wm9vbQ==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861146
+
+
+---
+
 On September 23, 2025 at 09:00 AM, Matías Goyenechea, the Jefe (S) División Planificación y Desarrollo Esteratégico, attended a presencial meeting via AV. EL BOSQUE SUR 180, LAS CONDES. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
 Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
@@ -14336,6 +14503,27 @@ Subjects Discussed: Elaboración, dictación, modificación, denegación o recha
 Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/469407/840894
+
+
+---
+
+On November 03, 2025 at 12:00 PM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via Wm9vbQ==. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Presupuesto Convenio DFL 36/80<br />
+Lista Espera GES y NOGES.
+
+**Participants:**
+The meeting included:
+Hugo Edmundo Peña Tamarin (Gestor de intereses, working for nan, representing Hospital Parroquial de San Bernardo)
+
+**Key Details:**
+Meeting Identifier: AO004AW1967621
+Platform: Wm9vbQ==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861147
 
 
 ---
@@ -14466,9 +14654,9 @@ FONASA informa a la compañía del estado del segundo proceso licitatorio del se
 
 **Participants:**
 The meeting included:
-Rodrigo Pablo (Gestor de intereses, working for 4Life Seguros de Vida S.A., representing 4Life Seguros de Vida S.A.)
+Rodrigo Pablo (Lobista, working for 4 Life Seguros de Vida S.A., representing 4Life Seguros de Vida S.A.)
 Manuel Alvarez Latorre (Gestor de intereses, working for 4Life Seguros de Vida S.A., representing 4Life Seguros de Vida S.A.)
-Mauricio Balbontín (Gestor de intereses, working for 4Life Seguros de Vida S.A., representing 4Life Seguros de Vida S.A.)
+Mauricio Balbontín (Lobista, working for 4 Life Seguros de Vida S.A., representing 4Life Seguros de Vida S.A.)
 
 **Key Details:**
 Meeting Identifier: AO004AW1967858
@@ -14534,6 +14722,47 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/713
 
 ---
 
+On October 28, 2025 at 11:00 AM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via Wm9vbQ==. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Se está  pidiendo audiencia por ley del lobby dado que una consultora internacional fue contratada por Christus USA  para revisar casos/cuentas de pacientes sin regularizar de chile relacionados a prestaciones en convenio con FONASA.
+
+**Participants:**
+The meeting included:
+Soraya Boada (Gestor de intereses, working for Intellity Consulting Chile Spa, representing Protiviti Chile)
+LAURA LUBI LEON (Gestor de intereses, working for nan, representing Red de Salud UC Christus)
+
+**Key Details:**
+Meeting Identifier: AO004AW1969756
+Platform: Wm9vbQ==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861143
+
+
+---
+
+On October 15, 2025 at 12:00 PM, Marcela Tapia, the Jefa Departamento Gestión Comercial Centro Sur, attended a presencial meeting via U0FMQSBSRVVOSU9ORVMgRFpDUw==. The meeting lasted 1 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Temas varios pendientes..
+
+**Participants:**
+The meeting included:
+Irene Garcés (Gestor de intereses, working for nan, representing irene garces martinez)
+
+**Key Details:**
+Meeting Identifier: AO004AW1970051
+Platform: U0FMQSBSRVVOSU9ORVMgRFpDUw==
+Duration: 1 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704309/860230
+
+
+---
+
 On October 28, 2025 at 10:00 AM, Juan Fuentes, the Jefe División Jurídica, attended a presencial meeting via Monjitas N° 665. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
@@ -14550,6 +14779,27 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703441/849607
+
+
+---
+
+On October 28, 2025 at 10:00 AM, Marcelo González, the Jefe División Tecnologías de Información, attended a videoconferencia meeting via VmlhIFRlYW1zIA==. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Revisar estado de incidencias de las cuentas de las 9 Clínicas Redsalud, en Right Now y otras plataformas que usa Fonasa y que presentan problemas para que sean validadas o pagadas. Generar plan para solucionar estos inconvenientes..
+
+**Participants:**
+The meeting included:
+Paola Suazo (Gestor de intereses, working for Clínicas de Chile AG, representing Empresas Redsalud SA)
+Marlene San Martín (Gestor de intereses, working for nan, representing Empresas Redsalud SA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1970574
+Platform: VmlhIFRlYW1zIA==
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/650929/867367
 
 
 ---
@@ -14575,6 +14825,32 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703820/846952
+
+
+---
+
+On November 07, 2025 at 11:10 AM, Lucy Henriquez Carrizo, the Jefa (S) Subdepartamento Recaud. De Cotizaciones, attended a videoconferencia meeting via VW5pcnNlIGEgbGEgcmV1bmnDs24gYWhvcmEgCklkLiBkZSByZXVuacOzbjogMjU5IDgyNiAzODYgMDI2IDQgCkPDs2RpZ28gZGUgYWNjZXNvOiAyOXZSMmhXNyAKaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvVW50aXRsZWRfMjgxMTIwMjVfMTIzNzQzLnBkZiAK. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Se abordarán los siguientes temas:<br />
+-  Empresas Públicas que realizan pago de cotizaciones a CCAF, devolución de fondos.<br />
+-  Pago de Licencias medicas  a empresas públicas con cotizaciones pagadas en ambas instituciones (FONASA y CCAF).<br />
+-  Cotizaciones traspasadas y justificadas a FONASA de Empresas Públicas, definición y tratamiento..
+
+**Participants:**
+The meeting included:
+Eduardo Diaz Valle (Gestor de intereses, working for nan, representing Caja Los Andes)
+Sebastian Vargas Valenzuela (Gestor de intereses, working for Caja Los Andes, representing Caja Los Andes)
+Juan Guzman (Gestor de intereses, working for nan, representing Caja Los Andes)
+Jose Araneda (Gestor de intereses, working for nan, representing Caja Los Andes)
+
+**Key Details:**
+Meeting Identifier: AO004AW1971009
+Platform: VW5pcnNlIGEgbGEgcmV1bmnDs24gYWhvcmEgCklkLiBkZSByZXVuacOzbjogMjU5IDgyNiAzODYgMDI2IDQgCkPDs2RpZ28gZGUgYWNjZXNvOiAyOXZSMmhXNyAKaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvVW50aXRsZWRfMjgxMTIwMjVfMTIzNzQzLnBkZiAK
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/770264/860096
 
 
 ---
@@ -14647,6 +14923,54 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702
 
 ---
 
+On October 23, 2025 at 10:30 AM, Marcela Tapia, the Jefa Departamento Gestión Comercial Centro Sur, attended a presencial meeting via Q29uY2VwY2nDs24=. The meeting lasted 2 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+" Solicitud apoyo en gestionar permanencia del.convenio con Teans Infusion para la administración del medicamento.para la Mucopolisacaridosis 2 ".
+
+**Participants:**
+The meeting included:
+Pamela Torres (Gestor de intereses, working for nan, representing Pamela Torres Romero)
+
+**Key Details:**
+Meeting Identifier: AO004AW1972414
+Platform: Q29uY2VwY2nDs24=
+Duration: 2 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704309/860229
+
+
+---
+
+On October 28, 2025 at 11:00 AM, María Chacaltana, the Jefa (S) División de Administración, attended a videoconferencia meeting via VGVhbXM=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Avances y actualización de estado de solicitud de comodato de terrero camino laguna verde, Valparaiso para la creación de Cuartel de brigada forestal.
+
+**Participants:**
+The meeting included:
+Diego Cea (Gestor de intereses, working for nan, representing Ong Ufacec)
+
+**Key Details:**
+Meeting Identifier: AO004AW1972424
+Platform: VGVhbXM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702441/861178
+
+
+---
+
 On October 16, 2025 at 09:05 AM, Elba Victoria Varas Espinoza, the Directora Dirección Zonal  Norte, attended a presencial meeting via Avenida José Miguel Carrera 1725, 3 piso. Sala de Reuniones. The meeting lasted 0 horas, 33 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
 
 **Purpose:**
@@ -14668,6 +14992,58 @@ Duration: 0 horas, 33 minutos
 Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/172682/849444
+
+
+---
+
+On November 07, 2025 at 11:00 AM, María Farfán, the Jefa de Unidad de Monitoreo e Sist. y Ciberseguridad, attended a videoconferencia meeting via VGVhbXM=. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+El propósito de la reunión es presentar a nuestra empresa, Global Catalog, y nuestro catálogo de servicios especializados, diseñados para fortalecer la infraestructura de seguridad y garantizar la continuidad operativa de su organización.<br />
+<br />
+Nuestra presentación se enfocará en cuatro áreas de especialización críticas:<br />
+<br />
+Ciberseguridad Integral: Expondremos nuestras soluciones completas para la protección de activos digitales, infraestructura y datos sensibles. Detallaremos nuestras capacidades en prevención, detección y respuesta ante amenazas avanzadas, asegurando un entorno digital robusto y resiliente.<br />
+<br />
+Protección Anti-Denegación de Servicio (DDoS): Presentaremos nuestros sistemas avanzados para la mitigación de ataques volumétricos y de capa de aplicación, diseñados para asegurar la disponibilidad ininterrumpida de sus servicios en línea y proteger la reputación de su entidad.<br />
+<br />
+Centro de Operaciones de Seguridad (SOC): Mostraremos nuestro servicio de SOC, que ofrece monitoreo 24/7, caza proactiva de amenazas y gestión de incidentes de seguridad. Nuestro equipo de expertos actúa rápidamente para neutralizar riesgos y minimizar el impacto de cualquier brecha.<br />
+<br />
+Centro de Operaciones de Red (NOC): Detallaremos cómo nuestro NOC supervisa, gestiona y optimiza el rendimiento y la disponibilidad de su infraestructura de red, garantizando una conectividad fiable y eficiente que soporta todas sus operaciones críticas.<br />
+<br />
+Buscamos demostrar el valor que Global Catalog puede aportar como un socio en la protección y gestión de sus operaciones tecnológicas..
+
+**Participants:**
+The meeting included:
+Nicolás Herrera (Gestor de intereses, working for nan, representing Global Catalog Limitada)
+
+**Key Details:**
+Meeting Identifier: AO004AW1973434
+Platform: VGVhbXM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703326/857030
+
+
+---
+
+On October 29, 2025 at 03:00 PM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a presencial meeting via TW9uaml0YXMgNjY1LCBwaXNvIDY=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Coordinación Comercial Licitación GES - No GES, revisión de contratos y cupos..
+
+**Participants:**
+The meeting included:
+Victoria Fierro (Gestor de intereses, working for UC CHRISTUS Servicios Clínicos SpA, representing Empresas RedSalud)
+
+**Key Details:**
+Meeting Identifier: AO004AW1976641
+Platform: TW9uaml0YXMgNjY1LCBwaXNvIDY=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861145
 
 
 ---
@@ -14698,7 +15074,7 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703
 
 ---
 
-On October 29, 2025 at 10:00 AM, Luis Vilugrón, the Jefe (S) Departamento de Atención Presencial, attended a videoconferencia meeting via TEAMS. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+On October 29, 2025 at 10:00 AM, Luis Vilugrón, the Jefe (S) Departamento de Atención Presencial, attended a videoconferencia meeting via VEVBTVMKaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMC9Mb2JieS9BY3RhJTIwTG9iYnklMjAxOTc5MDQ4LnBkZg==. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
 Como Abbott Diabetes Care nos solicitamos reunión para evaluar posibilidades de reembolsos en línea para MLE en el producto Sensor de Glucosa (cod 2301073) y Lector de glucosa (Cod 2301074). Esto último en una alianza a través de empresa IMED. Analizar proyecto e impacto en la población chilena que vive con diabetes y factibilidades..
@@ -14711,7 +15087,7 @@ Miguel González (Gestor de intereses, working for Abbott Laboratories de Chile 
 
 **Key Details:**
 Meeting Identifier: AO004AW1979048
-Platform: TEAMS
+Platform: VEVBTVMKaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMC9Mb2JieS9BY3RhJTIwTG9iYnklMjAxOTc5MDQ4LnBkZg==
 Duration: 1 horas, 0 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
@@ -14742,6 +15118,46 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703
 
 ---
 
+On November 12, 2025 at 10:00 AM, Macarena Elena  Ugarte Stipo, the Jefa Subdepartamento de Análisis Presupuestario, attended a videoconferencia meeting via VGVhbXM=. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Se informan los casos en revisión y el estado de estas, se comparte archivo con el estatus actual de los casos.
+
+**Participants:**
+The meeting included:
+Pablo Ríos (Gestor de intereses, working for Novartis Chile S.A, representing Novartis Chile)
+
+**Key Details:**
+Meeting Identifier: AO004AW1980794
+Platform: VGVhbXM=
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704326/853826
+
+
+---
+
+On October 27, 2025 at 03:00 PM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via Wm9vbQ==. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Solicitaremos evaluar un convenio entre la ACHM y FONASA, para distintos programas de salud, especialmente clínicas municipales de diálisis.
+
+**Participants:**
+The meeting included:
+Ana Silva (Gestor de intereses, working for nan, representing Asociacion Chilena de Municipalidades)
+
+**Key Details:**
+Meeting Identifier: AO004AW1981884
+Platform: Wm9vbQ==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861148
+
+
+---
+
 On October 28, 2025 at 11:00 AM, Carolina Sáez, the Jefa (S) Departamento Desarrollo de Beneficios, attended a videoconferencia meeting via aHR0cHM6Ly91czA0d2ViLnpvb20udXMvai83OTE1OTMzNjA0Mj9wd2Q9Rk1oekxEZTJKSDc3cUdlTkhFTldNUHV4cUtjd3AzLjEKSUQgZGUgcmV1bmnDs246IDc5MSA1OTMzIDYwNDIKQ8OzZGlnbyBkZSBhY2Nlc286IEJrTkI1NAo=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
@@ -14761,6 +15177,189 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/850150/851761
+
+
+---
+
+On November 11, 2025 at 10:00 AM, Jorge Troncoso, the Jefe Departamento Asesoría Jurídico-Administrativa, attended a presencial meeting via TW9uaml0YXMgTsKwIDY2NSBQaXNvIDc=. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Obtención de aclaraciones, frente a ausencia de certificación por parte de la entidad, de pago de deudas previsionales..
+
+**Participants:**
+The meeting included:
+Lucas Octavio Undurraga Errazuriz (Gestor de intereses, working for nan, representing Hugo Alegría)
+
+**Key Details:**
+Meeting Identifier: AO004AW1984386
+Platform: TW9uaml0YXMgTsKwIDY2NSBQaXNvIDc=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702582/854777
+
+
+---
+
+On October 23, 2025 at 12:00 PM, Bárbara Bustos, the Jefa (S) División de Fiscalización y Contraloría, attended a presencial meeting via TWlyYWZsb3JlcyAzODMsIHBpc28gMjQuCgpodHRwczovL2ZvbmFzYXdlYi5mb25hc2EuY2wvVHJhbnNfRG9jcy8yMDI1LzExL0xleSUyMGRlbCUyMExvYmJ5JTIwTm92MV8yMDI1L0FjdGElMjAlMjBBdWRpZW5jaWElMjBBTzAwNEFXJTIwMTk4NDg5Ny5wZGY=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Se realiza revisión de casos pendientes por Ley de Urgencia..
+
+**Participants:**
+The meeting included:
+Felipe López (Gestor de intereses, working for INSTITUTO DE DIAGNÓSTICO SA, representing Felipe Lopez Veloz)
+Mauricio Vera (Gestor de intereses, working for nan, representing Mauricio Vera López)
+
+**Key Details:**
+Meeting Identifier: AO004AW1984897
+Platform: TWlyYWZsb3JlcyAzODMsIHBpc28gMjQuCgpodHRwczovL2ZvbmFzYXdlYi5mb25hc2EuY2wvVHJhbnNfRG9jcy8yMDI1LzExL0xleSUyMGRlbCUyMExvYmJ5JTIwTm92MV8yMDI1L0FjdGElMjAlMjBBdWRpZW5jaWElMjBBTzAwNEFXJTIwMTk4NDg5Ny5wZGY=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/849191/862002
+
+
+---
+
+On November 11, 2025 at 12:00 PM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via Wm9vbQ==. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Presentación propuesta Risdiplam.
+
+**Participants:**
+The meeting included:
+Ximena Paredes (Gestor de intereses, working for Roche Chile Ltda, representing Roche Chile Limitada)
+
+**Key Details:**
+Meeting Identifier: AO004AW1985060
+Platform: Wm9vbQ==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861137
+
+
+---
+
+On November 07, 2025 at 10:00 AM, Astrid Yáñez, the Jefa Departamento Análisis y Validación de Prestaciones, attended a videoconferencia meeting via TWVldA==. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Estimado Camilo,<br />
+<br />
+junto con saludarlo, solicitamos amablemente reunión con UD en el marco de las deudas que el estado mantiene con nuestra representada Scienza Chile SpA.<br />
+<br />
+En la actualidad se mantiene una deuda de 12 mil millones de pesos, deuda que está afectando enormemente a nuestra compañía y poniendo en riesgo nuestra continuidad.<br />
+<br />
+En el pasado, hemos solicitado reuniones con distintos departamentos de FONASA pero se han negado a recibinos, lo que solo ha aumentado nuestra preocupación.<br />
+<br />
+El motivo es conversar de esta situación, exponerle claramente los efectos de esta deuda en nuestra compañía, y especialmente entender desde usted el estado en que se encuentra FONASA y las acciones de entrega de remesas que están haciendo para regularizar las deudas. <br />
+<br />
+Esperamos enormemente que pueda recibirnos a la brevedad, ya que la situación es insostenible, y porque creemos que el dialogo público privado es fundamental, pero para que se de, debe existir un espacio de parte de las autoridades para conversar.<br />
+<br />
+Saludos,.
+
+**Participants:**
+The meeting included:
+Andrea Abascal (Gestor de intereses, working for Laboratorio Astrazeneca, representing Scienza Chile SpA)
+Andrés Sepúlveda (Gestor de intereses, working for Laboratorio Astrazeneca, representing Scienza Chile SpA)
+Jorge Frutos (Gestor de intereses, working for nan, representing Scienza Chile SpA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1985356
+Platform: TWVldA==
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704366/852627
+
+
+---
+
+On November 10, 2025 at 12:00 PM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via Wm9vbQ==. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Abordar GRD en cirugía traumatológica con asistencia robótica & SAP rodilla y cadera..
+
+**Participants:**
+The meeting included:
+Luz Sosa (Gestor de intereses, working for Johnson & Johnson, representing Johnson Johnson de Chile SA)
+Silvana Arenillas (Gestor de intereses, working for Roche Chile Limitada, representing Johnson  Johnson de Chile SA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1986081
+Platform: Wm9vbQ==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861150
+
+
+---
+
+On November 20, 2025 at 09:00 AM, Gabriela Soledad  Huaiquimilla Paredes, the Jefa Subdepartamento Contraloría de Cuentas Medicas, attended a presencial meeting via TWlyYWZsb3JlcyAzODMgcGlzbyAyNCBGT05BU0EKaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvQWN0YSUyMEJVUEElMjAyMC4xMS4yNS5wZGY=. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+ACTA ÚNICA DE AUDIENCIA LEY N.º 20.730 (SUJETO PASIVO)<br />
+<br />
+I. ANTECEDENTES NECESARIOS: <br />
+NOMBRE SOLICITANTE	Clinica BUPA  <br />
+FECHA DE INGRESO DE LA SOLICITUD	17-10-2025<br />
+N.º DE FOLIO DE LA PLATAFORMA	AO004AW1986171<br />
+FECHA DE REALIZACIÓN DE LA AUDIENCIA	20.11.25<br />
+HORA DE INICIO	9.00<br />
+HORA DE TÉRMINO	10.00<br />
+MODALIDAD: (PRESENCIAL / REMOTA)	Presencial<br />
+LINK DE CONEXIÓN (SI CORRESPONDE)	<br />
+¿EXISTEN AUDIENCIAS PREVIAS CON EL MISMO SOLICITANTE? (SÍ / NO)	Sí<br />
+ASISTENTES	1. Asistente 1<br />
+Nombre completo: Fernanda Molina<br />
+RUT / Pasaporte: 17005333-8<br />
+País emisor: Chile<br />
+Calidad del asistente:<br />
+ Lobbista (con remuneración)<br />
+Gestor de intereses particulares (sin remuneración)<br />
+Sujeto pasivo o funcionario público<br />
+Cargo e institución (si corresponde): BUPA<br />
+Teléfono / Correo electrónico: Fernanda.Molina@Bupa.cl<br />
+<br />
+2. Representado (si aplica)<br />
+Nombre completo o razón social: Clinica Bupa Santiago<br />
+Tipo de persona (natural/jurídica): natural     <br />
+RUT / Pasaporte:  76242774-5<br />
+País emisor: Chile<br />
+Actividad o giro: Salud<br />
+Domicilio: -<br />
+Representante legal: Alfredo Schönherr<br />
+Naturaleza jurídica (ej. Sociedad Anónima, ONG, etc.): soc anónima <br />
+Directorio Alfredo Schönherr y más<br />
+II. MATERIA TRATADA<br />
+(Debe detallarse lo efectivamente tratado, indicando puntos clave, propuestas presentadas, o materias debatidas.)<br />
+Seguimiento de la gestión de casos de ley de urgencia <br />
+Se mantiene trabajo en conjunto entre esta división y los referentes de Ley de urgencia de  la clínica<br />
+Respecto a casos con incidencia de TI o pendiente pago ya validados por esta división se escalarán a las áreas correspondientes del FONASA<br />
+III. REGISTRO DEL SUJETO PASIVO<br />
+Nombre completo del sujeto pasivo: Gabriela Huaiquimilla Paredes<br />
+Cargo: Jefa Subdepartamento Contraloría de cuentas médicas<br />
+Institución: Fondo Nacional de Salud.
+
+**Participants:**
+The meeting included:
+Fernanda Molina (Gestor de intereses, working for Clínicas de Chile AG, representing Clinica Bupa Santiago)
+
+**Key Details:**
+Meeting Identifier: AO004AW1986171
+Platform: TWlyYWZsb3JlcyAzODMgcGlzbyAyNCBGT05BU0EKaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvQWN0YSUyMEJVUEElMjAyMC4xMS4yNS5wZGY=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703687/859319
 
 
 ---
@@ -14793,6 +15392,99 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703
 
 ---
 
+On October 28, 2025 at 09:30 AM, Samuel Ernesto Venegas Pinto, the Jefe (S) Depto. de Comercialización y Gestión Financiera DZN, attended a videoconferencia meeting via QnVlbmFzIHRhcmRlcywgc2UgZW52aWFyIGxpbmsgYSBsYSBicmV2ZWRhZA==. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Nueva distribución del equipo GES/CAEC<br />
+<br />
+Con relación a las gestiones del contrato vigente GES y NO GES, el prestador presenta los encargados y la distribución de las gestiones de su equipo, presentan el proceso de la atención de los pacientes, con el propósito de mantener actualizados los registros a medida que se realiza la atención.<br />
+se acuerda mantener reuniones de coordinación con el propósito de concretar la regularización de casos pendientes..
+
+**Participants:**
+The meeting included:
+Patricia Bastías (Gestor de intereses, working for Clinica Redsalud Santiago, representing Bupa Chile S.A.)
+Claudia Cabrera (Gestor de intereses, working for nan, representing Bupa Chile S.A.)
+Angelica Ospina (Gestor de intereses, working for nan, representing Bupa Chile S.A.)
+
+**Key Details:**
+Meeting Identifier: AO004AW1988639
+Platform: QnVlbmFzIHRhcmRlcywgc2UgZW52aWFyIGxpbmsgYSBsYSBicmV2ZWRhZA==
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/807743/858581
+
+
+---
+
+On November 04, 2025 at 09:30 AM, Rodrigo Reyes, the Jefe Departamento de Gestión Comercial Centro Norte, attended a videoconferencia meeting via VmlkZW8gY29uZmVyZW5jaWEsIHNlIHNvbGljaXRhIGVudmlhciBsaW5rIGEgcnJleWVzYkBmb25hc2EuY2w=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Oferta de nuevos servicios para la 4ta región, IntegraMédica..
+
+**Participants:**
+The meeting included:
+Bernardita Cornejo (Gestor de intereses, working for nan, representing Integramedica S.A.)
+Claudia Cabrera (Gestor de intereses, working for nan, representing Integramedica S.A.)
+
+**Key Details:**
+Meeting Identifier: AO004AW1988647
+Platform: VmlkZW8gY29uZmVyZW5jaWEsIHNlIHNvbGljaXRhIGVudmlhciBsaW5rIGEgcnJleWVzYkBmb25hc2EuY2w=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704223/851238
+
+
+---
+
+On November 20, 2025 at 10:00 AM, Astrid Yáñez, the Jefa Departamento Análisis y Validación de Prestaciones, attended a videoconferencia meeting via VEVBTVM=. The meeting lasted 0 horas, 15 minutos and focused on the Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones..
+
+**Purpose:**
+Estimados,  Necesitamos revisar la deuda que mantienen con nuestra empresa, dado que existen aproximandamente MM$500, en prestaciones validadas que no han emitido las solicitudes para pago, y es urgente para nuestra institución contar con estos recursos a la brevedad, y tener programación cierta de fechas y montos.<br />
+<br />
+La deuda actual según reportes de Oncovida ascienden a 415 millones. Se acuerda el envío via mail de la información detallada para revisión..
+
+**Participants:**
+The meeting included:
+Mauricio Zúñiga (Gestor de intereses, working for nan, representing SOCIEDAD ONCOVIDA S.A.)
+LESLYE SAEZ PERALTA (Gestor de intereses, working for nan, representing SOCIEDAD ONCOVIDA SA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1989342
+Platform: VEVBTVM=
+Duration: 0 horas, 15 minutos
+Subjects Discussed: Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704366/856053
+
+
+---
+
+On November 25, 2025 at 09:00 AM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via VGVhbXM=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Solicitamos audiencia para abordar 2 temas:<br />
+<br />
+- Drogas Oncológicas de Alto Costo: Plataforma FONASA<br />
+- Segundo Prestador FONASA: aranceles definidos.
+
+**Participants:**
+The meeting included:
+Sonia Torrealba (Gestor de intereses, working for Novartis Chile S.A, representing NOVARTIS CHILE S.A.)
+Melanie Paccot (Gestor de intereses, working for Novartis Chile S.A, representing NOVARTIS CHILE S.A.)
+
+**Key Details:**
+Meeting Identifier: AO004AW1989904
+Platform: VGVhbXM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861151
+
+
+---
+
 On October 27, 2025 at 04:00 PM, Camilo Cid, the Jefe(a) de Servicio Fondo Nacional de Salud, attended a presencial meeting via Monjitas 665, piso 6. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
 
 **Purpose:**
@@ -14809,6 +15501,1460 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/466386/850337
+
+
+---
+
+On November 04, 2025 at 11:00 AM, Bárbara Bustos, the Jefa (S) División de Fiscalización y Contraloría, attended a presencial meeting via TWlyYWZsb3JlcyAzODMsIHBpc28gMjQuIApodHRwczovL2ZvbmFzYXdlYi5mb25hc2EuY2wvVHJhbnNfRG9jcy8yMDI1LzExL0xleSUyMGRlbCUyMExvYmJ5JTIwTm92MV8yMDI1L0FjdGElMjAlMjBBdWRpZW5jaWElMjBBTzAwNEFXJTIwMTk5MDk2MC5wZGYK. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Seguir avanzando en la revisión y validación de las cuentas Ley de Urgencia que se encuentran en Fonasa Contraloría.
+
+**Participants:**
+The meeting included:
+Cristian Etchegaray (Gestor de intereses, working for Servicios Medicos Tabancura spa, representing Cristian Etchegaray)
+
+**Key Details:**
+Meeting Identifier: AO004AW1990960
+Platform: TWlyYWZsb3JlcyAzODMsIHBpc28gMjQuIApodHRwczovL2ZvbmFzYXdlYi5mb25hc2EuY2wvVHJhbnNfRG9jcy8yMDI1LzExL0xleSUyMGRlbCUyMExvYmJ5JTIwTm92MV8yMDI1L0FjdGElMjAlMjBBdWRpZW5jaWElMjBBTzAwNEFXJTIwMTk5MDk2MC5wZGYK
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/849191/862005
+
+
+---
+
+On November 05, 2025 at 11:00 AM, Boris Parra, the Jefe Departamento Gestión de Cotizaciones y PFin, attended a videoconferencia meeting via U2UgcmVhbGl6YXLDoSBjaXRhIGEgdHJhdmVzIGRlIGNvcnJlbyBlbGVjdHLDs25pY28uICAgU2Ugc29saWNpdGEgZW52w61vIGRlIFJVVCBkZWwgZW1wbGVhZG9yIHkgbsO6bWVybyBkZSBGb2xpbyBkZSBzb2xpY2l0dWRlcyBpbmdyZXNhZGFzLgpTZSBlZmVjdHVhIHJldW5pw7NuIHByb2dyYW1hZGEgeSBzZXIgb3JpZW50YSBhIGVtcGxlYWRvciBjb21vIGdlc3Rpb25hciBkZXVkYSBjb24gbGEgQ0NBRiBMb3MgQW5kZXMu. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Solicitud de Devolución de Cotizaciones pagadas en exceso afiliados FONASA. De los periodos de septiembre 2023 a mayo 2024..
+
+**Participants:**
+The meeting included:
+Paula Angel Peñafiel (Gestor de intereses, working for nan, representing Club de Campo Pan de Azúcar)
+
+**Key Details:**
+Meeting Identifier: AO004AW1991797
+Platform: U2UgcmVhbGl6YXLDoSBjaXRhIGEgdHJhdmVzIGRlIGNvcnJlbyBlbGVjdHLDs25pY28uICAgU2Ugc29saWNpdGEgZW52w61vIGRlIFJVVCBkZWwgZW1wbGVhZG9yIHkgbsO6bWVybyBkZSBGb2xpbyBkZSBzb2xpY2l0dWRlcyBpbmdyZXNhZGFzLgpTZSBlZmVjdHVhIHJldW5pw7NuIHByb2dyYW1hZGEgeSBzZXIgb3JpZW50YSBhIGVtcGxlYWRvciBjb21vIGdlc3Rpb25hciBkZXVkYSBjb24gbGEgQ0NBRiBMb3MgQW5kZXMu
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704182/855121
+
+
+---
+
+On December 01, 2025 at 03:00 PM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via Wm9t. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Implementación Acuerdo de Riesgo Compartido cáncer de mama triple negativo..
+
+**Participants:**
+The meeting included:
+Natalia Celedón (Gestor de intereses, working for nan, representing Merck Sharp and Dohme)
+Pedro Bustos (Gestor de intereses, working for nan, representing Merck Sharp and Dohme)
+Karen Torres (Gestor de intereses, working for nan, representing Merck Sharp and Dohme)
+
+**Key Details:**
+Meeting Identifier: AO004AW1992032
+Platform: Wm9t
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861152
+
+
+---
+
+On November 12, 2025 at 12:00 PM, Rolando Leyton, the Jefe Departamento Administración de Convenios, attended a videoconferencia meeting via UmV1bmlvbiBUZWFtcyAxMi0xMS0yMDI1IDEyOjAwIGhycy4J. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Consultar sobre prestaciones que están pendientes en el sistema y que no han sido canceladas,<br />
+Autorización de Sala Nueva Peñalolen.
+
+**Participants:**
+The meeting included:
+Erika Vivanco (Gestor de intereses, working for nan, representing Burger Dial Limitada)
+Carolina Olivares (Gestor de intereses, working for nan, representing Burger Dial Limitada)
+
+**Key Details:**
+Meeting Identifier: AO004AW1993709
+Platform: UmV1bmlvbiBUZWFtcyAxMi0xMS0yMDI1IDEyOjAwIGhycy4J
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703757/856905
+
+
+---
+
+On November 28, 2025 at 09:00 AM, Astrid Yáñez, the Jefa Departamento Análisis y Validación de Prestaciones, attended a videoconferencia meeting via VEVBTVM=. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+pendiente de facturación casos ID -2P- GRD- GES NO GES  // Septiembre - Octubre /2025.
+
+**Participants:**
+The meeting included:
+Verónica Bravo (Gestor de intereses, working for Hospital Clínico Viña del Mar, representing hospital clinico viña del mar)
+Paola Marchant (Gestor de intereses, working for hospital clinico viña del mar, representing hospital clinico viña del mar)
+
+**Key Details:**
+Meeting Identifier: AO004AW1993840
+Platform: VEVBTVM=
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704366/861168
+
+
+---
+
+On October 30, 2025 at 10:30 AM, Matías Goyenechea, the Jefe (S) División Planificación y Desarrollo Esteratégico, attended a presencial meeting via TW9uaml0YXMgNjY1LCBwaXNvIDY=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Materia a tratar:<br />
+Presentación del modelo Vitality, programa internacional de bienestar y prevención en salud, con el objetivo de explorar su integración al sistema público chileno..
+
+**Participants:**
+The meeting included:
+Marcelo Bravo (Gestor de intereses, working for nan, representing marcelo bravo briones)
+
+**Key Details:**
+Meeting Identifier: AO004AW1994509
+Platform: TW9uaml0YXMgNjY1LCBwaXNvIDY=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/469407/861162
+
+
+---
+
+On November 27, 2025 at 12:00 PM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via VGVhbXM=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+1. Derivaciones de pacientes  a centros de diálisis privados en convenio con Fonasa.<br />
+2. Dificultades funcionamiento plataforma Front y multas asociadas a actual contrato.<br />
+3. Dificultades de los pacientes para optar a Garantías de accesos vasculares.
+
+**Participants:**
+The meeting included:
+María Aspillaga (Gestor de intereses, working for Nephrocare Chile, representing DAVITA CHILE SA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1994766
+Platform: VGVhbXM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861154
+
+
+---
+
+On November 27, 2025 at 09:00 AM, Gabriela Soledad  Huaiquimilla Paredes, the Jefa Subdepartamento Contraloría de Cuentas Medicas, attended a presencial meeting via TWlyYWZsb3JlcyAzODMgcGlzbyAyNCBGT05BU0EKIApodHRwczovL2ZvbmFzYXdlYi5mb25hc2EuY2wvVHJhbnNfRG9jcy8yMDI1LzExL0xvYmJ5JTIwTm92MjAyNS9BY3RhJTIwSENVQ0glMjAyNy4xMS4yMDI1LnBkZg==. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+ACTA ÚNICA DE AUDIENCIA LEY N.º 20.730 (SUJETO PASIVO)<br />
+<br />
+I. ANTECEDENTES NECESARIOS: <br />
+NOMBRE SOLICITANTE	Guillermo Ibañez Mardones<br />
+FECHA DE INGRESO DE LA SOLICITUD	2025-10-27<br />
+N.º DE FOLIO DE LA PLATAFORMA	AO004AW1994813<br />
+FECHA DE REALIZACIÓN DE LA AUDIENCIA	27-11-2025<br />
+HORA DE INICIO	09.00<br />
+HORA DE TÉRMINO	10.00<br />
+MODALIDAD: (PRESENCIAL / REMOTA)	Presencial<br />
+LINK DE CONEXIÓN (SI CORRESPONDE)	<br />
+¿EXISTEN AUDIENCIAS PREVIAS CON EL MISMO SOLICITANTE? (SÍ / NO)	Sí<br />
+ASISTENTES	1. Asistente 1<br />
+Nombre completo: Guillermo Ibañez Mardones <br />
+RUT / Pasaporte: 15442659-0<br />
+País emisor: Chile<br />
+Calidad del asistente:<br />
+ Lobbista (con remuneración)<br />
+Gestor de intereses particulares (sin remuneración)<br />
+Sujeto pasivo o funcionario público<br />
+Cargo e institución (si corresponde): HCUCH<br />
+Teléfono / Correo electrónico: gibanez@fonasa.cl<br />
+Asistente 2<br />
+Nombre completo: German Andrades<br />
+RUT / Pasaporte: 10700068-2<br />
+País emisor: Chile<br />
+Calidad del asistente:<br />
+ Lobbista (con remuneración)<br />
+Gestor de intereses particulares (sin remuneración)<br />
+Sujeto pasivo o funcionario público<br />
+Cargo e institución (si corresponde): HCUCH<br />
+Teléfono / Correo electrónico: gandrades@hcuch.cl<br />
+<br />
+2. Representado (si aplica)<br />
+Nombre completo o razón social: hospital clinico Universidad de chile<br />
+Tipo de persona (natural/jurídica): jurídica     <br />
+RUT / Pasaporte:  60910000-1<br />
+País emisor: Chile<br />
+Actividad o giro: Salud<br />
+Domicilio: Independencia<br />
+Representante legal: Claudio Oyanedel Vega<br />
+Naturaleza jurídica (ej. Sociedad Anónima, ONG, etc.): -<br />
+Directorio (si corresponde):-<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+II. MATERIA TRATADA<br />
+(Debe detallarse lo efectivamente tratado, indicando puntos clave, propuestas presentadas, o materias debatidas.)<br />
+<br />
+Seguimiento de la gestión de casos de ley de urgencia de HCUCH<br />
+Se mantiene trabajo en conjunto entre esta división y los referentes de Ley de urgencia de  HCUCH<br />
+Respecto a casos con incidencia de TI o pendiente pago ya validados por esta división se escalarán a las áreas correspondientes del FONASA<br />
+III. REGISTRO DEL SUJETO PASIVO<br />
+Nombre completo del sujeto pasivo: Gabriela Huaiquimilla Paredes<br />
+Cargo: Jefa Subdepartamento Contraloría de cuentas médicas<br />
+Institución: Fondo Nacional de Salud.
+
+**Participants:**
+The meeting included:
+Guillermo Ibáñez (Gestor de intereses, working for nan, representing Universidad de Chile)
+German Andrades (Gestor de intereses, working for nan, representing Universidad de Chile)
+
+**Key Details:**
+Meeting Identifier: AO004AW1994813
+Platform: TWlyYWZsb3JlcyAzODMgcGlzbyAyNCBGT05BU0EKIApodHRwczovL2ZvbmFzYXdlYi5mb25hc2EuY2wvVHJhbnNfRG9jcy8yMDI1LzExL0xvYmJ5JTIwTm92MjAyNS9BY3RhJTIwSENVQ0glMjAyNy4xMS4yMDI1LnBkZg==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703687/850020
+
+
+---
+
+On November 03, 2025 at 10:30 AM, Marianela Villa, the Jefa Subdepartamento Convenios MLE y Ley Ricarte Soto, attended a videoconferencia meeting via UGxhdGFmb3JtYSB0ZWFtcw==. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Presentación Sociedad Oncovida S.A.<br />
+1.- Aclaración prestaciones asociadas a la MLE versus MCC<br />
+2.- Quimioterapia Ambulatoria y pagos asociados.
+
+**Participants:**
+The meeting included:
+Vania Carrasco (Gestor de intereses, working for nan, representing Vania Carrasco Agass)
+Hernan Retamal (Gestor de intereses, working for nan, representing Hernán Retamal Pinto)
+
+**Key Details:**
+Meeting Identifier: AO004AW1995768
+Platform: UGxhdGFmb3JtYSB0ZWFtcw==
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702001/857556
+
+
+---
+
+On November 18, 2025 at 12:00 PM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via VGVhbXM=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Conocer y solicitar apoyo en los antecedentes para obtencion de convenio MLE con fastclinic spa.
+
+**Participants:**
+The meeting included:
+Camilo Rozas (Gestor de intereses, working for FAST CLINIC LIMITADA, representing Camilo Rozas Venegas)
+
+**Key Details:**
+Meeting Identifier: AO004AW1996597
+Platform: VGVhbXM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/861155
+
+
+---
+
+On November 10, 2025 at 10:30 AM, Marianela Villa, the Jefa Subdepartamento Convenios MLE y Ley Ricarte Soto, attended a videoconferencia meeting via dGVhbQ==. The meeting lasted 0 horas, 40 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Conocer y solicitar apoyo en los antecedentes para obtención de convenio MLE con fastclinic spa.
+
+**Participants:**
+The meeting included:
+Camilo Rozas (Gestor de intereses, working for FAST CLINIC LIMITADA, representing Camilo Rozas Venegas)
+
+**Key Details:**
+Meeting Identifier: AO004AW1996614
+Platform: dGVhbQ==
+Duration: 0 horas, 40 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702001/858129
+
+
+---
+
+On November 18, 2025 at 03:30 PM, Samuel Ernesto Venegas Pinto, the Jefe (S) Depto. de Comercialización y Gestión Financiera DZN, attended a videoconferencia meeting via U2UgZW52w61vIGxpbmsgZGUgcmV1bmnDs24gYSBjb3JyZW8gZGUgc29saWNpdGFudGU=. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Mesa de trabajo licitación FONASA CBA<br />
+<br />
+Se mantienen reuniones de coordinación, con relación a contrato GES Y NO GES, se plantean diversas situaciones respecto al registro de las prestaciones y carga de PPA y situación de casos derivados del CON.<br />
+Se revisarán PPA en RN para avanzar con los casos pendientes y gestionar el pago.<br />
+se informa que en revisión de casos de cirugía de cataratas, no estaba cargada la PPA de confirmación diagnóstica y IPD.<br />
+Se plantea casos con cobros de PPA complementarias y de alta complejidad, dado que no se presentan los respaldo para la realización de estas<br />
+En cuanto a los casos RD derivados del CON, se comenta que procedan con la atención de pacientes que requieren continuar en segundo prestador.<br />
+Finalmente se solicita posibilidad de gestionar sobrecupos para FAV..
+
+**Participants:**
+The meeting included:
+Patricia Bastías (Gestor de intereses, working for Clinica Redsalud Santiago, representing Bupa Chile S.A.)
+Claudia Cabrera (Gestor de intereses, working for nan, representing Bupa Chile S.A.)
+Angelica Ospina (Gestor de intereses, working for nan, representing Bupa Chile S.A.)
+
+**Key Details:**
+Meeting Identifier: AO004AW1997024
+Platform: U2UgZW52w61vIGxpbmsgZGUgcmV1bmnDs24gYSBjb3JyZW8gZGUgc29saWNpdGFudGU=
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/807743/858603
+
+
+---
+
+On December 04, 2025 at 09:00 AM, Gabriela Soledad  Huaiquimilla Paredes, the Jefa Subdepartamento Contraloría de Cuentas Medicas, attended a presencial meeting via TWlyYWZsb3JlcyAzODMgcGlzbyAyNCBGT05BU0EKCmh0dHBzOi8vZm9uYXNhd2ViLmZvbmFzYS5jbC9UcmFuc19Eb2NzLzIwMjUvMTIvTG9iYnklMjAyMDI1L0FjdGElMjBsb2JieSUyMEluZGlzYSUyMDUuMTIuMjUucGRmCgog. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Seguimiento de la gestión de casos de ley de urgencia certificada y SCE <br />
+Se mantiene trabajo en conjunto entre esta división y los referentes de Ley de urgencia de  UC Christus<br />
+Respecto a casos con incidencia de TI o pendiente pago ya validados por esta división se escalarán a las áreas correspondientes del FONASA.
+
+**Participants:**
+The meeting included:
+Daniela Pérez (Gestor de intereses, working for nan, representing Hospital Clínico UC Red Salud UC Christus)
+LAURA LUBI LEON (Gestor de intereses, working for nan, representing Hospital Clínico UC Red Salud UC Christus)
+
+**Key Details:**
+Meeting Identifier: AO004AW1997836
+Platform: TWlyYWZsb3JlcyAzODMgcGlzbyAyNCBGT05BU0EKCmh0dHBzOi8vZm9uYXNhd2ViLmZvbmFzYS5jbC9UcmFuc19Eb2NzLzIwMjUvMTIvTG9iYnklMjAyMDI1L0FjdGElMjBsb2JieSUyMEluZGlzYSUyMDUuMTIuMjUucGRmCgog
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703687/868037
+
+
+---
+
+On November 11, 2025 at 10:30 AM, Marianela Villa, the Jefa Subdepartamento Convenios MLE y Ley Ricarte Soto, attended a videoconferencia meeting via dGVhbXM=. The meeting lasted 0 horas, 50 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Revisar el convenio LE prestaciones de laboratorio asociados a los  RUT:96.662.450-7 y 77.135.750-4.
+
+**Participants:**
+The meeting included:
+Manuel Zúñiga (Gestor de intereses, working for nan, representing Maria Hortensia Contreras S)
+REINER  GASTON QUEZADA GOMEZ (Gestor de intereses, working for CLINICA ISAMEDICA, representing Maria Hortensia Contreras S)
+Ma Hortencia Contreras (Gestor de intereses, working for nan, representing Maria Hortensia Contreras S.)
+Zaddy Contreras (Gestor de intereses, working for nan, representing Maria Hortensia Contreras S)
+Paola Villa (Gestor de intereses, working for nan, representing Maria Hortensia Contreras)
+Sebastian Rojas (Gestor de intereses, working for nan, representing Maria Hortensia Contreras S.)
+Cecilia Abarca (Gestor de intereses, working for nan, representing Maria Hortensia Contreras)
+Carolina Aviles (Gestor de intereses, working for nan, representing Maria Hortensia Contreras)
+
+**Key Details:**
+Meeting Identifier: AO004AW1997992
+Platform: dGVhbXM=
+Duration: 0 horas, 50 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702001/857551
+
+
+---
+
+On November 05, 2025 at 03:00 PM, Nicole Cortés, the Jefa Departamento de Fiscalización y Contraloría de Prestaciones, attended a presencial meeting via T2ZpY2luYSBkZSBkaXJlY3RvciB6b25hbCBlbiBNYW51ZWwgTW9udHQgNjY5IDR0byBwaXNvLCBUZW11Y28uIApodHRwczovL2ZvbmFzYXdlYi5mb25hc2EuY2wvVHJhbnNfRG9jcy8yMDI1LzEwL0xvYmJ5L0FjdGElMjBVbmljYSUyMGRlJTIwQXVkaWVuY2lhJTIwQ0VDJTIwU1BBJTIwLSUyMFZpbGxhcnJpY2EucGRmIA==. The meeting lasted 1 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Solicito audiencia para exponer antecedentes y solicitar la reconsideración administrativa de la Resolución Exenta 5T N° 15497-2025 emitida por FONASA, a través de la cual se impone una multa a nuestro establecimiento. El objetivo es explicar los hechos, aportar información complementaria que no habría sido ponderada correctamente y evaluar alternativas legales o administrativas para su revisión y/o eventual modificación del monto o condiciones de pago..
+
+**Participants:**
+The meeting included:
+Alexis Potthoff Carcamno (Gestor de intereses, working for nan, representing SOCIEDAD CEC SPA)
+
+**Key Details:**
+Meeting Identifier: AO004AW1998188
+Platform: T2ZpY2luYSBkZSBkaXJlY3RvciB6b25hbCBlbiBNYW51ZWwgTW9udHQgNjY5IDR0byBwaXNvLCBUZW11Y28uIApodHRwczovL2ZvbmFzYXdlYi5mb25hc2EuY2wvVHJhbnNfRG9jcy8yMDI1LzEwL0xvYmJ5L0FjdGElMjBVbmljYSUyMGRlJTIwQXVkaWVuY2lhJTIwQ0VDJTIwU1BBJTIwLSUyMFZpbGxhcnJpY2EucGRmIA==
+Duration: 1 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704377/852694
+
+
+---
+
+On November 12, 2025 at 11:00 AM, Nicole Cortés, the Jefa Departamento de Fiscalización y Contraloría de Prestaciones, attended a videoconferencia meeting via VmlhIFRlYW1zLCBzZSBlbnZpYXLDoSBlbCBsaW5rIGRlIGFjY2VzbwpodHRwczovL2ZvbmFzYXdlYi5mb25hc2EuY2wvVHJhbnNfRG9jcy8yMDI1LzExL0xvYmJ5JTIwTm92MjAyNS9BY3RhJTIwVW5pY2ElMjBkZSUyMEF1ZGllbmNpYSUyMEZvbmFzYSUyMDIwMjUlMjBNSkIucGRmIA==. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Revisión sanciones administrativas. <br />
+Realizamos la audiencia via teams, donde se conecta D. Maria Concha junto a su representada, D. Monica Jimenez Benalcazar. Solicitan revisión de a sanción emitida por FONASA y rechazada a favor del FONASA, por el MINSAL, en su apelacion siendo la cancelacion desde el año 2023. Se le explica que en 5 años mas puede volver a inscribirse previo a revision a través de los canales establecidos. Quedando de acuerdo con lo conversado..
+
+**Participants:**
+The meeting included:
+MARIA EUGENIA CONCHA CATALAN (Gestor de intereses, working for nan, representing Mónica Jiménez benalcazar)
+Monica Jiménez (Gestor de intereses, working for nan, representing Monica Jiménez)
+
+**Key Details:**
+Meeting Identifier: AO004AW1999838
+Platform: VmlhIFRlYW1zLCBzZSBlbnZpYXLDoSBlbCBsaW5rIGRlIGFjY2VzbwpodHRwczovL2ZvbmFzYXdlYi5mb25hc2EuY2wvVHJhbnNfRG9jcy8yMDI1LzExL0xvYmJ5JTIwTm92MjAyNS9BY3RhJTIwVW5pY2ElMjBkZSUyMEF1ZGllbmNpYSUyMEZvbmFzYSUyMDIwMjUlMjBNSkIucGRmIA==
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704377/855350
+
+
+---
+
+On November 13, 2025 at 12:00 PM, Boris Parra, the Jefe Departamento Gestión de Cotizaciones y PFin, attended a videoconferencia meeting via U2UgZW52aWFyw6EgY2l0YSBhIHRyYXZlcyBkZSBjb3JyZW8gZWxlY3Ryw7NuaWNvIGxvc3ByYWRvc2Zsb3Jlc3RhMjAxMUBnbWFpbC5jb20uClNlIGVmZWN0dWEgcmV1bmnDs24gY29uIERpcmlnZW50ZSBTb2NpYWwgU3IuIE1hcmNlbG8gZGUgbGEgRnVlbnRlIHkgc2UgaW5kaWNhIGZlY2hhIGRlIGRldm9sdWNpw7NuIChkZXBvc2l0bykgZGUgSW1wdWVzdG9zIHJldGVuaWRvcyBwb3IgZGV1ZGEgR0VTIGNvbmRvbmFkYS4=. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Devolución de exedentes y retenciones de impuestos. Aclarar fechas de pago, modalidad y retraso en los pagos a usuarios..
+
+**Participants:**
+The meeting included:
+Marcelo De la Fuente Parra (Gestor de intereses, working for nan, representing Junta de vecinos Prados de la Floresta)
+
+**Key Details:**
+Meeting Identifier: AO004AW2000143
+Platform: U2UgZW52aWFyw6EgY2l0YSBhIHRyYXZlcyBkZSBjb3JyZW8gZWxlY3Ryw7NuaWNvIGxvc3ByYWRvc2Zsb3Jlc3RhMjAxMUBnbWFpbC5jb20uClNlIGVmZWN0dWEgcmV1bmnDs24gY29uIERpcmlnZW50ZSBTb2NpYWwgU3IuIE1hcmNlbG8gZGUgbGEgRnVlbnRlIHkgc2UgaW5kaWNhIGZlY2hhIGRlIGRldm9sdWNpw7NuIChkZXBvc2l0bykgZGUgSW1wdWVzdG9zIHJldGVuaWRvcyBwb3IgZGV1ZGEgR0VTIGNvbmRvbmFkYS4=
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704182/855126
+
+
+---
+
+On November 13, 2025 at 11:00 AM, Boris Parra, the Jefe Departamento Gestión de Cotizaciones y PFin, attended a videoconferencia meeting via U2UgZW52aWFyw6EgY2l0YSBhIHRyYXZlcyBkZSBDb3JyZW8gRWxlY3Ryw7NuaWNvIHZpY2VudGUuYW5jYWx1YW5AdGFsY2FodWFuby5jbC4KU2UgZWZlY3R1YSByZXVuacOzbiBwcm9ncmFtYWRhLCBzZSBvcmllbnRhIGEgTXVuaWNpcGFjaWRhZCBkZSBUYWxjYWh1YW5vIGRlIGNvbW8gYWN0dWFyIGNvbiBkZXVkYSBDQ0FGIHkgc29saWNpdGEgYW50ZWNlZGVudGVzIGRlIGZ1bmNpb25hcmlvcyBxdWUgbm8gcHVkaWVyb24gYWNjZWRlciBhIHNhbHVkLg==. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+La audiencia tiene por objeto abordar la deuda cercana a los $670.000.000 de pesos en el pago de cotizaciones de salud, de la Municipalidad de Talcahuano, a funcionarios de la educación municipal de la comuna, con el propósito de buscar opciones de pago que se ajusten a la realidad financiera de la municipalidad, asegurando con esto por una parte pagar la deuda y por otro lado evitar los efectos adversos que esto ha tenido en el acceso a prestaciones de las y los trabajadores de la educación, como asimismo en aquellos que deben hacer efectivo su bonificación de incentivo al retiro..
+
+**Participants:**
+The meeting included:
+Vicente Ancaluan Beltran (Gestor de intereses, working for nan, representing Municipalidad de Talcahuano)
+
+**Key Details:**
+Meeting Identifier: AO004AW2000928
+Platform: U2UgZW52aWFyw6EgY2l0YSBhIHRyYXZlcyBkZSBDb3JyZW8gRWxlY3Ryw7NuaWNvIHZpY2VudGUuYW5jYWx1YW5AdGFsY2FodWFuby5jbC4KU2UgZWZlY3R1YSByZXVuacOzbiBwcm9ncmFtYWRhLCBzZSBvcmllbnRhIGEgTXVuaWNpcGFjaWRhZCBkZSBUYWxjYWh1YW5vIGRlIGNvbW8gYWN0dWFyIGNvbiBkZXVkYSBDQ0FGIHkgc29saWNpdGEgYW50ZWNlZGVudGVzIGRlIGZ1bmNpb25hcmlvcyBxdWUgbm8gcHVkaWVyb24gYWNjZWRlciBhIHNhbHVkLg==
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704182/855131
+
+
+---
+
+On November 06, 2025 at 03:00 PM, Matías Goyenechea, the Jefe (S) División Planificación y Desarrollo Esteratégico, attended a videoconferencia meeting via dGVhbXM=. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Fianciamiento SIL.-.
+
+**Participants:**
+The meeting included:
+Marcelo Forni (Gestor de intereses, working for Fundación Redes de Santa Clara, representing Cajas de Chile A.G.)
+marcos rivera inalaf (Gestor de intereses, working for Asociacion Gremial, representing Cajas de Chile A.G.)
+
+**Key Details:**
+Meeting Identifier: AO004AW2001083
+Platform: dGVhbXM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/469407/861160
+
+
+---
+
+On November 27, 2025 at 10:00 AM, Marlen Rudolph, the Jefa (S) Depto. Fiscalización y Contraloría de Prestaciones DZN, attended a videoconferencia meeting via U2UgZW52w61hIGVubGFjZSBkZSByZXVuacOzbiBhIHRyYXbDqXMgZGUgY29ycmVvIGVsZWN0csOzbmljby4gVsOtYSB0ZWFtcw==. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+En cuanto a los casos Ley de Urgencia RN se informa que la mayoría de estos se encuentran en la bandeja del prestador para gestión. Por nuestra parte comprometamos priorizar revisión, dentro de lo posible, de aquellos casos de mayor monto (4).<br />
+Con relación a los casos autorizados para pago en GRD cama Critica, se realizó el envío de Orden de compra en Mercado público para la aceptación del prestador (aún pendiente), posterior a la aceptación de esta OC se procederá al pago de los casos.<br />
+En cuanto a casos GES NO GES, se están realizando pagos de casos NO GES, en cuanto a los casos GES se está a la espera de estrega de presupuesto para realizar los pagos..
+
+**Participants:**
+The meeting included:
+Fernanda Molina (Gestor de intereses, working for Clínicas de Chile AG, representing Clinica Bupa Antofagasta)
+
+**Key Details:**
+Meeting Identifier: AO004AW2001711
+Platform: U2UgZW52w61hIGVubGFjZSBkZSByZXVuacOzbiBhIHRyYXbDqXMgZGUgY29ycmVvIGVsZWN0csOzbmljby4gVsOtYSB0ZWFtcw==
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/796559/858541
+
+
+---
+
+On November 25, 2025 at 12:00 PM, Rolando Leyton, the Jefe Departamento Administración de Convenios, attended a videoconferencia meeting via VEVBTVM=. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Fundación Arturo López Pérez (FALP),  Centro Clínico del Cáncer, solicita a usted una  reunión, con el objeto de   poder revisar  la situación de códigos de quimioterapia inscritos para  FALP   como aquellos que deberían estar disponibles  de modo transitorio para poder realizar gestiones de pago, de acuerdo a respuesta por  OF. ORD 2D N° 21954/2025, y que deberían tener la disponibilidad para su acceso y uso. Se disponen de mail y N° de solicitudes ingresados-enviados.<br />
+Lamentablemente, y si bien ha sido informada la situación por distintas vías e interlocutores,  aún no ha sido posible solucionar esta situación de códigos y no ha sido posible  regularizar las cuentas de los pacientes, quienes no pueden acceder a los bonos por no estar  disponibles en los sistemas y para FALP.<br />
+Asimismo, también se mantiene una diferencia en la información recibida en respuestas a las distintas solicitudes ingresadas por la Plataforma Canal prestador respecto de los 02 últimos códigos incorporados por Fonasa en quimioterapia,  de acuerdo a lo publicado en el Diario oficial con fecha 20 septiembre 2025. FALP ingresó una solicitud de inscripción por uno de ellos, el día 04 del mes en curso.<br />
+Por lo anteriormente expuesto, esperamos una respuesta favorable; para tener más antecedentes de esta situación y que pueda ser resuelta.<br />
+Muchas gracias.<br />
+Atte..
+
+**Participants:**
+The meeting included:
+Fabiola González (Gestor de intereses, working for nan, representing Fundación Arturo López Pérez)
+Jeannette Arce (Gestor de intereses, working for nan, representing Fundación Arturo López Pérez)
+
+**Key Details:**
+Meeting Identifier: AO004AW2004978
+Platform: VEVBTVM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703757/861153
+
+
+---
+
+On November 25, 2025 at 10:00 AM, Jessica Martínez, the Jefa Subdepartamento Gestión Pago a Prestadores, attended a videoconferencia meeting via dGVhbXM=. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Deuda pendiente en estado Gestión Financiera por M$1.961, además revisar compromiso de pagos.
+
+**Participants:**
+The meeting included:
+Camila Bernucci (Gestor de intereses, working for Clínica Santa María, representing Camila Bernucci Piedra)
+María Hernández (Gestor de intereses, working for Clínica Santa María, representing Maria Hernández Urra)
+Kevin Bizama (Gestor de intereses, working for Clínica Santa María, representing Kevin Bizama Nilo)
+Michelle Alburquenque Márquez (Gestor de intereses, working for Clínica Santa María, representing Michelle Alburquenque Márquez)
+
+**Key Details:**
+Meeting Identifier: AO004AW2005723
+Platform: dGVhbXM=
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703820/859327
+
+
+---
+
+On November 07, 2025 at 12:30 PM, Matías Goyenechea, the Jefe (S) División Planificación y Desarrollo Esteratégico, attended a presencial meeting via TW9uaml0YXMgNjY1LCBwaXNvIDY=. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Apoyo en implementación del MCC.
+
+**Participants:**
+The meeting included:
+Rodolfo Guerrero (Gestor de intereses, working for nan, representing Aon Chile Corredores de Reaseguro Ltda.)
+
+**Key Details:**
+Meeting Identifier: AO004AW2005933
+Platform: TW9uaml0YXMgNjY1LCBwaXNvIDY=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/469407/861164
+
+
+---
+
+On December 05, 2025 at 09:00 AM, Gabriela Soledad  Huaiquimilla Paredes, the Jefa Subdepartamento Contraloría de Cuentas Medicas, attended a videoconferencia meeting via ZEdWaGJYTT0KCmh0dHBzOi8vZm9uYXNhd2ViLmZvbmFzYS5jbC9UcmFuc19Eb2NzLzIwMjUvMTIvTG9iYnklMjAyMDI1L0FjdGElMjBsb2JieSUyMEluZGlzYSUyMDUuMTIuMjUucGRmCgog. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones..
+
+**Purpose:**
+Seguimiento de la gestión de casos de ley de urgencia certificada <br />
+Se mantiene trabajo en conjunto entre esta división y los referentes de Ley de urgencia <br />
+Respecto a casos con incidencia de TI o pendiente pago ya validados por esta división se escalarán a las áreas correspondientes del FONASA.
+
+**Participants:**
+The meeting included:
+Felipe López (Gestor de intereses, working for INSTITUTO DE DIAGNÓSTICO SA, representing Felipe López Veloz)
+Mauricio Vera (Gestor de intereses, working for nan, representing Mauricio Vera)
+Rosa Caceres (Gestor de intereses, working for nan, representing Rosa Caceres)
+
+**Key Details:**
+Meeting Identifier: AO004AW2006046
+Platform: ZEdWaGJYTT0KCmh0dHBzOi8vZm9uYXNhd2ViLmZvbmFzYS5jbC9UcmFuc19Eb2NzLzIwMjUvMTIvTG9iYnklMjAyMDI1L0FjdGElMjBsb2JieSUyMEluZGlzYSUyMDUuMTIuMjUucGRmCgog
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703687/868049
+
+
+---
+
+On November 18, 2025 at 10:30 AM, Marianela Villa, the Jefa Subdepartamento Convenios MLE y Ley Ricarte Soto, attended a videoconferencia meeting via UGxhdGFmb3JtYSB0ZWFt. The meeting lasted 0 horas, 45 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Convenio con Fonasa en Modalidad de Libre Elección para atenciones dentales en San Pedro de Atacama, según lo dispuesto en la Resolución Exenta N° 14313/2025 del Fondo Nacional de Salud (FONASA)..
+
+**Participants:**
+The meeting included:
+Germana González (Gestor de intereses, working for SQM Salar S.A., representing SQM Salar Spa)
+Matías Ponce (Gestor de intereses, working for nan, representing COP Servicios odontológicos y administraciones limitada)
+
+**Key Details:**
+Meeting Identifier: AO004AW2006170
+Platform: UGxhdGFmb3JtYSB0ZWFt
+Duration: 0 horas, 45 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702001/857555
+
+
+---
+
+On November 26, 2025 at 11:00 AM, Rolando Leyton, the Jefe Departamento Administración de Convenios, attended a videoconferencia meeting via VEVBTVM=. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Se solicita información sobre apertura de licitación para la entrega de prestaciones de salud mensual integral a persona mayores en establecimientos de larga estadía (ELEAM) y dar cuenta del aumento de plazas disponibles en la comuna de Viña del Mar para derivaciones de personas mayores..
+
+**Participants:**
+The meeting included:
+Juan Saldivia (Gestor de intereses, working for nan, representing Fundación las Rosas)
+
+**Key Details:**
+Meeting Identifier: AO004AW2006548
+Platform: VEVBTVM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703757/861136
+
+
+---
+
+On November 26, 2025 at 12:00 PM, Rolando Leyton, the Jefe Departamento Administración de Convenios, attended a videoconferencia meeting via VkVWQlRWTT0=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+solicitamos una reunión de lobby con representantes de FONASA con el objetivo de exponer las implicancias derivadas de la resolución vigente que afecta el acceso y continuidad terapéutica de pacientes tratados con CETUXIMAB  a lo largo del país.<br />
+<br />
+De antemano agradecemos la recepcion y la oportuna posibilidad de reunirnos..
+
+**Participants:**
+The meeting included:
+Mónica SAAVEDRA (Gestor de intereses, working for Merck S.A., representing MERCK GROUP)
+Diego Bracelis (Gestor de intereses, working for nan, representing MERCK GROUP)
+
+**Key Details:**
+Meeting Identifier: AO004AW2006937
+Platform: VkVWQlRWTT0=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703757/861144
+
+
+---
+
+On November 25, 2025 at 10:00 AM, Bárbara Bustos, the Jefa (S) División de Fiscalización y Contraloría, attended a videoconferencia meeting via TGEgcmV1bmnDs24gc2UgbGxldmFyw6EgYSBjYWJvIHbDrWEgWm9vbS4gRHVyYW50ZSBlbCBkw61hIHNlIGVudmlhcsOhbiBsYXMgY29vcmRlbmFkYXMgZGUgYWNjZXNvLgoKaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9MZXklMjBkZWwlMjBMb2JieSUyME5vdjFfMjAyNS9BY3RhJTIwJTIwQXVkaWVuY2lhJTIwQU8wMDRBVyUyMDIwMDcyMzcucGRm. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Revisión de casos pendientes de Ley de Urgencia de todas las clínicas de Red Salud..
+
+**Participants:**
+The meeting included:
+Paola Suazo (Gestor de intereses, working for Clínicas de Chile AG, representing Empresas Redsalud SA)
+Marlene San Martín (Gestor de intereses, working for nan, representing Empresas Redsalud SA)
+
+**Key Details:**
+Meeting Identifier: AO004AW2007237
+Platform: TGEgcmV1bmnDs24gc2UgbGxldmFyw6EgYSBjYWJvIHbDrWEgWm9vbS4gRHVyYW50ZSBlbCBkw61hIHNlIGVudmlhcsOhbiBsYXMgY29vcmRlbmFkYXMgZGUgYWNjZXNvLgoKaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9MZXklMjBkZWwlMjBMb2JieSUyME5vdjFfMjAyNS9BY3RhJTIwJTIwQXVkaWVuY2lhJTIwQU8wMDRBVyUyMDIwMDcyMzcucGRm
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/849191/862008
+
+
+---
+
+On November 27, 2025 at 09:00 AM, Rolando Leyton, the Jefe Departamento Administración de Convenios, attended a videoconferencia meeting via VkVWQlRWTT0=. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Convenio vigente aumento cupos según disponibilidad presupuestaria.
+
+**Participants:**
+The meeting included:
+Pablo Vargas (Gestor de intereses, working for Hogar de Cristo, representing Hogar de Cristo)
+
+**Key Details:**
+Meeting Identifier: AO004AW2008690
+Platform: VkVWQlRWTT0=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703757/861149
+
+
+---
+
+On November 13, 2025 at 04:00 PM, Camilo Cid, the Jefe(a) de Servicio Fondo Nacional de Salud, attended a presencial meeting via Y2FsbGUgQWxiZXJ0byBTb2xhcmkgMTQwMCwgTGEgU2VyZW5hCg==. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Inauguración Centro de Cirugía Mayor Ambulatoria IntegraMédica La Serena..
+
+**Participants:**
+The meeting included:
+Paulina Gómez (Gestor de intereses, working for nan, representing Bupa Chile S.A)
+Gonzalo Difonso (Gestor de intereses, working for nan, representing Bupa Chile S.A)
+Pamela Contador (Gestor de intereses, working for nan, representing Bupa Chile S.A)
+Ingrid Retamales (Gestor de intereses, working for nan, representing Bupa Chile S.A)
+
+**Key Details:**
+Meeting Identifier: AO004AW2008896
+Platform: Y2FsbGUgQWxiZXJ0byBTb2xhcmkgMTQwMCwgTGEgU2VyZW5hCg==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/466386/864280
+
+
+---
+
+On December 18, 2025 at 10:00 AM, Teresa Alanis, the Jefa División Gestión Usuarios, attended a videoconferencia meeting via VEVBTVM=. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+DTS Autoservicio SPA<br />
+DTS Autoservicio es una empresa chilena especializada en soluciones tecnológicas de autoservicio. Con tótems, smart lockers, sistemas de gestión de fila y consultas de precios, ayuda a empresas a optimizar la atención al cliente, automatizar procesos y reducir costos operativos.<br />
+<br />
+Valor agregado:<br />
+<br />
+Más de 5 años de experiencia en soluciones de autoservicio.<br />
+<br />
+Soporte 24/7 y certificación de calidad ISO 9001:2015.<br />
+<br />
+Adaptable a distintos sectores: retail, banca, servicios públicos, entre otros..
+
+**Participants:**
+The meeting included:
+Ximena Carreño (Gestor de intereses, working for DTS Autoservicios, representing DTS Autoservicio Spa)
+Rodolgo Garcia (Gestor de intereses, working for nan, representing DTS Autoservicio SpA)
+
+**Key Details:**
+Meeting Identifier: AO004AW2010925
+Platform: VEVBTVM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/701798/867730
+
+
+---
+
+On November 19, 2025 at 10:00 AM, Teresa Alanis, the Jefa División Gestión Usuarios, attended a videoconferencia meeting via VkVWQlRWTT0KaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvQWN0YSUyMEF1ZGllbmNpYSUyMGRlJTIwTG9iYnklMjAxOS4xMS4yNS5wZGY=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Buenas tardes, somos OMESA, con centros Vidaintegra, donde contamos con diversos centros médicos, donde tenemos mts2 disponibles para instalación de oficinas Fonasa, por ejemplo en la comuna de Quilicura..
+
+**Participants:**
+The meeting included:
+alfonso ignacio montalva moragues (Gestor de intereses, working for nan, representing OMESA SPA)
+
+**Key Details:**
+Meeting Identifier: AO004AW2011006
+Platform: VkVWQlRWTT0KaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvQWN0YSUyMEF1ZGllbmNpYSUyMGRlJTIwTG9iYnklMjAxOS4xMS4yNS5wZGY=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/701798/859299
+
+
+---
+
+On November 27, 2025 at 11:00 AM, Carolina Pincheira, the Jefa (S) Departamento De Gestión comercial, attended a videoconferencia meeting via aHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvQWN0YSUyMCVDMyU5QW5pY2ElMjBMZXklMjBkZWwlMjBMb2JieSUyMEFPMDA0QVcyMDExMjc0LnBkZiA=. The meeting lasted 0 horas, 15 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Consultas sobre convenios y beneficios con pacientes Fonasa.
+
+**Participants:**
+The meeting included:
+Sebastián Herrera (Gestor de intereses, working for nan, representing Clínica Andes Salud Puerto Montt S.A.)
+Jeremías Barrales (Gestor de intereses, working for nan, representing Clínica Andes Salud Puerto Montt S.A.)
+
+**Key Details:**
+Meeting Identifier: AO004AW2011274
+Platform: aHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvQWN0YSUyMCVDMyU5QW5pY2ElMjBMZXklMjBkZWwlMjBMb2JieSUyMEFPMDA0QVcyMDExMjc0LnBkZiA=
+Duration: 0 horas, 15 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/771962/858619
+
+
+---
+
+On November 20, 2025 at 10:00 AM, Camila Medina, the Jefa Departamento de Modelos de Financiamiento, attended a videoconferencia meeting via VGVhbXM=. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Aumento orden de compra, convenio Lista de espera Ges No Ges;<br />
+<br />
+Enlace de registro: https://fonasaweb.fonasa.cl/Trans_Docs/2025/11/Lobby%20Nov2025/Acta%20Lobby_AO004AW2011750_ACHS%20Salud.pdf.
+
+**Participants:**
+The meeting included:
+Carolina Vega (Gestor de intereses, working for nan, representing Clínicas Achs Salud)
+Denisse Medina (Gestor de intereses, working for nan, representing Clínicas Achs Salud)
+Luisa Agurto (Gestor de intereses, working for nan, representing Clínicas Achs Salud)
+
+**Key Details:**
+Meeting Identifier: AO004AW2011750
+Platform: VGVhbXM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703827/859931
+
+
+---
+
+On December 09, 2025 at 10:00 AM, Carolina Sáez, the Jefa (S) Departamento Desarrollo de Beneficios, attended a videoconferencia meeting via aHR0cHM6Ly91czA0d2ViLnpvb20udXMvai83MjU1Mzk5MzgwMz9wd2Q9YzVtck5mWmF6TGp0QllLZGE2V29rcVdESGV2bW1oLjEKSUQgZGUgcmV1bmnDs246IDcyNSA1Mzk5IDM4MDMKQ8OzZGlnbyBkZSBhY2Nlc286IEQwOFhZego=. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+httpsfonasaweb.fonasa.clTransDocs202512Lobby202025Acta20Unica20de20Audiencia202012006202025.pdf  <br />
+Mi solicitud se centra en la homologación y actualización de los códigos de prestaciones de enfermería de la Modalidad Libre Elección MLE de FONASA ya que actualmente una misma prestación se encuentra identificada bajo diferentes códigos 2601002 al 2601005 generando inconsistencias administrativas y limitaciones en la atención..
+
+**Participants:**
+The meeting included:
+Marilyn Gallegos (Gestor de intereses, working for nan, representing Marilyn Isabel Gallegos Yáñez)
+
+**Key Details:**
+Meeting Identifier: AO004AW2012006
+Platform: aHR0cHM6Ly91czA0d2ViLnpvb20udXMvai83MjU1Mzk5MzgwMz9wd2Q9YzVtck5mWmF6TGp0QllLZGE2V29rcVdESGV2bW1oLjEKSUQgZGUgcmV1bmnDs246IDcyNSA1Mzk5IDM4MDMKQ8OzZGlnbyBkZSBhY2Nlc286IEQwOFhZego=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/850150/870772
+
+
+---
+
+On December 11, 2025 at 10:00 AM, Astrid Yáñez, the Jefa Departamento Análisis y Validación de Prestaciones, attended a videoconferencia meeting via VEVBTVM=. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Revisar estado de la deuda de las 9 Clínicas Redsalud, en particular situación de casos validados y aprobados (técnicamente) que se mantienen pendiente de solicitud de factura. <br />
+Lo anterior, dado que la cifra de casos en esta situación ha llegado a un nivel muy alto, casi $19.000 millones..
+
+**Participants:**
+The meeting included:
+Javier Avilés (Gestor de intereses, working for Servicios Medicos Tabancura spa, representing Empresas Redsalud SA)
+Paola Suazo (Gestor de intereses, working for Clínicas de Chile AG, representing Empresas Redsalud SA)
+
+**Key Details:**
+Meeting Identifier: AO004AW2012670
+Platform: VEVBTVM=
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704366/862868
+
+
+---
+
+On November 18, 2025 at 09:30 AM, Sandra Villanueva, the Jefa Departamento de Gestión y Desarrollo de Personas, attended a videoconferencia meeting via U2UgY2FuY2VsYSBwb3IgZHVwbGljaWRhZA==. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Estimado Gustavo buen día:<br />
+<br />
+Soy Camila Olivares, de Portal Cero, y queremos invitarle a una reunión para presentarle nuestros programas de comunicación y bienestar organizacional en el marco de la Ley Karin.<br />
+<br />
+Sabemos que ustedes velan por el bienestar y el buen funcionamiento de diversos equipos del área de salud, en contextos donde ritmos y horarios son exigentes, y  el contacto entre profesionales es constante, por lo tanto pueden surgir situaciones complejas que requieren herramientas efectivas de contención, comunicación y acompañamiento.<br />
+<br />
+En Portal Cero creemos que la base de un buen clima laboral está en la forma en que nos comunicamos y en la creación de instancias seguras de diálogo previo que fortalezcan una cultura más saludable. Nuestro propósito es ayudar a que los equipos aprendan a dialogar, expresar límites y escuchar de forma consciente, previniendo que los conflictos escalen y se transformen en crisis o acusaciones.<br />
+<br />
+Queremos ofrecer herramientas prácticas para que líderes y equipos puedan expresar límites y expectativas con claridad y, cuando exista temor o malestar, cuenten con formas constructivas de abordarlo. Nuestro enfoque apunta a fortalecer la confianza y prevenir situaciones de acoso y violencia laboral.<br />
+<br />
+La realidad lo confirma: según la Encuesta Nacional de Salud Mental y Bienestar Laboral 2023, un 45% de funcionarios municipales reporta síntomas de estrés laboral moderado o severo, un 40% ha vivido episodios de acoso o maltrato en los últimos dos años, y un 35,7% declara haber enfrentado violencia o acoso en el último año.<br />
+<br />
+Muchas gracias por la oportunidad y quedo atenta para coordinar la reunión cuando a usted le acomode.<br />
+<br />
+Saludos cordiales,<br />
+Camila Olivares<br />
+Portal Cero.
+
+**Participants:**
+The meeting included:
+Camila Olivares (Gestor de intereses, working for nan, representing Camila Olivares)
+
+**Key Details:**
+Meeting Identifier: AO004AW2012960
+Platform: U2UgY2FuY2VsYSBwb3IgZHVwbGljaWRhZA==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/701990/861628
+
+
+---
+
+On November 26, 2025 at 09:30 AM, Ana Trigo, the Jefa Departamento Gestión y Desarrollo de las Personas Norte, attended a videoconferencia meeting via cG9yIHRlYW1z. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Estimada Ana buen día:<br />
+<br />
+Soy Camila Olivares, de Portal Cero, y queremos invitarle a una reunión para presentarle nuestros programas de comunicación y bienestar organizacional en el marco de la Ley Karin.<br />
+<br />
+Sabemos que ustedes velan por el bienestar y el buen funcionamiento de diversos equipos del área de salud, en contextos donde ritmos y horarios son exigentes, y  el contacto entre profesionales es constante, por lo tanto pueden surgir situaciones complejas que requieren herramientas efectivas de contención, comunicación y acompañamiento.<br />
+<br />
+En Portal Cero creemos que la base de un buen clima laboral está en la forma en que nos comunicamos y en la creación de instancias seguras de diálogo previo que fortalezcan una cultura más saludable. Nuestro propósito es ayudar a que los equipos aprendan a dialogar, expresar límites y escuchar de forma consciente, previniendo que los conflictos escalen y se transformen en crisis o acusaciones.<br />
+<br />
+Queremos ofrecer herramientas prácticas para que líderes y equipos puedan expresar límites y expectativas con claridad y, cuando exista temor o malestar, cuenten con formas constructivas de abordarlo. Nuestro enfoque apunta a fortalecer la confianza y prevenir situaciones de acoso y violencia laboral.<br />
+<br />
+La realidad lo confirma: según la Encuesta Nacional de Salud Mental y Bienestar Laboral 2023, un 45% de funcionarios municipales reporta síntomas de estrés laboral moderado o severo, un 40% ha vivido episodios de acoso o maltrato en los últimos dos años, y un 35,7% declara haber enfrentado violencia o acoso en el último año.<br />
+<br />
+Muchas gracias por la oportunidad y quedo atenta para coordinar la reunión cuando a usted le acomode.<br />
+<br />
+Saludos cordiales,<br />
+Camila Olivares<br />
+Portal Cero<br />
+El objetivo principal es dar a conocer una formación que se desprende de la temática de la Ley Karin, la cual esta enfocada en trabajar la autoconciencia de manera individual, respecto de patrones de comportamiento.<br />
+La propuesta de capacitación abarca trabajo en contacto uno a uno, de manera grupal y con jefaturas, donde se aborda con lideres, equipos y personas, por ejemplo, patrones en la forma de comunicarse.<br />
+Se explica modelo de intervención, centrado en lo cognitivo, emocional y conductual, potenciando la visualización de recursos internos, con una mirada más humana. <br />
+Se agradece la información y se le señala que Fonasa compra sus capacitaciones a través del portal de Chilecompras..
+
+**Participants:**
+The meeting included:
+Camila Olivares (Gestor de intereses, working for nan, representing Camila Olivares)
+Javiera Montenegro (Gestor de intereses, working for nan, representing Javiera Montenegro)
+Pamela Vilches (Gestor de intereses, working for nan, representing Pamela Vilches)
+
+**Key Details:**
+Meeting Identifier: AO004AW2012961
+Platform: cG9yIHRlYW1z
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704318/860290
+
+
+---
+
+On November 18, 2025 at 09:30 AM, Sandra Villanueva, the Jefa Departamento de Gestión y Desarrollo de Personas, attended a videoconferencia meeting via Cmh0dHBzOi8vZm9uYXNhd2ViLmZvbmFzYS5jbC9UcmFuc19Eb2NzLzIwMjUvMTEvTGV5JTIwZGVsJTIwTG9iYnklMjBOb3YxXzIwMjUvQWN0YSUyMFVuaWNhJTIwZGUlMjBBdWRpZW5jaWElMjBGb25hc2ElMjAyMDI1LmRvY3gucGRmIAo=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Estimada Sandra buen día:<br />
+<br />
+Soy Camila Olivares, de Portal Cero, y queremos invitarle a una reunión para presentarle nuestros programas de comunicación y bienestar organizacional en el marco de la Ley Karin.<br />
+<br />
+Sabemos que ustedes velan por el bienestar y el buen funcionamiento de diversos equipos del área de salud, en contextos donde ritmos y horarios son exigentes, y  el contacto entre profesionales es constante, por lo tanto pueden surgir situaciones complejas que requieren herramientas efectivas de contención, comunicación y acompañamiento.<br />
+<br />
+En Portal Cero creemos que la base de un buen clima laboral está en la forma en que nos comunicamos y en la creación de instancias seguras de diálogo previo que fortalezcan una cultura más saludable. Nuestro propósito es ayudar a que los equipos aprendan a dialogar, expresar límites y escuchar de forma consciente, previniendo que los conflictos escalen y se transformen en crisis o acusaciones.<br />
+<br />
+Queremos ofrecer herramientas prácticas para que líderes y equipos puedan expresar límites y expectativas con claridad y, cuando exista temor o malestar, cuenten con formas constructivas de abordarlo. Nuestro enfoque apunta a fortalecer la confianza y prevenir situaciones de acoso y violencia laboral.<br />
+<br />
+La realidad lo confirma: según la Encuesta Nacional de Salud Mental y Bienestar Laboral 2023, un 45% de funcionarios municipales reporta síntomas de estrés laboral moderado o severo, un 40% ha vivido episodios de acoso o maltrato en los últimos dos años, y un 35,7% declara haber enfrentado violencia o acoso en el último año.<br />
+<br />
+Muchas gracias por la oportunidad y quedo atenta para coordinar la reunión cuando a usted le acomode.<br />
+<br />
+Saludos cordiales,<br />
+Camila Olivares<br />
+Portal Cero.
+
+**Participants:**
+The meeting included:
+Camila Olivares (Gestor de intereses, working for nan, representing Camila Olivares)
+
+**Key Details:**
+Meeting Identifier: AO004AW2012962
+Platform: Cmh0dHBzOi8vZm9uYXNhd2ViLmZvbmFzYS5jbC9UcmFuc19Eb2NzLzIwMjUvMTEvTGV5JTIwZGVsJTIwTG9iYnklMjBOb3YxXzIwMjUvQWN0YSUyMFVuaWNhJTIwZGUlMjBBdWRpZW5jaWElMjBGb25hc2ElMjAyMDI1LmRvY3gucGRmIAo=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/701990/861627
+
+
+---
+
+On November 19, 2025 at 03:00 PM, Matías Goyenechea, the Jefe (S) División Planificación y Desarrollo Esteratégico, attended a videoconferencia meeting via VEVBTVM=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Desafios en implementacion de la MCC.
+
+**Participants:**
+The meeting included:
+Marcial Castañeda (Gestor de intereses, working for Willis Towers Watson SA Corredores de Seguros, representing Willis Towers Watson SA Corredores de Seguros)
+
+**Key Details:**
+Meeting Identifier: AO004AW2013496
+Platform: VEVBTVM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/469407/861165
+
+
+---
+
+On December 04, 2025 at 03:00 PM, Luis Vilugrón, the Jefe (S) Departamento de Atención Presencial, attended a videoconferencia meeting via VkVWQlRWTT0KaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMi9Mb2JieSUyMDIwMjUvQWN0YSUyMExvYmJ5JTIwMTM3MTQucGRm. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Abbott Diabetes Care solicita reunión para avanzar evaluar posibilidad de reembolso automático en línea para MLE en el producto Sensor de Glucosa (cod 2301073) y Lector de glucosa (Cod 2301074)..
+
+**Participants:**
+The meeting included:
+José Luis Sarabia (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile ltda)
+Verónica Guzmán (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+Miguel González (Gestor de intereses, working for Abbott Laboratories de Chile Ltda, representing Abbott Laboratories de Chile Ltda)
+
+**Key Details:**
+Meeting Identifier: AO004AW2013714
+Platform: VkVWQlRWTT0KaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMi9Mb2JieSUyMDIwMjUvQWN0YSUyMExvYmJ5JTIwMTM3MTQucGRm
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702098/867108
+
+
+---
+
+On December 10, 2025 at 11:00 AM, Rolando Leyton, the Jefe Departamento Administración de Convenios, attended a videoconferencia meeting via VEVBTVMgY29uIGR1cmFjaW9uIG1heGltYSA0NSBtaW51dG9z. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Casos de pacientes trasplantados y pendientes de autorización FONASA<br />
+Casos derivaciones UGCC pendientes de autorización FONASA.
+
+**Participants:**
+The meeting included:
+Raúl Valenzuela (Gestor de intereses, working for CLINICA ALEMANA DE SANTIAGO, representing CLINICA ALEMANA DE SANTIAGO S.A.)
+mauricio muñoz alarcón (Gestor de intereses, working for CLINICA ALEMANA DE SANTIAGO, representing CLINICA ALEMANA DE SANTIAGO S.A.)
+Félix Martínez (Gestor de intereses, working for nan, representing CLINICA ALEMANA DE SANTIAGO S.A.)
+JULIO VALDEBENITO (Gestor de intereses, working for nan, representing CLINICA ALEMANA DE SANTIAGO S.A.)
+
+**Key Details:**
+Meeting Identifier: AO004AW2013736
+Platform: VEVBTVMgY29uIGR1cmFjaW9uIG1heGltYSA0NSBtaW51dG9z
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703757/866800
+
+
+---
+
+On December 01, 2025 at 03:00 PM, Camila Medina, the Jefa Departamento de Modelos de Financiamiento, attended a videoconferencia meeting via aHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvQWN0YSUyMExvYmJ5X0FPMDA0QVcyMDE0MDMwX1BPTElDRU5URVIucGRmIA==. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+prestación de servicios de Clinica Policenter a pacientes beneficiarios con patologías reagudizadas.
+
+**Participants:**
+The meeting included:
+Jaime Mañalich (Gestor de intereses, working for nan, representing MEDICAL POLICENTER S.A)
+Francisco González (Gestor de intereses, working for medical policenter s. a., representing MEDICAL POLICENTER S.A.)
+
+**Key Details:**
+Meeting Identifier: AO004AW2014030
+Platform: aHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvQWN0YSUyMExvYmJ5X0FPMDA0QVcyMDE0MDMwX1BPTElDRU5URVIucGRmIA==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703827/860328
+
+
+---
+
+On December 12, 2025 at 10:00 AM, Astrid Yáñez, the Jefa Departamento Análisis y Validación de Prestaciones, attended a videoconferencia meeting via VEVBTVM=. The meeting lasted 0 horas, 30 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Abordar materias relativas a la cadena de financiamiento de programas asociados a resoluciones judiciales y revisar posibles vías de coordinación interinstitucional que favorezcan la continuidad de cobertura y el cumplimiento oportuno de los compromisos de pago, especialmente considerando que CENABAST indica que existen gestiones relevantes por parte de FONASA que necesitamos entender, ya que a la fecha, el Estado mantiene una importante deuda con nuestra compañía..
+
+**Participants:**
+The meeting included:
+Andrea Abascal (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca S.A.)
+Andrés Sepúlveda (Gestor de intereses, working for Laboratorio Astrazeneca, representing AstraZeneca S.A.)
+Álvaro Sepúlveda (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca S.A.)
+Angel Torres (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca S.A.)
+Paulo Jorge Da Silva Ramos Ribeiro (Gestor de intereses, working for AstraZeneca S.A, representing AstraZeneca S.A.)
+
+**Key Details:**
+Meeting Identifier: AO004AW2014414
+Platform: VEVBTVM=
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704366/864585
+
+
+---
+
+On December 01, 2025 at 04:00 PM, Camila Medina, the Jefa Departamento de Modelos de Financiamiento, attended a videoconferencia meeting via UGxhdGFmb3JtYSBUZWFtcwpJZC4gZGUgcmV1bmnDs246IDI3OCAzMTAgODA3IDA0NCAyMyAKaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvQWN0YSUyMExvYmJ5X0FPMDA0QVcyMDE0OTM0X0NMSU5JQ0ElMjBDT0xPTklBTC5wZGYg. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Resolucion N°171 que resuelve respecto Clinica Colonial en LP 591-26-LR25.
+
+**Participants:**
+The meeting included:
+María Ossa (Lobista, working for Clinica Colonial S.A, representing CLINICA COLONIAL SA)
+
+**Key Details:**
+Meeting Identifier: AO004AW2014934
+Platform: UGxhdGFmb3JtYSBUZWFtcwpJZC4gZGUgcmV1bmnDs246IDI3OCAzMTAgODA3IDA0NCAyMyAKaHR0cHM6Ly9mb25hc2F3ZWIuZm9uYXNhLmNsL1RyYW5zX0RvY3MvMjAyNS8xMS9Mb2JieSUyME5vdjIwMjUvQWN0YSUyMExvYmJ5X0FPMDA0QVcyMDE0OTM0X0NMSU5JQ0ElMjBDT0xPTklBTC5wZGYg
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703827/860647
+
+
+---
+
+On December 16, 2025 at 10:00 AM, Carolina Sáez, the Jefa (S) Departamento Desarrollo de Beneficios, attended a videoconferencia meeting via aHR0cHM6Ly91czA0d2ViLnpvb20udXMvai83NTgyMTMyMDg5MD9wd2Q9cWZLS2hEMGlMZ0k2aDJhVDR1czI4YWJ4ZXZHZUtvLjEKSUQgZGUgcmV1bmnDs246IDc1OCAyMTMyIDA4OTAKQ8OzZGlnbyBkZSBhY2Nlc286IDNEUkxpUgoK. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+httpsfonasaweb.fonasa.clTransDocs202512Lobby202025Acta20Unica20de20audiencia20202026276202025.pdf <br />
+Los asistentes representan a un grupo de prestadores interesados en traspasar rebajas a los aranceles de los exámenes de resonancia magnética y de PET CT que hoy cuentan con único nivel en el arancel de FONASA. Nuestra propuesta es dejar el valor actual como nivel 3 y poder disminuir el costo de los exámenes tanto para FONASA como para el copago de las personas en estas dos modalidades. Esta acción estimularía la competencia y tendría beneficios para el seguro público y las personas. También proponemos flexibilizar los aranceles permitiendo como en el sector ISAPRE que se pueda cobrar un arancel con un porcentaje de descuento..
+
+**Participants:**
+The meeting included:
+Marcelo Zenteno (Gestor de intereses, working for SCANNER SAN MARTIN Y COMPAÑIA LIMITADA, representing ASESORIAS Y CAPACITACION DIAGNOTECMED SPA)
+Jorge Venegas (Gestor de intereses, working for nan, representing JORGE VENEGAS CORNEJO)
+Solange Sánchez (Gestor de intereses, working for Centro de diagnostico y resonancia Spa, representing CENTRO DIAGNOSTICO Y RESONANCIA SPA)
+Afshin Shamshiri Amirkolai (Gestor de intereses, working for nan, representing SCANNER SAN MARTIN Y COMPAÑIA LIMITADA)
+
+**Key Details:**
+Meeting Identifier: AO004AW2026276
+Platform: aHR0cHM6Ly91czA0d2ViLnpvb20udXMvai83NTgyMTMyMDg5MD9wd2Q9cWZLS2hEMGlMZ0k2aDJhVDR1czI4YWJ4ZXZHZUtvLjEKSUQgZGUgcmV1bmnDs246IDc1OCAyMTMyIDA4OTAKQ8OzZGlnbyBkZSBhY2Nlc286IDNEUkxpUgoK
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/850150/870776
+
+
+---
+
+On December 10, 2025 at 09:30 AM, María Figueroa, the Jefa Departamento Fiscalización, attended a videoconferencia meeting via VEVBTVM=. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Continuar ciclo de reuniones para revisión de casos junto a Gabriela Huaiquimilla, de acuerdo a lo conversado en última reunión.<br />
+Se realiza revisión del avance de los casos comprometidos para gestión de ley de urgencia.<br />
+Se acuerda trabajo en conjunto para la gestión de los casos aún pendientes en plataforma Right Now ley de urgencia.<br />
+Se informa sobre gestión de casos con mayor antigüedad, que el enfoque de este mes, es realizar la gestión de los casos desde el año 2024 hacia atrás.<br />
+Se conversa de que nos encontramos a la espera de pronunciamiento jurídico respecto de los casos ley de urgencia rechazados (documento pago).<br />
+Se conversa sobre caso Reclamo Covid GRD, sobre incidencia informática, se comenta que es enviado directamente le caso a TI para solución en conjunto..
+
+**Participants:**
+The meeting included:
+Claudia Goch (Gestor de intereses, working for nan, representing ACHS)
+Natalia Bustamante (Gestor de intereses, working for nan, representing ACHS)
+Alejandro Pinochet (Gestor de intereses, working for nan, representing ACHS)
+Luisa Huillin (Gestor de intereses, working for nan, representing ACHS)
+
+**Key Details:**
+Meeting Identifier: AO004AW2026279
+Platform: VEVBTVM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703426/868030
+
+
+---
+
+On December 11, 2025 at 09:00 AM, Marlen Rudolph, the Jefa (S) Depto. Fiscalización y Contraloría de Prestaciones DZN, attended a videoconferencia meeting via ZEdWaGJYTT0=. The meeting lasted 0 horas, 35 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+La materia a tratar son los rechazos de ley de urgencia, director médico de Clínica Tarapacá plantea la necesidad de resolver dudas de aspectos clínicos para mejorar sus procesos de certificación de casos Ley de Urgencia. Se les sugiere realizar reunión entre médicos de la clínica para identificar dudas y posteriormente podrían solicitar nueva reunión para resolverlas con la Médico asesor de Fonasa..
+
+**Participants:**
+The meeting included:
+Hernando Durán Palma (Gestor de intereses, working for nan, representing Clinica Tarapaca S.A.)
+
+**Key Details:**
+Meeting Identifier: AO004AW2026402
+Platform: ZEdWaGJYTT0=
+Duration: 0 horas, 35 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/796559/863967
+
+
+---
+
+On December 10, 2025 at 10:00 AM, Yadira Rojas, the Jefa Departamento de Beneficiarios, attended a videoconferencia meeting via VGVhbXMgCgo=. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+1. Venta de bono fonasa online, direccionar la venta de bonos de un nuevo centro médico a un módulo de Fonasa operativo.<br />
+2. ⁠Soporte de atención de venta de bonos fonasa, los días viernes después de las 14:00.<br />
+3. ⁠Problemáticas de venta de bonos en módulo de fonasa de ciertos procedimientos, ¿Tienen contemplado eliminarlo y que se venda por Imed?<br />
+4. Para procedimeintos de Endoscopias y Colonoscopía y que se les realiza hemostasia; se debe vender bono adicional o se reversa por el código (1801033)<br />
+5. ⁠Consideraciones de funcionamiento para prestador institucional en modalidad libre elección y las particularidades que aplican a especialistas médicos que pueden optar por atender bajo esta modalidad o mantener sus consultas de forma particular, ¿ Esto aplica a distribuir obligatoriamente la agenda en porcentajes para fonasa e isapres?..
+
+**Participants:**
+The meeting included:
+Cristina Ortega (Gestor de intereses, working for nan, representing Cristina Ortega)
+
+**Key Details:**
+Meeting Identifier: AO004AW2027364
+Platform: VGVhbXMgCgo=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/849304/869100
+
+
+---
+
+On December 10, 2025 at 09:00 AM, Rodrigo Reyes, the Jefe Departamento de Gestión Comercial Centro Norte, attended a videoconferencia meeting via TWljcm9zb2Z0IFRlYW1zIMK/TmVjZXNpdGEgYXl1ZGE/IApVbmlyc2UgYSBsYSByZXVuacOzbiBhaG9yYSAKSWQuIGRlIHJldW5pw7NuOiAyNzMgMzcwIDUzNSA2MDQgNzYgCkPDs2RpZ28gZGUgYWNjZXNvOiBNVzZCRjY2VSAKX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Conevio Fonasa con la institucion en MLE, pero queremos saber si se pueden integrar algunas prestaciones de la totalidad que se realizan en nuestros centro, ya que algunos profesionales no estan inscritos en Fonasa y no desean hacerlo. Pero como institucion nos gustaria incluir algunos servicios tales como: ecografias..
+
+**Participants:**
+The meeting included:
+Paula Díaz (Gestor de intereses, working for nan, representing Paula Diaz ALvarez)
+
+**Key Details:**
+Meeting Identifier: AO004AW2029671
+Platform: TWljcm9zb2Z0IFRlYW1zIMK/TmVjZXNpdGEgYXl1ZGE/IApVbmlyc2UgYSBsYSByZXVuacOzbiBhaG9yYSAKSWQuIGRlIHJldW5pw7NuOiAyNzMgMzcwIDUzNSA2MDQgNzYgCkPDs2RpZ28gZGUgYWNjZXNvOiBNVzZCRjY2VSAKX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/704223/862355
+
+
+---
+
+On December 12, 2025 at 10:00 AM, Juan Palacios, the Jefe Departamento Finanzas, attended a presencial meeting via TW9uaml0YXMgNjY1LCBwaXNvIDIuIFNhbGEgUmV1bmlvbmVzIERlcHRvLiBGaW5hbnphcy4=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Se solicita reunión para revisar varios aspectos que pueden ser de su interés. Desde ya gracias. Algunos temas sugeridos: <br />
+<br />
+- Presentación General y trabajo que se realiza para el Gobierno / Estado y servicios relacionados a su área (Salud y otras).<br />
+- Ley de Protección de Datos Personales + Consentimiento<br />
+- Nueva normativa CMF / REDEC (información de deudas y otros)<br />
+- Regularizaciones Infracciones Previsionales y Multas Laborales - Proceso Masivos con la Dirección del Trabajo.<br />
+- Detección de localización ante Licencias Médicas y potenciales fraudes de Prestadores<br />
+- Verificación de Domicilio con Firma Digital<br />
+- Contactabilidad de personas y cobranza remota.<br />
+- Propuesta sugerida para cobranzas personalizadas vía Plataforma "ChaoDeudas" <br />
+- Entre otros temas..
+
+**Participants:**
+The meeting included:
+Rodrigo Pavez (Gestor de intereses, working for Servicios Equifax Chile Limitada, representing Servicios EQUIFAX Chile Limitada)
+Tomás Ibarra (Gestor de intereses, working for nan, representing Servicios EQUIFAX Chile Limitada)
+
+**Key Details:**
+Meeting Identifier: AO004AW2030097
+Platform: TW9uaml0YXMgNjY1LCBwaXNvIDIuIFNhbGEgUmV1bmlvbmVzIERlcHRvLiBGaW5hbnphcy4=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/701806/868577
+
+
+---
+
+On December 15, 2025 at 11:00 AM, Jorge Troncoso, the Jefe Departamento Asesoría Jurídico-Administrativa, attended a videoconferencia meeting via UGxhdGFmb3JtYSBUZWFtcw==. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Asunto: Solicitud de audiencia – Consulta sobre proceso de venta y continuidad operativa de centro de diálisis<br />
+<br />
+Estimados<br />
+Junto con saludar, me dirijo a ustedes para solicitar formalmente una audiencia con el equipo correspondiente de FONASA, con el fin de recibir orientación respecto al procedimiento vigente para la venta o transferencia de un centro de diálisis.<br />
+El objetivo de la reunión es comprender de manera detallada los pasos administrativos, requisitos documentales y autorizaciones necesarias para ejecutar correctamente este proceso, asegurando que el establecimiento pueda mantener su funcionamiento sin interrupciones, resguardar la continuidad de la atención a los pacientes y cumplir con la normativa sanitaria y contractual vigente.<br />
+<br />
+Agradeceré que puedan indicar fecha y hora disponible, así como los documentos preliminares que sería recomendable revisar antes de la audiencia.<br />
+<br />
+Quedomos atentos a su respuesta..
+
+**Participants:**
+The meeting included:
+Oscar Vergara (Gestor de intereses, working for nan, representing Dialisis Prodial ltda)
+Priscilla Orellana (Gestor de intereses, working for nan, representing Dialisis Prodial ltda)
+
+**Key Details:**
+Meeting Identifier: AO004AW2030555
+Platform: UGxhdGFmb3JtYSBUZWFtcw==
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702582/868780
+
+
+---
+
+On December 04, 2025 at 10:30 AM, Marianela Villa, the Jefa Subdepartamento Convenios MLE y Ley Ricarte Soto, attended a videoconferencia meeting via cGxhdGFmb3JtYSB0ZWFt. The meeting lasted 0 horas, 25 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+RESOLUCION EXENTA 2 D Nº 17124-2025 RECHAZO DE INSCRIPCION DE CONVENIO MLE.
+
+**Participants:**
+The meeting included:
+Deisy Blanco (Gestor de intereses, working for nan, representing SERVICIOS MEDICOS Y PROFESIONALES SANCHEZ SPA)
+
+**Key Details:**
+Meeting Identifier: AO004AW2031982
+Platform: cGxhdGFmb3JtYSB0ZWFt
+Duration: 0 horas, 25 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702001/867570
+
+
+---
+
+On December 29, 2025 at 09:30 AM, María Figueroa, the Jefa Departamento Fiscalización, attended a presencial meeting via TWlyYWZsb3JlcyAzODMgcGlzbyAyNCBkZXBlbmRlbmNpYXMgZGUgRk9OQVNB. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Se solicita reunión lobby para continuar trabajando en las cuentas ley de urgencia y rebase fonasa para su pronta validación si corresponde.<br />
+-	Se realiza revisión de los casos de ley de urgencia que se encuentran pendientes de gestión por parte de nuestro Departamento.<br />
+-	Se realiza seguimiento del trabajo en conjunto de los casos de ley de urgencia certificado.<br />
+-	Se informa sobre trabajo que se encuentra realizando el equipo de ley de urgencia de los casos año 2024 hacia atrás.<br />
+-	Se realiza compromiso de envío de los casos de SCE ley de urgencia de mayor antigüedad para gestión..
+
+**Participants:**
+The meeting included:
+Cristian Etchegaray (Gestor de intereses, working for Servicios Medicos Tabancura spa, representing Cristián Etchegaray)
+
+**Key Details:**
+Meeting Identifier: AO004AW2033062
+Platform: TWlyYWZsb3JlcyAzODMgcGlzbyAyNCBkZXBlbmRlbmNpYXMgZGUgRk9OQVNB
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/703426/869043
+
+
+---
+
+On December 17, 2025 at 10:00 AM, Matías Goyenechea, the Jefe (S) División Planificación y Desarrollo Esteratégico, attended a presencial meeting via TW9uaml0YXMgNjY1LCBwaXNvIDY=. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Financiamiento Subsidio de Incapacidad Laboral.-.
+
+**Participants:**
+The meeting included:
+Marcelo Forni (Gestor de intereses, working for Fundación Redes de Santa Clara, representing Cajas de Chile A.G.)
+marcos rivera inalaf (Gestor de intereses, working for Asociacion Gremial, representing Cajas de Chile A.G.)
+Marco Rivera (Gestor de intereses, working for nan, representing Cajas de Chile A.G.)
+
+**Key Details:**
+Meeting Identifier: AO004AW2033235
+Platform: TW9uaml0YXMgNjY1LCBwaXNvIDY=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/469407/867889
+
+
+---
+
+On December 15, 2025 at 10:30 AM, Marianela Villa, the Jefa Subdepartamento Convenios MLE y Ley Ricarte Soto, attended a videoconferencia meeting via UGxhdGFmb3JtYSB0ZWFtcw==. The meeting lasted 0 horas, 17 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+estado de la  Solicitud de Inscripción Convenio MLE sobre Entidad de Salud recepcionada bajo el folio #2556327.
+
+**Participants:**
+The meeting included:
+Nicolás Suazo (Gestor de intereses, working for nan, representing Gamma Center Spa)
+
+**Key Details:**
+Meeting Identifier: AO004AW2034632
+Platform: UGxhdGFmb3JtYSB0ZWFtcw==
+Duration: 0 horas, 17 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/702001/867572
+
+
+---
+
+On December 16, 2025 at 09:00 AM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via VGVhbXM=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Licitacion GES - No GES y valores de prestaciones oncologicas.
+
+**Participants:**
+The meeting included:
+Claudia Cabrera (Gestor de intereses, working for nan, representing Integramedica S.A.)
+Catalina Quezada (Gestor de intereses, working for nan, representing Integramedica S.A.)
+
+**Key Details:**
+Meeting Identifier: AO004AW2035186
+Platform: VGVhbXM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/867892
+
+
+---
+
+On December 23, 2025 at 10:00 AM, Matías Goyenechea, the Jefe (S) División Planificación y Desarrollo Esteratégico, attended a videoconferencia meeting via VGVhbXM=. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Solicitud de actualización de la Resolución Exenta N° 277/2011, punto 11 letra c, del Grupo 05 (Medicina Nuclear - PET/CT).
+
+**Participants:**
+The meeting included:
+Eva Hernandez (Gestor de intereses, working for nan, representing Sociedad Chilena de Medicina Nuclear)
+
+**Key Details:**
+Meeting Identifier: AO004AW2035630
+Platform: VGVhbXM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/469407/867890
+
+
+---
+
+On December 19, 2025 at 09:00 AM, Nancy Dawson, the Jefa División  Gestión Comercial, attended a videoconferencia meeting via VGVhbXM=. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+TEMA: <br />
+-MCC<br />
+-VARIOS.
+
+**Participants:**
+The meeting included:
+Andrés Herreros (Gestor de intereses, working for nan, representing UC CHRISTUS SERVICIOS CLÍNICOS SPA)
+Cristian De La Fuente (Gestor de intereses, working for UC CHRISTUS Servicios Clínicos SpA, representing UC CHRISTUS SERVICIOS CLINICOS SPA)
+Macarena Herman Herrera (Gestor de intereses, working for nan, representing UC CHRISTUS SERVICIOS CLINICOS SPA)
+
+**Key Details:**
+Meeting Identifier: AO004AW2042597
+Platform: VGVhbXM=
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO004/audiencias/2025/668666/867893
 
 
 ---
