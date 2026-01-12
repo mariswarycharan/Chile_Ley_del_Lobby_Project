@@ -154,8 +154,18 @@ def load_model():
 
 model, embeddings = load_model()
 
+
 def load_database(db_name):
     try:
+        year = db_name.split('_')[-1]
+        year_folder = f"output/{year}"  # Adjust if the path is different
+        # Check if the year folder exists, then show the message if FAISS files are missing
+        if not os.path.exists(year_folder):
+            if not os.path.exists(db_name) or not os.path.exists(os.path.join(db_name, "index.faiss")):
+                st.warning(
+                    f"The data for {year} has not yet been updated on the main website. Please wait until the data is updated.")
+                return None
+        # If year folder doesn't exist or FAISS exists, attempt to load
         vector_store = FAISS.load_local(
             db_name, embeddings, allow_dangerous_deserialization=True
         )
@@ -342,6 +352,8 @@ if choice != "Home":
 
     vector_store = load_database(db_name)
 
+    st.title(f"AI Chatbot - {choice}")
+
     if vector_store:
         chain = get_conversational_chain(vector_store)
 
@@ -361,8 +373,6 @@ if choice != "Home":
             st.session_state.chat_history.append(AIMessage(content=response["answer"]))
             return response
 
-
-        st.title(f"AI Chatbot - {choice}")
 
         for message in st.session_state.chat_history:
             if isinstance(message, HumanMessage):
@@ -394,5 +404,7 @@ if choice != "Home":
             with st.expander("See relevant raw data"):
                 relevant_docs = get_more_relevant_docs(prompt, top_k=100)
                 display_meetings_as_table(relevant_docs)
+    else:
+        st.info("The database for this selection is not available yet. Please try another year or check back later.")
 
 st.session_state.Department = choice
