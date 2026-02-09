@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from langchain_community.vectorstores import FAISS
 from langchain_core.messages import AIMessage, HumanMessage
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 import google.generativeai as genai
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import ChatPromptTemplate
@@ -148,7 +148,7 @@ def load_model():
 
     model = ChatGoogleGenerativeAI(model="gemini-2.5-flash",
                                    temperature=0.8, convert_system_message_to_human=True)
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
+    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
 
     return model, embeddings
 
