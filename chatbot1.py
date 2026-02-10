@@ -148,7 +148,7 @@ def load_model():
 
     model = ChatGoogleGenerativeAI(model="gemini-2.5-flash",
                                    temperature=0.8, convert_system_message_to_human=True)
-    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
 
     return model, embeddings
 
