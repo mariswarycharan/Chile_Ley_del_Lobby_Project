@@ -46,17 +46,17 @@ def update_excel_with_last_updated(timestamp, excel_file="update_log.xlsx", shee
 
 # Function to execute the script
 def run_script():
-    # print("Running scheduled script...")
-    #
-    # # Step 1 : Scrape data from the website
-    # print("Scraping data from the website...")
-    # scrape_data()
-    # print("Scraping completed.")
-    #
-    # # Step 2 : Generate narratives from the scraped data
-    # print("Generating narratives from the scraped data...")
-    # generate_narratives()
-    # print("Generating narratives completed.")
+    print("Running scheduled script...")
+    
+    # Step 1 : Scrape data from the website
+    print("Scraping data from the website...")
+    scrape_data()
+    print("Scraping completed.")
+
+    # Step 2 : Generate narratives from the scraped data
+    print("Generating narratives from the scraped data...")
+    generate_narratives()
+    print("Generating narratives completed.")
 
     # Step 3 : Create vector store
     print("Creating vector store...")
