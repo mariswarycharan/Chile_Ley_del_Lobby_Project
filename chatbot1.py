@@ -16,8 +16,6 @@ from deep_translator import GoogleTranslator
 import pandas as pd
 import numpy as np
 from datetime import datetime
-from langchain_siliconflow import ChatSiliconFlow
-from langchain_siliconflow import SiliconFlowEmbeddings
 from langchain_nvidia_ai_endpoints import ChatNVIDIA, NVIDIAEmbeddings
 import threading
 
