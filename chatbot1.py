@@ -16,6 +16,10 @@ from deep_translator import GoogleTranslator
 import pandas as pd
 import numpy as np
 from datetime import datetime
+from langchain_siliconflow import ChatSiliconFlow
+from langchain_siliconflow import SiliconFlowEmbeddings
+from langchain_nvidia_ai_endpoints import ChatNVIDIA, NVIDIAEmbeddings
+import threading
 
 st.set_page_config(page_title="Chile-Chatbot", page_icon="assets/roche-logo.jpeg")
 
@@ -138,17 +142,46 @@ if choice == "Home":
     st.write("""This application allows you to interact with an AI-powered chatbot.
             Use the navigation menu to select a specific database or return to this homepage.
             """)
+def save_to_excel(query: str, answer: str, retrieved_docs: list, log_file="chat_log.xlsx"):
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    # ── Top-20 docs flattened into columns ──────────────────────
+    doc_cols = {}
+    for i, doc in enumerate(retrieved_docs[:20], start=1):
+        doc_cols[f"Doc_{i}_Score"]   = f"{doc['score']:.4f}"
+        doc_cols[f"Doc_{i}_Content"] = doc["content"][:500]
+
+    row = {"Timestamp": timestamp, "Query": query, "Answer": answer}
+    df_new = pd.DataFrame([row])
+
+    lock = threading.Lock()
+    with lock:
+        if os.path.exists(log_file):
+            df_existing = pd.read_excel(log_file)
+            df_out = pd.concat([df_existing, df_new], ignore_index=True)
+        else:
+            df_out = df_new
+        df_out.to_excel(log_file, index=False)
 
 st.cache_resource(show_spinner=False)
-
+os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 def load_model():
-    load_dotenv()
-    os.getenv("GOOGLE_API_KEY")
-    genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+    nvidia_key = "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"
 
-    model = ChatGoogleGenerativeAI(model="gemini-2.5-flash",
-                                   temperature=0.8, convert_system_message_to_human=True)
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
+    model = ChatNVIDIA(
+        model="nvidia/nemotron-3-super-120b-a12b",
+        nvidia_api_key=nvidia_key,
+        temperature=0.2,
+        max_completion_tokens=70000,
+        top_p=0.7,
+        seed=42
+    )
+
+    embeddings = NVIDIAEmbeddings(
+        model="nvidia/llama-nemotron-embed-1b-v2",
+        nvidia_api_key=nvidia_key,
+        truncate="END"
+    )
 
     return model, embeddings
 
@@ -375,24 +408,27 @@ if choice != "Home":
             with st.spinner("Generating response..."):
                 response = user_input(prompt)
                 output_generated_text = response["answer"]
-
-                #if user_prefered_language != "english":
-                    #output_generated_text = language_translation(output_generated_text,"english",user_prefered_language)
-
                 st.chat_message("assistant").markdown(output_generated_text)
 
+            # ── Retrieve docs once, reuse for both expanders + logging ──
+            relevant_docs = get_more_relevant_docs(prompt, top_k=100)
+
+            # ── Log to Excel in background (non-blocking) ────────────
+            threading.Thread(
+                target=save_to_excel,
+                args=(prompt, output_generated_text, relevant_docs[:20]),
+                daemon=True
+            ).start()
+
             with st.expander("See relevant documents"):
-                relevant_docs = get_more_relevant_docs(prompt, top_k=100)
                 container = st.container(border=True, height=500)
                 for idx, doc in enumerate(relevant_docs):
                     container.success(f"Meeting : {idx + 1}")
                     container.markdown(f"**Distance Score:** {doc['score']:.3f}")
                     container.markdown(doc["content"])
-                    container.markdown("""
+                    container.markdown("---")
 
-                                        """)
             with st.expander("See relevant raw data"):
-                relevant_docs = get_more_relevant_docs(prompt, top_k=100)
                 display_meetings_as_table(relevant_docs)
 
 st.session_state.Department = choice
