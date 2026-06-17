@@ -12,4 +12,4 @@ langchain_chroma==0.1.4
 deep-translator==1.11.4
 openpyxl==3.1.2
 schedule==1.1.0
-langchain-nvidia-ai-endpoints==1.0.3
+langchain-nvidia-ai-endpoints==0.3.19
