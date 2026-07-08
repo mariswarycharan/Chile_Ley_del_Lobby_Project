@@ -7,3 +7,4 @@ test.py
 .streamlit
 /credentials
 /chile_chatbot_venv
+credentials/
