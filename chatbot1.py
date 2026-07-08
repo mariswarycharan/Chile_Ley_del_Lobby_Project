@@ -24,6 +24,9 @@ from reportlab.lib.pagesizes import letter
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib import colors
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
+from langchain_core.callbacks import UsageMetadataCallbackHandler
+import gspread
+from google.oauth2.service_account import Credentials
 
 
 st.set_page_config(page_title="Chile-Chatbot", page_icon="assets/roche-logo.jpeg")
@@ -147,26 +150,130 @@ if choice == "Home":
     st.write("""This application allows you to interact with an AI-powered chatbot.
             Use the navigation menu to select a specific database or return to this homepage.
             """)
-def save_to_excel(query: str, answer: str, retrieved_docs: list, log_file="chat_log.xlsx"):
+
+# def save_to_excel(query: str, answer: str, retrieved_docs: list,
+#                    input_tokens: int = 0, output_tokens: int = 0,
+#                    log_file="chat_log.xlsx"):
+#     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+#     # # ── Top-20 docs flattened into columns ──────────────────────
+#     # doc_cols = {}
+#     # for i, doc in enumerate(retrieved_docs[:20], start=1):
+#     #     doc_cols[f"Doc_{i}_Score"]   = f"{doc['score']:.4f}"
+#     #     doc_cols[f"Doc_{i}_Content"] = doc["content"][:500]
+
+#     row = {
+#         "Timestamp": timestamp,
+#         "Query": query,
+#         "Answer": answer,
+#         "Input_Tokens": input_tokens,
+#         "Output_Tokens": output_tokens,
+#         "Total_Tokens": input_tokens + output_tokens,
+#     }
+#     # row.update(doc_cols)   # <-- FIX: doc_cols was computed but never added before
+
+#     df_new = pd.DataFrame([row])
+
+#     lock = threading.Lock()
+#     with lock:
+#         if os.path.exists(log_file):
+#             df_existing = pd.read_excel(log_file)
+#             df_out = pd.concat([df_existing, df_new], ignore_index=True)
+#         else:
+#             df_out = df_new
+#         df_out.to_excel(log_file, index=False)
+
+
+# ── Google Sheets setup (do this once, outside the function) ──
+GOOGLE_SHEET_SCOPES = [
+    "https://www.googleapis.com/auth/spreadsheets",
+    "https://www.googleapis.com/auth/drive",
+]
+
+_gsheet_client = None
+_gsheet_worksheet = None
+_gsheet_lock = threading.Lock()
+
+def get_gsheet_worksheet():
+    """Lazily creates and caches the gspread worksheet handle."""
+    global _gsheet_client, _gsheet_worksheet
+
+    if _gsheet_worksheet is not None:
+        return _gsheet_worksheet
+
+    creds_path = r"credentials/service_account.json"
+    sheet_id = "1jQ-vdL8HQuWGgAfyhVpOspGpR9Hh_YCbc-9jUY6q7BQ"
+
+    if not creds_path or not sheet_id:
+        raise RuntimeError(
+            "GOOGLE_SERVICE_ACCOUNT_FILE or GOOGLE_SHEET_ID not set in environment/.env"
+        )
+
+    creds = Credentials.from_service_account_file(creds_path, scopes=GOOGLE_SHEET_SCOPES)
+    _gsheet_client = gspread.authorize(creds)
+
+    spreadsheet = _gsheet_client.open_by_key(sheet_id)
+
+    # Use (or create) a worksheet named "Log"
+    try:
+        worksheet = spreadsheet.worksheet("Log")
+    except gspread.WorksheetNotFound:
+        worksheet = spreadsheet.add_worksheet(title="Log", rows=1000, cols=50)
+
+    _gsheet_worksheet = worksheet
+    return worksheet
+
+
+def _build_header(max_docs=20):
+    header = ["Timestamp", "Query", "Answer", "Input_Tokens", "Output_Tokens", "Total_Tokens"]
+    # for i in range(1, max_docs + 1):
+    #     header.append(f"Doc_{i}_Score")
+    #     header.append(f"Doc_{i}_Content")
+    return header
+
+
+def save_to_excel(query: str, answer: str, retrieved_docs: list,
+                   input_tokens: int = 0, output_tokens: int = 0,
+                   log_file="chat_log.xlsx"):
+    """
+    Kept the same function name/signature so the rest of the app doesn't
+    need to change. Now writes to Google Sheets instead of a local .xlsx.
+    'log_file' param is unused/kept for backward compatibility.
+    """
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # ── Top-20 docs flattened into columns ──────────────────────
-    doc_cols = {}
-    for i, doc in enumerate(retrieved_docs[:20], start=1):
-        doc_cols[f"Doc_{i}_Score"]   = f"{doc['score']:.4f}"
-        doc_cols[f"Doc_{i}_Content"] = doc["content"][:500]
+    header = _build_header(max_docs=20)
 
-    row = {"Timestamp": timestamp, "Query": query, "Answer": answer}
-    df_new = pd.DataFrame([row])
+    row_dict = {
+        "Timestamp": timestamp,
+        "Query": query,
+        "Answer": answer,
+        "Input_Tokens": input_tokens,
+        "Output_Tokens": output_tokens,
+        "Total_Tokens": input_tokens + output_tokens,
+    }
 
-    lock = threading.Lock()
-    with lock:
-        if os.path.exists(log_file):
-            df_existing = pd.read_excel(log_file)
-            df_out = pd.concat([df_existing, df_new], ignore_index=True)
-        else:
-            df_out = df_new
-        df_out.to_excel(log_file, index=False)
+    # for i, doc in enumerate(retrieved_docs[:20], start=1):
+    #     row_dict[f"Doc_{i}_Score"] = f"{doc['score']:.4f}"
+    #     row_dict[f"Doc_{i}_Content"] = doc["content"][:500]
+
+    # Build the row in the exact same column order as the header
+    row = [row_dict.get(col, "") for col in header]
+
+    with _gsheet_lock:
+        # try:
+        worksheet = get_gsheet_worksheet()
+
+        # If sheet is empty, write the header first
+        existing = worksheet.get_all_values()
+        if not existing:
+            worksheet.append_row(header, value_input_option="USER_ENTERED")
+
+        worksheet.append_row(row, value_input_option="USER_ENTERED")
+        # except Exception as e:
+        #     # Don't crash the chatbot if logging fails — just log locally
+        #     print(f"⚠️ Failed to write to Google Sheet: {e}")
+
 
 
 def generate_pdf_report(question, answer, relevant_docs, institution="", year=""):
@@ -445,31 +552,46 @@ if choice != "Home":
         if "qa_records" not in st.session_state:
             st.session_state.qa_records = []
 
+
         def user_input(user_question):
             payload = {
                 "input": user_question,
                 "context": "Your relevant context goes here",
                 "chat_history": st.session_state.chat_history,
             }
+
+            callback = UsageMetadataCallbackHandler()
             try:
-                response = primary_chain.invoke(payload)
+                response = primary_chain.invoke(payload, config={"callbacks": [callback]})
             except Exception as primary_error:
-                st.warning(
-                    f"⚠️ Primary NVIDIA API key failed ({primary_error}). "
-                    "Retrying with backup API key..."
-                )
+                # st.warning(
+                #     f"⚠️ Primary NVIDIA API key failed ({primary_error}). "
+                #     "Retrying with backup API key..."
+                # )
                 try:
-                    response = fallback_chain.invoke(payload)
+                    callback = UsageMetadataCallbackHandler()
+                    response = fallback_chain.invoke(payload, config={"callbacks": [callback]})
                 except Exception as fallback_error:
-                    st.error(
-                        f"❌ Both NVIDIA API keys failed. "
-                        f"Primary error: {primary_error} | Fallback error: {fallback_error}"
-                    )
+                    # st.error(
+                    #     f"❌ Both NVIDIA API keys failed. "
+                    #     f"Primary error: {primary_error} | Fallback error: {fallback_error}"
+                    # )
                     raise
+
+            # ── Aggregate token usage across all LLM calls in the chain ──
+            # (create_retrieval_chain calls the LLM twice: once for the
+            # history-aware question rephrasing, once for the final answer)
+            total_input_tokens = 0
+            total_output_tokens = 0
+            for model_name, usage in callback.usage_metadata.items():
+                total_input_tokens += usage.get("input_tokens", 0) or 0
+                total_output_tokens += usage.get("output_tokens", 0) or 0
 
             st.session_state.chat_history.append(HumanMessage(content=user_question))
             st.session_state.chat_history.append(AIMessage(content=response["answer"]))
-            return response
+
+            return response, total_input_tokens, total_output_tokens
+
 
         st.title(f"AI Chatbot - {choice}")
 
@@ -479,6 +601,12 @@ if choice != "Home":
             with st.chat_message("assistant"):
                 st.markdown(record["answer"])
 
+
+                # st.caption(
+                #     f"🔢 Input tokens: {record.get('input_tokens', 0)} | "
+                #     f"Output tokens: {record.get('output_tokens', 0)} | "
+                #     f"Total: {record.get('input_tokens', 0) + record.get('output_tokens', 0)}"
+                # )
 
                 # ── 1) See relevant documents (full width) ──────
                 with st.expander("See relevant documents"):
@@ -508,10 +636,11 @@ if choice != "Home":
                 )
 
         # ── Handle new question ──
+        # ── Handle new question ──
         if prompt := st.chat_input("Ask your question here..."):
             st.chat_message("user").markdown(prompt)
             with st.spinner("Generating response..."):
-                response = user_input(prompt)
+                response, input_tokens, output_tokens = user_input(prompt)
                 output_generated_text = response["answer"]
 
             relevant_docs = get_more_relevant_docs(prompt, top_k=100)
@@ -520,14 +649,15 @@ if choice != "Home":
                 "question": prompt,
                 "answer": output_generated_text,
                 "docs": relevant_docs,
+                "input_tokens": input_tokens,
+                "output_tokens": output_tokens,
             })
 
             threading.Thread(
                 target=save_to_excel,
-                args=(prompt, output_generated_text, relevant_docs[:20]),
+                args=(prompt, output_generated_text, relevant_docs[:20], input_tokens, output_tokens),
                 daemon=True
             ).start()
 
             st.rerun()
-
 st.session_state.Department = choice
