@@ -18,6 +18,13 @@ import numpy as np
 from datetime import datetime
 from langchain_nvidia_ai_endpoints import ChatNVIDIA, NVIDIAEmbeddings
 import threading
+import io
+import html
+from reportlab.lib.pagesizes import letter
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from reportlab.lib import colors
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
+
 
 st.set_page_config(page_title="Chile-Chatbot", page_icon="assets/roche-logo.jpeg")
 
@@ -161,29 +168,78 @@ def save_to_excel(query: str, answer: str, retrieved_docs: list, log_file="chat_
             df_out = df_new
         df_out.to_excel(log_file, index=False)
 
+
+def generate_pdf_report(question, answer, relevant_docs, institution="", year=""):
+    """Builds a formatted PDF containing the query, answer, and retrieved docs."""
+    buffer = io.BytesIO()
+    doc = SimpleDocTemplate(
+        buffer, pagesize=letter,
+        topMargin=40, bottomMargin=40, leftMargin=40, rightMargin=40
+    )
+    styles = getSampleStyleSheet()
+    title_style = ParagraphStyle('TitleStyle', parent=styles['Heading1'],
+                                  textColor=colors.HexColor('#1482FA'), spaceAfter=12)
+    heading_style = ParagraphStyle('HeadingStyle', parent=styles['Heading2'],
+                                    textColor=colors.HexColor('#1482FA'), spaceBefore=14, spaceAfter=6)
+    body_style = ParagraphStyle('BodyStyle', parent=styles['BodyText'], fontSize=10, leading=14, spaceAfter=8)
+    meta_style = ParagraphStyle('MetaStyle', parent=styles['Normal'], fontSize=9, textColor=colors.grey)
+    doc_head_style = ParagraphStyle('DocHead', parent=body_style, textColor=colors.HexColor('#333333'), spaceBefore=8)
+
+    story = [
+        Paragraph("AI Chatbot Conversation Export", title_style),
+        Paragraph(f"Department: {institution} | Year: {year}", meta_style),
+        Paragraph(f"Exported on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}", meta_style),
+        Spacer(1, 14),
+        Paragraph("User Query", heading_style),
+        Paragraph(html.escape(question).replace('\n', '<br/>'), body_style),
+        Paragraph("Chatbot Response", heading_style),
+        Paragraph(html.escape(answer).replace('\n', '<br/>'), body_style),
+    ]
+
+    if relevant_docs:
+        story.append(Paragraph("Relevant Documents", heading_style))
+        for i, d in enumerate(relevant_docs[:20], start=1):
+            content = html.escape(d.get("content", ""))[:1500]
+            score = d.get("score", 0)
+            story.append(Paragraph(f"<b>Document {i}</b> (Score: {score:.4f})", doc_head_style))
+            story.append(Paragraph(content.replace('\n', '<br/>'), body_style))
+            story.append(Spacer(1, 6))
+
+    doc.build(story)
+    buffer.seek(0)
+    return buffer.getvalue()
+
+
 st.cache_resource(show_spinner=False)
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
+
 def load_model():
-    nvidia_key = "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"
+    primary_key = "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"
+    fallback_key = "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"
 
-    model = ChatNVIDIA(
-        model="nvidia/nemotron-3-super-120b-a12b",
-        nvidia_api_key=nvidia_key,
-        temperature=0.2,
-        max_completion_tokens=70000,
-        top_p=0.7,
-        seed=42
-    )
+    def build_llm(api_key):
+        return ChatNVIDIA(
+            model="nvidia/nemotron-3-super-120b-a12b",
+            nvidia_api_key=api_key,
+            temperature=0.2,
+            max_completion_tokens=70000,
+            top_p=0.7,
+            seed=42
+        )
 
+    primary_model = build_llm(primary_key)
+    fallback_model = build_llm(fallback_key)
+
+    # Embeddings stay on the primary key (used only for retrieval, not chat generation)
     embeddings = NVIDIAEmbeddings(
         model="nvidia/llama-nemotron-embed-1b-v2",
-        nvidia_api_key=nvidia_key,
+        nvidia_api_key=primary_key,
         truncate="END"
     )
 
-    return model, embeddings
+    return primary_model, fallback_model, embeddings
 
-model, embeddings = load_model()
+model, fallback_model, embeddings = load_model()
 
 def load_database(db_name):
     try:
@@ -207,7 +263,7 @@ def get_more_relevant_docs(query, top_k):
         return []
 
 
-def get_conversational_chain(vector_store):
+def get_conversational_chain(vector_store, llm_model):
     system_prompt = """
      Your name is AI Bot and you should also act like expert assistant and natural bot to answer all questions. 
     You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. 
@@ -253,10 +309,10 @@ def get_conversational_chain(vector_store):
     retriever = vector_store.as_retriever(search_kwargs={"k": 20})
 
     history_aware_retriever = create_history_aware_retriever(
-        model, retriever, prompt
+        llm_model, retriever, prompt
     )
 
-    question_answer_chain = create_stuff_documents_chain(model, prompt)
+    question_answer_chain = create_stuff_documents_chain(llm_model, prompt)
 
     rag_chain = create_retrieval_chain(history_aware_retriever, question_answer_chain)
 
@@ -365,68 +421,113 @@ def display_meetings_as_table(docs: list):
             st.dataframe(final_df, use_container_width=True)
         else:
             st.warning("No meeting details found.")
+
 if choice != "Home":
     db_name = f"FAISS_DB/faiss_index_{selected_institution_db.replace(' ', '_')}_{selected_year}"
 
+    if "Department" not in st.session_state:
+        st.session_state.Department = None
+    if "year" not in st.session_state:
+        st.session_state.year = None
+
     if choice != st.session_state.Department or selected_year != st.session_state.year:
         st.session_state.chat_history = []
+        st.session_state.qa_records = []
 
     vector_store = load_database(db_name)
 
     if vector_store:
-        chain = get_conversational_chain(vector_store)
+        primary_chain = get_conversational_chain(vector_store, model)
+        fallback_chain = get_conversational_chain(vector_store, fallback_model)
 
         if "chat_history" not in st.session_state:
             st.session_state.chat_history = []
-
+        if "qa_records" not in st.session_state:
+            st.session_state.qa_records = []
 
         def user_input(user_question):
-            response = chain.invoke(
-                {
-                    "input": user_question,
-                    "context": "Your relevant context goes here",
-                    "chat_history": st.session_state.chat_history,
-                }
-            )
+            payload = {
+                "input": user_question,
+                "context": "Your relevant context goes here",
+                "chat_history": st.session_state.chat_history,
+            }
+            try:
+                response = primary_chain.invoke(payload)
+            except Exception as primary_error:
+                st.warning(
+                    f"⚠️ Primary NVIDIA API key failed ({primary_error}). "
+                    "Retrying with backup API key..."
+                )
+                try:
+                    response = fallback_chain.invoke(payload)
+                except Exception as fallback_error:
+                    st.error(
+                        f"❌ Both NVIDIA API keys failed. "
+                        f"Primary error: {primary_error} | Fallback error: {fallback_error}"
+                    )
+                    raise
+
             st.session_state.chat_history.append(HumanMessage(content=user_question))
             st.session_state.chat_history.append(AIMessage(content=response["answer"]))
             return response
 
-
         st.title(f"AI Chatbot - {choice}")
 
-        for message in st.session_state.chat_history:
-            if isinstance(message, HumanMessage):
-                st.chat_message("user").markdown(message.content)
-            elif isinstance(message, AIMessage):
-                st.chat_message("assistant").markdown(message.content)
+        # ── Render every past turn: message + expanders + export button ──
+        for i, record in enumerate(st.session_state.qa_records):
+            st.chat_message("user").markdown(record["question"])
+            with st.chat_message("assistant"):
+                st.markdown(record["answer"])
 
+
+                # ── 1) See relevant documents (full width) ──────
+                with st.expander("See relevant documents"):
+                    container = st.container(border=True, height=500)
+                    for idx, doc in enumerate(record["docs"]):
+                        container.success(f"Meeting : {idx + 1}")
+                        container.markdown(f"**Distance Score:** {doc['score']:.3f}")
+                        container.markdown(doc["content"])
+                        container.markdown("---")
+
+                # ── 2) See relevant raw data (full width) ───────
+                with st.expander("See relevant raw data"):
+                    display_meetings_as_table(record["docs"])
+
+                # ── 3) Export as PDF ─────────────────────────────
+                if "pdf" not in record:
+                    record["pdf"] = generate_pdf_report(
+                        record["question"], record["answer"], record["docs"],
+                        selected_institution, selected_year
+                    )
+                st.download_button(
+                    label="📄 Export as PDF",
+                    data=record["pdf"],
+                    file_name=f"chat_export_{i + 1}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf",
+                    mime="application/pdf",
+                    key=f"export_pdf_{i}"
+                )
+
+        # ── Handle new question ──
         if prompt := st.chat_input("Ask your question here..."):
             st.chat_message("user").markdown(prompt)
             with st.spinner("Generating response..."):
                 response = user_input(prompt)
                 output_generated_text = response["answer"]
-                st.chat_message("assistant").markdown(output_generated_text)
 
-            # ── Retrieve docs once, reuse for both expanders + logging ──
             relevant_docs = get_more_relevant_docs(prompt, top_k=100)
 
-            # ── Log to Excel in background (non-blocking) ────────────
+            st.session_state.qa_records.append({
+                "question": prompt,
+                "answer": output_generated_text,
+                "docs": relevant_docs,
+            })
+
             threading.Thread(
                 target=save_to_excel,
                 args=(prompt, output_generated_text, relevant_docs[:20]),
                 daemon=True
             ).start()
 
-            with st.expander("See relevant documents"):
-                container = st.container(border=True, height=500)
-                for idx, doc in enumerate(relevant_docs):
-                    container.success(f"Meeting : {idx + 1}")
-                    container.markdown(f"**Distance Score:** {doc['score']:.3f}")
-                    container.markdown(doc["content"])
-                    container.markdown("---")
-
-            with st.expander("See relevant raw data"):
-                display_meetings_as_table(relevant_docs)
+            st.rerun()
 
 st.session_state.Department = choice
