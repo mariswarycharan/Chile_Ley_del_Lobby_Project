@@ -27,9 +27,11 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from langchain_core.callbacks import UsageMetadataCallbackHandler
 import gspread
 from google.oauth2.service_account import Credentials
-
+import warnings
 
 st.set_page_config(page_title="Chile-Chatbot", page_icon="assets/roche-logo.jpeg")
+
+warnings.filterwarnings("ignore", category=UserWarning, module="langchain_nvidia_ai_endpoints")
 
 def get_last_updated(excel_file="update_log.xlsx", sheet_name = "Log"):
     try:
@@ -201,20 +203,25 @@ def get_gsheet_worksheet():
     if _gsheet_worksheet is not None:
         return _gsheet_worksheet
 
-    creds_path = r"credentials/service_account.json"
-    sheet_id = "1jQ-vdL8HQuWGgAfyhVpOspGpR9Hh_YCbc-9jUY6q7BQ"
-
-    if not creds_path or not sheet_id:
+    # ── Load credentials from Streamlit secrets (works both locally and on Cloud) ──
+    if "gcp_service_account" not in st.secrets:
         raise RuntimeError(
-            "GOOGLE_SERVICE_ACCOUNT_FILE or GOOGLE_SHEET_ID not set in environment/.env"
+            "Missing 'gcp_service_account' in Streamlit secrets. "
+            "Add it via .streamlit/secrets.toml locally, or App Settings → Secrets on Streamlit Cloud."
         )
 
-    creds = Credentials.from_service_account_file(creds_path, scopes=GOOGLE_SHEET_SCOPES)
+    service_account_info = dict(st.secrets["gcp_service_account"])
+
+    # TOML sometimes preserves literal \n correctly, but just in case, normalize it:
+    service_account_info["private_key"] = service_account_info["private_key"].replace("\\n", "\n")
+
+    sheet_id = st.secrets["gcp"]["sheet_id"]
+
+    creds = Credentials.from_service_account_info(service_account_info, scopes=GOOGLE_SHEET_SCOPES)
     _gsheet_client = gspread.authorize(creds)
 
     spreadsheet = _gsheet_client.open_by_key(sheet_id)
 
-    # Use (or create) a worksheet named "Log"
     try:
         worksheet = spreadsheet.worksheet("Log")
     except gspread.WorksheetNotFound:
@@ -222,7 +229,6 @@ def get_gsheet_worksheet():
 
     _gsheet_worksheet = worksheet
     return worksheet
-
 
 def _build_header(max_docs=20):
     header = ["Timestamp", "Query", "Answer", "Input_Tokens", "Output_Tokens", "Total_Tokens"]
