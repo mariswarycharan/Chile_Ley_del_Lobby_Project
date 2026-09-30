@@ -345,7 +345,7 @@ def load_model():
 
     # Embeddings stay on the primary key (used only for retrieval, not chat generation)
     embeddings = NVIDIAEmbeddings(
-        model="nvidia/llama-nemotron-embed-1b-v2",
+        model="nvidia/nemotron-3-embed-1b",
         nvidia_api_key=primary_key,
         truncate="END"
     )

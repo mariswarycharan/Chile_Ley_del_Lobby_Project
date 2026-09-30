@@ -17,7 +17,7 @@ def get_meeting_chunks(text):
 
 def get_vector_store(meeting_chunks, index_name):
     embeddings = NVIDIAEmbeddings(
-        model="nvidia/llama-nemotron-embed-1b-v2",
+        model="nvidia/nemotron-3-embed-1b",
         api_key= nvidia_key,
         truncate="END"
     )
