@@ -874,7 +874,7 @@ Ordinario N 8121.
 **Participants:**
 The meeting included:
 Ignacio González (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
-Francisco González (Gestor de intereses, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+Francisco González (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
 Víctor Moreno Morales (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
 
 **Key Details:**
@@ -928,6 +928,7 @@ La protección de datos sensibles de los beneficiarios es nuestra prioridad. Baj
 **Participants:**
 The meeting included:
 Alejandro Nunez (Gestor de intereses, working for Google for Education, representing Google Chile Limitada)
+Mario Retamal (Gestor de intereses, working for nan, representing mario retamal)
 
 **Key Details:**
 Meeting Identifier: AO006AW2124287
@@ -1583,7 +1584,7 @@ Nueva Normativa PAD.
 **Participants:**
 The meeting included:
 Ignacio González (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
-CONSUELO SALINAS JARA (Lobista, working for nan, representing ISAPRE CONSALUD S.A.)
+CONSUELO SALINAS JARA (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
 María del Pilar Crosgrove (Lobista, working for nan, representing ISAPRE CONSALUD S.A.)
 Claudia Campos (Lobista, working for nan, representing ISAPRE CONSALUD S.A.)
 
@@ -1605,7 +1606,7 @@ Caso Hospitalización Domiciliaria.
 
 **Participants:**
 The meeting included:
-Francisco González (Gestor de intereses, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+Francisco González (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
 Elizabeth Miranda (Lobista, working for nan, representing ISAPRE CONSALUD S.A.)
 Fernando Silva (Lobista, working for nan, representing ISAPRE CONSALUD S.A.)
 
@@ -1694,7 +1695,7 @@ ADManager Plus de ManageEngine ayuda a estar preparado para cumplir con las ley
 
 **Participants:**
 The meeting included:
-Maria Alicia Araya Jorquera (Gestor de intereses, working for nan, representing Nombre o razón social   SOCIEDAD DE SERVICIOS COMPUTACIONALES MICROSERV LIMITADA)
+Maria Alicia Araya Jorquera (Gestor de intereses, working for soc de servicios computacionales microserv limitada, representing Nombre o razón social   SOCIEDAD DE SERVICIOS COMPUTACIONALES MICROSERV LIMITADA)
 Christian Leyton (Gestor de intereses, working for nan, representing SOCIEDAD DE SERVICIOS COMPUTACIONALES MICROSERV LIMITADA)
 Freddy Rojas (Gestor de intereses, working for nan, representing SOCIEDAD DE SERVICIOS COMPUTACIONALES MICROSERV LIMITADA)
 
@@ -1756,6 +1757,27 @@ Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/902
 
 ---
 
+On May 26, 2026 at 11:00 AM, Camilo  Corral Guerrero, the Intendente de Prestadores de Salud, attended a presencial meeting via Alameda 1449, torre2 piso 5. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Proceso de acreditacion nacional.
+
+**Participants:**
+The meeting included:
+María Escobar (Gestor de intereses, working for nan, representing CLÍNICAS DE CHILE A.G.)
+Jose Baltazar Retamal (Gestor de intereses, working for nan, representing Clínicas de Chile A.G)
+
+**Key Details:**
+Meeting Identifier: AO006AW2193061
+Platform: Alameda 1449, torre2 piso 5
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/249764/953044
+
+
+---
+
 On May 29, 2026 at 09:30 AM, Fernando Riveros, the Superintendente de Salud, attended a presencial meeting via Alame 1449. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
 
 **Purpose:**
@@ -1775,6 +1797,951 @@ Duration: 1 horas, 0 minutos
 Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
 
 Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/902474/920242
+
+
+---
+
+On June 02, 2026 at 10:30 AM, Ricardo Cuevas, the Encargado Subdepartamento de Tecnologías de la Información, attended a videoconferencia meeting via Enviar link a: rcuevas@superdesalud.gob.cl,  mcarrasco@superdesalud.gob.cl,  vlopez@superdesalud.gob.cl,  tsalgado@superdesalud.gob.cl. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Solicitamos una reunión para presentar el modelo SYNROSE de Arquitectura Organizacional AI Native, con el fin de explorar oportunidades de colaboración en procesos de transformación digital y modernización institucional.<br />
+<br />
+La inteligencia artificial hoy permite automatizar procesos, reducir costos y mejorar la capacidad de respuesta de las instituciones. Sin embargo, para generar resultados reales es necesario construir primero una base digital sólida, a partir de información estructurada, unificada y sistemas capaces de integrar nuevas tecnologías.<br />
+<br />
+El modelo SYNROSE aborda este desafío mediante una metodología por etapas. En una primera fase realizamos la IONIZACIÓN, proceso orientado a impulsar la transición digital mediante la sistematización de datos, identificación de flujos críticos y digitalización de la información, creando una base organizada para la implementación de inteligencia artificial.<br />
+<br />
+Sobre esa base avanzamos hacia la integración tecnológica, optimizando sistemas y reduciendo silos entre áreas para desarrollar un Company Brain o Cerebro Corporativo, una capa central de conocimiento que interconecta información, facilita búsquedas intuitivas y permite incorporar soluciones avanzadas, incluyendo agentes de inteligencia artificial.<br />
+<br />
+Nos interesa compartir cómo este enfoque puede contribuir a mejorar la eficiencia operativa y facilitar una implementación tecnológica con impacto real y escalable..
+
+**Participants:**
+The meeting included:
+Karina Jury (Gestor de intereses, working for nan, representing Karina Jury)
+DANIEL HERMOSILLA (Gestor de intereses, working for nan, representing SYNROSE SPA)
+
+**Key Details:**
+Meeting Identifier: AO006AW2200437
+Platform: Enviar link a: rcuevas@superdesalud.gob.cl,  mcarrasco@superdesalud.gob.cl,  vlopez@superdesalud.gob.cl,  tsalgado@superdesalud.gob.cl
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/325594/918548
+
+
+---
+
+On June 04, 2026 at 12:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a videoconferencia meeting via Videoconferencia. The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Solicitamos esta reunión técnica para conversar acerca del contenido del Manual de Cálculo del Cumplimiento de<br />
+Metas de Cobertura del Examen de Medicina Preventiva 2026 contenido en la Resolución Exenta IF 5143 y algunas dudas que sobre esta materia tenemos..
+
+**Participants:**
+The meeting included:
+Luz Román (Gestor de intereses, working for Colmena Golden Cross S. A., representing COLMENA GOLDEN CROSS S.A.)
+Hans Möller (Gestor de intereses, working for COLMENA GOLDEN CROSS S.A., representing COLMENA GOLDEN CROSS S.A.)
+Francisca Vargas (Gestor de intereses, working for COLMENA GOLDEN CROSS S.A., representing COLMENA GOLDEN CROSS S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2205268
+Platform: Videoconferencia
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/248901/920245
+
+
+---
+
+On July 08, 2026 at 11:00 AM, Ricardo Cuevas, the Encargado Subdepartamento de Tecnologías de la Información, attended a videoconferencia meeting via Enviar link para reunión a: rcuevas@superdesalud.gob.cl, mcarrasco@superdesalud.gob.cl, tsalgado@superdesalud.gob.cl. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones..
+
+**Purpose:**
+AustranetGRC es una plataforma orientada a la gestión de cumplimiento,<br />
+riesgos, seguimiento de actividades y control de procesos dentro de una<br />
+organización. La plataforma permite centralizar información, administrar<br />
+compromisos y mantener trazabilidad sobre distintas actividades<br />
+relacionadas con normativas, controles internos y procesos operacionales..
+
+**Participants:**
+The meeting included:
+Sarah Hamana (Gestor de intereses, working for nan, representing SERVICIOS COMPUTACIONALES AUSTRAL NETWORKS SPA)
+Manuel Guzmán (Gestor de intereses, working for nan, representing SERVICIOS COMPUTACIONALES AUSTRAL NETWORKS SPA)
+MARÍA AUXILIADORA MARTÍNEZ (Gestor de intereses, working for nan, representing SERVICIOS COMPUTACIONALES AUSTRAL NETWORKS SPA)
+
+**Key Details:**
+Meeting Identifier: AO006AW2207056
+Platform: Enviar link para reunión a: rcuevas@superdesalud.gob.cl, mcarrasco@superdesalud.gob.cl, tsalgado@superdesalud.gob.cl
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/325594/932152
+
+
+---
+
+On June 01, 2026 at 11:00 AM, Fernando Riveros, the Superintendente de Salud, attended a presencial meeting via Alameda 1449. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Saludos protocolar.
+
+**Participants:**
+The meeting included:
+Gonzalo Claudio Arriagada Lillo (Gestor de intereses, working for nan, representing Isapres de Chile)
+Matías Avendaño (Gestor de intereses, working for nan, representing Isapres de Chile)
+Melissa Hohmann (Gestor de intereses, working for nan, representing Isapres de Chile)
+
+**Key Details:**
+Meeting Identifier: AO006AW2209695
+Platform: Alameda 1449
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/902474/936650
+
+
+---
+
+On June 10, 2026 at 03:30 PM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda 1449, Torre II, Piso 5, Santiago Centro (Metro La Moneda salida Amunategui). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Plan de Pago y Ajustes ley N 21.674.
+
+**Participants:**
+The meeting included:
+Ignacio González (Gestor de intereses, working for nan, representing ISAPRE CONSALUD)
+VALENTINA SALDAÑA (Gestor de intereses, working for nan, representing ISAPRE CONSALUD)
+Francisco González (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD)
+
+**Key Details:**
+Meeting Identifier: AO006AW2211274
+Platform: Alameda 1449, Torre II, Piso 5, Santiago Centro (Metro La Moneda salida Amunategui)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/922475
+
+
+---
+
+On June 11, 2026 at 10:00 AM, Tamara Andrea Núñez Andrewartha, the Jefa de la Unidad de Planificación, Innovación y Control de Gestión, attended a videoconferencia meeting via Reunión por Team. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Estimado Señor Fernando Riveros.<br />
+Superintendente<br />
+SUPERINTENDENCIA DE SALUD<br />
+PRESENTE<br />
+Quisiera presentarle Pentana, plataforma líder en Gestión de Auditoría Interna, Cumplimiento y Riesgos, con más de 20 años en el mercado y amplia presencia en Latinoamérica.<br />
+Nuestra solución permite centralizar auditorías, gestionar riesgos y realizar seguimiento de planes de acción en una herramienta integrada, fortaleciendo el control interno y la trazabilidad.<br />
+Entre nuestros clientes en la región se encuentran el Banco Central de Chile, Tesorería General de la República, Servicio de Impuestos Internos, Servipag, Metro de Santiago, Instituto de Previsión Social  IPS, Enami, Corfo, Corporación Administrativa del Poder Judicial, Viña Concha y Toro, Clínica Alemana, entre otros.<br />
+Podemos coordinar una breve reunión para mostrarle nuestra plataforma.<br />
+Agradeciendo sus comentarios, saluda atentamente, Hugo Fierro M..
+
+**Participants:**
+The meeting included:
+ALEJANDRO CUELLAR PEREA (Gestor de intereses, working for nan, representing TTH COMERCIOS E INVERSIONES SPA)
+Hugo Fierro (Gestor de intereses, working for nan, representing TTH COMERCIOS E INVERSIONES SPA)
+
+**Key Details:**
+Meeting Identifier: AO006AW2211515
+Platform: Reunión por Team
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/259517/921590
+
+
+---
+
+On June 17, 2026 at 10:00 AM, Fernando Riveros, the Superintendente de Salud, attended a presencial meeting via Alameda 1449, torre 2, piso 5. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Solicito respetuosamente una reunión de carácter urgente con el alcalde de Isla de Maipo y vicepresidente de la Asociación Chilena de Municipalidades, Juan Pablo Olave Cambara. La finalidad es abordar las complejidades que la Corporación de Educación y Salud de la comuna enfrenta respecto a una deuda de las obligaciones previsionales con los funcionarios. Hago hincapié en la urgencia de sostener esta reunión para abordar la temática que se ha complejizado en estas semanas, ya que gran parte de los funcionarios se atienden en Fonasa y se han visto afectados al no poder acceder al sistema de salud oportunamente. Una conversación entre las autoridades permitiría orientar mejor este proceso y abrir espacios para gestiones que puedan resolver las problemáticas..
+
+**Participants:**
+The meeting included:
+Elías Jiménez (Gestor de intereses, working for nan, representing Corporación Municipal de Isla de Maipo)
+JUAN PABLO OLAVE CAMBARA (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO006AW2215830
+Platform: Alameda 1449, torre 2, piso 5
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/902474/953034
+
+
+---
+
+On July 07, 2026 at 11:30 AM, Ricardo Cuevas, the Encargado Subdepartamento de Tecnologías de la Información, attended a videoconferencia meeting via Enviar link a: rcuevas@superdesalud.gob.cl, pcatalan@superdesalud.gob.cl, tsalgado@superdesalud.gob.cl. The meeting lasted 0 horas, 45 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Ofrecemos servicios de Higiene de Ciberseguridad que ayudan a reducir riesgos y proteger la operación diaria del negocio mediante prácticas simples y efectivas previniendo amenazas comunes como phishing, malware y pérdida de información..
+
+**Participants:**
+The meeting included:
+Ruth Urrelo (Gestor de intereses, working for nan, representing Empresa General de Software SPA)
+
+**Key Details:**
+Meeting Identifier: AO006AW2219716
+Platform: Enviar link a: rcuevas@superdesalud.gob.cl, pcatalan@superdesalud.gob.cl, tsalgado@superdesalud.gob.cl
+Duration: 0 horas, 45 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/325594/932151
+
+
+---
+
+On June 16, 2026 at 11:30 AM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda N°1449, Torre II, Piso 5 (Metro La Moneda - Salida Amunátegui). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Saludo protocolar y actividad regulatoria.
+
+**Participants:**
+The meeting included:
+Gabriela Sandoval (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+Matías Avendaño (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+Melissa Hohmann (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2221386
+Platform: Alameda N°1449, Torre II, Piso 5 (Metro La Moneda - Salida Amunátegui)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/922618
+
+
+---
+
+On June 12, 2026 at 10:00 AM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda N°1449, Torre II, Piso 5 (Metro La Moneda, Salida Amunátegui). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Implementación Circular IF 518 PAD y reliquidaciones EMP..
+
+**Participants:**
+The meeting included:
+Luz Román (Gestor de intereses, working for Colmena Golden Cross S. A., representing COLMENA GOLDEN CROSS S.A.)
+Hans Möller (Gestor de intereses, working for COLMENA GOLDEN CROSS S.A., representing COLMENA GOLDEN CROSS S.A.)
+Alejandro Meyer (Gestor de intereses, working for nan, representing COLMENA GOLDEN CROSS S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2223499
+Platform: Alameda N°1449, Torre II, Piso 5 (Metro La Moneda, Salida Amunátegui)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/921659
+
+
+---
+
+On July 13, 2026 at 09:30 AM, Fernando Riveros, the Superintendente de Salud, attended a presencial meeting via Alameda 1449, Torre 2, piso 5. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Implementación Bono PAD Isapre Cirugía Bariátrica.
+
+**Participants:**
+The meeting included:
+Percy Brante Baez (Gestor de intereses, working for nan, representing SOCIEDAD CHILENA DE CIRUGÍA BARIÁTRICA Y METABÓLICA)
+Patricio Lamoza (Gestor de intereses, working for nan, representing SOCIEDAD CHILENA DE CIRUGÍA BARIÁTRICA Y METABÓLICA)
+
+**Key Details:**
+Meeting Identifier: AO006AW2229398
+Platform: Alameda 1449, Torre 2, piso 5
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/902474/936656
+
+
+---
+
+On July 08, 2026 at 10:00 AM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda N° 1449, Torre II, Piso 5° (Metro La Moneda, salida Amunategui). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+La reunión tiene por objeto informar al Sr. Intendente la decisión de Isapre Colmena de ejecutar un plan de pronto pago y dar a conocer el contenido de éste, los criterios utilizados, los documentos que se presentarán y el plan de ejecución para este año..
+
+**Participants:**
+The meeting included:
+Luz Román (Gestor de intereses, working for Colmena Golden Cross S. A., representing COLMENA GOLDEN CROSS S.A.)
+Ramiro Sánchez Tuculet (Gestor de intereses, working for nan, representing COLMENA GOLDEN CROSS S.A.)
+Carola Schwencke Reyes (Gestor de intereses, working for nan, representing COLMENA GOLDEN CROSS S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2237140
+Platform: Alameda N° 1449, Torre II, Piso 5° (Metro La Moneda, salida Amunategui)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/932052
+
+
+---
+
+On July 07, 2026 at 10:00 AM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda N°1449, Torre II, Piso 5° (Metro La Moneda, salida Amunategui). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Proceso de revisión de plan grupal médico.
+
+**Participants:**
+The meeting included:
+Rosa Rojas Cabello (Gestor de intereses, working for nan, representing ISAPRE NUEVA MASVIDA)
+Marcelo Castro (Gestor de intereses, working for nan, representing Nueva Masvida)
+Daniela Verdugo (Gestor de intereses, working for nan, representing Nueva Masvida)
+Aldo Andrés Corradossi Balboni (Gestor de intereses, working for Optima S.A., representing Nueva Masvida)
+Fuad Chahin (Gestor de intereses, working for nan, representing Nueva Masvida)
+
+**Key Details:**
+Meeting Identifier: AO006AW2237513
+Platform: Alameda N°1449, Torre II, Piso 5° (Metro La Moneda, salida Amunategui)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/932433
+
+
+---
+
+On July 22, 2026 at 09:30 AM, Fernando Riveros, the Superintendente de Salud, attended a presencial meeting via Alameda 1449, Torre 2, piso 5. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Hacer seguimiento a los temas tratados en última reunión, proyección de resultados y presentación de estimaciones asociadas a escenarios de coberturas adicionales..
+
+**Participants:**
+The meeting included:
+Ana María Vergara (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Javier Schulz (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2241014
+Platform: Alameda 1449, Torre 2, piso 5
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/902474/936651
+
+
+---
+
+On July 23, 2026 at 10:00 AM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda 1449, Torre II, Piso 5° (Metro La Moneda - Salida Amunategui). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Isapre Nueva Masvida.
+
+**Participants:**
+The meeting included:
+Adelio Emilio Misseroni Raddatz (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Ana María Arriagada (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Mauricio Osorio Ulloa (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+BARBARA PALMA GARAY (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Marcos Santis (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+
+**Key Details:**
+Meeting Identifier: AO006AW2252645
+Platform: Alameda 1449, Torre II, Piso 5° (Metro La Moneda - Salida Amunategui)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/938938
+
+
+---
+
+On July 20, 2026 at 11:00 AM, Fernando Riveros, the Superintendente de Salud, attended a presencial meeting via Alameda 1449, torre 2 piso 5. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Esencial la transformación necesaria para su siguiente etapa..
+
+**Participants:**
+The meeting included:
+Andrés Guimpert Guridi (Gestor de intereses, working for nan, representing Esencial S.A.)
+Cristián Piera (Gestor de intereses, working for nan, representing Grupo Alemana SpA)
+Marcela Palma (Gestor de intereses, working for Esencial S.A., representing Esencial S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2254001
+Platform: Alameda 1449, torre 2 piso 5
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/902474/936654
+
+
+---
+
+On July 23, 2026 at 12:00 PM, Ricardo Cuevas, the Encargado Subdepartamento de Tecnologías de la Información, attended a videoconferencia meeting via Enviar link a: rcuevas@superdesalud.gob.cl,  ovaras@superdesalud.gob.cl,  tnunez@superdesalud.gob.cl. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Aclaración de dudas y solicitud de información complementaria respecto del 15971RFI26 publicado por la Superintendencia de Salud, relativo a la modernización del sistema de tramitación de reclamos contra Isapres y Fonasa. Se busca precisar alcances técnicos, funcionales y de proceso para elaborar una respuesta adecuada al requerimiento..
+
+**Participants:**
+The meeting included:
+Genesis Aponte (Gestor de intereses, working for nan, representing APIUX TECNOLOGIA SPA)
+Julian Sandoval (Gestor de intereses, working for nan, representing APIUX TECNOLOGIA SPA)
+
+**Key Details:**
+Meeting Identifier: AO006AW2256684
+Platform: Enviar link a: rcuevas@superdesalud.gob.cl,  ovaras@superdesalud.gob.cl,  tnunez@superdesalud.gob.cl
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/325594/939011
+
+
+---
+
+On July 27, 2026 at 10:00 AM, Fernando Riveros, the Superintendente de Salud, attended a presencial meeting via Alameda 1449, torre 2, piso 5. The meeting lasted 1 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+mejoras al sistema.
+
+**Participants:**
+The meeting included:
+Gabriela Sandoval (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+Matías Avendaño (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+Melissa Hohmann (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2261975
+Platform: Alameda 1449, torre 2, piso 5
+Duration: 1 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/902474/936653
+
+
+---
+
+On August 05, 2026 at 10:30 AM, Ricardo Cuevas, the Encargado Subdepartamento de Tecnologías de la Información, attended a videoconferencia meeting via enviar link a: rcuevas@superdesalud.gob.cl,  tsalgado@superdesalud.gob.cl. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Estimado Ricardo junto con saludar, me pareció interesante solicitar esta audiencia de lobby para poder presentarles nuestro software de Gestión de Personas, ya que actualmente trabajamos con distintas Corporaciones e instituciones públicas, y me encantaría que ustedes como institución tuvieran la oportunidad de revisar nuestra plataforma, y ver si se alinea con sus necesidades o quizás alguno de los módulos contratados por las distintas Municipalidades, Corporaciones e Instituciones que son clientes hoy les hace sentido. Si les interesa conocer nuestra plataforma, podríamos coordinar una reunión online.  Quedo muy pendiente de su respuesta..
+
+**Participants:**
+The meeting included:
+Jacinta Lorenzini (Lobista, working for nan, representing Buk Spa)
+
+**Key Details:**
+Meeting Identifier: AO006AW2265210
+Platform: enviar link a: rcuevas@superdesalud.gob.cl,  tsalgado@superdesalud.gob.cl
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/325594/941315
+
+
+---
+
+On July 21, 2026 at 12:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a presencial meeting via Av. Vitacura 5093, oficina 1202. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Propuestas de mejoras al diseño, proceso y desarrollo del examen de medicina preventiva.
+
+**Participants:**
+The meeting included:
+Claudia Copetta (Gestor de intereses, working for Clínicas de Chile AG, representing Clínicas de Chile A.G)
+Paula Arpon (nan, working for nan, representing nan)
+María Soledad Mena Noriega (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO006AW2269141
+Platform: Av. Vitacura 5093, oficina 1202
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/248901/936649
+
+
+---
+
+On July 28, 2026 at 09:00 AM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a videoconferencia meeting via Reunión de Microsoft Teams
+
+Unirse:
+https://teams.microsoft.com/meet/268388166342340?p=gZHOPJDmNjZJjFpLfr
+
+Id. de reunión:
+268 388 166 342 340
+
+Código de acceso:
+6ti3hB2M. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Estimaciones de costos en el contexto de la aplicación de la circular IFN528 de 26052026.
+
+**Participants:**
+The meeting included:
+Blas Duarte (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Sebastián Navarrete (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+Rodrigo Andrés Pereira Jofré (Gestor de intereses, working for nan, representing Isapre Cruz Blanca S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2270067
+Platform: Reunión de Microsoft Teams
+
+Unirse:
+https://teams.microsoft.com/meet/268388166342340?p=gZHOPJDmNjZJjFpLfr
+
+Id. de reunión:
+268 388 166 342 340
+
+Código de acceso:
+6ti3hB2M
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/248901/953035
+
+
+---
+
+On August 06, 2026 at 09:30 AM, Fernando Riveros, the Superintendente de Salud, attended a presencial meeting via Alameda 1449, torre 2 piso 5. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Solicitud de reunión con nuevas autoridades para plantear temas de interés general del sistema Isapre.
+
+**Participants:**
+The meeting included:
+Francisco González (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD)
+Rodrigo Medel (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2271227
+Platform: Alameda 1449, torre 2 piso 5
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/902474/953042
+
+
+---
+
+On August 13, 2026 at 10:30 AM, Ricardo Cuevas, the Encargado Subdepartamento de Tecnologías de la Información, attended a videoconferencia meeting via enviar link a : rcuevas@superdesalud.gob.cl , ovaras@superdesalud.gob.cl , tnunez@superdesalud.gob.cl tsalgado@superdesalud.gob.cl. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Solicitud de audiencia en el marco de la Ley N20.730, sobre lobby y gestiones que representen intereses particulares ante autoridades y funcionarios, en relación con la Consulta al Mercado RFI N15971RFI26  Nuevo sistema de reclamos que incorpore inteligencia artificial.<br />
+<br />
+De nuestra consideración<br />
+En nombre de Apiux Tecnología, y en conformidad con lo dispuesto en la Ley N20.730 y su reglamento, solicitamos a ustedes una audiencia con el objeto de exponer y ampliar los contenidos técnicos de nuestra respuesta a la Consulta al Mercado 15971RFI26, presentada con fecha 24 de julio de 2026, referida al nuevo sistema nacional de tramitación de reclamos..
+
+**Participants:**
+The meeting included:
+Genesis Aponte (Gestor de intereses, working for nan, representing APIUX TECNOLOGIA SPA)
+Julian Sandoval (Gestor de intereses, working for nan, representing APIUX TECNOLOGIA SPA)
+
+**Key Details:**
+Meeting Identifier: AO006AW2271741
+Platform: enviar link a : rcuevas@superdesalud.gob.cl , ovaras@superdesalud.gob.cl , tnunez@superdesalud.gob.cl tsalgado@superdesalud.gob.cl
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/325594/951477
+
+
+---
+
+On August 03, 2026 at 09:30 AM, Ricardo Cuevas, the Encargado Subdepartamento de Tecnologías de la Información, attended a videoconferencia meeting via Enviar link a: rcuevas@superdesalud.gob.cl , pcatalan@superdesalud.gob.cl ,tsalgado@superdesalud.gob.cl. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Ricardo buenas tardes,  a traves de este documento  solicitamos realizar reunion referente al mejoramiento del sistema de video y audio conferencia , incluyendo ademas las plataformas Zoom y teams para el auditorio para la superintendencia de Salud, quedamos a la espera de su respuesta.<br />
+Lorenna Prelle C.
+
+**Participants:**
+The meeting included:
+Jorge Aubel Chandia (Gestor de intereses, working for nan, representing Jorge Aubel Chandia)
+Lorenna Prelle Cespedes (nan, working for nan, representing nan)
+Doris Aracena Astudillo (nan, working for nan, representing nan)
+
+**Key Details:**
+Meeting Identifier: AO006AW2272569
+Platform: Enviar link a: rcuevas@superdesalud.gob.cl , pcatalan@superdesalud.gob.cl ,tsalgado@superdesalud.gob.cl
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/325594/940607
+
+
+---
+
+On August 04, 2026 at 03:00 PM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda N° 1449, Torre II, Piso 5 (Metro La Moneda, salida Amunategui). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Implementación Full IFRS.
+
+**Participants:**
+The meeting included:
+Matías Avendaño (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+Patricio Valdivia (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+Melissa Hohmann (Gestor de intereses, working for nan, representing Asociación de Isapres de Chile A.G.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2277595
+Platform: Alameda N° 1449, Torre II, Piso 5 (Metro La Moneda, salida Amunategui)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/942698
+
+
+---
+
+On August 13, 2026 at 03:30 PM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda 1449, Torre II, Piso 5 (metro La Moneda - Salida Amunategui). The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Contenido del Ord. 27.377 de 7 agosto de 2026 en que se solicita información sobre proceso de revisión de los planes grupales, denominados Planes<br />
+Médico Socio y se formulan observaciones..
+
+**Participants:**
+The meeting included:
+Gonzalo Claudio Arriagada Lillo (Gestor de intereses, working for nan, representing Nueva Masvida)
+Rosa Rojas Cabello (Gestor de intereses, working for nan, representing Empresas Masvida S.A.)
+Fuad Chahin (Gestor de intereses, working for nan, representing Nueva Masvida)
+Mario Rojas (Gestor de intereses, working for nan, representing Empresas Masvida S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2284619
+Platform: Alameda 1449, Torre II, Piso 5 (metro La Moneda - Salida Amunategui)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/944976
+
+
+---
+
+On August 17, 2026 at 12:00 PM, Fernando Riveros, the Superintendente de Salud, attended a presencial meeting via Alameda 1449, torre 2, piso 5. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Simplificación en el proceso comercial..
+
+**Participants:**
+The meeting included:
+Andrés Guimpert Guridi (Gestor de intereses, working for nan, representing Esencial S,A)
+Gianfranco Scarabelli Salazar (Gestor de intereses, working for nan, representing Esencial S.A.)
+Marcela Palma (Gestor de intereses, working for Esencial S.A., representing Esencial S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2284833
+Platform: Alameda 1449, torre 2, piso 5
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/902474/953033
+
+
+---
+
+On August 19, 2026 at 09:30 AM, Fernando Riveros, the Superintendente de Salud, attended a presencial meeting via Alameda 1149, torre 2, piso 5. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Aplicación práctica de Circular IF N 518 sobre PAD de el sistema Isapre y otros temas regulatorios de interés de Nueva Masvida..
+
+**Participants:**
+The meeting included:
+Gonzalo Claudio Arriagada Lillo (Gestor de intereses, working for nan, representing Nueva Masvida)
+
+**Key Details:**
+Meeting Identifier: AO006AW2286433
+Platform: Alameda 1149, torre 2, piso 5
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/902474/953027
+
+
+---
+
+On August 17, 2026 at 03:30 PM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda N° 1449, Torre II, Piso 5, (Metro La Moneda). The meeting lasted 0 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Mandato contemplado en Plan Grupal Mas2026 que reemplaza a los Planes Médico Socio y sugerencia que mandatario pueda ser COLMED referidos en Oficio Ordinario IF 27377 de 7 de agosto de 2026.
+
+**Participants:**
+The meeting included:
+Sergio Alejandro Yañez Vent (Gestor de intereses, working for nan, representing Empresas Masvida S.A.)
+Rosa Rojas Cabello (Gestor de intereses, working for nan, representing Empresas Masvida S.A.)
+Mario Rojas (Gestor de intereses, working for nan, representing Empresas Masvida S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2288078
+Platform: Alameda N° 1449, Torre II, Piso 5, (Metro La Moneda)
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/945409
+
+
+---
+
+On August 24, 2026 at 10:00 AM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda N°1449, Torre II, Piso 5 (Metro La Moneda, salida Amunategui). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Presentar la necesidad técnica de establecer mecanismos de sincronización e interoperabilidad informática automatizada entre la base de datos del Servicio de Registro Civil e Identificación y los sistemas de información supervisados o administrados por la Superintendencia de Salud, en el marco del cumplimiento de la Ley 21.120 de Identidad de Género.<br />
+<br />
+Tras la rectificación de nombre y sexo registral, la falta de actualización automática en las plataformas informáticas de fiscalización, registros de prestadores e instituciones del sistema de salud Fonasa e Isapres genera inconsistencias graves. El mantener el nombre anterior vinculado al RUN único de la usuaria causa bloqueos en la validación de licencias médicas, problemas de cobertura y la exposición de la identidad anterior ante el personal administrativo y médico.<br />
+<br />
+El objetivo de la audiencia con la jefatura de Tecnologías de la Información es abordar los requerimientos técnicos y de arquitectura de datos para que la actualización del nombre registral se refleje de forma automatizada, garantizando la continuidad de las prestaciones de salud y resguardando la confidencialidad de los datos personales..
+
+**Participants:**
+The meeting included:
+Patricia Riquelme (Gestor de intereses, working for nan, representing Sindicato Independiente de Trabajadoras Sexuales Transgenera Amanda Jofre)
+Dennise Consuelo Gálvez Cofré (Gestor de intereses, working for nan, representing Sindicato Independiente de Trabajadoras Sexuales Transgenera Amanda Jofre)
+
+**Key Details:**
+Meeting Identifier: AO006AW2289326
+Platform: Alameda N°1449, Torre II, Piso 5 (Metro La Moneda, salida Amunategui)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/949700
+
+
+---
+
+On September 02, 2026 at 03:30 PM, Ricardo Cuevas, the Encargado Subdepartamento de Tecnologías de la Información, attended a videoconferencia meeting via Enviar link a: rcuevas@superdesalud.gob.cl , ovaras@superdesalud.gob.cl , tnunez@superdesalud.gob.cl , tsalgado@superdesalud.gob.cl. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Solicitud para presentar producto Apia asociado a RFI de gestor documental de la superintendencia.
+
+**Participants:**
+The meeting included:
+Jorge Ramírez (Gestor de intereses, working for nan, representing NTT DATA Chile S.A.)
+Paula Parraguez (Gestor de intereses, working for nan, representing NTT DATA Chile S.A.)
+Carlos Enrique Schickendantz Goertz (Gestor de intereses, working for nan, representing NTT DATA Chile S.A)
+
+**Key Details:**
+Meeting Identifier: AO006AW2293696
+Platform: Enviar link a: rcuevas@superdesalud.gob.cl , ovaras@superdesalud.gob.cl , tnunez@superdesalud.gob.cl , tsalgado@superdesalud.gob.cl
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/325594/952709
+
+
+---
+
+On September 09, 2026 at 03:30 PM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda 1449, Torre II, Piso 5 (Metro La Moneda, Salida Amunategui). The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Revisión de planes grupales de salud nueva másvida.
+
+**Participants:**
+The meeting included:
+Adelio Emilio Misseroni Raddatz (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Ana María Arriagada (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+Mauricio Osorio Ulloa (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+BARBARA PALMA GARAY (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+DANIELA ZUÑIGA (Lobista, working for COLEGIO MEDICO DE CHILE, representing COLEGIO MÉDICO DE CHILE)
+
+**Key Details:**
+Meeting Identifier: AO006AW2300174
+Platform: Alameda 1449, Torre II, Piso 5 (Metro La Moneda, Salida Amunategui)
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, tramitación, aprobación, modificación, derogación o rechazo de acuerdo, declaraciones o decisiones del Congreso Nacional o sus miembros incluídas comisiones., 
+Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos., 
+Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/955185
+
+
+---
+
+On September 10, 2026 at 10:30 AM, Ricardo Cuevas, the Encargado Subdepartamento de Tecnologías de la Información, attended a videoconferencia meeting via Enviar link: rcuevas@superdesalud.gob.cl , pcatalan@superdesalud.gob.cl , mcarrasco@superdesalud.gob.cl , vlopez@superdesalud.gob.cl , tsalgado@superdesalud.gob.cl. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Presentación de capacidades y servicios tecnológicos de Tuxpan en materia de desarrollo de software, integración de sistemas, automatización de procesos y modernización tecnológica, con foco en apoyar iniciativas digitales de la institución..
+
+**Participants:**
+The meeting included:
+Francisco Coca (Lobista, working for TUXPAN INGENIERIA SPA, representing Francisco Javier Coca Herrera)
+Oscar Herrera (Lobista, working for TUXPAN INGENIERIA SPA, representing Oscar Fernando Herrera Robertson)
+
+**Key Details:**
+Meeting Identifier: AO006AW2301253
+Platform: Enviar link: rcuevas@superdesalud.gob.cl , pcatalan@superdesalud.gob.cl , mcarrasco@superdesalud.gob.cl , vlopez@superdesalud.gob.cl , tsalgado@superdesalud.gob.cl
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/325594/959459
+
+
+---
+
+On September 08, 2026 at 11:00 AM, Ricardo Cuevas, the Encargado Subdepartamento de Tecnologías de la Información, attended a videoconferencia meeting via Enviar link a: rcuevas@superdesalud.gob.cl ,ovaras@superdesalud.gob.cl , tnunez@superdesalud.gob.cl , tsalgado@superdesalud.gob.cl. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Revisión conjunta del documento de respuesta al RFI presentado por Fuubo, para clarificar dudas técnicas y alcances de la propuesta..
+
+**Participants:**
+The meeting included:
+María Miranda (Gestor de intereses, working for nan, representing Fuubo SpA)
+Diego Cabai (Gestor de intereses, working for nan, representing Fuubo SpA)
+
+**Key Details:**
+Meeting Identifier: AO006AW2302940
+Platform: Enviar link a: rcuevas@superdesalud.gob.cl ,ovaras@superdesalud.gob.cl , tnunez@superdesalud.gob.cl , tsalgado@superdesalud.gob.cl
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/325594/959458
+
+
+---
+
+On September 30, 2026 at 10:30 AM, Rodrigo Sierra, the Jefe de Departamento de Administración y Finanzas, attended a videoconferencia meeting via Enviar link a : rsierra@superdesalud.gob.cl , rcuevas@superdesalud.gob.cl , tsalgado@superdesalud.gob.cl. The meeting lasted 1 horas, 0 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Presentación de soluciones tecnológicas de ARKHO en el Área de la Salud<br />
+Revisar y analizar problemáticas existentes y buscar soluciones en conjunto..
+
+**Participants:**
+The meeting included:
+Romina Mena (Gestor de intereses, working for ARKHOTECH SpA, representing CONSULTORÍA Y DESARROLLO DE SOFTWARE ARKHOTECH SPA)
+Sandra Elisa Berríos Cortés (Gestor de intereses, working for nan, representing CONSULTORÍA Y DESARROLLO DE SOFTWARE ARKHOTECH SPA)
+Patrichs Rosales (Gestor de intereses, working for nan, representing CONSULTORÍA Y DESARROLLO DE SOFTWARE ARKHOTECH SPA)
+
+**Key Details:**
+Meeting Identifier: AO006AW2304023
+Platform: Enviar link a : rsierra@superdesalud.gob.cl , rcuevas@superdesalud.gob.cl , tsalgado@superdesalud.gob.cl
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/333622/963759
+
+
+---
+
+On September 22, 2026 at 11:00 AM, Ricardo Cuevas, the Encargado Subdepartamento de Tecnologías de la Información, attended a videoconferencia meeting via Enviar link a: rcuevas@superdesalud.gob.cl , pcatalan@superdesalud.gob.cl , tsalgado@superdesalud.gob.cl. The meeting lasted 1 horas, 0 minutos and focused on the Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento..
+
+**Purpose:**
+Distributive desea presentar sus soluciones de computación distribuida, orientadas a ampliar las capacidades tecnológicas disponibles para organizaciones de salud. Su plataforma permite aprovechar la capacidad de procesamiento existente en computadores y servidores, distribuyendo cargas de trabajo para aplicaciones de inteligencia artificial, aprendizaje automático y procesamiento de datos a gran escala, sin requerir necesariamente nueva infraestructura. La solución puede resultar de interés para iniciativas de transformación y estrategia digital en salud que requieran utilizar de manera más eficiente la infraestructura computacional disponible y desarrollar nuevas capacidades para el procesamiento de datos y aplicaciones de IA..
+
+**Participants:**
+The meeting included:
+BENJAMIN CARRASCO (Gestor de intereses, working for nan, representing Distributive Corp.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2310001
+Platform: Enviar link a: rcuevas@superdesalud.gob.cl , pcatalan@superdesalud.gob.cl , tsalgado@superdesalud.gob.cl
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Celebración, modificación o terminación a cualquier título, de contratos que realicen los sujetos pasivos y que sean necesarios para su funcionamiento.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/325594/959461
+
+
+---
+
+On September 11, 2026 at 12:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a videoconferencia meeting via https://teams.microsoft.com/meet/215303176985385?p=tFbgdIpLMr9flG5zWK
+Id. de reunión: 215 303 176 985 385
+Código de acceso: 5bv2EL2H. The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Prestaciones Ley Ricarte Soto y Archivo Maestro Prestaciones Bonificadas..
+
+**Participants:**
+The meeting included:
+Hans Möller (Gestor de intereses, working for COLMENA GOLDEN CROSS S.A., representing Isapre Colmena)
+
+**Key Details:**
+Meeting Identifier: AO006AW2310882
+Platform: https://teams.microsoft.com/meet/215303176985385?p=tFbgdIpLMr9flG5zWK
+Id. de reunión: 215 303 176 985 385
+Código de acceso: 5bv2EL2H
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/248901/955725
+
+
+---
+
+On September 09, 2026 at 11:00 AM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda 1449, Torre II, Piso 5 (Metro La Moneda, Salida Amunategui). The meeting lasted 0 horas, 30 minutos and focused on the Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos..
+
+**Purpose:**
+Modificación Plan de Pago y Ajuste.
+
+**Participants:**
+The meeting included:
+Francisco González (Lobista, working for Isapre Consalud S.A., representing ISAPRE CONSALUD S.A.)
+Rodrigo Medel (Gestor de intereses, working for nan, representing ISAPRE CONSALUD S.A.)
+FELIPE IGNACIO VARGAS ZUNIGA (Lobista, working for nan, representing ISAPRE CONSALUD S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2312124
+Platform: Alameda 1449, Torre II, Piso 5 (Metro La Moneda, Salida Amunategui)
+Duration: 0 horas, 30 minutos
+Subjects Discussed: Diseño, implementación y evaluación de políticas, planes y programas efectuados por los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/954722
+
+
+---
+
+On September 09, 2026 at 12:00 PM, María Jeria, the Jefa del Departamento de Estudios y Desarrollo, attended a videoconferencia meeting via Reunión de Microsoft Teams
+
+Unirse:
+https://teams.microsoft.com/meet/249273093072249?p=bWn8KaGLAtqvUGnZyf
+
+Id. de reunión:
+249 273 093 072 249
+
+Código de acceso:
+dq7hy3cu. The meeting lasted 1 horas, 0 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Información referente a los datos utilizados para el cálculo de la Verificación del ICSA 2025, con el objeto de poder efectuar un adecuado análisis de las diferencias que se generaron, ya que nuestro cálculo arrojó un resultado de 3,1, y el cálculo realizado por el regulador fue de 2,7..
+
+**Participants:**
+The meeting included:
+Juan Grasset (Gestor de intereses, working for Optima S.A., representing Nueva Masvida)
+Marcelo Vargas (Gestor de intereses, working for nan, representing Nueva Masvida)
+MARCELA CORRALES (Gestor de intereses, working for nan, representing Nueva Masvida)
+
+**Key Details:**
+Meeting Identifier: AO006AW2313778
+Platform: Reunión de Microsoft Teams
+
+Unirse:
+https://teams.microsoft.com/meet/249273093072249?p=bWn8KaGLAtqvUGnZyf
+
+Id. de reunión:
+249 273 093 072 249
+
+Código de acceso:
+dq7hy3cu
+Duration: 1 horas, 0 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/248901/955727
+
+
+---
+
+On September 15, 2026 at 10:00 AM, Osvaldo Varas, the Intendente de Fondos y Seguros Previsionales de Salud, attended a presencial meeting via Alameda 1449, Torre II, Piso 5 (Metro La Moneda, salida Amunagui). The meeting lasted 1 horas, 30 minutos and focused on the Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos..
+
+**Purpose:**
+Iniciativas financieras presentadas por la Isapre en la Superintendencia..
+
+**Participants:**
+The meeting included:
+Carlos Fabres Osses (Gestor de intereses, working for Colmena Golden Cross S. A., representing COLMENA GOLDEN CROSS S.A.)
+Ramiro Sánchez Tuculet (Gestor de intereses, working for nan, representing COLMENA GOLDEN CROSS S.A.)
+Carola Schwencke Reyes (Gestor de intereses, working for nan, representing COLMENA GOLDEN CROSS S.A.)
+
+**Key Details:**
+Meeting Identifier: AO006AW2314309
+Platform: Alameda 1449, Torre II, Piso 5 (Metro La Moneda, salida Amunagui)
+Duration: 1 horas, 30 minutos
+Subjects Discussed: Elaboración, dictación, modificación, denegación o rechazo de actos administrativos, proyectos de ley y leyes y también de las decisiones que tomen los sujetos pasivos.
+
+Source Link: https://www.leylobby.gob.cl/instituciones/AO006/audiencias/2026/11141/956644
 
 
 ---
